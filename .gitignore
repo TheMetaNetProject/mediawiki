@@ -1,3 +1,5 @@
 git/
 logs/
 dev2/
+*.lock
+*.tar.gz
