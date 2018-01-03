@@ -1,0 +1,1238 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Another renamed test page</title>
+    <ns>0</ns>
+    <id>2093</id>
+    <revision>
+      <id>11885</id>
+      <parentid>11884</parentid>
+      <timestamp>2015-06-01T17:51:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Another test page]] to [[Another renamed test page]] without leaving a redirect: renaming for testing again</comment>
+      <text xml:space="preserve" bytes="53">This is another test page
+Adding content to this page</text>
+      <sha1>1xqhvxyalg3df1o1j5qcbb28t7oyvzz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cogs and Frames</title>
+    <ns>0</ns>
+    <id>2066</id>
+    <revision>
+      <id>11507</id>
+      <parentid>11506</parentid>
+      <timestamp>2012-11-28T19:52:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="231">{{TOC
+|limit=2
+}}
+
+= Cogs =
+
+{{#ask:[[Category:Frame]] [[:Frame:+]] [[ Frame.Type::Cog]]
+| format=category
+| limit=1000
+}}
+
+= Frames =
+
+{{#ask:[[Category:Frame]] [[:Frame:+]] [[ Frame.Type::Frame]]
+| format=category
+| limit=1000
+}}</text>
+      <sha1>oc565b5ouupgn16prklchokvau4k2g0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Export Metaphors and Frames</title>
+    <ns>0</ns>
+    <id>2067</id>
+    <revision>
+      <id>11515</id>
+      <parentid>11514</parentid>
+      <timestamp>2014-02-23T08:57:20Z</timestamp>
+      <contributor>
+        <username>Snarayan</username>
+        <id>17</id>
+      </contributor>
+      <text xml:space="preserve" bytes="262">{{#arraydefine: exportlist|{{#ask: [[Category:Metaphor||Frame]]
+| format=list
+| link=none
+| limit=10000
+|}}}}
+&lt;div id=&quot;metanetexportowl&quot;&gt;
+[[Special:ExportRDF|Click to export]]
+&lt;p class=&quot;exportlist&quot; style=&quot;display:none&quot;&gt;
+{{#arrayprint: exportlist|,|}}
+&lt;/p&gt;
+&lt;/div&gt;</text>
+      <sha1>ndnjofdiw2t0l6esuyjlpcu2vmahklv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame Families</title>
+    <ns>0</ns>
+    <id>2082</id>
+    <revision>
+      <id>11782</id>
+      <parentid>11781</parentid>
+      <timestamp>2012-12-12T09:46:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="209">{{Unsetprop|topfams|Frame family|Frame subfamily of}}
+{{#loop: i
+| 0
+| {{#arraysize:topfams}}
+| &lt;nowiki/&gt;
+{{#vardefine:fam|{{#arrayindex:topfams|{{#var:i}}}}}}
+{{Frame family tree|{{#var:fam}}|userparam=1}}
+}}</text>
+      <sha1>qkw458rlvizpasyt5ulklnjqtde0v1u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frames listed by status</title>
+    <ns>0</ns>
+    <id>2083</id>
+    <revision>
+      <id>12674</id>
+      <parentid>12586</parentid>
+      <timestamp>2016-08-01T22:56:58Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>add 'auto imported'</comment>
+      <text xml:space="preserve" bytes="985">= approved for release =
+{{#ask: [[Category:Frame]] [[Status::approved for release]]
+| format=ul
+}}
+
+
+= release candidate =
+{{#ask: [[Category:Frame]] [[Status::release candidate]]
+| format=ul
+}}
+
+= in development =
+{{#ask: [[Category:Frame]] [[Status::in development]]
+| format=ul
+}}
+
+= problematic =
+{{#ask: [[Category:Frame]] [[Status::problematic]]
+| format=ul
+}}
+
+
+= proposed =
+{{#ask: [[Category:Frame]] [[Status::proposed]]
+| format=ul
+}}
+
+= reviewed =
+{{#ask: [[Category:Frame]] [[Status::reviewed]]
+| format=ul
+}}
+
+= experimentally validated  =
+{{#ask: [[Category:Frame]] [[Status::experimentally validated ]]
+| format=ul
+}}
+
+= contested =
+{{#ask: [[Category:Frame]] [[Status::contested analysis]]
+| format=ul
+}}
+
+= auto imported =
+{{#ask: [[Category:Frame]] [[Status::auto imported]]
+| format=ul
+}}
+
+= Definitely reviewed for public release (i.e., EITHER problematic OR release candidate) =
+{{#ask: [[Category:Frame]] [[Status::problematic||release candidate]]
+| format=ul
+}}</text>
+      <sha1>kmiox4tu05mteer0wihdpg7ftgoy04j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frames that need fixing</title>
+    <ns>0</ns>
+    <id>2084</id>
+    <revision>
+      <id>11787</id>
+      <parentid>11786</parentid>
+      <timestamp>2012-08-02T21:00:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="542">{{TOC
+|limit=2
+}}
+= Related metaphors with no relation type specified =
+{{#ask:[[Category:Frame]] [[Related frame::+]]
+| ?Related frame | +index=1
+| format=template
+| template=Missing relation type
+| limit=5000
+}}
+
+= Frames marked as frames but with no cultural information =
+{{Unsetprop|badfr|Frame| Frame.Cultural information|[[ Frame.Type::Frame]]}}
+&lt;ul&gt;{{#arrayprint:badfr|&lt;br/&gt;|@|&lt;li&gt; [[@]]}}&lt;/ul&gt;
+
+= Frames marked as both Cog and Frame =
+{{#ask: [[Category:Frame]] [[ Frame.Type::Cog]] [[ Frame.Type::Frame]]
+| format=ul
+| limit=2000
+}}</text>
+      <sha1>99ey86z8kz3iz3yz1ka7z06trvjjxeo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frames with LUs</title>
+    <ns>0</ns>
+    <id>2085</id>
+    <revision>
+      <id>11788</id>
+      <timestamp>2013-11-17T20:14:14Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{#ask: [[Category:Frame]] | ?=Frame | ?Has description=Description | ?Frame.FrameNet frame=FN Frame | ?LUs#Lemmas=LUs | +index=2 | format=table | mainlabel=- }}&quot;</comment>
+      <text xml:space="preserve" bytes="161">{{#ask: [[Category:Frame]]
+| ?=Frame
+| ?Has description=Description
+| ?Frame.FrameNet frame=FN Frame
+| ?LUs#Lemmas=LUs | +index=2
+| format=table
+| mainlabel=-
+}}</text>
+      <sha1>hxurw6fjkzf9g2uj2pkc2zo9ybw2l3x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frames with filled fields</title>
+    <ns>0</ns>
+    <id>2086</id>
+    <revision>
+      <id>11789</id>
+      <timestamp>2013-09-12T18:29:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;= Closest FrameNet Frame = {{#ask: [[Category:Frame]] [[:Frame:+]] [[ Frame.FrameNet frame::+]] |?Frame.FrameNet frame=Closest FN Frame |format=table |limit=1000}}&quot;</comment>
+      <text xml:space="preserve" bytes="163">= Closest FrameNet Frame =
+{{#ask: [[Category:Frame]] [[:Frame:+]] [[ Frame.FrameNet frame::+]]
+|?Frame.FrameNet frame=Closest FN Frame
+|format=table
+|limit=1000}}</text>
+      <sha1>6eok2w3egby9qwggrgzx1fpfd6oqtd9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frames with missing fields</title>
+    <ns>0</ns>
+    <id>2087</id>
+    <revision>
+      <id>11797</id>
+      <parentid>11796</parentid>
+      <timestamp>2014-10-10T20:27:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1876">The purpose of this page is to keep track of Frames that may be missing necessary information
+
+{{#ifeq:{{Lang|}}|en||
+{{#ifeq:{{Lang|}}|es||
+= No transcription specificied =
+{{Unsetprop|missingtran|Frame| Frame.Transcription|}}
+&lt;ul&gt;
+{{#arrayprint: missingtran ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+}}}}
+
+= No frame family specified =
+{{Unsetprop|missingfam|Frame| Frame.Family|}}
+&lt;ul&gt;
+{{#arrayprint: missingfam ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No cultural scope specified =
+{{Unsetprop|missingscope|Frame|Has cultural scope|}}
+&lt;ul&gt;
+{{#arrayprint: missingscope ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No status specified =
+{{Unsetprop|missingstatus|Frame|Status|}}
+&lt;ul&gt;
+{{#arrayprint: missingstatus ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No roles defined =
+{{Unsetprop|missingroles|Frame|Role|}}
+&lt;ul&gt;
+{{#arrayprint: missingroles ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Applicability not specified =
+{{Unsetprop|missingapp|Frame| Frame.Applicability|}}
+&lt;ul&gt;
+{{#arrayprint: missingapp ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Frame type not specified =
+{{Unsetprop|missingtype|Frame| Frame.Type|}}
+&lt;ul&gt;
+{{#arrayprint: missingtype ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No related frames specified =
+{{Unsetprop|missingrels|Frame| Related frame|}}
+&lt;ul&gt;
+{{#arrayprint: missingrels ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No bindings specified =
+{{Unsetprop|missingbind|Frame| Binding|}}
+&lt;ul&gt;
+{{#arrayprint: missingbind ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No inferences specified =
+{{Unsetprop|missinginf|Frame| Inference|}}
+&lt;ul&gt;
+{{#arrayprint: missinginf ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No lexical units specified =
+{{Unsetprop|missinglus|Frame| LUs|}}
+&lt;ul&gt;
+{{#arrayprint: missinglus ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No closest FrameNet frame =
+{{Unsetprop|missingframes|Frame| Frame.FrameNet frame|}}
+&lt;ul&gt;
+{{#arrayprint: missingframes ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Entered by not specified =
+{{Unsetprop|missingeb|Frame|Entered by|}}
+&lt;ul&gt;
+{{#arrayprint: missingeb ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;</text>
+      <sha1>pszrwjxkq5thuwv4ittak2lpmkvmu36</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Introductory Tour</title>
+    <ns>0</ns>
+    <id>2154</id>
+    <revision>
+      <id>12825</id>
+      <parentid>12824</parentid>
+      <timestamp>2016-08-06T13:54:27Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="469">'''NOTE''': This page is still a work in progress
+
+
+The MetaNet wiki contains two main types of pages: Metaphor pages, and Frame pages. 
+
+Each Metaphor and Frame page contains several different fields. 
+
+Individual frames and metaphors also specify various kinds of relations, which together serve to define complex networks of inter-related frames and metaphors.  
+
+The graph at the bottom of each page displays the immediately-related frames or metaphors.
+
+==Frames==</text>
+      <sha1>p9imj6ycotxza0mi6cf0vlbu3cvrh4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Lempos</title>
+    <ns>0</ns>
+    <id>2146</id>
+    <revision>
+      <id>12506</id>
+      <parentid>12505</parentid>
+      <timestamp>2016-07-22T16:10:38Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="348">{{Glossary
+|Other Aliases=Lexical unit, LU
+|Description=This term is used in the 'Relevant Lexical Units' section of each frame, preceding each lexical unit. 
+
+It is an abbreviation for '''''lemma''''' (lem) plus '''''part of speech''''' (pos)
+
+For further description, see: [[Glossary:Lexical Unit|Lexical Unit]]
+|Applies to=Frame
+|Utility=Wiki
+}}</text>
+      <sha1>kx3puztyftj6mz8j2w192jac0xiuli5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>List of all Frames</title>
+    <ns>0</ns>
+    <id>2069</id>
+    <revision>
+      <id>11532</id>
+      <parentid>11531</parentid>
+      <timestamp>2012-12-06T11:24:51Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="762">{{TOC
+| limit=2
+}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] | format=count}}
+
+= Manually Analyzed Frames =
+Create or edit a Frame: {{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:Frame:+]] | format=count}}
+{{#ask: [[Category:Frame]] [[:Frame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+= Automatically Extracted Frames =
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:AutoFrame:+]] | format=count}}
+
+{{#ask: [[Category:Frame]] [[:AutoFrame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+[[es:List of all Frames]]
+[[fa:List of all Frames]]
+[[ru:List of all Frames]]</text>
+      <sha1>1ag3nhxmxvbxff402drzi2oo1aa92u4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>List of all Metaphors</title>
+    <ns>0</ns>
+    <id>2068</id>
+    <revision>
+      <id>11526</id>
+      <parentid>11525</parentid>
+      <timestamp>2012-12-06T11:21:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="830">{{TOC
+| limit=2
+}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] | format=count}}
+
+= Manually Analyzed Metaphors =
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+= Automatically Extracted Metaphors =
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:AutoMetaphor:+]] | format=count}}
+
+{{#ask: [[Category:Metaphor]] [[:AutoMetaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+[[es:List of all Metaphors]]
+[[fa:List of all Metaphors]]
+[[ru:List of all Metaphors]]</text>
+      <sha1>mxopjd192y78kk1bc112a0idtde84b6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>List of primary frames</title>
+    <ns>0</ns>
+    <id>2156</id>
+    <revision>
+      <id>12836</id>
+      <parentid>12835</parentid>
+      <timestamp>2016-08-16T17:02:31Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="59">{{#ask: [[Category:Frame]] [[Type::Primary]]
+| format=ul
+}}</text>
+      <sha1>2z3iq7j0kzdc43lz1y89mj9spf9c67h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>List of primary metaphors</title>
+    <ns>0</ns>
+    <id>2070</id>
+    <revision>
+      <id>11534</id>
+      <parentid>11533</parentid>
+      <timestamp>2014-09-26T18:50:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="177">{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]]
+| ?Metaphor.Target frame = Target frame
+| ?Metaphor.Source frame = Source frame
+| ?Metaphor.Family = Metaphor family
+}}</text>
+      <sha1>llij4ajvo28wg7ii946hgr116s7c3ll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>MetaNet Metaphor Wiki</title>
+    <ns>0</ns>
+    <id>2072</id>
+    <revision>
+      <id>12832</id>
+      <parentid>12828</parentid>
+      <timestamp>2016-08-16T16:50:03Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2123">==Overview==
+The ongoing objective of the MetaNet Project is to systematize metaphor analysis in a computational way. As part of this work, MetaNet has developed formal representations of '''metaphors''' as mappings from one domain (the Source domain) to another (the Target domain). Both Source and Target domains are represented as '''frames''', which are schematic representations of different kinds of experiences, objects, and events. Using this formalization, MetaNet has built a large repository of networks of interrelated metaphors, as well as networks of semantic frames that act as source and target domains of metaphors.
+
+==Contents==
+This MetaNet wiki contains a searchable, publicly-accessible subset of the full MetaNet metaphor and frame repository; this beta-version will be revised and expanded on an ongoing basis.  
+ 
+* The list of currently  available metaphors can be found here: [[:Category:Metaphor|Metaphors]]
+
+* The list of currently available frames can be found here: [[:Category:Frame|Frames]]
+
+* Definitions of commonly used terms, and descriptions of the different fields found on the metaphor and frame pages can be found here: [[:Category:Glossary|Glossary]]
+
+By selecting an individual frame or metaphor from this list, you can view its internal structure, along with its specified relations to other frames and metaphors within the network.  Because this is only a subset of the full repository, some of the links on these pages (links in red) are not live links. 
+
+While none of the pages are editable, viewers are invited to leave comments using the 'Discussion' tab for a given page.
+
+There are also some pages that show selected portions of the full frame and metaphor lists:
+
+* a list of primary metaphors can be found here: [[Primary Metaphors|Primary Metaphors]]
+
+==Further information==
+The MetaNet Metaphor Wiki is  currently housed at the International Computer Science Institute in Berkeley, California.
+
+Further information about the MetaNet project, as well as links to selected publications can be accessed
+via the MetaNet webpage:
+https://metanet.icsi.berkeley.edu/metanet/</text>
+      <sha1>8ulpcexrswjq8rn4wbtpymwvv4c3v9x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor Families</title>
+    <ns>0</ns>
+    <id>2073</id>
+    <revision>
+      <id>11561</id>
+      <parentid>11560</parentid>
+      <timestamp>2012-12-12T09:45:23Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="218">{{Unsetprop|topfams|Metaphor family|Metaphor subfamily of}}
+{{#loop: i
+| 0
+| {{#arraysize:topfams}}
+| &lt;nowiki/&gt;
+{{#vardefine:fam|{{#arrayindex:topfams|{{#var:i}}}}}}
+{{Metaphor family tree|{{#var:fam}}|userparam=1}}
+}}</text>
+      <sha1>f4preox86myma5l1bvz7mzo7zbrvsq0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor Type</title>
+    <ns>0</ns>
+    <id>2151</id>
+    <revision>
+      <id>12817</id>
+      <parentid>12816</parentid>
+      <timestamp>2016-08-06T10:25:09Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="585">{{Glossary
+|Entry=Metaphor Type
+|Description=Metaphors are categorized on the basis of their position in the metaphor network and their relation to other metaphors: 
+* '''Primary''': basic, experientially-based metaphor, such as [[Metaphor: KNOWING IS SEEING|KNOWING IS SEEING]]
+* '''Composed/complex''': metaphor which composes the structure of two or more other metaphors
+* '''Entailed''': an entailment of another metaphor. E.g. [[Metaphor:ABILITY TO KNOW IS ABILITY TO SEE|ABILITY TO KNOW IS ABILITY TO SEE]] is an entailment of [[Metaphor: KNOWING IS SEEING|KNOWING IS SEEING]]
+}}</text>
+      <sha1>mogyhyfpk6lbdze9ikzcbd2gikxxtyt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors by Type</title>
+    <ns>0</ns>
+    <id>2075</id>
+    <revision>
+      <id>11590</id>
+      <parentid>11589</parentid>
+      <timestamp>2012-08-02T04:12:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="344">{{TOC
+| limit=2
+}}
+
+= Primary Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]]
+| format=category
+}}
+
+= Composed/complex Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Composed/complex]]
+| format=category
+}}
+
+= Entailed Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Entailed]]
+| format=category
+}}</text>
+      <sha1>6q0wy4nboya6htp488a8dky7zan6w5n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors indexed by aliases</title>
+    <ns>0</ns>
+    <id>2076</id>
+    <revision>
+      <id>11612</id>
+      <parentid>11611</parentid>
+      <timestamp>2012-08-30T21:56:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="627">{{#arraydefine: aliases|{{#ask: [[Category:Metaphor]] [[ Metaphor.Alias::+]]
+| ?Metaphor.Alias | +index=1
+| link=none
+| format=list
+| headers=hide
+| mainlabel=-
+| limit=100000
+}}|,|}}{{#arraysort: aliases|asc}}
+{{#loop: i
+| 0
+| {{#arraysize: aliases}}
+| &lt;nowiki/&gt;
+{{#vardefine: alias|{{#arrayindex:aliases|{{#var:i}}}}}}{{#arraydefine: mmets|{{#ask: [[Category:Metaphor]] [[ Metaphor.Alias::{{#var:alias}};?;?]]
+| headers=hide
+| format=list
+| link=none
+| limit=100000
+}}|,|}}{{#ifexpr: {{#arraysize: mmets}} = 1|
+* [[{{#arrayindex: mmets|0}}|{{#var:alias}}]]|
+* {{#var:alias}}: {{#arrayprint: mmets|,&amp;nbsp;|@@@@|[[@@@@]]}}
+}}}}</text>
+      <sha1>py3uubqwjh55baqd8hwt6mc9ddvy3k6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors listed by Source frames</title>
+    <ns>0</ns>
+    <id>2157</id>
+    <revision>
+      <id>12849</id>
+      <parentid>12848</parentid>
+      <timestamp>2016-08-22T22:33:30Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>/* Metaphors with Physical Affliction source frames */</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors listed by status</title>
+    <ns>0</ns>
+    <id>2077</id>
+    <revision>
+      <id>12682</id>
+      <parentid>12533</parentid>
+      <timestamp>2016-08-01T23:06:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1098">= approved for release=
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::approved for release]]
+| format=ul
+| limit=1000
+
+}}= release candidate=
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::release candidate]]
+| format=ul
+| limit=1000
+}}
+
+= in development =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::in development]]
+| format=ul
+| limit=1000
+}}
+
+= problematic =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::problematic]]
+| format=ul
+| limit=1000
+}}
+
+= proposed =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::proposed]]
+| format=ul
+| limit=1000
+}}
+
+= reviewed =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::reviewed]]
+| format=ul
+| limit=1000
+}}
+
+= experimentally validated  =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::experimentally validated]]
+| format=ul
+| limit=1000
+}}
+
+= contested analysis=
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::contested analysis]]
+| format=ul
+| limit=1000
+}}
+
+= auto imported =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Status::auto imported]]
+| format=ul
+| limit=1000
+}}</text>
+      <sha1>9hi350wm5q5plwdd1nbmgfwizb0bcpi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors listed by tags</title>
+    <ns>0</ns>
+    <id>2078</id>
+    <revision>
+      <id>11629</id>
+      <parentid>11628</parentid>
+      <timestamp>2013-01-12T01:28:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="710">This page lists metaphors by tags.  The tags included in this page are manually specified.
+
+{{TOC|limit=2}}
+
+= in progress =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::in progress]]
+| format=Category
+| limit=500
+}}
+
+= mapping =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::mapping]]
+| format=Category
+| limit=500
+}}
+
+= orientational =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::orientational]]
+| format=Category
+| limit=500
+}}
+
+= tentative =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::tentative]]
+| format=Category
+| limit=500
+}}
+
+
+= tentative AND mapping =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::mapping]] [[Tag::tentative]]
+| format=Category
+| limit=500
+}}</text>
+      <sha1>o5tgkzve3kaed6r9jkdmwfn86c4x9tb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors that need fixing</title>
+    <ns>0</ns>
+    <id>2079</id>
+    <revision>
+      <id>11663</id>
+      <parentid>11662</parentid>
+      <timestamp>2012-08-02T06:30:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="909">= Related metaphors with no relation type specified =
+{{#ask:[[Category:Metaphor]] [[Related metaphor::+]]
+| ?Related metaphor | +index=1
+| format=template
+| template=Missing relation type
+| limit=5000
+}}
+
+= Metaphors marked as primary but with no experiential basis =
+{{Unsetprop|badpms|Metaphor| Metaphor.Experiential basis|[[ Metaphor.Type::Primary]]}}
+&lt;ul&gt;{{#arrayprint:badpms|&lt;br/&gt;|@|&lt;li&gt; [[@]]}}&lt;/ul&gt;
+
+= Metaphors marked as both primary and complex =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]] [[ Metaphor.Type::Composed/complex]]
+| format=ul
+| limit=2000
+}}
+
+= Metaphors marked as both general and specific =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Level::General]] [[ Metaphor.Level::Specific]]
+| format=ul
+| limit=2000
+}}
+
+= Metaphors marked as primary and specific =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]] [[ Metaphor.Level::Specific]]
+| format=ul
+| limit=2000
+}}</text>
+      <sha1>qftutbzj934kjcu8krzni6hjc4rienu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors that participate in transitive chains</title>
+    <ns>0</ns>
+    <id>2080</id>
+    <revision>
+      <id>11742</id>
+      <parentid>11741</parentid>
+      <timestamp>2012-07-18T23:18:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="904">{{#ask:[[Related metaphor::has as transitive subpart 1;?;?]]
+| ?Related metaphor
+| format = array
+| name = relmets
+| propsep = ;
+| manysep = ;
+| recordsep = =
+| hidegaps = record
+}}{{#loop: i
+| 0
+| {{#arraysize:relmets}}
+| &lt;nowiki/&gt;
+{{#vardefine:str|{{#arrayindex: relmets | {{#var:i}}}}}}{{#vardefine:transmet|{{#sub:{{#var:str}}|0|{{#pos:{{#var:str}}|;|0}}}}}}{{#vardefine:j|1}}{{#vardefine:sp1}}{{#vardefine:sp2}}
+{{#while:
+| {{ #if: {{#vardefineecho:rel|{{#explode:{{#var:str}}|;|{{#var:j}}}}}} | true}}
+| &lt;nowiki/&gt;
+{{#ifeq: {{#explode:{{#var:rel}}|=|0}} | has as transitive subpart 1 | {{#vardefine:sp1|{{#explode:{{#var:rel}}|=|1}}}}}}{{#ifeq: {{#explode:{{#var:rel}}|=|0}} | has as transitive subpart 2 | {{#vardefine:sp2|{{#explode:{{#var:rel}}|=|1}}}}}}{{#vardefine:j|{{#expr:{{#var:j}}+1}}}}}}
+{{#!:
+{| class=&quot;wikitable&quot;
+! [[{{#var:transmet}}]]
+|-
+| [[{{#var:sp2}}]] + [[{{#var:sp1}}]]
+|}
+}}
+}}</text>
+      <sha1>0lg3pj1bdthfvi49jfoytuygj6tfuzp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors with missing fields</title>
+    <ns>0</ns>
+    <id>2081</id>
+    <revision>
+      <id>11779</id>
+      <parentid>11778</parentid>
+      <timestamp>2014-10-10T20:26:14Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2356">The purpose of this page is to keep track of Metaphors that may be missing necessary information
+
+{{#ifeq:{{Lang|}}|en||
+{{#ifeq:{{Lang|}}|es||
+= No transcription specificied =
+{{Unsetprop|missingtran|Metaphor| Metaphor.Transcription|}}
+&lt;ul&gt;
+{{#arrayprint: missingtran ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+}}}}
+
+= No metaphor family specified =
+{{Unsetprop|missingfam|Metaphor| Metaphor.Family|}}
+&lt;ul&gt;
+{{#arrayprint: missingfam ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No cultural scope specified =
+{{Unsetprop|missingscope|Metaphor|Has cultural scope|}}
+&lt;ul&gt;
+{{#arrayprint: missingscope ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No source frame specified =
+{{Unsetprop|missingsrc|Metaphor| Metaphor.Source frame|}}
+&lt;ul&gt;
+{{#arrayprint: missingsrc ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No target frame specified =
+{{Unsetprop|missingtg|Metaphor| Metaphor.Target frame|}}
+&lt;ul&gt;
+{{#arrayprint: missingtg ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No status specified =
+{{Unsetprop|missingstatus|Metaphor|Status|}}
+&lt;ul&gt;
+{{#arrayprint: missingstatus ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No role mappings defined =
+{{Unsetprop|missingrmaps|Metaphor|Mapping|}}
+&lt;ul&gt;
+{{#arrayprint: missingrmaps ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No aliases defined =
+{{Unsetprop|missingalias|Metaphor| Metaphor.Alias|}}
+&lt;ul&gt;
+{{#arrayprint: missingalias ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Metaphor type not specified =
+{{Unsetprop|missingtype|Metaphor| Metaphor.Type|}}
+&lt;ul&gt;
+{{#arrayprint: missingtype ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Metaphor level not specified =
+{{Unsetprop|missinglevel|Metaphor| Metaphor.Level|}}
+&lt;ul&gt;
+{{#arrayprint: missinglevel ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= Entered by not specified =
+{{Unsetprop|missingeb|Metaphor|Entered by|}}
+&lt;ul&gt;
+{{#arrayprint: missingeb ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No entailments defined =
+{{Unsetprop|missingent|Metaphor|Entailment|}}
+&lt;ul&gt;
+{{#arrayprint: missingent ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No examples entered =
+{{Unsetprop|missingex|Metaphor|Example|}}
+&lt;ul&gt;
+{{#arrayprint: missingex ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No related metaphors entered =
+{{Unsetprop|missingrm|Metaphor|Related metaphor|}}
+&lt;ul&gt;
+{{#arrayprint: missingrm ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No lexical units entered =
+{{Unsetprop|missinglu|Metaphor|LUs|}}
+&lt;ul&gt;
+{{#arrayprint: missinglu ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;
+
+= No languages investigated for =
+{{Unsetprop|missinginv|Metaphor| Metaphor.Investigated for|}}
+&lt;ul&gt;
+{{#arrayprint: missinginv ||@ |&lt;li&gt; [[@]] }}
+&lt;/ul&gt;</text>
+      <sha1>s9iiwkufdyv530n0bff5u2yya1e1tvh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>New renamed test page</title>
+    <ns>0</ns>
+    <id>2092</id>
+    <revision>
+      <id>11881</id>
+      <parentid>11880</parentid>
+      <timestamp>2015-06-01T17:45:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Added another line of text</comment>
+      <text xml:space="preserve" bytes="111">This is a new page created for testing, renaming, deleting, and undeleting.
+Here's an edit on the renamed page.</text>
+      <sha1>pcm0qvx0wmpb7htorjc0agrmgef03s9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Related metaphor</title>
+    <ns>0</ns>
+    <id>2153</id>
+    <revision>
+      <id>12820</id>
+      <timestamp>2016-08-06T10:48:26Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Glossary |Entry=Related metaphor |Description=Each metaphor page includes a block that lists Related Metaphors. For each related metaphor, the Relation Type indicates how th...&quot;</comment>
+      <text xml:space="preserve" bytes="694">{{Glossary
+|Entry=Related metaphor
+|Description=Each metaphor page includes a block that lists Related Metaphors. For each related metaphor, the Relation Type indicates how the Current Metaphor is related to the Related Metaphor -- see [[Glossary:Metaphor Relation Type|Metaphor Relation Type]] for a description of possible relation types. 
+
+In each case, the Related Metaphor must be either 'higher' (e.g. more general) or at the same level (e.g. co-activated by) as the Current Metaphor. Metaphors that are more specific than Current Metaphor are not listed in this block. Metaphors that are [[Glossary:Entailment|entailments]] of the current metaphor are listed in the Entailments block.
+}}</text>
+      <sha1>qzxtf4kugqbpiysubcokyo4gcqlufww</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Renamed final create rename test</title>
+    <ns>0</ns>
+    <id>2095</id>
+    <revision>
+      <id>11889</id>
+      <parentid>11888</parentid>
+      <timestamp>2015-06-01T18:00:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Final create rename test]] to [[Renamed final create rename test]] without leaving a redirect: moving without intervening edit or view of the logs</comment>
+      <text xml:space="preserve" bytes="29">Another test of create/rename</text>
+      <sha1>aymer4ymy9wypdkiaeyox0z9v612mpa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Source Frame</title>
+    <ns>0</ns>
+    <id>2149</id>
+    <revision>
+      <id>12643</id>
+      <parentid>12642</parentid>
+      <timestamp>2016-08-01T17:36:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="596">{{Glossary
+|Entry=Source Frame
+|Other Aliases=source domain
+|Description=Within a given metaphor entry, the '''source''' frame represents the source domain of that metaphor.  The structure of this source frame is mapped to that of the specified [[Glossary:Target Frame|target frame]].
+
+Note that frames in the MN repository are not inherently categorized as either source or target frames.  And, in fact, a given frame may serve as either a source or a target (e.g. POVERTY IS A DISEASE and DISEASES ARE BURDENS) 
+
+See also: [[Glossary:Mapping|Mapping]]
+|Applies to=Metaphor
+|Entered by=Ellen,
+}}</text>
+      <sha1>jyngtahu94pn5oxhi25wa6tg1jiukty</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Target Frame</title>
+    <ns>0</ns>
+    <id>2150</id>
+    <revision>
+      <id>12646</id>
+      <parentid>12645</parentid>
+      <timestamp>2016-08-01T17:39:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="586">{{Glossary
+|Entry=Target Frame
+|Other Aliases=target domain
+|Description=Within a given metaphor entry, the '''target''' frame represents the target domain of that metaphor.  The structure of the specified [[Glossary:Source Frame|source frame]] for a given metaphor is mapped to that of the specified target frame.
+
+Note that frames in the MN repository are not inherently categorized as either source or target frames.  And, in fact, a given frame may serve as either a source or a target (e.g. POVERTY IS A DISEASE and DISEASES ARE BURDENS) 
+
+See also: [[Glossary:Mapping|Mapping]]
+}}</text>
+      <sha1>65m200shplrcbgh5gjbferae2fj9t32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

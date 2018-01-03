@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">مدیا</namespace>
+      <namespace case="first-letter" key="-1">ویژه</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">بحث</namespace>
+      <namespace case="first-letter" key="2">کاربر</namespace>
+      <namespace case="first-letter" key="3">بحث کاربر</namespace>
+      <namespace case="first-letter" key="4">Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">بحث Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">پرونده</namespace>
+      <namespace case="first-letter" key="7">بحث پرونده</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">بحث MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">بحث Template</namespace>
+      <namespace case="first-letter" key="12">راهنما</namespace>
+      <namespace case="first-letter" key="13">بحث راهنما</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">بحث Category</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">بحث Form</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CxnMP:S-verb T-dobj</title>
+    <ns>562</ns>
+    <id>2135</id>
+      <sha1>hu10u0e2cdixn6fa2ilebcda504wen8</sha1>
+    <revision>
+      <id>8752</id>
+      <timestamp>2014-11-19T02:43:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_T-dobj |CxnMPDescription=Verb-Object construction |Comments=... escape poverty |CxnMPQueryCode...» ایجاد کرد</comment>
+      <text bytes="722" xml:space="preserve">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?raword rdf:type doc:Word .
+    ?raword doc:inSentence ?sent .
+    ?raword doc:dobj ?source .
+    ?target doc:predep ?raword .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^V") .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun ezafe T-noun</title>
+    <ns>562</ns>
+    <id>2136</id>
+      <sha1>t09l4wx5t60umfewfpcuhzgawvf76xr</sha1>
+    <revision>
+      <id>8753</id>
+      <timestamp>2014-11-19T02:44:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_ezafe_T-noun |CxnMPDescription=Ezafe construction, via MOZ |CxnMPQueryCode=SELECT ?tlemma ?sle...» ایجاد کرد</comment>
+      <text bytes="664" xml:space="preserve">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_ezafe_T-noun
+|CxnMPDescription=Ezafe construction, via MOZ
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:hasPOS ?tpos .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N") .
+    ?target doc:moz ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb</title>
+    <ns>562</ns>
+    <id>2134</id>
+      <sha1>k286yxc0vp1038d9a5wyaetor2c20wi</sha1>
+    <revision>
+      <id>8751</id>
+      <timestamp>2014-11-19T02:42:13Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |CxnMPDescription=Subject-Verb construction |Comments=poverty infects ... |CxnMPQueryCo...» ایجاد کرد</comment>
+      <text bytes="906" xml:space="preserve">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-Verb construction
+|Comments=poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?target doc:subj ?source .
+	?source doc:hasPOS ?spos .
+	FILTER regex(?spos, "^V") .
+	FILTER (!regex(?slemma, "^(است&amp;#124;بود&amp;#124;کرد&amp;#124;کرده است&amp;#124;کنند&amp;#124;کند&amp;#124;نیستند&amp;#124;نیست&amp;#124;باشد&amp;#124;شد&amp;#124;می‌شود&amp;#124;شود&amp;#124;شده بود&amp;#124;گرفتند&amp;#124;گرفت&amp;#124;می‌کنند&amp;#124;بردن&amp;#124;برد&amp;#124;می‌برد)$","i")) .
+}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

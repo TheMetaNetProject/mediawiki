@@ -1,0 +1,140 @@
+Свойство:Binding
+Свойство:Binding.Bound role
+Свойство:Binding.Local role
+Свойство:Candidate source frame
+Свойство:Candidate source schema
+Свойство:Candidate target frame
+Свойство:Candidate target schema
+Свойство:Corresponds to English
+Свойство:Corresponds to Persian
+Свойство:Corresponds to Russian
+Свойство:Corresponds to Spanish
+Свойство:Definition.Alias
+Свойство:Definition.Applies to
+Свойство:Definition.Description
+Свойство:Definition.Entry
+Свойство:Definition.Notation
+Свойство:Definition.Utility
+Свойство:Entailment
+Свойство:Entailment.Entailed metaphors
+Свойство:Entailment.Source inference
+Свойство:Entailment.Target entailment
+Свойство:Entailment.Type
+Свойство:Entered by
+Свойство:Example
+Свойство:Example.Annotation
+Свойство:Example.Comments
+Свойство:Example.English translation
+Свойство:Example.Gloss
+Свойство:Example.Language
+Свойство:Example.Provenance
+Свойство:Example.Text
+Свойство:Example.Transcription
+Свойство:HasConceptDefinition
+Свойство:HasConceptGroup
+Свойство:HasConceptLU
+Свойство:HasConceptLUs
+Свойство:HasConceptOwner
+Свойство:HasConceptStatus
+Свойство:HasConceptType
+Свойство:HasIARPAId
+Свойство:Has CxnMP group
+Свойство:Has CxnMP query
+Свойство:Has CxnMP type
+Свойство:Has CxnNP group
+Свойство:Has English translation
+Свойство:Has MetaRC group
+Свойство:Has MetaRC query
+Свойство:Has MetaRC score
+Свойство:Has annotation
+Свойство:Has blacklist source LU
+Свойство:Has blacklist source schema
+Свойство:Has blacklist source schema family
+Свойство:Has blacklist target LU
+Свойство:Has comments
+Свойство:Has default form
+Свойство:Has description
+Свойство:Has lemma
+Свойство:Has lpos
+Свойство:Has program alias
+Свойство:Has provenance
+Свойство:Has source lemma
+Свойство:Has source schema
+Свойство:Has target lemma
+Свойство:Has target schema
+Свойство:Has text
+Свойство:Has text gloss
+Свойство:Has transcription
+Свойство:Has whitelist target LU
+Свойство:Incorporates as a role
+Свойство:Inference
+Свойство:Inference.Description
+Свойство:Inference.Type
+Свойство:Is a subcase of
+Свойство:Is example of
+Свойство:Is from language
+Свойство:Is instance of CM
+Свойство:Is linked to from schema
+Свойство:LUs
+Свойство:LUs.Language
+Свойство:LUs.Lemmas
+Свойство:LUs.Lempos
+Свойство:Last reviewed by
+Свойство:Lexical unit of
+Свойство:Linguistic metaphor.Comments
+Свойство:Linguistic metaphor.Instance of metaphor
+Свойство:Linguistic metaphor.Name gloss
+Свойство:Linguistic metaphor.Seed metaphor
+Свойство:Linguistic metaphor.Source
+Свойство:Linguistic metaphor.Target
+Свойство:Linguistic metaphor.Type
+Свойство:Mapping
+Свойство:Mapping.Comment
+Свойство:Mapping.Source
+Свойство:Mapping.Target
+Свойство:Metaphor.Alias
+Свойство:Metaphor.Alias.Name
+Свойство:Metaphor.Alias.Provenance
+Свойство:Metaphor.Comments
+Свойство:Metaphor.Experiential basis
+Свойство:Metaphor.Family
+Свойство:Metaphor.Investigated for
+Свойство:Metaphor.Level
+Свойство:Metaphor.Name gloss
+Свойство:Metaphor.Name transcription
+Свойство:Metaphor.Source schema
+Свойство:Metaphor.Target schema
+Свойство:Metaphor.Type
+Свойство:Metaphor family.Description
+Свойство:Metaphor family.Name gloss
+Свойство:Metaphor family.Type
+Свойство:Metaphor subfamily of
+Свойство:Related metaphor
+Свойство:Related metaphor.Description
+Свойство:Related metaphor.Name
+Свойство:Related metaphor.Relation type
+Свойство:Related schema
+Свойство:Related schema.Description
+Свойство:Related schema.Name
+Свойство:Related schema.Relation type
+Свойство:Role
+Свойство:Role.Definition
+Свойство:Role.FrameNet role
+Свойство:Role.Name
+Свойство:Role.Name gloss
+Свойство:Role.Type
+Свойство:Schema.Alias
+Свойство:Schema.Applicability
+Свойство:Schema.Comments
+Свойство:Schema.Cultural information
+Свойство:Schema.Family
+Свойство:Schema.FrameNet frame
+Свойство:Schema.Name gloss
+Свойство:Schema.Name transcription
+Свойство:Schema.Type
+Свойство:Schema family.Name gloss
+Свойство:Schema subfamily of
+Свойство:Status
+Свойство:Tag
+Свойство:Verification status
+Свойство:Was found using seed

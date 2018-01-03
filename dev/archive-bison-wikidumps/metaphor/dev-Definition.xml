@@ -1,0 +1,2817 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="en">
+  <siteinfo>
+    <sitename>MetaNet Project</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/metaphor/index.php/Main_Page</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">MetaNet Project</namespace>
+      <namespace key="5" case="first-letter">MetaNet Project talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category</title>
+    <ns>0</ns>
+    <id>4814</id>
+      <sha1>s7513bpjnfzdewie7srmz7x5ms2g8eg</sha1>
+    <revision>
+      <id>9626</id>
+      <timestamp>2015-02-10T22:45:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Category |Other Aliases=Conceptual Category |Description=Categories are conceptual units, structured internally by prototype-extension relations among its ...&quot;</comment>
+      <text xml:space="preserve" bytes="1203">{{Definition
+|Entry=Category
+|Other Aliases=Conceptual Category
+|Description=Categories are conceptual units, structured internally by prototype-extension relations among its members (ranging in inclusivity from prototypical to peripheral) and externally by taxonomic relations between categories.  Categorization about the world happens via inductive reasoning.  Because categories are formed for things that are relevant, or “matter”, to the people of a community, the meanings of most categories tend to be vague and fleeting, and the borderlines between categories are fuzzy.
+Categories occur in hierarchies, with superordinate-subordinate relations according to saliency, and in particular whole-part relations.  Basic level categories are conceptually more salient than categories at the higher and lower levels, and tend to elicit the most responses and richest images because they provide the most maximally necessary information.  Most categories have a prototype structure, and as such categories are understood in terms of their prototypes. This inherent superordinate-subordinate relation gives rise naturally to metonymy.
+
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9627</id>
+      <timestamp>2015-02-10T22:46:39Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1213">{{Definition
+|Entry=Category
+|Other Aliases=Conceptual Category
+|Description=Categories are conceptual units, structured internally by prototype-extension relations among its members (ranging in inclusivity from prototypical to peripheral) and externally by taxonomic relations between categories.  Categorization about the world happens via inductive reasoning.  Because categories are formed for things that are relevant, or “matter”, to the people of a community, the meanings of most categories tend to be vague and fleeting, and the borderlines between categories are fuzzy.
+Categories occur in hierarchies, with superordinate-subordinate relations according to saliency, and in particular whole-part relations.  Basic level categories are conceptually more salient than categories at the higher and lower levels, and tend to elicit the most responses and richest images because they provide the most maximally necessary information.  Most categories have a prototype structure, and as such categories are understood in terms of their prototypes. This inherent superordinate-subordinate relation gives rise naturally to metonymy.
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9643</id>
+      <timestamp>2015-02-17T01:35:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1229">{{Definition
+|Entry=Category
+|Other Aliases=Conceptual Category
+|Description=Categories are conceptual units, structured internally by prototype-extension relations among its members (ranging in inclusivity from prototypical to peripheral) and externally by taxonomic relations between categories.  Categorization about the world happens via inductive reasoning.  Because categories are formed for things that are relevant, or “matter”, to the people of a community, the meanings of most categories tend to be vague and fleeting, and the borderlines between categories are fuzzy.
+Categories occur in hierarchies, with superordinate-subordinate relations according to saliency, and in particular whole-part relations.  Basic level categories are conceptually more salient than categories at the higher and lower levels, and tend to elicit the most responses and richest images because they provide the most maximally necessary information.  Most categories have a prototype structure, and as such categories are understood in terms of their prototypes. This inherent superordinate-subordinate relation gives rise naturally to metonymy.
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Karie (February 2015)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Entailment</title>
+    <ns>0</ns>
+    <id>682</id>
+      <sha1>og9iifcy5a3vsgf4n6s4t4nb703kxkc</sha1>
+    <revision>
+      <id>2929</id>
+      <timestamp>2012-07-24T03:16:48Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Entailment |Description=In a metaphor mapping, an entailment constitutes the inferences in the schema or frame in the target domain given the conditions an...&quot;</comment>
+      <text xml:space="preserve" bytes="439">{{Definition
+|Entry=Entailment
+|Description=In a metaphor mapping, an entailment constitutes the inferences in the schema or frame in the target domain given the conditions and constraints placed on the schema or frame in the source domain; entailments constitute anything that falls out from an understanding of a metaphor as a whole given the constraints on its frames.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9653</id>
+      <timestamp>2015-02-17T01:37:54Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="451">{{Definition
+|Entry=Entailment
+|Description=In a metaphor mapping, an entailment constitutes the inferences in the schema or frame in the target domain given the conditions and constraints placed on the schema or frame in the source domain; entailments constitute anything that falls out from an understanding of a metaphor as a whole given the constraints on its frames.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Schema (definition)</title>
+    <ns>0</ns>
+    <id>699</id>
+      <sha1>gtfnantqjwe1avrpbljnn8b533tpqha</sha1>
+    <revision>
+      <id>2952</id>
+      <timestamp>2012-07-24T03:31:54Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Schema |Other Aliases=Image schema |Description=A recurring cognitive structure formed from bodily interaction with the world. Subtypes of schemas (schema ...&quot;</comment>
+      <text xml:space="preserve" bytes="451">{{Definition
+|Entry=Schema
+|Other Aliases=Image schema
+|Description=A recurring cognitive structure formed from bodily interaction with the world. Subtypes of schemas (schema types) are frames and cogs. Cogs are primitive schemas that are experientially grounded and universal. Frames are complex gestalts that have cultural elements. (See cog, frame, composed schema, primary schema).
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9676</id>
+      <timestamp>2015-02-17T01:44:45Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="463">{{Definition
+|Entry=Schema
+|Other Aliases=Image schema
+|Description=A recurring cognitive structure formed from bodily interaction with the world. Subtypes of schemas (schema types) are frames and cogs. Cogs are primitive schemas that are experientially grounded and universal. Frames are complex gestalts that have cultural elements. (See cog, frame, composed schema, primary schema).
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Primary Metaphor</title>
+    <ns>0</ns>
+    <id>692</id>
+      <sha1>04iorzyfuop68e8f7wmclz0g8gtmenw</sha1>
+    <revision>
+      <id>2940</id>
+      <timestamp>2012-07-24T03:24:48Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Primary Metaphor |Description=Metaphor that has experiential basis(?) |Applies to=Metaphor |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="133">{{Definition
+|Entry=Primary Metaphor
+|Description=Metaphor that has experiential basis(?)
+|Applies to=Metaphor
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9671</id>
+      <timestamp>2015-02-17T01:43:08Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="145">{{Definition
+|Entry=Primary Metaphor
+|Description=Metaphor that has experiential basis(?)
+|Applies to=Metaphor
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Prime (v.)</title>
+    <ns>0</ns>
+    <id>693</id>
+      <sha1>qln69yx12f09vf4bumy2r7d3401e6va</sha1>
+    <revision>
+      <id>2941</id>
+      <timestamp>2012-07-24T03:25:22Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Prime (v.) |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Definition
+|Entry=Prime (v.)
+|Entered by=Elise, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Construct</title>
+    <ns>0</ns>
+    <id>4688</id>
+      <sha1>himbr75f5uanwcg6bb8r918p1u8hry4</sha1>
+    <revision>
+      <id>8815</id>
+      <timestamp>2014-01-24T22:53:49Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Construct |Description=A fully instantiated and lexicalized instance of a construction. |Entered by=Elise }}&quot;</comment>
+      <text xml:space="preserve" bytes="128">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9297</id>
+      <timestamp>2014-07-18T20:48:24Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="205">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+[[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis]]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9298</id>
+      <timestamp>2014-07-18T20:51:44Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="500">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis|Form on English wiki]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9301</id>
+      <timestamp>2014-07-18T21:01:22Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="502">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+[[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis|Form on English wiki]]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9302</id>
+      <timestamp>2014-07-18T21:01:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="503">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+[[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis| Form on English wiki]]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9303</id>
+      <timestamp>2014-07-18T21:02:36Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="481">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+[[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis]]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9304</id>
+      <timestamp>2014-07-18T21:03:01Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="503">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+Form on English wiki: [[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis]]
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9650</id>
+      <timestamp>2015-02-17T01:37:08Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="517">{{Definition
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and schema(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+Form on English wiki: [[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis]]
+|Entered by=Elise (July 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Primary scene</title>
+    <ns>0</ns>
+    <id>4700</id>
+      <sha1>hkjxo2yv0sv5pc3zdv05woxvyezn2ic</sha1>
+    <revision>
+      <id>8886</id>
+      <timestamp>2014-02-28T22:59:47Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Description=An experientially basic scene, at a very general level, where associations start to form that lead to the development of primary metaphors. This incl...&quot;</comment>
+      <text xml:space="preserve" bytes="350">{{Definition
+|Description=An experientially basic scene, at a very general level, where associations start to form that lead to the development of primary metaphors. This includes, e.g., the primary scene leading to PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION.
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Oana
+}}</text>
+    </revision>
+    <revision>
+      <id>9670</id>
+      <timestamp>2015-02-17T01:42:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="366">{{Definition
+|Description=An experientially basic scene, at a very general level, where associations start to form that lead to the development of primary metaphors. This includes, e.g., the primary scene leading to PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION.
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Oana (February 2014)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cognitive Primitive</title>
+    <ns>0</ns>
+    <id>4813</id>
+      <sha1>s1csi61usts6hdp28xft87jc2lfud3s</sha1>
+    <revision>
+      <id>9620</id>
+      <timestamp>2015-02-10T22:16:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Cognitive Primitive |Other Aliases=Cog |Description=Cognitive primitives are simple conceptual building blocks formed in infancy, and are often associated ...&quot;</comment>
+      <text xml:space="preserve" bytes="498">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog
+|Description=Cognitive primitives are simple conceptual building blocks formed in infancy, and are often associated with an image schema.  Cognitive primitives can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g, Causality, Containment, Animacy, Path, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9622</id>
+      <timestamp>2015-02-10T22:23:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="498">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog
+|Description=Cognitive primitives are simple conceptual building blocks formed in infancy, and are often associated with an image schema.  Cognitive primitives can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g. Causality, Containment, Animacy, Path, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9623</id>
+      <timestamp>2015-02-10T22:23:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="485">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog
+|Description=Cognitive primitives are simple conceptual building blocks formed in infancy, and are often associated with an image schema.  Cognitive primitives can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g. Causality, Animacy, Path, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9624</id>
+      <timestamp>2015-02-10T22:26:09Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="528">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog, Conceptual Primitive
+|Description=Cognitive primitives are simple conceptual building blocks formed experientially in infancy.  Cognitive primitives are often associated with image schemas in that they can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g. Causality, Animacy, Path, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9625</id>
+      <timestamp>2015-02-10T22:26:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="535">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog, Conceptual Primitive
+|Description=Cognitive primitives are simple conceptual building blocks formed experientially in infancy.  Cognitive primitives are often associated with image schemas in that they can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g. Causality, Containment, Animacy, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9645</id>
+      <timestamp>2015-02-17T01:35:54Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="553">{{Definition
+|Entry=Cognitive Primitive
+|Other Aliases=Cog, Conceptual Primitive
+|Description=Cognitive primitives are simple conceptual building blocks formed experientially in infancy.  Cognitive primitives are often associated with image schemas in that they can be incorporated by image schemas.  However, cognitive primitives are unlike frames and image schemas in that they lack internal structure, and so cannot form gestalts.
+(e.g. Causality, Containment, Animacy, Contact)
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Prototype</title>
+    <ns>0</ns>
+    <id>4815</id>
+      <sha1>l63k6gemn6iw48lkumxgk6yb19i9nni</sha1>
+    <revision>
+      <id>9628</id>
+      <timestamp>2015-02-10T22:54:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Prototype |Description=A prototype is a member of a category that is the most central, salient, and typical subcategory or individual of its category. |App...&quot;</comment>
+      <text xml:space="preserve" bytes="234">{{Definition
+|Entry=Prototype
+|Description=A prototype is a member of a category that is the most central, salient, and typical subcategory or individual of its category.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9672</id>
+      <timestamp>2015-02-17T01:43:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="252">{{Definition
+|Entry=Prototype
+|Description=A prototype is a member of a category that is the most central, salient, and typical subcategory or individual of its category.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Construal</title>
+    <ns>0</ns>
+    <id>4811</id>
+      <sha1>nq6b307vd33k1dno34av7kp0ac5qvxf</sha1>
+    <revision>
+      <id>9616</id>
+      <timestamp>2015-02-10T20:26:06Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Construal |Description=A construal is the process by which a person's experience in the world is conceived. |Applies to=Metaphor &amp; Schema |Utility=General ...&quot;</comment>
+      <text xml:space="preserve" bytes="202">{{Definition
+|Entry=Construal
+|Description=A construal is the process by which a person's experience in the world is conceived.
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9617</id>
+      <timestamp>2015-02-10T20:29:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="370">{{Definition
+|Entry=Construal
+|Description=A construal is the process by which a person's experience in the world is conceived.  This construal relationship is one between the conceptualizer (usually the speaker or the addressee) and the conceptualization entertained (the linguistic utterance).
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9649</id>
+      <timestamp>2015-02-17T01:36:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="388">{{Definition
+|Entry=Construal
+|Description=A construal is the process by which a person's experience in the world is conceived.  This construal relationship is one between the conceptualizer (usually the speaker or the addressee) and the conceptualization entertained (the linguistic utterance).
+|Applies to=Metaphor &amp; Schema
+|Utility=General Theory
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Makes use of</title>
+    <ns>0</ns>
+    <id>686</id>
+      <sha1>rar34gpkdstt4wrc1y711kppr4h2vtd</sha1>
+    <revision>
+      <id>2934</id>
+      <timestamp>2012-07-24T03:19:23Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Makes use of |Other Aliases=Uses (v); Activates |Utility=General Theory |Entered by=Elise }}&quot;</comment>
+      <text xml:space="preserve" bytes="112">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9638</id>
+      <timestamp>2015-02-13T22:03:40Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="381">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames 
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9639</id>
+      <timestamp>2015-02-13T22:03:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="404">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9640</id>
+      <timestamp>2015-02-13T22:23:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="490">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames. This relation can be compared to FrameNet's 'uses' relation.  
+
+For metaphors, this 
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9661</id>
+      <timestamp>2015-02-17T01:40:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="504">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames. This relation can be compared to FrameNet's 'uses' relation.  
+
+For metaphors, this
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen (March 2014), 
+}}</text>
+    </revision>
+    <revision>
+      <id>9662</id>
+      <timestamp>2015-02-17T01:40:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="506">{{Definition
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames. This relation can be compared to FrameNet's 'uses' relation.  
+
+For metaphors, this
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen (February 2015),
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Linguistic Metaphor</title>
+    <ns>0</ns>
+    <id>4810</id>
+      <sha1>3frnqwwqb1tqsiw8wuk7xwsk66kxx04</sha1>
+    <revision>
+      <id>9615</id>
+      <timestamp>2015-02-10T20:05:49Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Linguistic Metaphor |Other Aliases=LM |Description=A linguistic metaphor is an instantiation of, or linguistically mediated instance of, a more general con...&quot;</comment>
+      <text xml:space="preserve" bytes="801">{{Definition
+|Entry=Linguistic Metaphor
+|Other Aliases=LM
+|Description=A linguistic metaphor is an instantiation of, or linguistically mediated instance of, a more general conceptual metaphor.  Linguistic metaphors occur when words for source domain concepts are used for target domain concepts via metaphoric mappings.  Linguistic metaphors activate a conceptual metaphor, but they do not alter it.  (e.g. in the nominal clause &quot;epidemic of poverty,&quot; the target domain concept Poverty is described using the source domain lexeme 'epidemic,' evoking the linguistic metaphor POVERTY IS AN EPIDEMIC. The use of the lexeme 'epidemic' evokes the more general Disease frame, which activates the more general conceptual metaphor POVERTY IS A DISEASE).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9660</id>
+      <timestamp>2015-02-17T01:40:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="819">{{Definition
+|Entry=Linguistic Metaphor
+|Other Aliases=LM
+|Description=A linguistic metaphor is an instantiation of, or linguistically mediated instance of, a more general conceptual metaphor.  Linguistic metaphors occur when words for source domain concepts are used for target domain concepts via metaphoric mappings.  Linguistic metaphors activate a conceptual metaphor, but they do not alter it.  (e.g. in the nominal clause &quot;epidemic of poverty,&quot; the target domain concept Poverty is described using the source domain lexeme 'epidemic,' evoking the linguistic metaphor POVERTY IS AN EPIDEMIC. The use of the lexeme 'epidemic' evokes the more general Disease frame, which activates the more general conceptual metaphor POVERTY IS A DISEASE).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Composed Metaphor</title>
+    <ns>0</ns>
+    <id>679</id>
+      <sha1>fbs2kkhkxvs15wtc1wkoazn9acotpq7</sha1>
+    <revision>
+      <id>2926</id>
+      <timestamp>2012-07-24T03:14:13Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Composed Metaphor |Other Aliases=Complex Metaphor |Applies to=Metaphor |Utility=General Theory |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="137">{{Definition
+|Entry=Composed Metaphor
+|Other Aliases=Complex Metaphor
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>3028</id>
+      <timestamp>2012-07-25T23:35:01Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="136">{{Definition
+|Entry=Composed Metaphor
+|Other Aliases=Complex Metaphor
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9299</id>
+      <timestamp>2014-07-18T20:58:36Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="654">{{Definition
+|Entry=Composed Metaphor
+|Other Aliases=Complex Metaphor
+|Description=A composed or complex metaphor has bindings to multiple, more general metaphors. Typically it is a source or target subcase of at least one metaphor, in which case either its source or target domain is a subcase of the source or target of the related metaphor.
+Composed metaphors bind fully to one or more metaphors which they are subcases of. Complex metaphors bind fully to at least one metaphor, but are also related to other metaphors without binding all of their roles to the roles of that metaphor.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9646</id>
+      <timestamp>2015-02-17T01:36:09Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="665">{{Definition
+|Entry=Composed Metaphor
+|Other Aliases=Complex Metaphor
+|Description=A composed or complex metaphor has bindings to multiple, more general metaphors. Typically it is a source or target subcase of at least one metaphor, in which case either its source or target domain is a subcase of the source or target of the related metaphor.
+Composed metaphors bind fully to one or more metaphors which they are subcases of. Complex metaphors bind fully to at least one metaphor, but are also related to other metaphors without binding all of their roles to the roles of that metaphor.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2014)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Parameter</title>
+    <ns>0</ns>
+    <id>691</id>
+      <sha1>08xmux9pv39qoskq7hq0aewqtzwhl16</sha1>
+    <revision>
+      <id>2939</id>
+      <timestamp>2012-07-24T03:23:59Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Parameter |Description=Parameters are involved in x-schemas, such as speed, rate, distance, amount, etc. (needs work!) |Applies to=Schema |Entered by=Elise...&quot;</comment>
+      <text xml:space="preserve" bytes="180">{{Definition
+|Entry=Parameter
+|Description=Parameters are involved in x-schemas, such as speed, rate, distance, amount, etc. (needs work!)
+|Applies to=Schema
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9668</id>
+      <timestamp>2015-02-17T01:42:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="192">{{Definition
+|Entry=Parameter
+|Description=Parameters are involved in x-schemas, such as speed, rate, distance, amount, etc. (needs work!)
+|Applies to=Schema
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Lexical Unit</title>
+    <ns>0</ns>
+    <id>685</id>
+      <sha1>n8k8vara2lkcpu1oe6g9e8vgmcel0q2</sha1>
+    <revision>
+      <id>2933</id>
+      <timestamp>2012-07-24T03:18:48Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Lexical Unit |Applies to=Schema |Utility=Wiki |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="88">{{Definition
+|Entry=Lexical Unit
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>8921</id>
+      <timestamp>2014-03-06T19:50:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="551">{{Definition
+|Entry=Lexical Unit
+|Description=Lexical units that are associated with a given schema are listed in the 'Relevant Lexical Units' section of the Schema entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election schema frame:
+   election.n
+   elect.v
+|Applies to=Schema
+|Utility=Wiki
+|Notation=lemma.pos
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>8922</id>
+      <timestamp>2014-03-06T19:51:13Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="575">{{Definition
+|Entry=Lexical Unit
+|Description=Lexical units that are associated with a given schema are listed in the 'Relevant Lexical Units' section of the Schema entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election schema frame:
+   election.n
+   elect.v
+|Applies to=Schema
+|Utility=Wiki
+|Notation=lemma.pos
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8923</id>
+      <timestamp>2014-03-06T19:51:47Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="569">{{Definition
+|Entry=Lexical Unit
+|Description=Lexical units that are associated with a given schema are listed in the 'Relevant Lexical Units' section of the Schema entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election schema:
+   election.n
+   elect.v
+|Applies to=Schema
+|Utility=Wiki
+|Notation=lemma.pos
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9659</id>
+      <timestamp>2015-02-17T01:39:31Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="584">{{Definition
+|Entry=Lexical Unit
+|Description=Lexical units that are associated with a given schema are listed in the 'Relevant Lexical Units' section of the Schema entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election schema:
+   election.n
+   elect.v
+|Applies to=Schema
+|Utility=Wiki
+|Notation=lemma.pos
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mapping</title>
+    <ns>0</ns>
+    <id>687</id>
+      <sha1>ai03vfajk1jc8rtty1ihtrzbs6y244o</sha1>
+    <revision>
+      <id>2935</id>
+      <timestamp>2012-07-24T03:19:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Mapping |Description=We use the term mapping to refer to the correspondence between individual roles from source to target schemas in a metaphor map. |Appl...&quot;</comment>
+      <text xml:space="preserve" bytes="235">{{Definition
+|Entry=Mapping
+|Description=We use the term mapping to refer to the correspondence between individual roles from source to target schemas in a metaphor map.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9663</id>
+      <timestamp>2015-02-17T01:40:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="249">{{Definition
+|Entry=Mapping
+|Description=We use the term mapping to refer to the correspondence between individual roles from source to target schemas in a metaphor map.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Relation Type</title>
+    <ns>0</ns>
+    <id>697</id>
+      <sha1>olen1lulg8swnsir80wc277xe5il0on</sha1>
+    <revision>
+      <id>2945</id>
+      <timestamp>2012-07-24T03:28:06Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Relation Type |Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflec...&quot;</comment>
+      <text xml:space="preserve" bytes="354">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor relation type]] and [[Schema relation type]] for details.
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>2946</id>
+      <timestamp>2012-07-24T03:28:39Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="353">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor Relation Type]] and [[Schema Relation Type]] for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>2947</id>
+      <timestamp>2012-07-24T03:29:29Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="298">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See  for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>2948</id>
+      <timestamp>2012-07-24T03:29:47Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="345">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See Metaphor Relation Type and Schema Relation Type for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>2949</id>
+      <timestamp>2012-07-24T03:30:00Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="349">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor Relation Type]] and Schema Relation Type for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>2950</id>
+      <timestamp>2012-07-24T03:30:12Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="345">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See Metaphor Relation Type and Schema Relation Type for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3029</id>
+      <timestamp>2012-07-25T23:36:07Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="353">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor Relation Type]] and [[Schema Relation Type]] for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9637</id>
+      <timestamp>2015-02-13T21:59:17Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="352">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor Relation Type]] and [[Frame Relation Type]] for details.
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9674</id>
+      <timestamp>2015-02-17T01:43:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="394">{{Definition
+|Entry=Relation Type
+|Description=Within a given form, schemas are related to other schemas and metaphors are related to other metaphors. The relationships reflect inheritance from higher schemas or metaphors, or relationships at the same level. See [[Metaphor Relation Type]] and [[Frame Relation Type]] for details.
+|Entered by=Elise,
+|Last reviewed by=Ellen (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Process (definition)</title>
+    <ns>0</ns>
+    <id>694</id>
+      <sha1>snlhq1rcdpv2mx3ntubra7cl38i9ma1</sha1>
+    <revision>
+      <id>2942</id>
+      <timestamp>2012-07-24T03:25:58Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Process }}&quot;</comment>
+      <text xml:space="preserve" bytes="30">{{Definition
+|Entry=Process
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor Relation Type</title>
+    <ns>0</ns>
+    <id>689</id>
+      <sha1>bey2jownf9w9a55nshc1nf7amnoefvu</sha1>
+    <revision>
+      <id>2937</id>
+      <timestamp>2012-07-24T03:22:24Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Metaphor Relation Type |Description=In the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphor...&quot;</comment>
+      <text xml:space="preserve" bytes="1017">{{Definition
+|Entry=Metaphor Relation Type
+|Description=In the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphors, either more generic metaphors from which it inherits or related metaphors which it commonly uses or is co-activated with. For instance, under the entry for the metaphor ROMANTIC RELATIONSHIP IS A JOURNEY, the metaphors PURPOSES ARE DESTINATIONS and ACTION IS MOTION are listed, and are each given a 'Relation type' relative to ROMANTIC RELATIONSHIP IS A JOURNEY. ''The current possible relation types are:'' 1. is both a source and target subcase of, 2. is a source subcase of, 3. is a target subcase of, 4. is a mapping within, 5. makes use of, 6. has a transitive subpart, 7. is an entailment of. When in doubt, the following relations are also available when entering a metaphor in the Wiki: 8. is in some source relation to, 9. is in some target relation to, 10. is in some way related to. 
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>2964</id>
+      <timestamp>2012-07-24T03:42:28Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1061">{{Definition
+|Entry=Metaphor Relation Type
+|Description=In the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphors, either more generic metaphors from which it inherits or related metaphors which it commonly uses or is co-activated with. For instance, under the entry for the metaphor ROMANTIC RELATIONSHIP IS A JOURNEY, the metaphors PURPOSES ARE DESTINATIONS and ACTION IS MOTION are listed, and are each given a 'Relation type' relative to ROMANTIC RELATIONSHIP IS A JOURNEY. ''The current possible relation types are:'' 1. is both a source and target subcase of, 2. is a source subcase of, 3. is a target subcase of, 4. is a mapping within, 5. makes use of, 6. has a transitive subpart, 7. is an entailment of. When in doubt, the following relations are also available when entering a metaphor in the Wiki: 8. is in some source relation to, 9. is in some target relation to, 10. is in some way related to.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9665</id>
+      <timestamp>2015-02-17T01:41:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1073">{{Definition
+|Entry=Metaphor Relation Type
+|Description=In the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphors, either more generic metaphors from which it inherits or related metaphors which it commonly uses or is co-activated with. For instance, under the entry for the metaphor ROMANTIC RELATIONSHIP IS A JOURNEY, the metaphors PURPOSES ARE DESTINATIONS and ACTION IS MOTION are listed, and are each given a 'Relation type' relative to ROMANTIC RELATIONSHIP IS A JOURNEY. ''The current possible relation types are:'' 1. is both a source and target subcase of, 2. is a source subcase of, 3. is a target subcase of, 4. is a mapping within, 5. makes use of, 6. has a transitive subpart, 7. is an entailment of. When in doubt, the following relations are also available when entering a metaphor in the Wiki: 8. is in some source relation to, 9. is in some target relation to, 10. is in some way related to.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Elise (July 2012)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Other Aliases</title>
+    <ns>0</ns>
+    <id>690</id>
+      <sha1>0ohk910fgi03gln9wd67ygi2gyaidbv</sha1>
+    <revision>
+      <id>2938</id>
+      <timestamp>2012-07-24T03:23:17Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Other Aliases |Description=Both schemas and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor...&quot;</comment>
+      <text xml:space="preserve" bytes="280">{{Definition
+|Entry=Other Aliases
+|Description=Both schemas and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor or schema regardless of what variant of that metaphor or schema they have in mind. 
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>2961</id>
+      <timestamp>2012-07-24T03:41:13Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="307">{{Definition
+|Entry=Other Aliases
+|Description=Both schemas and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor or schema regardless of what variant of that metaphor or schema they have in mind.
+|Applies to=Metaphor&amp;Schema
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>2963</id>
+      <timestamp>2012-07-24T03:41:33Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="309">{{Definition
+|Entry=Other Aliases
+|Description=Both schemas and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor or schema regardless of what variant of that metaphor or schema they have in mind.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9667</id>
+      <timestamp>2015-02-17T01:41:48Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="323">{{Definition
+|Entry=Other Aliases
+|Description=Both schemas and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor or schema regardless of what variant of that metaphor or schema they have in mind.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame Relation Type</title>
+    <ns>0</ns>
+    <id>700</id>
+      <sha1>jbr9jlbc3va7ehv6f0igv9rurvh305n</sha1>
+    <revision>
+      <id>2953</id>
+      <timestamp>2012-07-24T03:32:44Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Schema Relation Type |Description=In the Wiki, schemas (both cogs and frames) are listed along with information that contextualizes and relates the schema ...&quot;</comment>
+      <text xml:space="preserve" bytes="577">{{Definition
+|Entry=Schema Relation Type
+|Description=In the Wiki, schemas (both cogs and frames) are listed along with information that contextualizes and relates the schema to other schemas, either more generic schemas from which it inherits or related schemas which it commonly uses or is co-activated with. For instance, in the entry for the schema Motor_control, the related schema Action is listed. ''The current possible relation types are:'' 1. makes use of, 2. is a subcase/specific case/subschema of, and 3. is somehow related to.
+|Utility=Wiki
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>4427</id>
+      <timestamp>2012-12-10T05:13:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;is somehow related to&quot; to &quot;is related to&quot;</comment>
+      <text xml:space="preserve" bytes="569">{{Definition
+|Entry=Schema Relation Type
+|Description=In the Wiki, schemas (both cogs and frames) are listed along with information that contextualizes and relates the schema to other schemas, either more generic schemas from which it inherits or related schemas which it commonly uses or is co-activated with. For instance, in the entry for the schema Motor_control, the related schema Action is listed. ''The current possible relation types are:'' 1. makes use of, 2. is a subcase/specific case/subschema of, and 3. is related to.
+|Utility=Wiki
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9629</id>
+      <timestamp>2015-02-13T21:50:00Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="581">{{Definition
+|Entry=Schema Relation Type
+|Description=In the Wiki, both frames and metaphors include information that contextualizes and relates them to others frames and metaphors within a larger network. 
+
+The frame-to-frame relation types are: 1. makes use of, 2. is a subcase of; 3. is a subprocess of; 4. incorporates as a role; 5. is related to; 6. is in scalar opposition to; and 7. is a perspective on
+
+
+The metaphor-to-metaphor relation types are: 1. makes use of; 2. is a  
+
+See entries for each relation type for further definitions. 
+|Utility=Wiki
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9630</id>
+      <timestamp>2015-02-13T21:50:42Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="612">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames and metaphors include information that contextualizes and relates them to others frames and metaphors within a larger network. Several different types of relations are possible. 
+
+The frame-to-frame relation types are: 1. makes use of, 2. is a subcase of; 3. is a subprocess of; 4. incorporates as a role; 5. is related to; 6. is in scalar opposition to; and 7. is a perspective on
+
+The metaphor-to-metaphor relation types are: 1. makes use of; 2. is a  
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9631</id>
+      <timestamp>2015-02-13T21:56:08Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="485">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are: 1. [[Makes use of]]; 2. is a [Subcase of]]; 3. is a [[subprocess of]]; 4. [[Incorporates as a role]]; 5. is related to; 6. is in [[Scalar opposition to]]; and 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9632</id>
+      <timestamp>2015-02-13T21:56:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="510">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are: 1. [[Makes use of]]; 2. is a [[Subcase of]]; 3. is a [[subprocess of]]; 4. [[Incorporates as a role]]; 5. is related to; 6. is in [[Scalar opposition to]]; and 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9633</id>
+      <timestamp>2015-02-13T21:57:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="507">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Makes use of]]
+ 2. is a [[Subcase of]]
+ 3. is a [[subprocess of]]
+ 4. [[Incorporates as a role]]
+ 5. is related to
+ 6. is in [[Scalar opposition to]]
+ 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9634</id>
+      <timestamp>2015-02-13T21:57:41Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="507">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Makes use of]]
+ 2. is a [[Subcase of]]
+ 3. is a [[Subprocess of]]
+ 4. [[Incorporates as a role]]
+ 5. is related to
+ 6. is in [[Scalar opposition to]]
+ 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9635</id>
+      <timestamp>2015-02-13T21:58:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <minor/>
+      <comment>EllenDodge moved page [[Schema Relation Type]] to [[Frame Relation Type]]</comment>
+      <text xml:space="preserve" bytes="507">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Makes use of]]
+ 2. is a [[Subcase of]]
+ 3. is a [[Subprocess of]]
+ 4. [[Incorporates as a role]]
+ 5. is related to
+ 6. is in [[Scalar opposition to]]
+ 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9684</id>
+      <timestamp>2015-02-20T19:15:38Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="511">{{Definition
+|Entry=Schema Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Makes use of]]
+ 2. is a [[Subcase of]]
+ 3. is a [[Subprocess of]]
+ 4. [[Incorporates as a role]]
+ 5. [[is related to]]
+ 6. is in [[Scalar opposition to]]
+ 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Role</title>
+    <ns>0</ns>
+    <id>698</id>
+      <sha1>rr30qapmd405vwl8n22g2p5utaytnv7</sha1>
+    <revision>
+      <id>2951</id>
+      <timestamp>2012-07-24T03:31:08Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Role |Other Aliases=Schema role; Semantic roles; Frame role; Frame element |Description=Schemas, both cogs and frames, are given roles (as many as are need...&quot;</comment>
+      <text xml:space="preserve" bytes="633">{{Definition
+|Entry=Role
+|Other Aliases=Schema role; Semantic roles; Frame role; Frame element
+|Description=Schemas, both cogs and frames, are given roles (as many as are needed to understand the schema inferences, and as detailed as need be in terms of naming). When schemas appear in a metaphor mapping, the same roles as were listed for that schema in its schema form entry appear in the metaphor mapping. Generally, the roles are assigned names that make them maximally relevant to and reflective of the schema they are roles of, and maximally distinct from the more generic schema from which they inherit.
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>8919</id>
+      <timestamp>2014-03-06T19:36:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2004">{{Definition
+|Entry=Role
+|Other Aliases=Schema role; Semantic roles; Frame role; Frame element
+|Description=Roles are used to represent the internal structure of Schemas.  
+
+Within Metaphor  entries, roles are used to define role mappings between the Source schema and the Target Schema; the same roles as were listed for that schema in its schema form entry are used in the metaphor mapping. (see [[Mapping]])
+
+A given Schema’s roles are listed in the ‘Roles’ block of the Schema page.   Filling out this section is optional, but strongly preferred.  When a schema is defined as a ‘subcase of’ another schema, it is generally assumed that it inherits all the roles of that other schema, even if these roles are not actually listed in the roles section of the current schema.
+
+Roles are commonly assigned names that make them maximally relevant to and reflective of the schema they are roles of, and maximally distinct from the more generic schema from which they inherit. However, each role name is defined in relation to a particular schema.  Therefore, it is possible to use the same role name in more than one schema; for instance, the ‘experiencer’ role in the Anger schema is distinct from (though related to) the ‘experiencer’ role in the Emotion schema. 
+
+Each role can be assigned a Type.  Currently, these are text fields that are used to indicate whether a given role is, e.g., some kind of entity, an x-schema (process), or state/property.   The Definition/Comments field can provide further, more elaborated information about a given role.  Where applicable, a given schema role entry can also specify which of the FrameNet roles (FE, in FrameNet terminology) in the closest FrameNet frame it most closely corresponds to (see [[Closest FrameNet Frames]]). 
+     
+Relations between the current schema’s roles and those of other related schemas are specified in the the Bindings section of the Schema page (see [[Binding]]).  
+
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9675</id>
+      <timestamp>2015-02-17T01:44:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2016">{{Definition
+|Entry=Role
+|Other Aliases=Schema role; Semantic roles; Frame role; Frame element
+|Description=Roles are used to represent the internal structure of Schemas.  
+
+Within Metaphor  entries, roles are used to define role mappings between the Source schema and the Target Schema; the same roles as were listed for that schema in its schema form entry are used in the metaphor mapping. (see [[Mapping]])
+
+A given Schema’s roles are listed in the ‘Roles’ block of the Schema page.   Filling out this section is optional, but strongly preferred.  When a schema is defined as a ‘subcase of’ another schema, it is generally assumed that it inherits all the roles of that other schema, even if these roles are not actually listed in the roles section of the current schema.
+
+Roles are commonly assigned names that make them maximally relevant to and reflective of the schema they are roles of, and maximally distinct from the more generic schema from which they inherit. However, each role name is defined in relation to a particular schema.  Therefore, it is possible to use the same role name in more than one schema; for instance, the ‘experiencer’ role in the Anger schema is distinct from (though related to) the ‘experiencer’ role in the Emotion schema. 
+
+Each role can be assigned a Type.  Currently, these are text fields that are used to indicate whether a given role is, e.g., some kind of entity, an x-schema (process), or state/property.   The Definition/Comments field can provide further, more elaborated information about a given role.  Where applicable, a given schema role entry can also specify which of the FrameNet roles (FE, in FrameNet terminology) in the closest FrameNet frame it most closely corresponds to (see [[Closest FrameNet Frames]]). 
+     
+Relations between the current schema’s roles and those of other related schemas are specified in the the Bindings section of the Schema page (see [[Binding]]).
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Specific Metaphor</title>
+    <ns>0</ns>
+    <id>701</id>
+      <sha1>rl3psx71un175dqdcd47s71ywsqfrmy</sha1>
+    <revision>
+      <id>2954</id>
+      <timestamp>2012-07-24T03:33:29Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Specific Metaphor |Description=While metaphors fall along a continuum when it comes to specificity, we may want to call 'specific metaphors' those metaphor...&quot;</comment>
+      <text xml:space="preserve" bytes="256">{{Definition
+|Entry=Specific Metaphor
+|Description=While metaphors fall along a continuum when it comes to specificity, we may want to call 'specific metaphors' those metaphors which are the most specific metaphors for their cascade.
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9677</id>
+      <timestamp>2015-02-17T01:44:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="268">{{Definition
+|Entry=Specific Metaphor
+|Description=While metaphors fall along a continuum when it comes to specificity, we may want to call 'specific metaphors' those metaphors which are the most specific metaphors for their cascade.
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Scenario</title>
+    <ns>0</ns>
+    <id>4818</id>
+      <sha1>6a7g4mqj5gsvm4edaxe97u15z3dgric</sha1>
+    <revision>
+      <id>9682</id>
+      <timestamp>2015-02-17T19:29:48Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition}}&quot;</comment>
+      <text xml:space="preserve" bytes="14">{{Definition}}</text>
+    </revision>
+    <revision>
+      <id>9683</id>
+      <timestamp>2015-02-17T19:29:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="31">{{Definition
+|Entry=Scenario
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Idealized Cognitive Model</title>
+    <ns>0</ns>
+    <id>4808</id>
+      <sha1>lt2930sskoionlyo08lvi23edj5vkp9</sha1>
+    <revision>
+      <id>9613</id>
+      <timestamp>2015-02-10T19:01:30Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Idealized Cognitive Model |Other Aliases=ICM |Description=An ICM is a concept, or a cluster of related concepts, that defines our knowledge of a category. ...&quot;</comment>
+      <text xml:space="preserve" bytes="723">{{Definition
+|Entry=Idealized Cognitive Model
+|Other Aliases=ICM
+|Description=An ICM is a concept, or a cluster of related concepts, that defines our knowledge of a category.  An ICM is comprised of those features which most strongly characterize the category.  Members of a category who most strongly fit the definition imposed by the ICM are called prototypes.  For example, the ICM for the category bird includes an feathered animal, with two wings, that can fly, that has a beak and talons, and can lay eggs.  A prototypical bird would be something like a pigeon or sparrow, while a less prototypical bird would be something like a chicken or an ostrich. 
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9656</id>
+      <timestamp>2015-02-17T01:38:46Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="740">{{Definition
+|Entry=Idealized Cognitive Model
+|Other Aliases=ICM
+|Description=An ICM is a concept, or a cluster of related concepts, that defines our knowledge of a category.  An ICM is comprised of those features which most strongly characterize the category.  Members of a category who most strongly fit the definition imposed by the ICM are called prototypes.  For example, the ICM for the category bird includes an feathered animal, with two wings, that can fly, that has a beak and talons, and can lay eggs.  A prototypical bird would be something like a pigeon or sparrow, while a less prototypical bird would be something like a chicken or an ostrich.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor (definition)</title>
+    <ns>0</ns>
+    <id>688</id>
+      <sha1>beiq9k8ziyelm6igxpvfe53wyx2ren0</sha1>
+    <revision>
+      <id>2936</id>
+      <timestamp>2012-07-24T03:21:06Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Metaphor |Other Aliases=Metaphor Map |Description=When talking about metaphors, we use the term 'map' to refer to the correspondence between schemas or dom...&quot;</comment>
+      <text xml:space="preserve" bytes="689">{{Definition
+|Entry=Metaphor
+|Other Aliases=Metaphor Map
+|Description=When talking about metaphors, we use the term 'map' to refer to the correspondence between schemas or domains as opposed to the correspondence between their frame elements (which is referred to as 'mappings'). For instance ARGUMENT IS WAR is a metaphor map, and 'words are weapons' would be one of its many mappings. The metaphor receives a name in the TARGET IS SOURCE format, where the terms chosen for the TARGET and SOURCE in that particular metaphor name are maximally informative of the metaphor itself, rather than of its entailments or mappings.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9664</id>
+      <timestamp>2015-02-17T01:40:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="703">{{Definition
+|Entry=Metaphor
+|Other Aliases=Metaphor Map
+|Description=When talking about metaphors, we use the term 'map' to refer to the correspondence between schemas or domains as opposed to the correspondence between their frame elements (which is referred to as 'mappings'). For instance ARGUMENT IS WAR is a metaphor map, and 'words are weapons' would be one of its many mappings. The metaphor receives a name in the TARGET IS SOURCE format, where the terms chosen for the TARGET and SOURCE in that particular metaphor name are maximally informative of the metaphor itself, rather than of its entailments or mappings.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Name Gloss</title>
+    <ns>0</ns>
+    <id>4705</id>
+      <sha1>0hwrw2fahnowgbjh5lt74k0ifxapzte</sha1>
+    <revision>
+      <id>8962</id>
+      <timestamp>2014-03-28T00:02:52Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>66</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Name Gloss |Description=Policy needs to be determined. Should we write the name gloss coherently as it applies to English syntax or match it word by word w...&quot;</comment>
+      <text xml:space="preserve" bytes="273">{{Definition
+|Entry=Name Gloss
+|Description=Policy needs to be determined. Should we write the name gloss coherently as it applies to English syntax or match it word by word with the source text?
+|Applies to=Metaphor &amp; Schema
+|Utility=Wiki
+|Entered by=Ellen and Aria F. 
+}}</text>
+    </revision>
+    <revision>
+      <id>9666</id>
+      <timestamp>2015-02-17T01:41:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="285">{{Definition
+|Entry=Name Gloss
+|Description=Policy needs to be determined. Should we write the name gloss coherently as it applies to English syntax or match it word by word with the source text?
+|Applies to=Metaphor &amp; Schema
+|Utility=Wiki
+|Entered by=Ellen and Aria F. (March 2014)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Related Schema</title>
+    <ns>0</ns>
+    <id>696</id>
+      <sha1>rlhkf2hxb4cc09fzhal238aa0s6qbfp</sha1>
+    <revision>
+      <id>2944</id>
+      <timestamp>2012-07-24T03:27:20Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Related Schema |Other Aliases=Relational schema; Subschema |Description=Within a schema form, all related schemas are listed, and their relation to that me...&quot;</comment>
+      <text xml:space="preserve" bytes="955">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Within a schema form, all related schemas are listed, and their relation to that metaphor has a type. Related schemas must be either higher (more generic) or at the same level (co-activated, used). Lower or more specific schemas are not listed. [Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>8915</id>
+      <timestamp>2014-03-06T00:57:52Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1162">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Each schema page includes a block that lists Related Schemas.  For each related schema, the Relation Type indicates how the Current Schema is related to the Related Schema.  See [[Schema Relation Type]] for a description of possible relation types.  In each case, the Related Schema must be either 'higher' (e.g. more general) or at the same level (e.g. co-activates, makes use of). More specific and/or entailed schemas are not listed in this block. 
+
+[Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>8916</id>
+      <timestamp>2014-03-06T00:58:03Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1186">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Each schema page includes a block that lists Related Schemas.  For each related schema, the Relation Type indicates how the Current Schema is related to the Related Schema.  See [[Schema Relation Type]] for a description of possible relation types.  In each case, the Related Schema must be either 'higher' (e.g. more general) or at the same level (e.g. co-activates, makes use of). More specific and/or entailed schemas are not listed in this block. 
+
+[Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8917</id>
+      <timestamp>2014-03-06T00:58:30Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1187">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Each schema page includes a block that lists Related Schemas.  For each related schema, the Relation Type indicates how the Current Schema is related to the Related Schema -- see [[Schema Relation Type]] for a description of possible relation types.  In each case, the Related Schema must be either 'higher' (e.g. more general) or at the same level (e.g. co-activates, makes use of). More specific and/or entailed schemas are not listed in this block. 
+
+[Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8918</id>
+      <timestamp>2014-03-06T01:00:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1234">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Each schema page includes a block that lists Related Schemas.  For each related schema, the Relation Type indicates how the Current Schema is related to the Related Schema -- see [[Schema Relation Type]] for a description of possible relation types.  In each case, the Related Schema must be either 'higher' (e.g. more general) or at the same level (e.g. co-activated by) as the Current Schema. Schemas that are more specific than and/or entailed by the Current Schema are not listed in this block. 
+
+[Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9673</id>
+      <timestamp>2015-02-17T01:43:39Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1249">{{Definition
+|Entry=Related Schema
+|Other Aliases=Relational schema; Subschema
+|Description=Each schema page includes a block that lists Related Schemas.  For each related schema, the Relation Type indicates how the Current Schema is related to the Related Schema -- see [[Schema Relation Type]] for a description of possible relation types.  In each case, the Related Schema must be either 'higher' (e.g. more general) or at the same level (e.g. co-activated by) as the Current Schema. Schemas that are more specific than and/or entailed by the Current Schema are not listed in this block. 
+
+[Formally called relational schemas, these are schemas that arise as a relation on structural schemas ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subschema of container. When we assign a schema to the type 'Relational', we are essentially calling it a subschema. This schema would then need to have listed the roles that define it. How they should be treated is still under question: should all subschemas of structural schemas be automatically present? Should inferences for structural schemas include inferences of all subschemas?]
+|Applies to=Schema
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Inference</title>
+    <ns>0</ns>
+    <id>684</id>
+      <sha1>9gnur53ouip81h7dghmzl2qycx8e14s</sha1>
+    <revision>
+      <id>2931</id>
+      <timestamp>2012-07-24T03:18:04Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Inference |Description=The detailed knowledge about a schema or frame that constitutes the internal logic of that schema or frame by which we reason about ...&quot;</comment>
+      <text xml:space="preserve" bytes="620">{{Definition
+|Entry=Inference
+|Description=The detailed knowledge about a schema or frame that constitutes the internal logic of that schema or frame by which we reason about that schema or frame; inferences fall out from our understanding of a schema or frame given the constraints on that schema or frame. Traditionally, inference and entailment are synonymous. In the Wiki, inference is kept to refer to the internal logic of a schema or frame, while entailment is used to refer to the corresponding logic in the target domain in a metaphoric mapping.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>2932</id>
+      <timestamp>2012-07-24T03:18:23Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="595">{{Definition
+|Entry=Inference
+|Description=The detailed knowledge about a schema or frame that constitutes the internal logic of that schema or frame by which we reason about that schema or frame; inferences fall out from our understanding of a schema or frame given the constraints on that schema or frame. Traditionally, inference and entailment are synonymous. In the Wiki, inference is kept to refer to the internal logic of a schema or frame, while entailment is used to refer to the corresponding logic in the target domain in a metaphoric mapping.
+|Applies to=Schema
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9658</id>
+      <timestamp>2015-02-17T01:39:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="608">{{Definition
+|Entry=Inference
+|Description=The detailed knowledge about a schema or frame that constitutes the internal logic of that schema or frame by which we reason about that schema or frame; inferences fall out from our understanding of a schema or frame given the constraints on that schema or frame. Traditionally, inference and entailment are synonymous. In the Wiki, inference is kept to refer to the internal logic of a schema or frame, while entailment is used to refer to the corresponding logic in the target domain in a metaphoric mapping.
+|Applies to=Schema
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Transitivity</title>
+    <ns>0</ns>
+    <id>704</id>
+      <sha1>dgwbfeq57cc58otqv6xli7s45subc52</sha1>
+    <revision>
+      <id>2957</id>
+      <timestamp>2012-07-24T03:36:23Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Transitivity |Other Aliases=Transitive inference; Transitive property; Transitive chain |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="130">{{Definition
+|Entry=Transitivity
+|Other Aliases=Transitive inference; Transitive property; Transitive chain
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9680</id>
+      <timestamp>2015-02-17T01:45:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="142">{{Definition
+|Entry=Transitivity
+|Other Aliases=Transitive inference; Transitive property; Transitive chain
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Structuring Schema</title>
+    <ns>0</ns>
+    <id>702</id>
+      <sha1>hjms4ku2wjj7mbdcuiwrmabq1x1h8ed</sha1>
+    <revision>
+      <id>2955</id>
+      <timestamp>2012-07-24T03:34:23Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Structuring Schema |Other Aliases=Structural schema |Description=Primary or primitive or irreducible schemas. |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="152">{{Definition
+|Entry=Structuring Schema
+|Other Aliases=Structural schema
+|Description=Primary or primitive or irreducible schemas.
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9678</id>
+      <timestamp>2015-02-17T01:45:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="164">{{Definition
+|Entry=Structuring Schema
+|Other Aliases=Structural schema
+|Description=Primary or primitive or irreducible schemas.
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Image Schema</title>
+    <ns>0</ns>
+    <id>4807</id>
+      <sha1>nrnwm1qg7kvl71iztdnhajolrjllpcv</sha1>
+    <revision>
+      <id>9611</id>
+      <timestamp>2015-02-10T17:57:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Image Schema |Other Aliases=Image Schematic Domain |Description=Image schemas are prelinguistic representations of highly schematic patterns arising from i...&quot;</comment>
+      <text xml:space="preserve" bytes="492">{{Definition
+|Entry=Image Schema
+|Other Aliases=Image Schematic Domain
+|Description=Image schemas are prelinguistic representations of highly schematic patterns arising from imagistic domains of sensory-motor experience that recur in a variety of embodied domains (e.g. containers, paths, forces, scalarity, balance, locomotion).  Image schemas, as embodied structures, have a psychological reality, are internally structured, and motivate conceptual metaphor mappings.
+
+
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9612</id>
+      <timestamp>2015-02-10T17:57:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="509">{{Definition
+|Entry=Image Schema
+|Other Aliases=Image Schematic Domain
+|Description=Image schemas are prelinguistic representations of highly schematic patterns arising from imagistic domains of sensory-motor experience that recur in a variety of embodied domains (e.g. containers, paths, forces, scalarity, balance, locomotion).  Image schemas, as embodied structures, have a psychological reality, are internally structured, and motivate conceptual metaphor mappings.
+|Applies to=Schema
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9621</id>
+      <timestamp>2015-02-10T22:17:59Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="488">{{Definition
+|Entry=Image Schema
+|Other Aliases=Image Schematic Domain
+|Description=Image schemas are prelinguistic representations of highly schematic patterns arising from imagistic domains of sensory-motor experience that recur in a variety of embodied domains (e.g. Container, Forces, Scale, Locomotion).  Image schemas, as embodied structures, have a psychological reality, are internally structured, and motivate conceptual metaphor mappings.
+|Applies to=Schema
+|Entered by=Karie
+}}</text>
+    </revision>
+    <revision>
+      <id>9657</id>
+      <timestamp>2015-02-17T01:39:07Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="506">{{Definition
+|Entry=Image Schema
+|Other Aliases=Image Schematic Domain
+|Description=Image schemas are prelinguistic representations of highly schematic patterns arising from imagistic domains of sensory-motor experience that recur in a variety of embodied domains (e.g. Container, Forces, Scale, Locomotion).  Image schemas, as embodied structures, have a psychological reality, are internally structured, and motivate conceptual metaphor mappings.
+|Applies to=Schema
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Process Schema</title>
+    <ns>0</ns>
+    <id>695</id>
+      <sha1>65bqdlfgyxjonqvkihfbu6nx038agx0</sha1>
+    <revision>
+      <id>2943</id>
+      <timestamp>2012-07-24T03:26:26Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Process Schema |Description=Essentially x-schemas, a process with its bound roles, or a process frame. |Applies to=Schema |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="164">{{Definition
+|Entry=Process Schema
+|Description=Essentially x-schemas, a process with its bound roles, or a process frame.
+|Applies to=Schema
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9669</id>
+      <timestamp>2015-02-17T01:42:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Definition
+|Entry=Process Schema
+|Description=Essentially x-schemas, a process with its bound roles, or a process frame.
+|Applies to=Schema
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Family</title>
+    <ns>0</ns>
+    <id>4702</id>
+      <sha1>skwjvrz678k41iswiuk74ye0qy87c6l</sha1>
+    <revision>
+      <id>8913</id>
+      <timestamp>2014-03-06T00:33:56Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Family |Description=Each schema can (optionally) be specified to be a member of one or more Schema families.  Similarly, each metaphor is (optionally) defi...&quot;</comment>
+      <text xml:space="preserve" bytes="897">{{Definition
+|Entry=Family
+|Description=Each schema can (optionally) be specified to be a member of one or more Schema families.  Similarly, each metaphor is (optionally) defined to be a member of one or more Metaphor families.
+
+Families are used to group related schemas/metaphors together, e.g. for ease of analyzing a particular semantic domain or set of metaphors.    
+
+Lists of Schema Families and Metaphor Families can be accessed via links listed under the Metaphor Data Guide section of the Main page of the Wiki. 
+Clicking on a given family name provides access to a list of the schemas/metaphors that have been specified to be members of that family, as well as a diagram that illustrates the defined relations between these  schemas/metaphors.  For schema families, there is also a list of the LUs associated with each of the schemas. 
+|Applies to=Metaphor &amp; Schema
+|Entered by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9654</id>
+      <timestamp>2015-02-17T01:38:21Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="909">{{Definition
+|Entry=Family
+|Description=Each schema can (optionally) be specified to be a member of one or more Schema families.  Similarly, each metaphor is (optionally) defined to be a member of one or more Metaphor families.
+
+Families are used to group related schemas/metaphors together, e.g. for ease of analyzing a particular semantic domain or set of metaphors.    
+
+Lists of Schema Families and Metaphor Families can be accessed via links listed under the Metaphor Data Guide section of the Main page of the Wiki. 
+Clicking on a given family name provides access to a list of the schemas/metaphors that have been specified to be members of that family, as well as a diagram that illustrates the defined relations between these  schemas/metaphors.  For schema families, there is also a list of the LUs associated with each of the schemas.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Ellen (March 2014)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame</title>
+    <ns>0</ns>
+    <id>4817</id>
+      <sha1>sg7z05lsqqmezwz7j6q4mv854zw524i</sha1>
+    <revision>
+      <id>9681</id>
+      <timestamp>2015-02-17T19:28:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Frame }}&quot;</comment>
+      <text xml:space="preserve" bytes="28">{{Definition
+|Entry=Frame
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Binding</title>
+    <ns>0</ns>
+    <id>676</id>
+      <sha1>r42ok3uqkjj14sav5tnjvywo5i6qi5y</sha1>
+    <revision>
+      <id>2919</id>
+      <timestamp>2012-07-24T03:09:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Binding |Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., ana...&quot;</comment>
+      <text xml:space="preserve" bytes="341">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+|Applies to=Schema
+|Notation==
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>2920</id>
+      <timestamp>2012-07-24T03:09:22Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="342">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+|Applies to=Schema
+|Notation===
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>2921</id>
+      <timestamp>2012-07-24T03:09:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="347">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>3026</id>
+      <timestamp>2012-07-25T23:34:10Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="346">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3878</id>
+      <timestamp>2012-09-12T18:29:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="417">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.  What happens if you put {{ brakets }} and = signs in the description.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3879</id>
+      <timestamp>2012-09-12T18:31:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="434">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.  What happens if you put &lt;nowiki&gt;{{ brakets }}&lt;/nowiki&gt; and = signs in the description.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3880</id>
+      <timestamp>2012-09-12T18:32:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="435">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.  What happens if you put &lt;nowiki&gt;{{ brakets }} and = &lt;/nowiki&gt; signs in the description.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3881</id>
+      <timestamp>2012-09-12T18:34:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="424">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.  What happens if you put &amp;#123;&amp;#123; brakets and = signs in the description.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>3882</id>
+      <timestamp>2012-09-12T18:34:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="346">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>8909</id>
+      <timestamp>2014-03-05T23:49:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="723">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Schema pages, the Bindings field is used to specify bindings between a given role in the current schema and one or more roles in the Schema(s) listed in the &quot;Related Schemas&quot; block.  Dot notation is used to specify the Related schema role.  E.g. if the Related schema is Action, a binding to its 'actor' role is specified as &quot;Action.actor&quot;.    
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8910</id>
+      <timestamp>2014-03-05T23:58:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="900">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Schema pages, the Bindings field is used to specify bindings between a given role in the current schema and one or more roles in the Schema(s) listed in the &quot;Related Schemas&quot; block.  Dot notation is used to specify the Related schema role. And the binding relation itself is specified using a &quot;=&quot; sign.  
+
+ E.g. if the current schema is &quot;Self propelled motion&quot; (which includes a 'self_mover' role), and a related schema is &quot;Action&quot; (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8911</id>
+      <timestamp>2014-03-05T23:59:41Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="908">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Schema pages, the Bindings field is used to specify bindings between a given role in the current schema and one or more roles in the Schema(s) listed in the &quot;Related Schemas&quot; block.  Dot notation is used to specify the Related schema role. And the binding relation itself is specified using a &quot;=&quot; sign.  
+
+For instance, if the current schema is &quot;Self propelled motion&quot; (which includes a 'self_mover' role), and a related schema is &quot;Action&quot; (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>8920</id>
+      <timestamp>2014-03-06T19:39:09Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="904">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Schema pages, the Bindings field is used to specify bindings between a given role in the current schema and one or more roles in the Schema(s) listed in the &quot;Related Schemas&quot; block.  Dot notation is used to specify the Related schema role. The binding relation itself is specified using a &quot;=&quot; sign.  
+
+For instance, if the current schema is &quot;Self propelled motion&quot; (which includes a 'self_mover' role), and a related schema is &quot;Action&quot; (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+    </revision>
+    <revision>
+      <id>9642</id>
+      <timestamp>2015-02-14T00:33:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="917">{{Definition
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Schema pages, the Bindings field is used to specify bindings between a given role in the current schema and one or more roles in the Schema(s) listed in the &quot;Related Schemas&quot; block.  Dot notation is used to specify the Related schema role. The binding relation itself is specified using a &quot;=&quot; sign.  
+
+For instance, if the current schema is &quot;Self propelled motion&quot; (which includes a 'self_mover' role), and a related schema is &quot;Action&quot; (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Schema
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cultural Information</title>
+    <ns>0</ns>
+    <id>681</id>
+      <sha1>7hnin6s6s6txh3eu1ike6y6o7grpda2</sha1>
+    <revision>
+      <id>2928</id>
+      <timestamp>2012-07-24T03:16:17Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Cultural Information |Description=If a schema happens to be a frame, this means that the schema has some socio-cultural meanings that may vary. The 'Cultur...&quot;</comment>
+      <text xml:space="preserve" bytes="434">{{Definition
+|Entry=Cultural Information
+|Description=If a schema happens to be a frame, this means that the schema has some socio-cultural meanings that may vary. The 'Cultural information' field is meant to provide a space to elaborate on possible relevant socio-cultural aspects of that frame, especially those aspects that may prove to be most variable cross-linguistically.
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9305</id>
+      <timestamp>2014-07-18T21:04:23Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="511">{{Definition
+|Entry=Cultural Information
+|Description=If a schema happens to be a frame, this means that the schema has some socio-cultural meanings that may vary. The 'Cultural information' field is meant to provide a space to elaborate on possible relevant socio-cultural aspects of that frame, especially those aspects that may prove to be most variable cross-linguistically.
+If the cultural scope for a frame has been determined, it will be noted here.
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9651</id>
+      <timestamp>2015-02-17T01:37:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="524">{{Definition
+|Entry=Cultural Information
+|Description=If a schema happens to be a frame, this means that the schema has some socio-cultural meanings that may vary. The 'Cultural information' field is meant to provide a space to elaborate on possible relevant socio-cultural aspects of that frame, especially those aspects that may prove to be most variable cross-linguistically.
+If the cultural scope for a frame has been determined, it will be noted here.
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise (July 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Conceptual Metaphor</title>
+    <ns>0</ns>
+    <id>4809</id>
+      <sha1>dcozz1huj33zs9tk3kca94ybji8a263</sha1>
+    <revision>
+      <id>9614</id>
+      <timestamp>2015-02-10T19:18:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Conceptual Metaphor |Other Aliases=CM |Description=A conceptual metaphor is a mapping between frames that arise from our embodied experiences.  The core of...&quot;</comment>
+      <text xml:space="preserve" bytes="539">{{Definition
+|Entry=Conceptual Metaphor
+|Other Aliases=CM
+|Description=A conceptual metaphor is a mapping between frames that arise from our embodied experiences.  The core of the conceptual network of metaphors are primary metaphors.  Though primary metaphors are thought to consist of experientially-based universals, it is the case that many conceptual metaphors are composed of relations between culturally-constrained semantic frames (e.g. ROMANTIC RELATIONSHIP IS A JOURNEY).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9648</id>
+      <timestamp>2015-02-17T01:36:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="555">{{Definition
+|Entry=Conceptual Metaphor
+|Other Aliases=CM
+|Description=A conceptual metaphor is a mapping between frames that arise from our embodied experiences.  The core of the conceptual network of metaphors are primary metaphors.  Though primary metaphors are thought to consist of experientially-based universals, it is the case that many conceptual metaphors are composed of relations between culturally-constrained semantic frames (e.g. ROMANTIC RELATIONSHIP IS A JOURNEY).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie (February 2015), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Subcase of</title>
+    <ns>0</ns>
+    <id>703</id>
+      <sha1>t0af8ijogqd8elontgqe43z0v213ep9</sha1>
+    <revision>
+      <id>2956</id>
+      <timestamp>2012-07-24T03:35:32Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Subcase of |Other Aliases=Instance of; Special case of; Specific case of |Description=Neurally, these are either subcircuits with a different connectivity ...&quot;</comment>
+      <text xml:space="preserve" bytes="508">{{Definition
+|Entry=Subcase of
+|Other Aliases=Instance of; Special case of; Specific case of
+|Description=Neurally, these are either subcircuits with a different connectivity or the same circuits activated at different times with different bindings. In terms of metaphors these are, for instance: THINKING IS MOVING is an instance of MIND IS A BODY, as is COMMUNICATING IS SHOWING, etc. What we now call instance was formerly called &quot;special case of&quot; in George's lectures and writings.
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9679</id>
+      <timestamp>2015-02-17T01:45:23Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="520">{{Definition
+|Entry=Subcase of
+|Other Aliases=Instance of; Special case of; Specific case of
+|Description=Neurally, these are either subcircuits with a different connectivity or the same circuits activated at different times with different bindings. In terms of metaphors these are, for instance: THINKING IS MOVING is an instance of MIND IS A BODY, as is COMMUNICATING IS SHOWING, etc. What we now call instance was formerly called &quot;special case of&quot; in George's lectures and writings.
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Generic Metaphor</title>
+    <ns>0</ns>
+    <id>683</id>
+      <sha1>e9c9vm2zdhzuqv22i5zoqnn8y57u13l</sha1>
+    <revision>
+      <id>2930</id>
+      <timestamp>2012-07-24T03:17:38Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Generic Metaphor |Other Aliases=General metaphor; Higher metaphor; Domain-level metaphor |Description=This is the most generic level metaphor, and it often...&quot;</comment>
+      <text xml:space="preserve" bytes="856">{{Definition
+|Entry=Generic Metaphor
+|Other Aliases=General metaphor; Higher metaphor; Domain-level metaphor
+|Description=This is the most generic level metaphor, and it often does not come in a TARGET IS SOURCE format in the literature. How we treat these from now on is still being debated, but we are thinking it's best perhaps that these are their own metaphors with their own roles, and of which other metaphors are instances. For instance MIND IS BODY is a higher/generic/domain-level metaphor and has instances such as SENSING IS SMELLING, etc. Other ways to treat these metaphors are: they are supermetaphors that define domains, they are generalizations over other metaphors and they are not basic embodied metaphors in and of themselves. In category terms, they are superordinate and not basic level. 
+|Utility=General Theory
+|Entered by=Elise
+}}</text>
+    </revision>
+    <revision>
+      <id>9655</id>
+      <timestamp>2015-02-17T01:38:36Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="869">{{Definition
+|Entry=Generic Metaphor
+|Other Aliases=General metaphor; Higher metaphor; Domain-level metaphor
+|Description=This is the most generic level metaphor, and it often does not come in a TARGET IS SOURCE format in the literature. How we treat these from now on is still being debated, but we are thinking it's best perhaps that these are their own metaphors with their own roles, and of which other metaphors are instances. For instance MIND IS BODY is a higher/generic/domain-level metaphor and has instances such as SENSING IS SMELLING, etc. Other ways to treat these metaphors are: they are supermetaphors that define domains, they are generalizations over other metaphors and they are not basic embodied metaphors in and of themselves. In category terms, they are superordinate and not basic level.
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Closest FrameNet Frames</title>
+    <ns>0</ns>
+    <id>678</id>
+      <sha1>ti3rav20znk70m8r6nptuecf4ev40oa</sha1>
+    <revision>
+      <id>2925</id>
+      <timestamp>2012-07-24T03:13:06Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Closest FrameNet Frames |Applies to=Schema |Utility=Wiki |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="99">{{Definition
+|Entry=Closest FrameNet Frames
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>3027</id>
+      <timestamp>2012-07-25T23:34:30Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="98">{{Definition
+|Entry=Closest FrameNet Frames
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>8912</id>
+      <timestamp>2014-03-06T00:08:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="754">{{Definition
+|Entry=Closest FrameNet Frames
+|Description=This is an optional field in the wiki Schema page that provides a live link to one or more FrameNet frames.   In order for this link to work, the name listed must match that of an existing FrameNet frame.  
+
+When a FrameNet frame is specified within a schema, equivalent FrameNet roles may be specified for the roles defined in the 'Roles' section of the schema. These specifications require manual entry.
+
+Additionally, there will be an automatically-added entry in the 'Lexical Units in Related Frames' section of the schema, indicating which lexical units are currently listed in the closest FrameNet frame(s).   
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen, 
+}}</text>
+    </revision>
+    <revision>
+      <id>8924</id>
+      <timestamp>2014-03-06T19:54:50Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="796">{{Definition
+|Entry=Closest FrameNet Frames
+|Description=This is an optional field in the wiki Schema page that provides a live link to one or more FrameNet frames.   In order for this link to work, the name listed must match that of an existing FrameNet frame.  
+
+When a FrameNet frame is specified within a schema, equivalent FrameNet roles (FE's, in FrameNet terminology) may be specified for the roles defined in the 'Roles' section of the schema. These specifications require manual entry. See [[Role]].
+
+Additionally, there will be an automatically-added entry in the 'Lexical Units in Related Frames' section of the schema, indicating which lexical units are currently listed in the closest FrameNet frame(s).
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen,
+}}</text>
+    </revision>
+    <revision>
+      <id>9644</id>
+      <timestamp>2015-02-17T01:35:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="810">{{Definition
+|Entry=Closest FrameNet Frames
+|Description=This is an optional field in the wiki Schema page that provides a live link to one or more FrameNet frames.   In order for this link to work, the name listed must match that of an existing FrameNet frame.  
+
+When a FrameNet frame is specified within a schema, equivalent FrameNet roles (FE's, in FrameNet terminology) may be specified for the roles defined in the 'Roles' section of the schema. These specifications require manual entry. See [[Role]].
+
+Additionally, there will be an automatically-added entry in the 'Lexical Units in Related Frames' section of the schema, indicating which lexical units are currently listed in the closest FrameNet frame(s).
+|Applies to=Schema
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cultural Scope</title>
+    <ns>0</ns>
+    <id>4735</id>
+      <sha1>riaw96lcnqc373zgwykco4b043dfyxs</sha1>
+    <revision>
+      <id>9306</id>
+      <timestamp>2014-07-18T21:07:15Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Cultural Scope |Description=&quot;Cultural scope&quot; refers to which languages/cultures a schema or metaphor has been validated for. Some schemas/metaphors do not ...&quot;</comment>
+      <text xml:space="preserve" bytes="259">{{Definition
+|Entry=Cultural Scope
+|Description=&quot;Cultural scope&quot; refers to which languages/cultures a schema or metaphor has been validated for. Some schemas/metaphors do not hold across languages/cultures.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9307</id>
+      <timestamp>2014-07-18T21:07:27Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="258">{{Definition
+|Entry=Cultural Scope
+|Description=&quot;Cultural scope&quot; refers to which languages/cultures a schema or metaphor has been validated for. Some schemas/metaphors do not hold across languages/cultures.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9308</id>
+      <timestamp>2014-07-18T21:12:17Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="413">{{Definition
+|Entry=Cultural Scope
+|Description=&quot;Cultural scope&quot; refers to which languages/cultures a schema or metaphor has been validated for. This includes both national-level information (e.g., American English) and within-culture information (e.g., American conservative, American progressive). Some schemas/metaphors do not hold across languages/cultures.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9652</id>
+      <timestamp>2015-02-17T01:37:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="426">{{Definition
+|Entry=Cultural Scope
+|Description=&quot;Cultural scope&quot; refers to which languages/cultures a schema or metaphor has been validated for. This includes both national-level information (e.g., American English) and within-culture information (e.g., American conservative, American progressive). Some schemas/metaphors do not hold across languages/cultures.
+|Applies to=Metaphor &amp; Schema
+|Entered by=Elise (July 2014), 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Composed Schema</title>
+    <ns>0</ns>
+    <id>680</id>
+      <sha1>b77fzly1s9buwhl0n2tnti4w98b14bg</sha1>
+    <revision>
+      <id>2927</id>
+      <timestamp>2012-07-24T03:15:26Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Composed Schema |Other Aliases=Relational Schema |Applies to=Schema |Utility=General Theory |Entered by=Elise,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="134">{{Definition
+|Entry=Composed Schema
+|Other Aliases=Relational Schema
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise, 
+}}</text>
+    </revision>
+    <revision>
+      <id>9300</id>
+      <timestamp>2014-07-18T21:00:31Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="281">{{Definition
+|Entry=Composed Schema
+|Other Aliases=Relational Schema
+|Description=Composed/complex schemas bind to multiple more general schemas. Hence, some or all of their structure is inherited from other schemas.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise,
+}}</text>
+    </revision>
+    <revision>
+      <id>9647</id>
+      <timestamp>2015-02-17T01:36:24Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="294">{{Definition
+|Entry=Composed Schema
+|Other Aliases=Relational Schema
+|Description=Composed/complex schemas bind to multiple more general schemas. Hence, some or all of their structure is inherited from other schemas.
+|Applies to=Schema
+|Utility=General Theory
+|Entered by=Elise (July 2014), 
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

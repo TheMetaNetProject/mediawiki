@@ -1,0 +1,104 @@
+Frame family:Force dynamic frames
+Frame family:Entity frames
+Frame family:Protecting frames
+Frame family:Wealth and Social Class frames
+Frame family:Guns family
+Frame family:The Middle Class frames
+Frame family:Damage
+Frame family:Government frames
+Frame family:Taxes frames
+Frame family:Motion impediments frames
+Frame family:Magic frames
+Frame family:Action frames
+Frame family:Crime frames
+Frame family:Governance frames
+Frame family:Perception frames
+Frame family:Image Schemas
+Frame family:Legislation frames
+Frame family:Leaders frames
+Frame family:Rights family
+Frame family:Forced movement frame family
+Frame family:Regulations frames
+Frame family:Object Event Structure frames
+Frame family:Harmful encounters frames
+Frame family:Taxation frames
+Frame family:Vehicle frames
+Frame family:Money frames
+Frame family:Concealment-Protection frames
+Frame family:Democratic institutions frames
+Frame family:Force frames
+Frame family:Location frames
+Frame family:Physical properties frame family
+Frame family:Food frame family
+Frame family:Motion Frames
+Frame family:Politicians frames
+Frame family:Aversion frames
+Frame family:Mover-specific movement frames
+Frame family:Democracy frames
+Frame family:Event Structure frames
+Frame family:Directional movement frames
+Frame family:Morality frames
+Frame family:Bureaucracy frames
+Frame family:Bounding
+Frame family:Change-related frames
+Frame family:Water confinement frames
+Frame family:Machine frames
+Frame family:Access to Education frames
+Frame family:Poverty frames
+Frame family:Economic Frames
+Frame family:Resource Frames
+Frame family:Control of guns family
+Frame family:Moving entity frames
+Frame family:Spatial relations
+Frame family:X-schema family
+Frame family:Politics frames
+Frame family:Causation frames
+Frame family:Evaluation Frames
+Frame family:Debt frames
+Frame family:Social frames
+Frame family:Demo frame families
+Frame family:Disease frame family
+Frame family:Zealotry Insanity Worship frame family
+Frame family:Affected movement frames
+Frame family:Social Class frames
+Frame family:Physical combat frame family
+Frame family:Social problem frames
+Frame family:Scale Frames
+Frame family:Endangerment frames
+Frame family:Unclassified
+Frame family:Natural process frames
+Frame family:Body frames
+Frame family:Eating Frames
+Frame family:Physical conflict frames
+Frame family:Election frames
+Frame family:Internal motion frames
+Frame family:Harm
+Frame family:Competition frames
+Frame family:Object frames
+Frame family:The Law frames
+Frame family:Cognition Frames
+Frame family:Harm to living entity
+Frame family:Translational motion frames
+Frame family:Economic Inequality frames
+Frame family:Movement frames
+Frame family:Leadership frames
+Frame family:Excluded frames
+Frame family:Motion-affecting frames
+Frame family:Separation frames
+Frame family:Communication Frames
+Frame family:Fluid frame family
+Frame family:Impediment and enablement frames
+Frame family:Poverty-related frame network
+Frame family:State-related frames
+Frame family:Property-related frames
+Frame family:Function of Government frames
+Frame family:Guided motion frame family
+Frame family:The Poor frames
+Frame family:Gun rights family
+Frame family:Act on Object frames
+Frame family:Possession Frames
+Frame family:The Rich frames
+Frame family:Position frames
+Frame family:Gun debate
+Frame family:Education frames
+Frame family:Wealth frames

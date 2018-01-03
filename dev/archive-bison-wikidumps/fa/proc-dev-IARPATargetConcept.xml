@@ -1,0 +1,1449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">مدیا</namespace>
+      <namespace case="first-letter" key="-1">ویژه</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">بحث</namespace>
+      <namespace case="first-letter" key="2">کاربر</namespace>
+      <namespace case="first-letter" key="3">بحث کاربر</namespace>
+      <namespace case="first-letter" key="4">Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">بحث Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">پرونده</namespace>
+      <namespace case="first-letter" key="7">بحث پرونده</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">بحث MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">بحث Template</namespace>
+      <namespace case="first-letter" key="12">راهنما</namespace>
+      <namespace case="first-letter" key="13">بحث راهنما</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">بحث Category</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">بحث Form</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:MONEY</title>
+    <ns>570</ns>
+    <id>2070</id>
+      <sha1>4coz71951jzt2t8n8t55cps51tcwvve</sha1>
+    <revision>
+      <id>8408</id>
+      <timestamp>2014-08-20T23:54:11Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name...» ایجاد کرد</comment>
+      <text bytes="203" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=پول
+}}{{Linked frame
+|Frame name=منابع مالی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:THE POOR</title>
+    <ns>570</ns>
+    <id>2072</id>
+      <sha1>k5c0d8jbi5yrrkayefsns45pt3rsdpo</sha1>
+    <revision>
+      <id>8413</id>
+      <timestamp>2014-08-21T00:30:43Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptComment=Missing EXPERIENCING ECONOMIC STATUS |ConceptFrames={{Linked ...» ایجاد کرد</comment>
+      <text bytes="231" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptComment=Missing EXPERIENCING ECONOMIC STATUS
+|ConceptFrames={{Linked frame
+|Frame name=تجربه فقر
+}}{{Linked frame
+|Frame name=فقیر بودن
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEBT</title>
+    <ns>570</ns>
+    <id>2068</id>
+      <sha1>bcshj660tsa50hm40ff3qpp3ibf2rrq</sha1>
+    <revision>
+      <id>8405</id>
+      <timestamp>2014-08-20T23:39:00Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name...» ایجاد کرد</comment>
+      <text bytes="154" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=بدهی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUREAUCRACY</title>
+    <ns>570</ns>
+    <id>2074</id>
+      <sha1>slz1vumieddj51mn2vm8b6u1rc2485s</sha1>
+    <revision>
+      <id>8415</id>
+      <timestamp>2014-08-21T01:08:03Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=بروک...» ایجاد کرد</comment>
+      <text bytes="212" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=بروکراسی
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8585</id>
+      <timestamp>2014-09-23T23:25:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="211" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=بروکراسی
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8696</id>
+      <timestamp>2014-10-25T01:12:13Z</timestamp>
+      <contributor>
+        <username>Behrang</username>
+        <id>25</id>
+      </contributor>
+      <text bytes="207" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=بروکراسی
+}}{{Linked frame
+|Frame name=دیوان سالاری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICS</title>
+    <ns>570</ns>
+    <id>2079</id>
+      <sha1>itzg6wncq1007mcoiv6vsyvuk1bdkx6</sha1>
+    <revision>
+      <id>8421</id>
+      <timestamp>2014-08-21T01:26:00Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing frame: Political region
+  |C...» ایجاد کرد</comment>
+      <text bytes="305" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing frame: Political region
+
+|ConceptFrames={{Linked frame
+|Frame name=رقابت سیاسی
+}}{{Linked frame
+|Frame name=سیاست
+}}{{Linked frame
+|Frame name=برابری سیاسی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WEALTH</title>
+    <ns>570</ns>
+    <id>2061</id>
+      <sha1>jvfl9pcd6rhld5d2qy9ti4hehojvwdh</sha1>
+    <revision>
+      <id>8373</id>
+      <timestamp>2014-08-20T00:22:54Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptFrames={{Linked frame |Frame nam...» ایجاد کرد</comment>
+      <text bytes="205" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptFrames={{Linked frame
+|Frame name=ثروتمندان
+}}{{Linked frame
+|Frame name=ثروت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8399</id>
+      <timestamp>2014-08-20T23:24:06Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <comment>Ariafani صفحهٔ [[IConcept:ثروت]] را به [[IConcept:WEALTH]] منتقل کرد</comment>
+      <text bytes="205" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptFrames={{Linked frame
+|Frame name=ثروتمندان
+}}{{Linked frame
+|Frame name=ثروت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8403</id>
+      <timestamp>2014-08-20T23:35:32Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="311" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=ثروتمندان
+}}{{Linked frame
+|Frame name=ثروت
+}}{{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GOVERNMENT</title>
+    <ns>570</ns>
+    <id>2073</id>
+      <sha1>rtcgv5f1c8t4eiy4bhylmw2pwsyv06o</sha1>
+    <revision>
+      <id>8414</id>
+      <timestamp>2014-08-21T00:59:51Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=The following frames are missing in ...» ایجاد کرد</comment>
+      <text bytes="1309" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: Branches of government / Government institution US / Institution / Citizen evaluation of government / Community / Judicial action / Judicial decision-making Legislation drafting / Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8433</id>
+      <timestamp>2014-08-21T22:05:51Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1453" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: / Government institution US / Judicial action / Judicial decision-making Legislation drafting / Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8514</id>
+      <timestamp>2014-08-30T18:33:44Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1565" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: / Government institution US // Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}{{Linked frame
+|Frame name=حکم قضایی
+}}{{Linked frame
+|Frame name=تصمیم گیری قضایی
+}}{{Linked frame
+|Frame name=تنظیم لایحه قانونی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8524</id>
+      <timestamp>2014-09-06T00:42:05Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1592" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: / Government institution US // Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}{{Linked frame
+|Frame name=حکم قضایی
+}}{{Linked frame
+|Frame name=تصمیم گیری قضایی
+}}{{Linked frame
+|Frame name=تنظیم لایحه قانونی
+}}{{Linked frame
+|Frame name=توزیع قدرت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8528</id>
+      <timestamp>2014-09-06T01:30:18Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1681" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: / Government institution US // Power  / Country / Governing action / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}{{Linked frame
+|Frame name=حکم قضایی
+}}{{Linked frame
+|Frame name=تصمیم گیری قضایی
+}}{{Linked frame
+|Frame name=تنظیم لایحه قانونی
+}}{{Linked frame
+|Frame name=توزیع قدرت
+}}{{Linked frame
+|Frame name=تقسیم بندی های سیاسی
+}}{{Linked frame
+|Frame name=اعتماد جمعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8532</id>
+      <timestamp>2014-09-12T16:14:01Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1772" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: / Government institution US / Government executive action
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}{{Linked frame
+|Frame name=حکم قضایی
+}}{{Linked frame
+|Frame name=تصمیم گیری قضایی
+}}{{Linked frame
+|Frame name=تنظیم لایحه قانونی
+}}{{Linked frame
+|Frame name=توزیع قدرت
+}}{{Linked frame
+|Frame name=تقسیم بندی های سیاسی
+}}{{Linked frame
+|Frame name=اعتماد جمعی
+}}{{Linked frame
+|Frame name=قدرت
+}}{{Linked frame
+|Frame name=کشور
+}}{{Linked frame
+|Frame name=حکومتداری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8533</id>
+      <timestamp>2014-09-12T16:46:52Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="1888" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following frames are missing in Persian: Government institution US / Government executive action. These concepts are, I believe, unique to sphere of American politics and do not apply to the context of modern Iran.
+|ConceptFrames={{Linked frame
+|Frame name=قوه قضائیه
+}}{{Linked frame
+|Frame name=قوه مجریه
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}{{Linked frame
+|Frame name=حکومت
+}}{{Linked frame
+|Frame name=نهاد دولت
+}}{{Linked frame
+|Frame name=سازمان
+}}{{Linked frame
+|Frame name=شهروند
+}}{{Linked frame
+|Frame name=اقتدار
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}{{Linked frame
+|Frame name=مشروعیت دولت
+}}{{Linked frame
+|Frame name=روابط بین‌الملل
+}}{{Linked frame
+|Frame name=قانون
+}}{{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=ملت
+}}{{Linked frame
+|Frame name=رابطه اعتماد آمیز
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=قوای سه‌گانه
+}}{{Linked frame
+|Frame name=نهاد
+}}{{Linked frame
+|Frame name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked frame
+|Frame name=کانون
+}}{{Linked frame
+|Frame name=حکم قضایی
+}}{{Linked frame
+|Frame name=تصمیم گیری قضایی
+}}{{Linked frame
+|Frame name=تنظیم لایحه قانونی
+}}{{Linked frame
+|Frame name=توزیع قدرت
+}}{{Linked frame
+|Frame name=تقسیم بندی های سیاسی
+}}{{Linked frame
+|Frame name=اعتماد جمعی
+}}{{Linked frame
+|Frame name=قدرت
+}}{{Linked frame
+|Frame name=کشور
+}}{{Linked frame
+|Frame name=حکومتداری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TAXATION</title>
+    <ns>570</ns>
+    <id>2060</id>
+      <sha1>ehz14f141wlhyj4pume8ddaf7sqrijl</sha1>
+    <revision>
+      <id>8371</id>
+      <timestamp>2014-08-20T00:13:03Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptComment=The discourse of taxation i...» ایجاد کرد</comment>
+      <text bytes="582" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptComment=The discourse of taxation is informed by distinctly different economic and political circumstances in Iran, the concept of taxation in Wiki attempts to reflect the debates surrounding taxation in Iran, and does not necessarily reflect the frames of the English wiki
+|ConceptFrames={{Linked frame
+|Frame name=مالیات
+}}{{Linked frame
+|Frame name=مالیات بر ارزش افزوده
+}}{{Linked frame
+|Frame name=مالیات بخش های خصوصی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8397</id>
+      <timestamp>2014-08-20T23:23:32Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <comment>Ariafani صفحهٔ [[IConcept:مالیات]] را به [[IConcept:TAXATION]] منتقل کرد</comment>
+      <text bytes="582" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptComment=The discourse of taxation is informed by distinctly different economic and political circumstances in Iran, the concept of taxation in Wiki attempts to reflect the debates surrounding taxation in Iran, and does not necessarily reflect the frames of the English wiki
+|ConceptFrames={{Linked frame
+|Frame name=مالیات
+}}{{Linked frame
+|Frame name=مالیات بر ارزش افزوده
+}}{{Linked frame
+|Frame name=مالیات بخش های خصوصی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICAL CORRUPTION</title>
+    <ns>570</ns>
+    <id>2077</id>
+      <sha1>qp1nnckkkdhpph1ar5zr6it9nrnkcld</sha1>
+    <revision>
+      <id>8418</id>
+      <timestamp>2014-08-21T01:22:47Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing frames: Institutional corrup...» ایجاد کرد</comment>
+      <text bytes="252" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing frames: Institutional corruption / Immoral action / Moral corruption / Immorality
+|ConceptFrames={{Linked frame
+|Frame name=فساد
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SOCIAL CLASS</title>
+    <ns>570</ns>
+    <id>2071</id>
+      <sha1>ismqtav2rrgshx3rww6f90kjzcn6h0f</sha1>
+    <revision>
+      <id>8411</id>
+      <timestamp>2014-08-21T00:08:34Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptComment=Missing two frames: social ...» ایجاد کرد</comment>
+      <text bytes="637" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two frames: social status (part of Social Frames) and experiencing economic status
+|ConceptFrames={{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=بیکاری
+}}{{Linked frame
+|Frame name=اشتغال
+}}{{Linked frame
+|Frame name=منابع مالی
+}}{{Linked frame
+|Frame name=درآمد
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}{{Linked frame
+|Frame name=بهبودی وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=طبقه اجتماعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8519</id>
+      <timestamp>2014-09-06T00:24:11Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="694" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two frames: social status (part of Social Frames) and experiencing economic status
+|ConceptFrames={{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=بیکاری
+}}{{Linked frame
+|Frame name=اشتغال
+}}{{Linked frame
+|Frame name=منابع مالی
+}}{{Linked frame
+|Frame name=درآمد
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}{{Linked frame
+|Frame name=بهبودی وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=طبقه اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اجتماعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8521</id>
+      <timestamp>2014-09-06T00:31:41Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="773" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two frames: social status (part of Social Frames) and experiencing economic status
+|ConceptFrames={{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=بیکاری
+}}{{Linked frame
+|Frame name=اشتغال
+}}{{Linked frame
+|Frame name=منابع مالی
+}}{{Linked frame
+|Frame name=درآمد
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}{{Linked frame
+|Frame name=بهبودی وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=طبقه اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اجتماعی
+}}{{Linked frame
+|Frame name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8522</id>
+      <timestamp>2014-09-06T00:31:50Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="664" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=بیکاری
+}}{{Linked frame
+|Frame name=اشتغال
+}}{{Linked frame
+|Frame name=منابع مالی
+}}{{Linked frame
+|Frame name=درآمد
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}{{Linked frame
+|Frame name=بهبودی وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=طبقه اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اجتماعی
+}}{{Linked frame
+|Frame name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8586</id>
+      <timestamp>2014-09-23T23:26:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="721" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from ECONOMIC INEQUALITY
+
+|ConceptFrames={{Linked frame
+|Frame name=وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=بیکاری
+}}{{Linked frame
+|Frame name=اشتغال
+}}{{Linked frame
+|Frame name=منابع مالی
+}}{{Linked frame
+|Frame name=درآمد
+}}{{Linked frame
+|Frame name=توزیع ثروت
+}}{{Linked frame
+|Frame name=بهبودی وضعیت اقتصادی
+}}{{Linked frame
+|Frame name=طبقه اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اجتماعی
+}}{{Linked frame
+|Frame name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEMOCRACY</title>
+    <ns>570</ns>
+    <id>2056</id>
+      <sha1>4iak8hug7ykytrcut7bvepf5s6sxnh0</sha1>
+    <revision>
+      <id>8344</id>
+      <timestamp>2014-08-19T22:04:57Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=DEMOCRACY |ConceptFrames={{Linked frame |Frame name=آزادی }}...» ایجاد کرد</comment>
+      <text bytes="858" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8393</id>
+      <timestamp>2014-08-20T23:22:41Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <comment>Ariafani صفحهٔ [[IConcept:دموکراسی‌]] را به [[IConcept:DEMOCRACY]] منتقل کرد</comment>
+      <text bytes="858" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8584</id>
+      <timestamp>2014-09-23T23:25:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="861" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8780</id>
+      <timestamp>2014-12-01T10:01:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1203" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=I added 'دموکراس' as a whitelist LU because it was appearing in IARPA's input xml for m4mapping but wasn't being found in our wiki. --Jisup
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=دموکراس
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+    <revision>
+      <id>8781</id>
+      <timestamp>2014-12-01T10:02:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1199" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=I added 'جمهوری' as a whitelist LU because it was appearing in IARPA's input xml for m4mapping but wasn't being found in our wiki. --Jisup
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=جمهوری
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADERSHIP</title>
+    <ns>570</ns>
+    <id>2075</id>
+      <sha1>206mxyjkwlbvdznign88nqeg5teslgs</sha1>
+    <revision>
+      <id>8416</id>
+      <timestamp>2014-08-21T01:14:09Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing frames are Organizational le...» ایجاد کرد</comment>
+      <text bytes="231" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing frames are Organizational leadership
+ and State leadership
+|ConceptFrames={{Linked frame
+|Frame name=رهبری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POVERTY</title>
+    <ns>570</ns>
+    <id>2059</id>
+      <sha1>tsduwt6cjrl2ygcck7au85dxs1juve6</sha1>
+    <revision>
+      <id>8365</id>
+      <timestamp>2014-08-19T23:53:57Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptFrames={{Linked frame |Frame nam...» ایجاد کرد</comment>
+      <text bytes="295" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptFrames={{Linked frame
+|Frame name=برطرف کردن مشکلات اجتماعی
+}}{{Linked frame
+|Frame name=فقر
+}}{{Linked frame
+|Frame name=نابرابری اقتصادی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8368</id>
+      <timestamp>2014-08-20T00:08:10Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="429" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=برطرف کردن مشکلات اجتماعی
+}}{{Linked frame
+|Frame name=فقر
+}}{{Linked frame
+|Frame name=نابرابری اقتصادی
+}}{{Linked frame
+|Frame name=برطرف کردن مشکلات اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اقتصادی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8395</id>
+      <timestamp>2014-08-20T23:23:08Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <comment>Ariafani صفحهٔ [[IConcept:فقر]] را به [[IConcept:POVERTY]] منتقل کرد</comment>
+      <text bytes="429" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=برطرف کردن مشکلات اجتماعی
+}}{{Linked frame
+|Frame name=فقر
+}}{{Linked frame
+|Frame name=نابرابری اقتصادی
+}}{{Linked frame
+|Frame name=برطرف کردن مشکلات اجتماعی
+}}{{Linked frame
+|Frame name=وضعیت اقتصادی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ELECTIONS</title>
+    <ns>570</ns>
+    <id>2057</id>
+      <sha1>itolhah07iwi737uvsciw7ij0z4ahs1</sha1>
+    <revision>
+      <id>8345</id>
+      <timestamp>2014-08-19T22:17:17Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= DEMOCRACY  |ConceptFrames={{Linked frame |Frame name=انتخ...» ایجاد کرد</comment>
+      <text bytes="290" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= DEMOCRACY 
+|ConceptFrames={{Linked frame
+|Frame name=انتخابات
+}}{{Linked frame
+|Frame name=حق رأی
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=رأی گیری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8348</id>
+      <timestamp>2014-08-19T22:29:29Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="401" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=انتخابات
+}}{{Linked frame
+|Frame name=حق رأی
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=رأی گیری
+}}{{Linked frame
+|Frame name=رقابت سیاسی
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8391</id>
+      <timestamp>2014-08-20T23:22:06Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <comment>Ariafani صفحهٔ [[IConcept:انتخابات]] را به [[IConcept:ELECTIONS]] منتقل کرد</comment>
+      <text bytes="401" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=انتخابات
+}}{{Linked frame
+|Frame name=حق رأی
+}}{{Linked frame
+|Frame name=رأی دادن
+}}{{Linked frame
+|Frame name=رأی گیری
+}}{{Linked frame
+|Frame name=رقابت سیاسی
+}}{{Linked frame
+|Frame name=تصمیم گیری دولت
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEGISLATION</title>
+    <ns>570</ns>
+    <id>2076</id>
+      <sha1>o9y8bn1cd2tbfmyugmz8byr1du42yhe</sha1>
+    <revision>
+      <id>8417</id>
+      <timestamp>2014-08-21T01:18:10Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing frames are Legislation draft...» ایجاد کرد</comment>
+      <text bytes="345" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing frames are Legislation drafting / Legislation enactment / Gun control legislation / Gun rights legislation
+|ConceptFrames={{Linked frame
+|Frame name=عمل قانونگذاری
+}}{{Linked frame
+|Frame name=قوه مقننه
+}}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

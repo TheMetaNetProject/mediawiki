@@ -1,0 +1,10 @@
+MediaWiki:Category-empty
+MediaWiki:Common.css
+MediaWiki:Common.js
+MediaWiki:Group-analyst.css
+MediaWiki:Group-sysop.css
+MediaWiki:Sidebar
+MediaWiki:Sitenotice
+MediaWiki:Sitenotice id
+MediaWiki:Smw import foaf
+MediaWiki:Smw import rdfs

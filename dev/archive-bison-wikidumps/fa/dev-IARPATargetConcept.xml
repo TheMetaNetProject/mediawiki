@@ -1,0 +1,1447 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">مدیا</namespace>
+      <namespace key="-1" case="first-letter">ویژه</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">بحث</namespace>
+      <namespace key="2" case="first-letter">کاربر</namespace>
+      <namespace key="3" case="first-letter">بحث کاربر</namespace>
+      <namespace key="4" case="first-letter">Persian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">بحث Persian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">پرونده</namespace>
+      <namespace key="7" case="first-letter">بحث پرونده</namespace>
+      <namespace key="8" case="first-letter">مدیاویکی</namespace>
+      <namespace key="9" case="first-letter">بحث مدیاویکی</namespace>
+      <namespace key="10" case="first-letter">الگو</namespace>
+      <namespace key="11" case="first-letter">بحث الگو</namespace>
+      <namespace key="12" case="first-letter">راهنما</namespace>
+      <namespace key="13" case="first-letter">بحث راهنما</namespace>
+      <namespace key="14" case="first-letter">رده</namespace>
+      <namespace key="15" case="first-letter">بحث رده</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">فرم</namespace>
+      <namespace key="107" case="first-letter">بحث فرم</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:MONEY</title>
+    <ns>570</ns>
+    <id>2070</id>
+      <sha1>4coz71951jzt2t8n8t55cps51tcwvve</sha1>
+    <revision>
+      <id>8408</id>
+      <timestamp>2014-08-20T23:54:11Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptSchemas={{Linked schema |Schema name...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="203">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=پول
+}}{{Linked schema
+|Schema name=منابع مالی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:THE POOR</title>
+    <ns>570</ns>
+    <id>2072</id>
+      <sha1>k5c0d8jbi5yrrkayefsns45pt3rsdpo</sha1>
+    <revision>
+      <id>8413</id>
+      <timestamp>2014-08-21T00:30:43Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptComment=Missing EXPERIENCING ECONOMIC STATUS |ConceptSchemas={{Linked ...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="231">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptComment=Missing EXPERIENCING ECONOMIC STATUS
+|ConceptSchemas={{Linked schema
+|Schema name=تجربه فقر
+}}{{Linked schema
+|Schema name=فقیر بودن
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEBT</title>
+    <ns>570</ns>
+    <id>2068</id>
+      <sha1>bcshj660tsa50hm40ff3qpp3ibf2rrq</sha1>
+    <revision>
+      <id>8405</id>
+      <timestamp>2014-08-20T23:39:00Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptSchemas={{Linked schema |Schema name...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="154">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=بدهی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUREAUCRACY</title>
+    <ns>570</ns>
+    <id>2074</id>
+      <sha1>slz1vumieddj51mn2vm8b6u1rc2485s</sha1>
+    <revision>
+      <id>8415</id>
+      <timestamp>2014-08-21T01:08:03Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptSchemas={{Linked schema |Schema name=بروک...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="212">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=بروکراسی
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8585</id>
+      <timestamp>2014-09-23T23:25:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="211">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=بروکراسی
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8696</id>
+      <timestamp>2014-10-25T01:12:13Z</timestamp>
+      <contributor>
+        <username>Behrang</username>
+        <id>25</id>
+      </contributor>
+      <text xml:space="preserve" bytes="207">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=بروکراسی
+}}{{Linked schema
+|Schema name=دیوان سالاری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICS</title>
+    <ns>570</ns>
+    <id>2079</id>
+      <sha1>itzg6wncq1007mcoiv6vsyvuk1bdkx6</sha1>
+    <revision>
+      <id>8421</id>
+      <timestamp>2014-08-21T01:26:00Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing schema: Political region  |C...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="305">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing schema: Political region
+
+|ConceptSchemas={{Linked schema
+|Schema name=رقابت سیاسی
+}}{{Linked schema
+|Schema name=سیاست
+}}{{Linked schema
+|Schema name=برابری سیاسی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WEALTH</title>
+    <ns>570</ns>
+    <id>2061</id>
+      <sha1>jvfl9pcd6rhld5d2qy9ti4hehojvwdh</sha1>
+    <revision>
+      <id>8373</id>
+      <timestamp>2014-08-20T00:22:54Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptSchemas={{Linked schema |Schema nam...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="205">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptSchemas={{Linked schema
+|Schema name=ثروتمندان
+}}{{Linked schema
+|Schema name=ثروت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8399</id>
+      <timestamp>2014-08-20T23:24:06Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor/>
+      <comment>Ariafani صفحهٔ [[IConcept:ثروت]] را به [[IConcept:WEALTH]] منتقل کرد</comment>
+      <text xml:space="preserve" bytes="205">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptSchemas={{Linked schema
+|Schema name=ثروتمندان
+}}{{Linked schema
+|Schema name=ثروت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8403</id>
+      <timestamp>2014-08-20T23:35:32Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="311">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=ثروتمندان
+}}{{Linked schema
+|Schema name=ثروت
+}}{{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GOVERNMENT</title>
+    <ns>570</ns>
+    <id>2073</id>
+      <sha1>rtcgv5f1c8t4eiy4bhylmw2pwsyv06o</sha1>
+    <revision>
+      <id>8414</id>
+      <timestamp>2014-08-21T00:59:51Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=The following schemas are missing in ...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="1309">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: Branches of government / Government institution US / Institution / Citizen evaluation of government / Community / Judicial action / Judicial decision-making Legislation drafting / Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8433</id>
+      <timestamp>2014-08-21T22:05:51Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1453">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: / Government institution US / Judicial action / Judicial decision-making Legislation drafting / Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8514</id>
+      <timestamp>2014-08-30T18:33:44Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1565">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: / Government institution US // Organization of power / Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}{{Linked schema
+|Schema name=حکم قضایی
+}}{{Linked schema
+|Schema name=تصمیم گیری قضایی
+}}{{Linked schema
+|Schema name=تنظیم لایحه قانونی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8524</id>
+      <timestamp>2014-09-06T00:42:05Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1592">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: / Government institution US // Political region / Power / Public trust / Country / Governing action / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}{{Linked schema
+|Schema name=حکم قضایی
+}}{{Linked schema
+|Schema name=تصمیم گیری قضایی
+}}{{Linked schema
+|Schema name=تنظیم لایحه قانونی
+}}{{Linked schema
+|Schema name=توزیع قدرت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8528</id>
+      <timestamp>2014-09-06T01:30:18Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1681">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: / Government institution US // Power  / Country / Governing action / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}{{Linked schema
+|Schema name=حکم قضایی
+}}{{Linked schema
+|Schema name=تصمیم گیری قضایی
+}}{{Linked schema
+|Schema name=تنظیم لایحه قانونی
+}}{{Linked schema
+|Schema name=توزیع قدرت
+}}{{Linked schema
+|Schema name=تقسیم بندی های سیاسی
+}}{{Linked schema
+|Schema name=اعتماد جمعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8532</id>
+      <timestamp>2014-09-12T16:14:01Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1772">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: / Government institution US / Government executive action
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}{{Linked schema
+|Schema name=حکم قضایی
+}}{{Linked schema
+|Schema name=تصمیم گیری قضایی
+}}{{Linked schema
+|Schema name=تنظیم لایحه قانونی
+}}{{Linked schema
+|Schema name=توزیع قدرت
+}}{{Linked schema
+|Schema name=تقسیم بندی های سیاسی
+}}{{Linked schema
+|Schema name=اعتماد جمعی
+}}{{Linked schema
+|Schema name=قدرت
+}}{{Linked schema
+|Schema name=کشور
+}}{{Linked schema
+|Schema name=حکومتداری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8533</id>
+      <timestamp>2014-09-12T16:46:52Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1888">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=The following schemas are missing in Persian: Government institution US / Government executive action. These concepts are, I believe, unique to sphere of American politics and do not apply to the context of modern Iran.
+|ConceptSchemas={{Linked schema
+|Schema name=قوه قضائیه
+}}{{Linked schema
+|Schema name=قوه مجریه
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}{{Linked schema
+|Schema name=حکومت
+}}{{Linked schema
+|Schema name=نهاد دولت
+}}{{Linked schema
+|Schema name=سازمان
+}}{{Linked schema
+|Schema name=شهروند
+}}{{Linked schema
+|Schema name=اقتدار
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}{{Linked schema
+|Schema name=مشروعیت دولت
+}}{{Linked schema
+|Schema name=روابط بین‌الملل
+}}{{Linked schema
+|Schema name=قانون
+}}{{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=ملت
+}}{{Linked schema
+|Schema name=رابطه اعتماد آمیز
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=قوای سه‌گانه
+}}{{Linked schema
+|Schema name=نهاد
+}}{{Linked schema
+|Schema name=ارزیابی شهروندان از عملکرد دولت
+}}{{Linked schema
+|Schema name=کانون
+}}{{Linked schema
+|Schema name=حکم قضایی
+}}{{Linked schema
+|Schema name=تصمیم گیری قضایی
+}}{{Linked schema
+|Schema name=تنظیم لایحه قانونی
+}}{{Linked schema
+|Schema name=توزیع قدرت
+}}{{Linked schema
+|Schema name=تقسیم بندی های سیاسی
+}}{{Linked schema
+|Schema name=اعتماد جمعی
+}}{{Linked schema
+|Schema name=قدرت
+}}{{Linked schema
+|Schema name=کشور
+}}{{Linked schema
+|Schema name=حکومتداری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TAXATION</title>
+    <ns>570</ns>
+    <id>2060</id>
+      <sha1>ehz14f141wlhyj4pume8ddaf7sqrijl</sha1>
+    <revision>
+      <id>8371</id>
+      <timestamp>2014-08-20T00:13:03Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptComment=The discourse of taxation i...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="582">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptComment=The discourse of taxation is informed by distinctly different economic and political circumstances in Iran, the concept of taxation in Wiki attempts to reflect the debates surrounding taxation in Iran, and does not necessarily reflect the schemas of the English wiki
+|ConceptSchemas={{Linked schema
+|Schema name=مالیات
+}}{{Linked schema
+|Schema name=مالیات بر ارزش افزوده
+}}{{Linked schema
+|Schema name=مالیات بخش های خصوصی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8397</id>
+      <timestamp>2014-08-20T23:23:32Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor/>
+      <comment>Ariafani صفحهٔ [[IConcept:مالیات]] را به [[IConcept:TAXATION]] منتقل کرد</comment>
+      <text xml:space="preserve" bytes="582">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptComment=The discourse of taxation is informed by distinctly different economic and political circumstances in Iran, the concept of taxation in Wiki attempts to reflect the debates surrounding taxation in Iran, and does not necessarily reflect the schemas of the English wiki
+|ConceptSchemas={{Linked schema
+|Schema name=مالیات
+}}{{Linked schema
+|Schema name=مالیات بر ارزش افزوده
+}}{{Linked schema
+|Schema name=مالیات بخش های خصوصی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICAL CORRUPTION</title>
+    <ns>570</ns>
+    <id>2077</id>
+      <sha1>qp1nnckkkdhpph1ar5zr6it9nrnkcld</sha1>
+    <revision>
+      <id>8418</id>
+      <timestamp>2014-08-21T01:22:47Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing schemas: Institutional corrup...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="252">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing schemas: Institutional corruption / Immoral action / Moral corruption / Immorality
+|ConceptSchemas={{Linked schema
+|Schema name=فساد
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SOCIAL CLASS</title>
+    <ns>570</ns>
+    <id>2071</id>
+      <sha1>ismqtav2rrgshx3rww6f90kjzcn6h0f</sha1>
+    <revision>
+      <id>8411</id>
+      <timestamp>2014-08-21T00:08:34Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptComment=Missing two schemas: social ...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="637">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two schemas: social status (part of Social Schemas) and experiencing economic status
+|ConceptSchemas={{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=بیکاری
+}}{{Linked schema
+|Schema name=اشتغال
+}}{{Linked schema
+|Schema name=منابع مالی
+}}{{Linked schema
+|Schema name=درآمد
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}{{Linked schema
+|Schema name=بهبودی وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=طبقه اجتماعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8519</id>
+      <timestamp>2014-09-06T00:24:11Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="694">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two schemas: social status (part of Social Schemas) and experiencing economic status
+|ConceptSchemas={{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=بیکاری
+}}{{Linked schema
+|Schema name=اشتغال
+}}{{Linked schema
+|Schema name=منابع مالی
+}}{{Linked schema
+|Schema name=درآمد
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}{{Linked schema
+|Schema name=بهبودی وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=طبقه اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اجتماعی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8521</id>
+      <timestamp>2014-09-06T00:31:41Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="773">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=Missing two schemas: social status (part of Social Schemas) and experiencing economic status
+|ConceptSchemas={{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=بیکاری
+}}{{Linked schema
+|Schema name=اشتغال
+}}{{Linked schema
+|Schema name=منابع مالی
+}}{{Linked schema
+|Schema name=درآمد
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}{{Linked schema
+|Schema name=بهبودی وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=طبقه اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اجتماعی
+}}{{Linked schema
+|Schema name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8522</id>
+      <timestamp>2014-09-06T00:31:50Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="664">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=بیکاری
+}}{{Linked schema
+|Schema name=اشتغال
+}}{{Linked schema
+|Schema name=منابع مالی
+}}{{Linked schema
+|Schema name=درآمد
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}{{Linked schema
+|Schema name=بهبودی وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=طبقه اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اجتماعی
+}}{{Linked schema
+|Schema name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8586</id>
+      <timestamp>2014-09-23T23:26:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="721">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from ECONOMIC INEQUALITY
+
+|ConceptSchemas={{Linked schema
+|Schema name=وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=بیکاری
+}}{{Linked schema
+|Schema name=اشتغال
+}}{{Linked schema
+|Schema name=منابع مالی
+}}{{Linked schema
+|Schema name=درآمد
+}}{{Linked schema
+|Schema name=توزیع ثروت
+}}{{Linked schema
+|Schema name=بهبودی وضعیت اقتصادی
+}}{{Linked schema
+|Schema name=طبقه اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اجتماعی
+}}{{Linked schema
+|Schema name=داشتن وضعیت اقتصادی مطلوب
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEMOCRACY</title>
+    <ns>570</ns>
+    <id>2056</id>
+      <sha1>4iak8hug7ykytrcut7bvepf5s6sxnh0</sha1>
+    <revision>
+      <id>8344</id>
+      <timestamp>2014-08-19T22:04:57Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=DEMOCRACY |ConceptSchemas={{Linked schema |Schema name=آزادی }}...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="858">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=آزادی
+}}{{Linked schema
+|Schema name=آزادی بیان
+}}{{Linked schema
+|Schema name=ایدئولوژی دموکراتیک
+}}{{Linked schema
+|Schema name=برابری
+}}{{Linked schema
+|Schema name=جامعه مدنی
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=دموکراسی
+}}{{Linked schema
+|Schema name=دولت دموکراتیک
+}}{{Linked schema
+|Schema name=مردم سالاری
+}}{{Linked schema
+|Schema name=مردم سالاری دینی
+}}{{Linked schema
+|Schema name=مشارکت مردم
+}}{{Linked schema
+|Schema name=نمایندگی و تصمیم گیری
+}}{{Linked schema
+|Schema name=نهاد قدرت
+}}{{Linked schema
+|Schema name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8393</id>
+      <timestamp>2014-08-20T23:22:41Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor/>
+      <comment>Ariafani صفحهٔ [[IConcept:دموکراسی‌]] را به [[IConcept:DEMOCRACY]] منتقل کرد</comment>
+      <text xml:space="preserve" bytes="858">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=آزادی
+}}{{Linked schema
+|Schema name=آزادی بیان
+}}{{Linked schema
+|Schema name=ایدئولوژی دموکراتیک
+}}{{Linked schema
+|Schema name=برابری
+}}{{Linked schema
+|Schema name=جامعه مدنی
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=دموکراسی
+}}{{Linked schema
+|Schema name=دولت دموکراتیک
+}}{{Linked schema
+|Schema name=مردم سالاری
+}}{{Linked schema
+|Schema name=مردم سالاری دینی
+}}{{Linked schema
+|Schema name=مشارکت مردم
+}}{{Linked schema
+|Schema name=نمایندگی و تصمیم گیری
+}}{{Linked schema
+|Schema name=نهاد قدرت
+}}{{Linked schema
+|Schema name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8584</id>
+      <timestamp>2014-09-23T23:25:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="861">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=آزادی
+}}{{Linked schema
+|Schema name=آزادی بیان
+}}{{Linked schema
+|Schema name=ایدئولوژی دموکراتیک
+}}{{Linked schema
+|Schema name=برابری
+}}{{Linked schema
+|Schema name=جامعه مدنی
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=دموکراسی
+}}{{Linked schema
+|Schema name=دولت دموکراتیک
+}}{{Linked schema
+|Schema name=مردم سالاری
+}}{{Linked schema
+|Schema name=مردم سالاری دینی
+}}{{Linked schema
+|Schema name=مشارکت مردم
+}}{{Linked schema
+|Schema name=نمایندگی و تصمیم گیری
+}}{{Linked schema
+|Schema name=نهاد قدرت
+}}{{Linked schema
+|Schema name=نهاد های دموکراتیک
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8780</id>
+      <timestamp>2014-12-01T10:01:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1203">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=I added 'دموکراس' as a whitelist LU because it was appearing in IARPA's input xml for m4mapping but wasn't being found in our wiki. --Jisup
+|ConceptSchemas={{Linked schema
+|Schema name=آزادی
+}}{{Linked schema
+|Schema name=آزادی بیان
+}}{{Linked schema
+|Schema name=ایدئولوژی دموکراتیک
+}}{{Linked schema
+|Schema name=برابری
+}}{{Linked schema
+|Schema name=جامعه مدنی
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=دموکراسی
+}}{{Linked schema
+|Schema name=دولت دموکراتیک
+}}{{Linked schema
+|Schema name=مردم سالاری
+}}{{Linked schema
+|Schema name=مردم سالاری دینی
+}}{{Linked schema
+|Schema name=مشارکت مردم
+}}{{Linked schema
+|Schema name=نمایندگی و تصمیم گیری
+}}{{Linked schema
+|Schema name=نهاد قدرت
+}}{{Linked schema
+|Schema name=نهاد های دموکراتیک
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=دموکراس
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+    <revision>
+      <id>8781</id>
+      <timestamp>2014-12-01T10:02:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1199">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=I added 'جمهوری' as a whitelist LU because it was appearing in IARPA's input xml for m4mapping but wasn't being found in our wiki. --Jisup
+|ConceptSchemas={{Linked schema
+|Schema name=آزادی
+}}{{Linked schema
+|Schema name=آزادی بیان
+}}{{Linked schema
+|Schema name=ایدئولوژی دموکراتیک
+}}{{Linked schema
+|Schema name=برابری
+}}{{Linked schema
+|Schema name=جامعه مدنی
+}}{{Linked schema
+|Schema name=حقوق
+}}{{Linked schema
+|Schema name=دموکراسی
+}}{{Linked schema
+|Schema name=دولت دموکراتیک
+}}{{Linked schema
+|Schema name=مردم سالاری
+}}{{Linked schema
+|Schema name=مردم سالاری دینی
+}}{{Linked schema
+|Schema name=مشارکت مردم
+}}{{Linked schema
+|Schema name=نمایندگی و تصمیم گیری
+}}{{Linked schema
+|Schema name=نهاد قدرت
+}}{{Linked schema
+|Schema name=نهاد های دموکراتیک
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=جمهوری
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADERSHIP</title>
+    <ns>570</ns>
+    <id>2075</id>
+      <sha1>206mxyjkwlbvdznign88nqeg5teslgs</sha1>
+    <revision>
+      <id>8416</id>
+      <timestamp>2014-08-21T01:14:09Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing schemas are Organizational le...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="231">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing schemas are Organizational leadership
+ and State leadership
+|ConceptSchemas={{Linked schema
+|Schema name=رهبری
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POVERTY</title>
+    <ns>570</ns>
+    <id>2059</id>
+      <sha1>tsduwt6cjrl2ygcck7au85dxs1juve6</sha1>
+    <revision>
+      <id>8365</id>
+      <timestamp>2014-08-19T23:53:57Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= ECONOMIC INEQUALITY  |ConceptSchemas={{Linked schema |Schema nam...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="295">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= ECONOMIC INEQUALITY 
+|ConceptSchemas={{Linked schema
+|Schema name=برطرف کردن مشکلات اجتماعی
+}}{{Linked schema
+|Schema name=فقر
+}}{{Linked schema
+|Schema name=نابرابری اقتصادی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8368</id>
+      <timestamp>2014-08-20T00:08:10Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="429">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=برطرف کردن مشکلات اجتماعی
+}}{{Linked schema
+|Schema name=فقر
+}}{{Linked schema
+|Schema name=نابرابری اقتصادی
+}}{{Linked schema
+|Schema name=برطرف کردن مشکلات اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اقتصادی
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8395</id>
+      <timestamp>2014-08-20T23:23:08Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor/>
+      <comment>Ariafani صفحهٔ [[IConcept:فقر]] را به [[IConcept:POVERTY]] منتقل کرد</comment>
+      <text xml:space="preserve" bytes="429">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=برطرف کردن مشکلات اجتماعی
+}}{{Linked schema
+|Schema name=فقر
+}}{{Linked schema
+|Schema name=نابرابری اقتصادی
+}}{{Linked schema
+|Schema name=برطرف کردن مشکلات اجتماعی
+}}{{Linked schema
+|Schema name=وضعیت اقتصادی
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ELECTIONS</title>
+    <ns>570</ns>
+    <id>2057</id>
+      <sha1>itolhah07iwi737uvsciw7ij0z4ahs1</sha1>
+    <revision>
+      <id>8345</id>
+      <timestamp>2014-08-19T22:17:17Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup= DEMOCRACY  |ConceptSchemas={{Linked schema |Schema name=انتخ...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="290">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup= DEMOCRACY 
+|ConceptSchemas={{Linked schema
+|Schema name=انتخابات
+}}{{Linked schema
+|Schema name=حق رأی
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=رأی گیری
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8348</id>
+      <timestamp>2014-08-19T22:29:29Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text xml:space="preserve" bytes="401">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=انتخابات
+}}{{Linked schema
+|Schema name=حق رأی
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=رأی گیری
+}}{{Linked schema
+|Schema name=رقابت سیاسی
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8391</id>
+      <timestamp>2014-08-20T23:22:06Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor/>
+      <comment>Ariafani صفحهٔ [[IConcept:انتخابات]] را به [[IConcept:ELECTIONS]] منتقل کرد</comment>
+      <text xml:space="preserve" bytes="401">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=انتخابات
+}}{{Linked schema
+|Schema name=حق رأی
+}}{{Linked schema
+|Schema name=رأی دادن
+}}{{Linked schema
+|Schema name=رأی گیری
+}}{{Linked schema
+|Schema name=رقابت سیاسی
+}}{{Linked schema
+|Schema name=تصمیم گیری دولت
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEGISLATION</title>
+    <ns>570</ns>
+    <id>2076</id>
+      <sha1>o9y8bn1cd2tbfmyugmz8byr1du42yhe</sha1>
+    <revision>
+      <id>8417</id>
+      <timestamp>2014-08-21T01:18:10Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptComment=Missing schemas are Legislation draft...» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="345">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing schemas are Legislation drafting / Legislation enactment / Gun control legislation / Gun rights legislation
+|ConceptSchemas={{Linked schema
+|Schema name=عمل قانونگذاری
+}}{{Linked schema
+|Schema name=قوه مقننه
+}}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1487 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="es">
+  <siteinfo>
+    <sitename>Spanish Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medio</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discusión</namespace>
+      <namespace key="2" case="first-letter">Usuario</namespace>
+      <namespace key="3" case="first-letter">Usuario discusión</namespace>
+      <namespace key="4" case="first-letter">Spanish Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Spanish Metaphor Wiki discusión</namespace>
+      <namespace key="6" case="first-letter">Archivo</namespace>
+      <namespace key="7" case="first-letter">Archivo discusión</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki discusión</namespace>
+      <namespace key="10" case="first-letter">Plantilla</namespace>
+      <namespace key="11" case="first-letter">Plantilla discusión</namespace>
+      <namespace key="12" case="first-letter">Ayuda</namespace>
+      <namespace key="13" case="first-letter">Ayuda discusión</namespace>
+      <namespace key="14" case="first-letter">Categoría</namespace>
+      <namespace key="15" case="first-letter">Categoría discusión</namespace>
+      <namespace key="102" case="first-letter">Atributo</namespace>
+      <namespace key="103" case="first-letter">Discusión atributo</namespace>
+      <namespace key="106" case="first-letter">Formulario</namespace>
+      <namespace key="107" case="first-letter">Discusión formulario</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Esquemas de regulaciones</title>
+    <ns>0</ns>
+    <id>6768</id>
+      <sha1>q8jzcxm27muu89zaxykgu47y5dyvqc0</sha1>
+    <revision>
+      <id>12099</id>
+      <timestamp>2013-10-10T20:10:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of regulations  |is subfamily of=Esquemas de Gobernación |LinkEnglish=Regulation schemas }}»</comment>
+      <text xml:space="preserve" bytes="128">{{Schema family
+|Name gloss=schemas of regulations 
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Regulation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>13266</id>
+      <timestamp>2014-01-28T00:07:20Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="128">{{Schema family
+|Name gloss=schemas of regulations
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Regulations schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Acción</title>
+    <ns>0</ns>
+    <id>6687</id>
+      <sha1>9ozul7f6qhzs7qzr08bvtmg1zll2nfy</sha1>
+    <revision>
+      <id>11654</id>
+      <timestamp>2013-09-16T03:01:39Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=action schemas }}»</comment>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|Name gloss=action schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de ubicación</title>
+    <ns>0</ns>
+    <id>6795</id>
+      <sha1>skabk6pk8b57464b0y082za2gm1m781</sha1>
+    <revision>
+      <id>12259</id>
+      <timestamp>2013-11-11T04:30:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of location |LinkEnglish=Location schemas }}»</comment>
+      <text xml:space="preserve" bytes="80">{{Schema family
+|Name gloss=schemas of location
+|LinkEnglish=Location schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Democracia</title>
+    <ns>0</ns>
+    <id>6904</id>
+      <sha1>sqa074tc8dnmy6mlxstlgby3li561ow</sha1>
+    <revision>
+      <id>13356</id>
+      <timestamp>2014-03-09T09:16:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of democracy |LinkEnglish=Democracy schemas }}»</comment>
+      <text xml:space="preserve" bytes="82">{{Schema family
+|Name gloss=schemas of democracy
+|LinkEnglish=Democracy schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de proteger</title>
+    <ns>0</ns>
+    <id>7210</id>
+      <sha1>46x9mdmhd1inzh4wi270qo7zvfsdoe3</sha1>
+    <revision>
+      <id>15105</id>
+      <timestamp>2015-01-01T18:25:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of protecting |LinkEnglish=Protecting schemas }} source schema family»</comment>
+      <text xml:space="preserve" bytes="105">{{Schema family
+|Name gloss=schemas of protecting
+|LinkEnglish=Protecting schemas
+}}
+source schema family</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Deuda</title>
+    <ns>0</ns>
+    <id>6653</id>
+      <sha1>680jkf4f8x6pkptfw95w5q4060wey5h</sha1>
+    <revision>
+      <id>11400</id>
+      <timestamp>2013-09-15T06:08:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of debt |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=schemas of debt
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de legislación</title>
+    <ns>0</ns>
+    <id>6765</id>
+      <sha1>rkyjr2e72ec20lyzhc94947j3r6ybrd</sha1>
+    <revision>
+      <id>12090</id>
+      <timestamp>2013-10-10T19:51:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of legislation |is subfamily of=Esquemas de Gobierno |LinkEnglish=Legislation schemas }}»</comment>
+      <text xml:space="preserve" bytes="124">{{Schema family
+|Name gloss=schemas of legislation
+|is subfamily of=Esquemas de Gobierno
+|LinkEnglish=Legislation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>12095</id>
+      <timestamp>2013-10-10T19:59:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="128">{{Schema family
+|Name gloss=schemas of legislation
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Legislation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de político</title>
+    <ns>0</ns>
+    <id>6770</id>
+      <sha1>d2xiacqf85rkayhzqrqjj9czopv12rc</sha1>
+    <revision>
+      <id>12102</id>
+      <timestamp>2013-10-10T20:18:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of politicans |is subfamily of=Esquemas de Gobernación |LinkEnglish=Politicians schemas }}»</comment>
+      <text xml:space="preserve" bytes="127">{{Schema family
+|Name gloss=schemas of politicans
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Politicians schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas Camino</title>
+    <ns>0</ns>
+    <id>6685</id>
+      <sha1>obuzvhr4s8mw0g8du26vt0uwein0pfj</sha1>
+    <revision>
+      <id>11628</id>
+      <timestamp>2013-09-16T02:29:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=path schemas }}»</comment>
+      <text xml:space="preserve" bytes="43">{{Schema family
+|Name gloss=path schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Emoción</title>
+    <ns>0</ns>
+    <id>6546</id>
+      <sha1>3z0kyuv5v5ev11rapnde6e4k0i7lnxe</sha1>
+    <revision>
+      <id>10763</id>
+      <timestamp>2013-08-04T19:56:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of emotion }}»</comment>
+      <text xml:space="preserve" bytes="49">{{Schema family
+|Name gloss=schemas of emotion
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de conflicto físico</title>
+    <ns>0</ns>
+    <id>6852</id>
+      <sha1>781zjsnsggwcgqt1re3c73kzwmxls7x</sha1>
+    <revision>
+      <id>12642</id>
+      <timestamp>2013-11-16T23:55:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of conflict physical |LinkEnglish=Physical conflict schemas }}»</comment>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=schemas of conflict physical
+|LinkEnglish=Physical conflict schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de burocracia</title>
+    <ns>0</ns>
+    <id>6767</id>
+      <sha1>fuu9ewbkja9zleu7onwp8sze60yve2c</sha1>
+    <revision>
+      <id>12097</id>
+      <timestamp>2013-10-10T20:06:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of bureaucracy |is subfamily of=Esquemas de Gobernación |LinkEnglish=Bureaucracy schemas }}»</comment>
+      <text xml:space="preserve" bytes="128">{{Schema family
+|Name gloss=schemas of bureaucracy
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Bureaucracy schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Acceso a la educación</title>
+    <ns>0</ns>
+    <id>6618</id>
+      <sha1>92hfi5ufznpull9uk1louax8c18kf3n</sha1>
+    <revision>
+      <id>11128</id>
+      <timestamp>2013-09-13T19:05:16Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=access to education schemas }}»</comment>
+      <text xml:space="preserve" bytes="58">{{Schema family
+|Name gloss=access to education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11392</id>
+      <timestamp>2013-09-15T06:00:09Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="110">{{Schema family
+|Name gloss=access to education schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12044</id>
+      <timestamp>2013-10-10T06:33:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="151">{{Schema family
+|Name gloss=access to education schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>12045</id>
+      <timestamp>2013-10-10T06:34:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="151">{{Schema family
+|Name gloss=access to education schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to Education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>12046</id>
+      <timestamp>2013-10-10T06:34:30Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">{{Schema family
+|Name gloss=schemas of access to the education
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to Education schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de evaluación</title>
+    <ns>0</ns>
+    <id>6529</id>
+      <sha1>p0kss4uw0pbe2dwyfrekz78h1kxq8bo</sha1>
+    <revision>
+      <id>10715</id>
+      <timestamp>2013-08-04T03:56:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=evaluation schemas }}»</comment>
+      <text xml:space="preserve" bytes="49">{{Schema family
+|Name gloss=evaluation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas que se relacionan con estados</title>
+    <ns>0</ns>
+    <id>5193</id>
+      <sha1>ry0r696jgr11odfqr1t2ynub880rrd4</sha1>
+    <revision>
+      <id>8892</id>
+      <timestamp>2013-03-21T04:17:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas that relate to states }}»</comment>
+      <text xml:space="preserve" bytes="60">{{Schema family
+|Name gloss=schemas that relate to states
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de daño</title>
+    <ns>0</ns>
+    <id>6751</id>
+      <sha1>ekykzbc2mqevw2ruqiosut7ld8us5aq</sha1>
+    <revision>
+      <id>12032</id>
+      <timestamp>2013-10-10T06:12:59Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of harm |LinkEnglish=Harm }}»</comment>
+      <text xml:space="preserve" bytes="64">{{Schema family
+|Name gloss=schemas of harm
+|LinkEnglish=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de los ricos</title>
+    <ns>0</ns>
+    <id>6620</id>
+      <sha1>c7kt5c5tab8sgshnrl8cjyx88832rcb</sha1>
+    <revision>
+      <id>11155</id>
+      <timestamp>2013-09-13T19:23:23Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=the rich schemas }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=the rich schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11156</id>
+      <timestamp>2013-09-13T19:24:13Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="99">{{Schema family
+|Name gloss=the rich schemas
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de la Clase Media</title>
+    <ns>0</ns>
+    <id>6656</id>
+      <sha1>tq4c9axrkad6hbkz0e7jf3ga30gw414</sha1>
+    <revision>
+      <id>11406</id>
+      <timestamp>2013-09-15T06:11:40Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of the middle class |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text xml:space="preserve" bytes="110">{{Schema family
+|Name gloss=schemas of the middle class
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de líderes</title>
+    <ns>0</ns>
+    <id>6771</id>
+      <sha1>8f363x59bbj7r5flmqrc5h4ctflo50u</sha1>
+    <revision>
+      <id>12104</id>
+      <timestamp>2013-10-10T20:21:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of leaders |is subfamily of=Esquemas de Gobernación |LinkEnglish=Leaders schemas }}»</comment>
+      <text xml:space="preserve" bytes="120">{{Schema family
+|Name gloss=schemas of leaders
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Leaders schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de la política</title>
+    <ns>0</ns>
+    <id>6769</id>
+      <sha1>djt863wn4u2kvlwl00cbhyqswdpyc1r</sha1>
+    <revision>
+      <id>12101</id>
+      <timestamp>2013-10-10T20:14:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of the politics |is subfamily of=Esquemas de Gobernación |LinkEnglish=Politics schemas }}»</comment>
+      <text xml:space="preserve" bytes="126">{{Schema family
+|Name gloss=schemas of the politics
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Politics schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de entidades</title>
+    <ns>0</ns>
+    <id>5165</id>
+      <sha1>69uodyx0qqpqx1fm3lbyf9hm6ncparn</sha1>
+    <revision>
+      <id>8757</id>
+      <timestamp>2013-03-16T07:12:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Schemas of entities }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|Name gloss=Schemas of entities
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de visión</title>
+    <ns>0</ns>
+    <id>6800</id>
+      <sha1>jwzuam8gl4ef58htwixx9r91i5kdawj</sha1>
+    <revision>
+      <id>12285</id>
+      <timestamp>2013-11-11T06:09:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of vision |is subfamily of=Esquemas de Percepción }}»</comment>
+      <text xml:space="preserve" bytes="89">{{Schema family
+|Name gloss=schemas of vision
+|is subfamily of=Esquemas de Percepción
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas excluidos</title>
+    <ns>0</ns>
+    <id>6871</id>
+      <sha1>6t6sny1tn2w4mvvxc35b45g2qxhp6wf</sha1>
+    <revision>
+      <id>12754</id>
+      <timestamp>2013-11-18T08:06:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas excluded  |LinkEnglish=Excluded schemas }}»</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|Name gloss=schemas excluded 
+|LinkEnglish=Excluded schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Cognición</title>
+    <ns>0</ns>
+    <id>6550</id>
+      <sha1>9oz06lrspxl55ka5g2z0usgramks896</sha1>
+    <revision>
+      <id>10782</id>
+      <timestamp>2013-08-04T21:59:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=cognition schemas }}»</comment>
+      <text xml:space="preserve" bytes="48">{{Schema family
+|Name gloss=cognition schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de la ley</title>
+    <ns>0</ns>
+    <id>6764</id>
+      <sha1>q19motp0svvmsifx8fd384izwmasgi9</sha1>
+    <revision>
+      <id>12088</id>
+      <timestamp>2013-10-10T19:47:42Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of the law |is subfamily of=Esquemas de Gobierno |LinkEnglish=The Law schemas }}»</comment>
+      <text xml:space="preserve" bytes="116">{{Schema family
+|Name gloss=schemas of the law
+|is subfamily of=Esquemas de Gobierno
+|LinkEnglish=The Law schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>12094</id>
+      <timestamp>2013-10-10T19:58:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="120">{{Schema family
+|Name gloss=schemas of the law
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=The Law schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Desigualdad Económica</title>
+    <ns>0</ns>
+    <id>6651</id>
+      <sha1>n65iyx3xpa9y0h0cvroxirchn810909</sha1>
+    <revision>
+      <id>11391</id>
+      <timestamp>2013-09-15T05:58:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of economic inequality }}»</comment>
+      <text xml:space="preserve" bytes="61">{{Schema family
+|Name gloss=schemas of economic inequality
+}}</text>
+    </revision>
+    <revision>
+      <id>12043</id>
+      <timestamp>2013-10-10T06:32:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="140">{{Schema family
+|Name gloss=schemas of economic inequality
+|is subfamily of=Esquemas económicos
+|LinkEnglish=Economic Inequality Schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>13259</id>
+      <timestamp>2013-12-22T19:42:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="140">{{Schema family
+|Name gloss=schemas of economic inequality
+|is subfamily of=Esquemas económicos
+|LinkEnglish=Economic Inequality schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>13458</id>
+      <timestamp>2014-05-13T01:10:42Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="102">{{Schema family
+|Name gloss=schemas of economic inequality
+|LinkEnglish=Economic Inequality schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Riqueza y clase social</title>
+    <ns>0</ns>
+    <id>6619</id>
+      <sha1>qxtmb5dk86vydjt20dg3zyc27dhhwj4</sha1>
+    <revision>
+      <id>11130</id>
+      <timestamp>2013-09-13T19:10:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=wealth and social class schemas |is subfamily of=Desigualdad_económica }}»</comment>
+      <text xml:space="preserve" bytes="102">{{Schema family
+|Name gloss=wealth and social class schemas
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11377</id>
+      <timestamp>2013-09-15T05:42:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="114">{{Schema family
+|Name gloss=wealth and social class schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12057</id>
+      <timestamp>2013-10-10T06:50:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="162">{{Schema family
+|Name gloss=schemas of wealth and class social
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Riqueza</title>
+    <ns>0</ns>
+    <id>6616</id>
+      <sha1>kq61bs77moups94y93ahy88ex3l1ptg</sha1>
+    <revision>
+      <id>11126</id>
+      <timestamp>2013-09-13T19:03:49Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Wealth schemas }}»</comment>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|Name gloss=Wealth schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11161</id>
+      <timestamp>2013-09-13T19:29:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="85">{{Schema family
+|Name gloss=Wealth schemas
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11162</id>
+      <timestamp>2013-09-13T19:29:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="85">{{Schema family
+|Name gloss=wealth schemas
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11298</id>
+      <timestamp>2013-09-14T23:43:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="97">{{Schema family
+|Name gloss=wealth schemas
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+    <revision>
+      <id>12966</id>
+      <timestamp>2013-11-20T23:40:16Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="125">{{Schema family
+|Name gloss=wealth schemas
+|is subfamily of=Esquemas de Riqueza y clase social
+|LinkEnglish=Wealth schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas asociados al cambio</title>
+    <ns>0</ns>
+    <id>7213</id>
+      <sha1>pnm4mqbtwo6etv5vdxmxl2wyqnjtjjv</sha1>
+    <revision>
+      <id>15125</id>
+      <timestamp>2015-01-02T22:10:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas associated with change |LinkEnglish=Change-related schemas }}»</comment>
+      <text xml:space="preserve" bytes="97">{{Schema family
+|Name gloss=schemas associated with change
+|LinkEnglish=Change-related schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Percepción</title>
+    <ns>0</ns>
+    <id>6635</id>
+      <sha1>di6mr7kx1hom4ed7v8p5f2okh3q7ii6</sha1>
+    <revision>
+      <id>11309</id>
+      <timestamp>2013-09-15T00:18:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of perception }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Schema family
+|Name gloss=schemas of perception
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Verticalidad</title>
+    <ns>0</ns>
+    <id>6698</id>
+      <sha1>jip5cixwoye7hk8gk3wkrtoq8it4tu3</sha1>
+    <revision>
+      <id>11785</id>
+      <timestamp>2013-09-16T22:20:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=verticality schemas }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|Name gloss=verticality schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Educación</title>
+    <ns>0</ns>
+    <id>6532</id>
+      <sha1>577i2nskakt41u6ylexb2g13ws1eo1r</sha1>
+    <revision>
+      <id>10722</id>
+      <timestamp>2013-08-04T05:10:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=education schemas |is subfamily of=Esquemas Económicos }}»</comment>
+      <text xml:space="preserve" bytes="86">{{Schema family
+|Name gloss=education schemas
+|is subfamily of=Esquemas Económicos
+}}</text>
+    </revision>
+    <revision>
+      <id>11375</id>
+      <timestamp>2013-09-15T05:40:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="100">{{Schema family
+|Name gloss=education schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11394</id>
+      <timestamp>2013-09-15T06:00:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="100">{{Schema family
+|Name gloss=education schemas
+|is subfamily of=Esquemas de Acceso a la educación
+}}</text>
+    </revision>
+    <revision>
+      <id>12047</id>
+      <timestamp>2013-10-10T06:35:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="134">{{Schema family
+|Name gloss=schemas of education
+|is subfamily of=Esquemas de Acceso a la educación
+|LinkEnglish=Education schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de movimiento</title>
+    <ns>0</ns>
+    <id>5842</id>
+      <sha1>hhtlaz40di62y857bu3absbz94jry8l</sha1>
+    <revision>
+      <id>9855</id>
+      <timestamp>2013-04-26T02:11:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of movement }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|Name gloss=schemas of movement
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de posesión</title>
+    <ns>0</ns>
+    <id>5219</id>
+      <sha1>dtx5kt0c0vo0xm0rbi2m14z7tb4uuk4</sha1>
+    <revision>
+      <id>9027</id>
+      <timestamp>2013-04-18T01:27:50Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Schemas of possession }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Schema family
+|Name gloss=Schemas of possession
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de estabilidad</title>
+    <ns>0</ns>
+    <id>7120</id>
+      <sha1>pxu8keeqfg732qbd241nr83rzr4bioi</sha1>
+    <revision>
+      <id>14650</id>
+      <timestamp>2014-08-24T19:55:40Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of stability }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Schema family
+|Name gloss=schemas of stability
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Recursos</title>
+    <ns>0</ns>
+    <id>6657</id>
+      <sha1>po5hh7a9d60fgd5otsq3gjjva8wof2s</sha1>
+    <revision>
+      <id>11414</id>
+      <timestamp>2013-09-15T06:19:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of resources }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Schema family
+|Name gloss=schemas of resources
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Clase Social</title>
+    <ns>0</ns>
+    <id>6654</id>
+      <sha1>pizt40f160vzis95hy64wugkmsht0p0</sha1>
+    <revision>
+      <id>11402</id>
+      <timestamp>2013-09-15T06:09:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of social class |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text xml:space="preserve" bytes="106">{{Schema family
+|Name gloss=schemas of social class
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de moralidad</title>
+    <ns>0</ns>
+    <id>6804</id>
+      <sha1>8ngba6y0mba69gbuc2b324swzbip5wb</sha1>
+    <revision>
+      <id>12297</id>
+      <timestamp>2013-11-11T06:35:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of morality }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|Name gloss=schemas of morality
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Votar</title>
+    <ns>0</ns>
+    <id>6910</id>
+      <sha1>pe4mlwbbzvch94tb8i3rwg6ix7wu04b</sha1>
+    <revision>
+      <id>13369</id>
+      <timestamp>2014-03-13T05:50:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Election schemas }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=Election schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>13371</id>
+      <timestamp>2014-03-13T05:56:23Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="126">{{Schema family
+|Name gloss=Election schemas
+|is subfamily of=Esquemas de Democracia
+}}
+Refers to Election Schemas in English.</text>
+    </revision>
+    <revision>
+      <id>13376</id>
+      <timestamp>2014-03-13T16:59:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="156">{{Schema family
+|Name gloss=Election schemas
+|is subfamily of=Esquemas de Democracia
+|LinkEnglish=Election schemas
+}}
+Refers to Election Schemas in English.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Gobernación</title>
+    <ns>0</ns>
+    <id>6766</id>
+      <sha1>1tbwz9gkdyex92so3ynyj5bif190h0h</sha1>
+    <revision>
+      <id>12092</id>
+      <timestamp>2013-10-10T19:56:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of governance |LinkEnglish=Governance schemas }}»</comment>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|Name gloss=schemas of governance
+|LinkEnglish=Governance schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de escala</title>
+    <ns>0</ns>
+    <id>5157</id>
+      <sha1>05xdrv9aggvo9g15m73klkqwrnha77o</sha1>
+    <revision>
+      <id>8718</id>
+      <timestamp>2013-03-13T22:14:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Schemas of scale }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=Schemas of scale
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Pobreza</title>
+    <ns>0</ns>
+    <id>6531</id>
+      <sha1>o8nk7clm10lbxr4513urzm6pnq6vkrb</sha1>
+    <revision>
+      <id>10718</id>
+      <timestamp>2013-08-04T05:01:14Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=poverty schemas |is subfamily of=Esquemas Económicos }}»</comment>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|Name gloss=poverty schemas
+|is subfamily of=Esquemas Económicos
+}}</text>
+    </revision>
+    <revision>
+      <id>11386</id>
+      <timestamp>2013-09-15T05:51:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=poverty schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12048</id>
+      <timestamp>2013-10-10T06:35:46Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="130">{{Schema family
+|Name gloss=schemas of poverty
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Poverty schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Comunicación</title>
+    <ns>0</ns>
+    <id>6747</id>
+      <sha1>a6ogl5pljuli1pxsg3kwihfja0sjuo0</sha1>
+    <revision>
+      <id>12017</id>
+      <timestamp>2013-10-10T05:16:25Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=communication schemas |LinkEnglish=Communication Schemas }}»</comment>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|Name gloss=communication schemas
+|LinkEnglish=Communication Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de los pobres</title>
+    <ns>0</ns>
+    <id>6878</id>
+      <sha1>8l2j0yswm1t07s6pawt46l1v3bvfgh7</sha1>
+    <revision>
+      <id>12984</id>
+      <timestamp>2013-11-21T00:07:15Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |is subfamily of=Esquemas de Pobreza |LinkEnglish=The poor schemas }}»</comment>
+      <text xml:space="preserve" bytes="85">{{Schema family
+|is subfamily of=Esquemas de Pobreza
+|LinkEnglish=The poor schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Impuestos</title>
+    <ns>0</ns>
+    <id>6617</id>
+      <sha1>nk2gudm1k8wxt22x0kveocn82muzsna</sha1>
+    <revision>
+      <id>11127</id>
+      <timestamp>2013-09-13T19:04:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=tax schemas }}»</comment>
+      <text xml:space="preserve" bytes="42">{{Schema family
+|Name gloss=tax schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11166</id>
+      <timestamp>2013-09-13T20:54:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|Name gloss=tax schemas
+|is subfamily of=Esquemas de tributación
+}}</text>
+    </revision>
+    <revision>
+      <id>12051</id>
+      <timestamp>2013-10-10T06:41:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="116">{{Schema family
+|Name gloss=schemas of taxes
+|is subfamily of=Esquemas de tributación
+|LinkEnglish=Taxes schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Dinero</title>
+    <ns>0</ns>
+    <id>6655</id>
+      <sha1>0wqypnki10n5wrcipyn4onuei7vo70p</sha1>
+    <revision>
+      <id>11404</id>
+      <timestamp>2013-09-15T06:10:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of money |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text xml:space="preserve" bytes="99">{{Schema family
+|Name gloss=schemas of money
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Luz</title>
+    <ns>0</ns>
+    <id>6808</id>
+      <sha1>jhsnzpw0y8522khokakkm4yzttzf4dh</sha1>
+    <revision>
+      <id>12304</id>
+      <timestamp>2013-11-11T06:51:29Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of light }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=schemas of light
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Comida</title>
+    <ns>0</ns>
+    <id>6652</id>
+      <sha1>2tdogifj269ex0ws4vooqg5t4pda9gd</sha1>
+    <revision>
+      <id>11396</id>
+      <timestamp>2013-09-15T06:03:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of eating }}»</comment>
+      <text xml:space="preserve" bytes="48">{{Schema family
+|Name gloss=schemas of eating
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de función del gobierno</title>
+    <ns>0</ns>
+    <id>6889</id>
+      <sha1>s1or3zm46ea0s7ksgk9xo5r1zqqb7va</sha1>
+    <revision>
+      <id>13303</id>
+      <timestamp>2014-02-14T20:09:54Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=Schemas of function of government |is subfamily of=Esquemas de Gobernación |LinkEnglish=Function of Government schemas }}»</comment>
+      <text xml:space="preserve" bytes="150">{{Schema family
+|Name gloss=Schemas of function of government
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Function of Government schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Tributación</title>
+    <ns>0</ns>
+    <id>6621</id>
+      <sha1>027h7lpaealnse9n6hm3om4nz5god4w</sha1>
+    <revision>
+      <id>11164</id>
+      <timestamp>2013-09-13T19:58:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=taxation schemas }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=taxation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11165</id>
+      <timestamp>2013-09-13T19:59:29Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|Name gloss=taxation schemas
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Gobierno</title>
+    <ns>0</ns>
+    <id>6659</id>
+      <sha1>deqk7v5cojy3isb0ji6zf8o56iv9wvy</sha1>
+    <revision>
+      <id>11428</id>
+      <timestamp>2013-09-15T07:26:56Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=schemas of governing }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Schema family
+|Name gloss=schemas of governing
+}}</text>
+    </revision>
+    <revision>
+      <id>12093</id>
+      <timestamp>2013-10-10T19:57:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="126">{{Schema family
+|Name gloss=schemas of government
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Government schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas que se relacionan con propiedades</title>
+    <ns>0</ns>
+    <id>6556</id>
+      <sha1>2qxh2fyhen25ls9hvp3513jtnz3x46x</sha1>
+    <revision>
+      <id>10832</id>
+      <timestamp>2013-08-06T00:38:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=property-related schemas }}»</comment>
+      <text xml:space="preserve" bytes="55">{{Schema family
+|Name gloss=property-related schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de tributación</title>
+    <ns>0</ns>
+    <id>6561</id>
+      <sha1>027h7lpaealnse9n6hm3om4nz5god4w</sha1>
+    <revision>
+      <id>10865</id>
+      <timestamp>2013-08-06T07:18:45Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=taxation schemas }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=taxation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>11167</id>
+      <timestamp>2013-09-13T20:54:34Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|Name gloss=taxation schemas
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11379</id>
+      <timestamp>2013-09-15T05:45:45Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="99">{{Schema family
+|Name gloss=taxation schemas
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12050</id>
+      <timestamp>2013-10-10T06:40:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="132">{{Schema family
+|Name gloss=schemas of taxation
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Taxation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas de Imágenes</title>
+    <ns>0</ns>
+    <id>6549</id>
+      <sha1>o0hs1se9seikeuj7hab8g56kvt1hqub</sha1>
+    <revision>
+      <id>10775</id>
+      <timestamp>2013-08-04T20:52:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=image schemas }}»</comment>
+      <text xml:space="preserve" bytes="44">{{Schema family
+|Name gloss=image schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Esquemas económicos</title>
+    <ns>0</ns>
+    <id>6560</id>
+      <sha1>tmuj4mn51qwsbsu8grfnrcjulpr1xai</sha1>
+    <revision>
+      <id>10858</id>
+      <timestamp>2013-08-06T06:46:21Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Schema family |Name gloss=economic schemas }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Schema family
+|Name gloss=economic schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>12109</id>
+      <timestamp>2013-10-10T21:16:27Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|Name gloss=schemas economics
+|LinkEnglish=Economic schemas
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

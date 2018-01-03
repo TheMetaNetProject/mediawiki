@@ -1,0 +1,467 @@
+Schema:Corrupción institucional
+Schema:Entidades colectivas
+Schema:Racionalidad
+Schema:Aplicación-fuerza
+Schema:Gas
+Schema:Cuerpo de agua
+Schema:Comunicación
+Schema:Campaña electoral
+Schema:Tierra salvaje
+Schema:Votación
+Schema:Estado
+Schema:Evaluación
+Schema:Cambio hacia más oscuro
+Schema:Diagnóstico de afliccón física
+Schema:Llegar a un destino
+Schema:Pastorear
+Schema:Deuda
+Schema:Estar en una ubicación
+Schema:Felicidad
+Schema:Importancia
+Schema:Objeto afilado
+Schema:Firme
+Schema:Toma de decisiones del gobierno
+Schema:Institución social
+Schema:Economía
+Schema:Estar en un región delimitada
+Schema:Trabajo
+Schema:Vehículo
+Schema:Caber
+Schema:Negociación
+Schema:Movimiento de ida y vuelta
+Schema:Alimentos ricos
+Schema:Cuidado de una planta
+Schema:Eje
+Schema:Movimiento en líquido
+Schema:Igualdad
+Schema:Emoción
+Schema:Consciencia
+Schema:Detener flujo de aire
+Schema:Borde
+Schema:Crimen
+Schema:Acción
+Schema:Ayudas a la acción
+Schema:Acción moral
+Schema:Acceso
+Schema:Sueldo
+Schema:Peligro
+Schema:Daño ambiental
+Schema:Reglamento
+Schema:Ira
+Schema:Derechos
+Schema:Agarrar
+Schema:Pirámide
+Schema:Inanición
+Schema:Liberar líquido
+Schema:Proceso Complejo
+Schema:Padres
+Schema:Encierros ambientales
+Schema:Náutico
+Schema:Presión en un contenedor
+Schema:Cantidad
+Schema:Juego
+Schema:Movimiento hacia abajo
+Schema:Poder económico
+Schema:Escala vertical
+Schema:Proteger
+Schema:Causar daño físico
+Schema:Política laboral
+Schema:Centro-periferia
+Schema:Estado de economía
+Schema:Animal
+Schema:Oportunidad
+Schema:Funcionamiento corporal
+Schema:Locura
+Schema:Situación
+Schema:Navío
+Schema:Restaurar a la vida
+Schema:Líder
+Schema:Medir
+Schema:Próximo
+Schema:Criatura chupasangre
+Schema:Igualdad política
+Schema:Estado mental
+Schema:Tiranía
+Schema:Remoción de obstáculos
+Schema:Agrupación geopolítica
+Schema:Nación
+Schema:Impacto
+Schema:Dinero
+Schema:Transferir
+Schema:Bondad
+Schema:Desigualdad económica
+Schema:Democracia
+Schema:Movimiento hacia atrás
+Schema:Relación de miembros del grupo
+Schema:Perder una posesión
+Schema:Vida
+Schema:Cambiar a estable
+Schema:Partida-ruta-meta
+Schema:Movimiento forzado
+Schema:Máquina
+Schema:Región delimitada
+Schema:Capacidad de actuar
+Schema:X-esquema
+Schema:Cambio hacia más luminoso
+Schema:Acción inmoral
+Schema:Fuego
+Schema:Finanzas
+Schema:Cambiar de tamaño
+Schema:Viento
+Schema:Pureza
+Schema:Control
+Schema:Tratamiento de salud
+Schema:Inestable
+Schema:Toma de decisiones
+Schema:Deidad
+Schema:Relación romántica
+Schema:Confinamiento hundido
+Schema:Viaje
+Schema:Destruir
+Schema:Servicios domésticos
+Schema:Explosión
+Schema:La clase media
+Schema:Autoiniciado cambio de estado
+Schema:Deformar
+Schema:Teoría
+Schema:Manipulación de un objeto
+Schema:Obstáculos al movimiento para adelante
+Schema:Persona
+Schema:Cultivo
+Schema:Manejar un vehículo
+Schema:Esclavitud
+Schema:Proceso de luz
+Schema:Funcionalidad
+Schema:Líquido
+Schema:Movimiento de fluidos
+Schema:Consumir
+Schema:Escapar
+Schema:Escala lineal
+Schema:Actividad
+Schema:Movimiento forzado a lo largo de una escala vertical
+Schema:Matar
+Schema:Libertad
+Schema:Tristeza
+Schema:Reglamentos gubernamentales
+Schema:Encierros acuáticos
+Schema:Secuestrar
+Schema:Relación
+Schema:Estar en un lugar alto
+Schema:Ayudas al movimiento
+Schema:Ley
+Schema:Grupos sociales
+Schema:Percepción
+Schema:Fábrica
+Schema:Elección
+Schema:Participación ciudadana
+Schema:Fuerza física
+Schema:Enfermedad
+Schema:Empleo
+Schema:Libertad de acción
+Schema:Contención subterráneo
+Schema:Los pobres
+Schema:Movimiento autopropulsado hacia un destino
+Schema:Acción propositiva
+Schema:Estable
+Schema:Guerra
+Schema:Adversidad
+Schema:Peste
+Schema:Drogas
+Schema:Sociedad
+Schema:Estructura física
+Schema:Promulgación de legislación
+Schema:Lejano
+Schema:Acceso físico a un objeto
+Schema:Medicina
+Schema:Cierra de un portal
+Schema:Entender
+Schema:Estructura compleja
+Schema:Debilidad física
+Schema:Entendimiento
+Schema:Tocar
+Schema:Grandes características geográficas
+Schema:Autoridad moral
+Schema:Entierro
+Schema:Fanatismo
+Schema:Fuente de luz
+Schema:Salud
+Schema:Daño psicológico
+Schema:Movimiento guiado
+Schema:Movimiento
+Schema:Acción legislativa
+Schema:Colocar en un lugar protegido
+Schema:Disfraz
+Schema:Camino
+Schema:Entidad física
+Schema:Poder
+Schema:Pluralidad
+Schema:Estatus económico
+Schema:Tamaño
+Schema:Peso corporal
+Schema:Cambio de ubicación causado
+Schema:Explotación financiera
+Schema:Liderazgo
+Schema:Próximo lejano
+Schema:Temperatura del cuerpo
+Schema:Pago
+Schema:Restricciones construidas
+Schema:Daño físico
+Schema:Encierros construidos
+Schema:Proximidad
+Schema:Generar recursos económicos
+Schema:Aula
+Schema:Pájaro
+Schema:Cambio de posesión
+Schema:Bondad moral
+Schema:Similitud
+Schema:Presión
+Schema:Acción gobernante
+Schema:Verticalidad
+Schema:Transferencia forzada
+Schema:Recursos económicos
+Schema:Finanzas públicas
+Schema:Dificultades en la acción
+Schema:Acciones
+Schema:Caminos hacia fuera de un lugar
+Schema:Movimiento a lo largo de un camino
+Schema:Comida
+Schema:Los ricos
+Schema:Cuerpo
+Schema:Enscenario de ver
+Schema:Autoridad
+Schema:Fuerzas naturales
+Schema:Idea
+Schema:Disminución de tamaño
+Schema:Terreno físico
+Schema:Textil
+Schema:Empresa
+Schema:Castigo
+Schema:Saber
+Schema:Grupos de naciones
+Schema:Hambre
+Schema:Sistema educativo
+Schema:Tratar una aflicción física
+Schema:Inversión
+Schema:Impuesto
+Schema:Objeto quebradizo
+Schema:Portales
+Schema:Adorar
+Schema:Accidente vehicular
+Schema:Ingestión
+Schema:Conocimiento
+Schema:Dispersión
+Schema:Experimentar un estado
+Schema:Desechar
+Schema:Institución electoral
+Schema:Cuidado de los niños
+Schema:Desempleo
+Schema:Laberinto
+Schema:Edificio
+Schema:Política educativa
+Schema:Pobreza
+Schema:Características geográficas
+Schema:Educación
+Schema:Ciudadanos
+Schema:Conexión física
+Schema:Competencia
+Schema:Institución
+Schema:Burocracia
+Schema:Concentración
+Schema:Sustancia
+Schema:Inmoralidad
+Schema:Lubricación
+Schema:Cambio de estado causado
+Schema:Circulación sanguínea
+Schema:Hurto
+Schema:Proceso
+Schema:Impedimentos al movimiento hacia abajo
+Schema:Intensidad emocional
+Schema:Institución gubernamental
+Schema:Jardinería
+Schema:Estados sociales
+Schema:Cambio de ubicación
+Schema:Contener
+Schema:Contención
+Schema:Tributación
+Schema:Entidad
+Schema:Punto en una escala vertical
+Schema:Carrera
+Schema:Ideología democrática
+Schema:Obstáculo en el camino
+Schema:Estado económico
+Schema:Obligaciones
+Schema:Negocios
+Schema:Expresión en la sociedad
+Schema:Impureza
+Schema:Confianza
+Schema:Parásito
+Schema:Combate
+Schema:Espacio
+Schema:Tinieblas
+Schema:Estabilidad
+Schema:Moralidad
+Schema:Evitar un obstáculo
+Schema:Abordar el hambre
+Schema:Apoyo
+Schema:Energía
+Schema:Objeto en movimiento
+Schema:Transacción financiera
+Schema:Ceguera
+Schema:Grupo
+Schema:Control de objetos
+Schema:Peleonero
+Schema:Entidad sintiente
+Schema:Medio de comunicación
+Schema:País
+Schema:Luminosidad
+Schema:Cortar un objeto
+Schema:Obscenidad
+Schema:Sistema concreto
+Schema:Temperatura
+Schema:Problemas sociales
+Schema:Obstrucciones a la visión
+Schema:Combustible
+Schema:Acceso a un lugar
+Schema:Convertir a sólido
+Schema:Laxo
+Schema:Amor
+Schema:Visión
+Schema:Lugar
+Schema:Fuerza restrictiva
+Schema:Absorción
+Schema:Asquear
+Schema:Objeto físico complejo
+Schema:Abordar los problemas sociales
+Schema:Ciclo
+Schema:Contenedor
+Schema:Enojo
+Schema:Esconder
+Schema:Institución democrática
+Schema:Gobierno
+Schema:Barreras
+Schema:Objeto flexible
+Schema:Discutir
+Schema:Máquina fotográfica
+Schema:Experimentar daño
+Schema:Cuota
+Schema:Adversidad económica
+Schema:Ayudas al movimiento hacia arriba
+Schema:Trayector-landmark
+Schema:Salir de un lugar indeseable
+Schema:Relación espacial
+Schema:Ver
+Schema:Brecha en el camino
+Schema:Inserción de un objeto
+Schema:Sanción
+Schema:Bienestar
+Schema:Descomponerse
+Schema:Ciclo de vida de los animales
+Schema:Debatir
+Schema:Movimiento hacia arriba
+Schema:Firmeza
+Schema:Separación
+Schema:Evento
+Schema:Ayudas al movimiento hacia abajo
+Schema:Aflicción física
+Schema:Movimiento autopropulsado
+Schema:Policía
+Schema:Confinamiento
+Schema:Propagación de enfermedades
+Schema:Forma de objeto
+Schema:Lucha física
+Schema:Violencia
+Schema:Fuerza antagónica
+Schema:Poder ver
+Schema:Cambio de estado económico
+Schema:Control sobre personas
+Schema:Comienzo
+Schema:Carga
+Schema:Desastre natural
+Schema:Perseguir
+Schema:Mente
+Schema:Clase social
+Schema:Infortunio
+Schema:Riqueza
+Schema:Ubicación
+Schema:Consumir alimento excesivo
+Schema:Magia
+Schema:Entidad destructiva
+Schema:Criatura monstruosa
+Schema:Entidad animado
+Schema:Contacto
+Schema:Ciclo de vida de las plantas
+Schema:Discusión
+Schema:Región circundante
+Schema:Experiencia
+Schema:Movimiento causado
+Schema:Artefacto
+Schema:Organización
+Schema:Alivio de carga
+Schema:Cambio de estado
+Schema:Tiempo
+Schema:Causación
+Schema:Amasar
+Schema:Ganar posesión
+Schema:Depredación
+Schema:Comprender
+Schema:Aumento de tamaño
+Schema:Fijar
+Schema:Personas explotadores
+Schema:Crear objetos
+Schema:Computadora
+Schema:Posesión
+Schema:Escenario de trabajo
+Schema:Entidad biológica
+Schema:Navegar
+Schema:Higiene
+Schema:Pan
+Schema:Cubrir
+Schema:Ciclo de vida
+Schema:Calentar liquido
+Schema:Objeto
+Schema:Corrupción
+Schema:Falta de impedimentos al movimiento
+Schema:Daño
+Schema:Ropa
+Schema:Redacción de legislación
+Schema:Familia
+Schema:Todo-parte
+Schema:Sobrepeso corporal
+Schema:Convertir a líquido
+Schema:Cambiar a inestable
+Schema:Educación pública
+Schema:Cariño
+Schema:Terminar movimiento
+Schema:Muerte
+Schema:Recurso
+Schema:Adicción
+Schema:Reparar
+Schema:Toma de decisiones gubernamentales
+Schema:Claridad
+Schema:Electricidad
+Schema:Impedimentos de movimiento
+Schema:Movilidad
+Schema:Planta
+Schema:Educación superior
+Schema:Argumento
+Schema:Estar en un lugar bajo
+Schema:Control de una situación
+Schema:Caminos claros hacia fuera de un lugar
+Schema:Ideología
+Schema:Duración
+Schema:Síntomas de aflicción física
+Schema:Votar
+Schema:Condición del objeto físico
+Schema:Animal feroz
+Schema:Subsidio
+Schema:Comunidad
+Schema:Entidad limitada
+Schema:Secuencia de acciones
+Schema:Herramienta
+Schema:Malvado
+Schema:Alimento
+Schema:Erosión
+Schema:Escala
+Schema:Fuerza
+Schema:Política
+Schema:Visión dirigida

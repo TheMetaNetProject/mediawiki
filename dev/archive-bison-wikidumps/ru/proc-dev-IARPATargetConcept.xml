@@ -1,0 +1,1383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Медиа</namespace>
+      <namespace case="first-letter" key="-1">Служебная</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Обсуждение</namespace>
+      <namespace case="first-letter" key="2">Участник</namespace>
+      <namespace case="first-letter" key="3">Обсуждение участника</namespace>
+      <namespace case="first-letter" key="4">Russian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">Файл</namespace>
+      <namespace case="first-letter" key="7">Обсуждение файла</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">Обсуждение MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Обсуждение шаблона</namespace>
+      <namespace case="first-letter" key="12">Справка</namespace>
+      <namespace case="first-letter" key="13">Обсуждение справки</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Обсуждение категории</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Обсуждение свойства</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Обсуждение формы</namespace>
+      <namespace case="first-letter" key="108">Концепция</namespace>
+      <namespace case="first-letter" key="109">Обсуждение концепции</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:GUN RIGHTS</title>
+    <ns>570</ns>
+    <id>3419</id>
+      <sha1>aos9issce13u3mdpmcdpow2qxjbs2de</sha1>
+    <revision>
+      <id>8076</id>
+      <timestamp>2014-08-15T18:34:19Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=GUN OVERSIGHT |ConceptFrames={{Linked frame |Frame name=Свобода }}{{Linked frame…»</comment>
+      <text bytes="700" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=Свобода
+}}{{Linked frame
+|Frame name=Право на оружие
+}}{{Linked frame
+|Frame name=Право на самооборону
+}}{{Linked frame
+|Frame name=Пропаганда права на оружие
+}}{{Linked frame
+|Frame name=Группа по интересам в ропаганде права на оружие
+}}{{Linked frame
+|Frame name= Закон об оружии
+}}{{Linked frame
+|Frame name=Оружейная промышленность 
+}}{{Linked frame
+|Frame name=Сторонник права на оружие
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MONEY</title>
+    <ns>570</ns>
+    <id>3430</id>
+      <sha1>omo2hqcp6kt8btzfyvyvc9ctudhco7z</sha1>
+    <revision>
+      <id>8096</id>
+      <timestamp>2014-08-16T21:41:40Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name=Деньги }}{{Linke…»</comment>
+      <text bytes="269" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Деньги
+}}{{Linked frame
+|Frame name=Финансы
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8116</id>
+      <timestamp>2014-09-23T08:44:13Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="158" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Деньги
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8440</id>
+      <timestamp>2014-12-15T10:45:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="324" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Деньги
+}}{{Linked frame
+|Frame name=Финансы
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+    <revision>
+      <id>8441</id>
+      <timestamp>2014-12-15T10:45:59Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="389" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Деньги
+}}{{Linked frame
+|Frame name=Финансы
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEBT</title>
+    <ns>570</ns>
+    <id>3429</id>
+      <sha1>raspx64b45p5norvy2io5fvxw20ouk7</sha1>
+    <revision>
+      <id>8092</id>
+      <timestamp>2014-08-16T21:33:06Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name=Долг }} }}»</comment>
+      <text bytes="154" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Долг
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUREAUCRACY</title>
+    <ns>570</ns>
+    <id>3426</id>
+      <sha1>opob2hxvov9jkn6wzihtat0y1lowt9o</sha1>
+    <revision>
+      <id>8087</id>
+      <timestamp>2014-08-15T19:18:46Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Бюрократия }} }}»</comment>
+      <text bytes="156" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8094</id>
+      <timestamp>2014-08-16T21:38:01Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="228" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}{{Linked frame
+|Frame name=Законодательные меры
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8095</id>
+      <timestamp>2014-08-16T21:38:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="226" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}{{Linked frame
+|Frame name=Законодательный акт
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8120</id>
+      <timestamp>2014-09-23T09:12:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="157" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8135</id>
+      <timestamp>2014-09-23T23:21:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="156" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8340</id>
+      <timestamp>2014-12-13T03:42:36Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="334" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Бюрократия
+}}{{Linked frame
+|Frame name=Регулирование
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICS</title>
+    <ns>570</ns>
+    <id>3432</id>
+      <sha1>8fzcr6geho563zhfksgxvpj1f30jrdu</sha1>
+    <revision>
+      <id>8098</id>
+      <timestamp>2014-08-16T21:56:40Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Политика }}{{Linked frame |Frame name=Поли…»</comment>
+      <text bytes="357" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Политика
+}}{{Linked frame
+|Frame name=Политический регион
+}}{{Linked frame
+|Frame name=Политическое равноправие
+}}{{Linked frame
+|Frame name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8122</id>
+      <timestamp>2014-09-23T09:15:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="383" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptFrames={{Linked frame
+|Frame name=Политика
+}}{{Linked frame
+|Frame name=Политический регион
+}}{{Linked frame
+|Frame name=Политическое равноправие
+}}{{Linked frame
+|Frame name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WEALTH</title>
+    <ns>570</ns>
+    <id>3423</id>
+      <sha1>b6xvn4u58gq1x4jhjtgfmnnz8qybk0z</sha1>
+    <revision>
+      <id>8083</id>
+      <timestamp>2014-08-15T18:59:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name=Богатые }}{{Link…»</comment>
+      <text bytes="616" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Богатые
+}}{{Linked frame
+|Frame name=Богатство
+}}{{Linked frame
+|Frame name=Быть богатым
+}}{{Linked frame
+|Frame name=Быть очень богатым
+}}{{Linked frame
+|Frame name=Становятся богатыми
+}}{{Linked frame
+|Frame name=Стать богатым
+}}{{Linked frame
+|Frame name=Предотвращение экономических трудностей
+}}{{Linked frame
+|Frame name=Инвестиция
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GOVERNMENT</title>
+    <ns>570</ns>
+    <id>3425</id>
+      <sha1>enbvrqmupeynt8a6nagscmvvubjxt2k</sha1>
+    <revision>
+      <id>8085</id>
+      <timestamp>2014-08-15T19:11:35Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Авторитет }}{{Linked sc…»</comment>
+      <text bytes="2016" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Авторитет
+}}{{Linked frame
+|Frame name=Акт законодательной власти
+}}{{Linked frame
+|Frame name=Акт исполнительной власти
+}}{{Linked frame
+|Frame name=Аморальное действие
+}}{{Linked frame
+|Frame name=Бизнес
+}}{{Linked frame
+|Frame name=Военное руководство
+}}{{Linked frame
+|Frame name=Государственное учреждение
+}}{{Linked frame
+|Frame name=Действие управления
+}}{{Linked frame
+|Frame name=Закон
+}}{{Linked frame
+|Frame name=Контроль
+}}{{Linked frame
+|Frame name=Коррупция
+}}{{Linked frame
+|Frame name=Легитимность
+}}{{Linked frame
+|Frame name=Легитимность правительства
+}}{{Linked frame
+|Frame name=Лидерство
+}}{{Linked frame
+|Frame name=Мощность
+}}{{Linked frame
+|Frame name=Нация
+}}{{Linked frame
+|Frame name=Ответственность
+}}{{Linked frame
+|Frame name=Охрана детства
+}}{{Linked frame
+|Frame name=Оценка правительства гражданами
+}}{{Linked frame
+|Frame name=Политика
+}}{{Linked frame
+|Frame name=Политический регион
+}}{{Linked frame
+|Frame name=Полиция
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Правительство
+}}{{Linked frame
+|Frame name=Преступление
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Принятие решений правительства
+}}{{Linked frame
+|Frame name=Регуляция
+}}{{Linked frame
+|Frame name=Сообщество
+}}{{Linked frame
+|Frame name=Страна
+}}{{Linked frame
+|Frame name=Учреждение
+}}{{Linked frame
+|Frame name=Финансы
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8103</id>
+      <timestamp>2014-09-22T11:23:58Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="1947" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Авторитет
+}}{{Linked frame
+|Frame name=Акт законодательной власти
+}}{{Linked frame
+|Frame name=Акт исполнительной власти
+}}{{Linked frame
+|Frame name=Бизнес
+}}{{Linked frame
+|Frame name=Военное руководство
+}}{{Linked frame
+|Frame name=Государственное учреждение
+}}{{Linked frame
+|Frame name=Действие управления
+}}{{Linked frame
+|Frame name=Закон
+}}{{Linked frame
+|Frame name=Контроль
+}}{{Linked frame
+|Frame name=Коррупция
+}}{{Linked frame
+|Frame name=Легитимность
+}}{{Linked frame
+|Frame name=Легитимность правительства
+}}{{Linked frame
+|Frame name=Лидерство
+}}{{Linked frame
+|Frame name=Мощность
+}}{{Linked frame
+|Frame name=Нация
+}}{{Linked frame
+|Frame name=Ответственность
+}}{{Linked frame
+|Frame name=Охрана детства
+}}{{Linked frame
+|Frame name=Оценка правительства гражданами
+}}{{Linked frame
+|Frame name=Политика
+}}{{Linked frame
+|Frame name=Политический регион
+}}{{Linked frame
+|Frame name=Полиция
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Правительство
+}}{{Linked frame
+|Frame name=Преступление
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Принятие решений правительства
+}}{{Linked frame
+|Frame name=Регуляция
+}}{{Linked frame
+|Frame name=Сообщество
+}}{{Linked frame
+|Frame name=Страна
+}}{{Linked frame
+|Frame name=Учреждение
+}}{{Linked frame
+|Frame name=Финансы
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8107</id>
+      <timestamp>2014-09-22T11:41:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="1646" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Авторитет
+}}{{Linked frame
+|Frame name=Акт законодательной власти
+}}{{Linked frame
+|Frame name=Акт исполнительной власти
+}}{{Linked frame
+|Frame name=Военное руководство
+}}{{Linked frame
+|Frame name=Государственное учреждение
+}}{{Linked frame
+|Frame name=Действие управления
+}}{{Linked frame
+|Frame name=Закон
+}}{{Linked frame
+|Frame name=Контроль
+}}{{Linked frame
+|Frame name=Легитимность
+}}{{Linked frame
+|Frame name=Легитимность правительства
+}}{{Linked frame
+|Frame name=Лидерство
+}}{{Linked frame
+|Frame name=Мощность
+}}{{Linked frame
+|Frame name=Нация
+}}{{Linked frame
+|Frame name=Ответственность
+}}{{Linked frame
+|Frame name=Оценка правительства гражданами
+}}{{Linked frame
+|Frame name=Политика
+}}{{Linked frame
+|Frame name=Политический регион
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Правительство
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Принятие решений правительства
+}}{{Linked frame
+|Frame name=Регуляция
+}}{{Linked frame
+|Frame name=Сообщество
+}}{{Linked frame
+|Frame name=Страна
+}}{{Linked frame
+|Frame name=Учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8121</id>
+      <timestamp>2014-09-23T09:14:12Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="730" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Акт законодательной власти
+}}{{Linked frame
+|Frame name=Акт исполнительной власти
+}}{{Linked frame
+|Frame name=Государственное учреждение
+}}{{Linked frame
+|Frame name=Действие управления
+}}{{Linked frame
+|Frame name=Легитимность правительства
+}}{{Linked frame
+|Frame name=Правительство
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Принятие решений правительства
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TAXATION</title>
+    <ns>570</ns>
+    <id>3424</id>
+      <sha1>4jx03razc6hpy5onmufvrj685x2bc7q</sha1>
+    <revision>
+      <id>8084</id>
+      <timestamp>2014-08-15T19:02:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Налогообложение }}{{Linked frame |Frame …»</comment>
+      <text bytes="314" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Налогообложение
+}}{{Linked frame
+|Frame name=Налог
+}}{{Linked frame
+|Frame name=Препятствия на пути улучшения экономического статуса
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8086</id>
+      <timestamp>2014-08-15T19:13:54Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="348" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Налогообложение
+}}{{Linked frame
+|Frame name=Налог
+}}{{Linked frame
+|Frame name=Препятствия на пути улучшения экономического статуса
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8115</id>
+      <timestamp>2014-09-23T08:43:01Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="217" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Налогообложение
+}}{{Linked frame
+|Frame name=Налог
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GUN CONTROL</title>
+    <ns>570</ns>
+    <id>3418</id>
+      <sha1>ic6xgkp694izsu8ajyrcx5xb8g4oiua</sha1>
+    <revision>
+      <id>8074</id>
+      <timestamp>2014-08-15T17:49:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=GUN OVERSIGHT |ConceptFrames={{Linked frame |Frame name=  Контроль над ору…»</comment>
+      <text bytes="193" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=  Контроль над оружием
+}}{{Linked frame}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8075</id>
+      <timestamp>2014-08-15T18:06:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="587" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=Контроль над оружием
+}}{{Linked frame
+|Frame name=Закон о контроле над оружием
+}}{{Linked frame
+|Frame name=Насилие с применением оружия
+}}{{Linked frame
+|Frame name=Владение оружием
+}}{{Linked frame
+|Frame name=Пропаганда  контроля над оружием
+}}{{Linked frame
+|Frame name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8077</id>
+      <timestamp>2014-08-15T18:37:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[IConcept:CONTROL OF GUNS]] в [[IConcept:КОНТРОЛЬ НАД ОРУЖИЕМ]]</comment>
+      <text bytes="587" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=Контроль над оружием
+}}{{Linked frame
+|Frame name=Закон о контроле над оружием
+}}{{Linked frame
+|Frame name=Насилие с применением оружия
+}}{{Linked frame
+|Frame name=Владение оружием
+}}{{Linked frame
+|Frame name=Пропаганда  контроля над оружием
+}}{{Linked frame
+|Frame name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8079</id>
+      <timestamp>2014-08-15T18:38:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[IConcept:КОНТРОЛЬ НАД ОРУЖИЕМ]] в [[IConcept:GUN CONTROL]]</comment>
+      <text bytes="587" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=Контроль над оружием
+}}{{Linked frame
+|Frame name=Закон о контроле над оружием
+}}{{Linked frame
+|Frame name=Насилие с применением оружия
+}}{{Linked frame
+|Frame name=Владение оружием
+}}{{Linked frame
+|Frame name=Пропаганда  контроля над оружием
+}}{{Linked frame
+|Frame name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICAL CORRUPTION</title>
+    <ns>570</ns>
+    <id>3441</id>
+      <sha1>kra8ki3x6nngkwyw0zfpv2qyepw0utd</sha1>
+    <revision>
+      <id>8123</id>
+      <timestamp>2014-09-23T09:18:20Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE  |ConceptFrames={{Linked frame |Frame name=Коррупция }}{{Linked …»</comment>
+      <text bytes="241" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptFrames={{Linked frame
+|Frame name=Коррупция
+}}{{Linked frame
+|Frame name=Институциональная коррупция
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SOCIAL CLASS</title>
+    <ns>570</ns>
+    <id>3431</id>
+      <sha1>lfdey47546fh1ifpc0xifoonz8pgu42</sha1>
+    <revision>
+      <id>8097</id>
+      <timestamp>2014-08-16T21:52:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=SOCIAL CLASS |ConceptFrames={{Linked frame |Frame name=Социальный Клас…»</comment>
+      <text bytes="742" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SOCIAL CLASS
+|ConceptFrames={{Linked frame
+|Frame name=Социальный Класс
+}}{{Linked frame
+|Frame name=Препятствия на пути улучшения экономического статуса
+}}{{Linked frame
+|Frame name=Улучшить экономический статус
+}}{{Linked frame
+|Frame name=Экономический статус
+}}{{Linked frame
+|Frame name=Работа
+}}{{Linked frame
+|Frame name=Безработица
+}}{{Linked frame
+|Frame name=Распределение богатства
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}{{Linked frame
+|Frame name=Доход
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8117</id>
+      <timestamp>2014-09-23T08:50:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="611" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SOCIAL CLASS
+|ConceptFrames={{Linked frame
+|Frame name=Социальный Класс
+}}{{Linked frame
+|Frame name=Улучшить экономический статус
+}}{{Linked frame
+|Frame name=Экономический статус
+}}{{Linked frame
+|Frame name=Работа
+}}{{Linked frame
+|Frame name=Безработица
+}}{{Linked frame
+|Frame name=Распределение богатства
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}{{Linked frame
+|Frame name=Доход
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8136</id>
+      <timestamp>2014-09-23T23:23:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="674" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Социальный Класс
+}}{{Linked frame
+|Frame name=Улучшить экономический статус
+}}{{Linked frame
+|Frame name=Экономический статус
+}}{{Linked frame
+|Frame name=Работа
+}}{{Linked frame
+|Frame name=Безработица
+}}{{Linked frame
+|Frame name=Распределение богатства
+}}{{Linked frame
+|Frame name=Финансовый ресурс
+}}{{Linked frame
+|Frame name=Доход
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEMOCRACY</title>
+    <ns>570</ns>
+    <id>3427</id>
+      <sha1>6v0q258acw7e0sh2ybvocpifu240ax9</sha1>
+    <revision>
+      <id>8088</id>
+      <timestamp>2014-08-15T19:22:19Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Гражданственност…»</comment>
+      <text bytes="536" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Гражданственность
+}}{{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Равноправие
+}}{{Linked frame
+|Frame name=Свобода
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8093</id>
+      <timestamp>2014-08-16T21:36:03Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="535" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Гражданственность
+}}{{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Равноправие
+}}{{Linked frame
+|Frame name=Свобода
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8104</id>
+      <timestamp>2014-09-22T11:26:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="685" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Гражданственность
+}}{{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Права
+}}{{Linked frame
+|Frame name=Равноправие
+}}{{Linked frame
+|Frame name=Свобода
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}{{Linked frame
+|Frame name=Гражданское участие
+}}{{Linked frame
+|Frame name=Демократическая идеология
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8111</id>
+      <timestamp>2014-09-23T08:32:35Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="477" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}{{Linked frame
+|Frame name=Гражданское участие
+}}{{Linked frame
+|Frame name=Демократическая идеология
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8297</id>
+      <timestamp>2014-12-01T11:32:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="672" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Демократическое правительство
+}}{{Linked frame
+|Frame name=Демократия
+}}{{Linked frame
+|Frame name=Демократическое учреждение
+}}{{Linked frame
+|Frame name=Гражданское участие
+}}{{Linked frame
+|Frame name=Демократическая идеология
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=демократизация.n
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADERSHIP</title>
+    <ns>570</ns>
+    <id>3443</id>
+      <sha1>anew9skuq9enmgrjedzvvtolvum2k6j</sha1>
+    <revision>
+      <id>8125</id>
+      <timestamp>2014-09-23T09:24:18Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Лидерство }}{{Linked s…»</comment>
+      <text bytes="321" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Лидерство
+}}{{Linked frame
+|Frame name=Организационное лидерство
+}}{{Linked frame
+|Frame name=Государственное руководство
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8137</id>
+      <timestamp>2014-09-23T23:24:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="378" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from GOVERNANCE
+
+|ConceptFrames={{Linked frame
+|Frame name=Лидерство
+}}{{Linked frame
+|Frame name=Организационное лидерство
+}}{{Linked frame
+|Frame name=Государственное руководство
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POVERTY</title>
+    <ns>570</ns>
+    <id>3422</id>
+      <sha1>b4e59q6lhfmprxfyjq3s44ifi59bk9n</sha1>
+    <revision>
+      <id>8081</id>
+      <timestamp>2014-08-15T18:47:07Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Бедной }}{{Linked frame |Frame name=Быть бе…»</comment>
+      <text bytes="920" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Бедной
+}}{{Linked frame
+|Frame name=Быть бедной
+}}{{Linked frame
+|Frame name=Бедность
+}}{{Linked frame
+|Frame name=Оказаться обедневший
+}}{{Linked frame
+|Frame name=Решение социальных проблем
+}}{{Linked frame
+|Frame name=Социальные проблемы
+}}{{Linked frame
+|Frame name=Стать бедным
+}}{{Linked frame
+|Frame name=Экономическая трудность
+}}{{Linked frame
+|Frame name=Устранение социальных проблем
+}}{{Linked frame
+|Frame name=Улучшить экономический статус
+}}{{Linked frame
+|Frame name=Указания социальных проблем
+}}{{Linked frame
+|Frame name=Степень социальных проблем
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8082</id>
+      <timestamp>2014-08-15T18:50:55Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="954" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Бедной
+}}{{Linked frame
+|Frame name=Быть бедной
+}}{{Linked frame
+|Frame name=Бедность
+}}{{Linked frame
+|Frame name=Оказаться обедневший
+}}{{Linked frame
+|Frame name=Решение социальных проблем
+}}{{Linked frame
+|Frame name=Социальные проблемы
+}}{{Linked frame
+|Frame name=Стать бедным
+}}{{Linked frame
+|Frame name=Экономическая трудность
+}}{{Linked frame
+|Frame name=Устранение социальных проблем
+}}{{Linked frame
+|Frame name=Улучшить экономический статус
+}}{{Linked frame
+|Frame name=Указания социальных проблем
+}}{{Linked frame
+|Frame name=Степень социальных проблем
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8114</id>
+      <timestamp>2014-09-23T08:42:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="461" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Бедной
+}}{{Linked frame
+|Frame name=Быть бедной
+}}{{Linked frame
+|Frame name=Бедность
+}}{{Linked frame
+|Frame name=Оказаться обедневший
+}}{{Linked frame
+|Frame name=Стать бедным
+}}{{Linked frame
+|Frame name=Экономическая трудность
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ELECTIONS</title>
+    <ns>570</ns>
+    <id>3428</id>
+      <sha1>og46aztp4ypi1y8e7n2zii88eslp7dw</sha1>
+    <revision>
+      <id>8089</id>
+      <timestamp>2014-08-15T19:24:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Выборы }}{{Linked frame |Frame name=Голосо…»</comment>
+      <text bytes="177" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Выборы
+}}{{Linked frame
+|Frame name=Голосование
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8090</id>
+      <timestamp>2014-08-15T22:37:45Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="219" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Выборы
+}}{{Linked frame
+|Frame name=Голосование
+}}{{Linked frame
+|Frame name=Права
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8091</id>
+      <timestamp>2014-08-15T22:39:55Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="243" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Выборы
+}}{{Linked frame
+|Frame name=Голосование
+}}{{Linked frame
+|Frame name=Права
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8112</id>
+      <timestamp>2014-09-23T08:34:52Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="337" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Выборы
+}}{{Linked frame
+|Frame name=Голосование
+}}{{Linked frame
+|Frame name=Права голоса
+}}{{Linked frame
+|Frame name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEGISLATION</title>
+    <ns>570</ns>
+    <id>3446</id>
+      <sha1>5wq380sqavvvyx18kptk2gxgptqy5e8</sha1>
+    <revision>
+      <id>8128</id>
+      <timestamp>2014-09-23T09:55:47Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE  |ConceptFrames={{Linked frame |Frame name=Действие законо…»</comment>
+      <text bytes="422" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptFrames={{Linked frame
+|Frame name=Действие законодательства
+}}{{Linked frame
+|Frame name=Разработка законодательства
+}}{{Linked frame
+|Frame name=Принятие законодательства
+}}{{Linked frame
+|Frame name=Законодательный акт
+}}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

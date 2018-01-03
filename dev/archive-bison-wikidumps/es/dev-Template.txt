@@ -1,0 +1,117 @@
+Plantilla:!
+Plantilla:Advert
+Plantilla:Ambox
+Plantilla:Ambox/category
+Plantilla:Ambox/core
+Plantilla:Ambox/doc
+Plantilla:Ambox/small
+Plantilla:Article issues
+Plantilla:AutoMetaphor
+Plantilla:AutoSchema
+Plantilla:Binding
+Plantilla:Blacklist source LUs
+Plantilla:Blacklist source schema families
+Plantilla:Blacklist source schemas
+Plantilla:Blacklist target LUs
+Plantilla:CMs with LMs intro
+Plantilla:CMs with LMs outro
+Plantilla:CMs with LMs row
+Plantilla:Category handler
+Plantilla:Category handler/blacklist
+Plantilla:Category handler/numbered
+Plantilla:Citation style
+Plantilla:CxnMP
+Plantilla:Definition
+Plantilla:DefinitionLink
+Plantilla:DefinitionListing
+Plantilla:Detailed schema family tree
+Plantilla:Documentation
+Plantilla:Documentation/docspace
+Plantilla:Documentation/end box
+Plantilla:Documentation/end box2
+Plantilla:Documentation/start box
+Plantilla:Documentation/start box2
+Plantilla:Documentation/template page
+Plantilla:Documentation subpage
+Plantilla:Entailment
+Plantilla:Example
+Plantilla:ExamplesOfLM
+Plantilla:ExamplesOfLM as li
+Plantilla:FULLROOTPAGENAME
+Plantilla:Fmbox
+Plantilla:FrameNetLUs
+Plantilla:GetSchemaRelationsForMetaphor
+Plantilla:GetSchemaRelationsForMetaphorFamily
+Plantilla:GetSchemaRels
+Plantilla:Glossed category item
+Plantilla:Hidden
+Plantilla:High-risk
+Plantilla:IARPASourceConcept
+Plantilla:IARPATargetConcept
+Plantilla:If pagename
+Plantilla:Inference
+Plantilla:LM Examples
+Plantilla:LUs
+Plantilla:Lang
+Plantilla:LinguisticMetaphorSummary
+Plantilla:LinguisticMetaphorSummaryIntro
+Plantilla:LinguisticMetaphorSummaryOutro
+Plantilla:Linguistic metaphor
+Plantilla:Linked schema
+Plantilla:Main other
+Plantilla:Main other/doc
+Plantilla:Mapping
+Plantilla:MappingTableBody
+Plantilla:MappingTableIntro
+Plantilla:MappingTableOutro
+Plantilla:Mbox
+Plantilla:Mbox/doc
+Plantilla:Mbox templates
+Plantilla:Mbox templates see also
+Plantilla:MetaRC
+Plantilla:Metaphor
+Plantilla:Metaphor.Alias
+Plantilla:Metaphor Search
+Plantilla:Metaphor family
+Plantilla:Metaphor family tree
+Plantilla:Metaphor subfamilies of
+Plantilla:Metaphors in family
+Plantilla:Missing relation type
+Plantilla:Multiple issues
+Plantilla:Multiple issues/message
+Plantilla:Namespace detect
+Plantilla:Namespace detect see also
+Plantilla:Navbar
+Plantilla:Ns has subpages
+Plantilla:Ombox
+Plantilla:Ombox/core
+Plantilla:POV
+Plantilla:Para
+Plantilla:Pp-meta
+Plantilla:Pp-template
+Plantilla:Printgloss
+Plantilla:Purge
+Plantilla:Related metaphor
+Plantilla:Related schema
+Plantilla:Role
+Plantilla:Schema
+Plantilla:Schema family
+Plantilla:Schema family tree
+Plantilla:Schema subfamilies of
+Plantilla:Schemas in family
+Plantilla:SearchFrameNetForLemma
+Plantilla:SearchSchemasForLemma
+Plantilla:Sidebar
+Plantilla:TOC
+Plantilla:Template other
+Plantilla:Template shortcut
+Plantilla:Tl
+Plantilla:Tlx
+Plantilla:Transclude
+Plantilla:Unsetprop
+Plantilla:Unsetpropnns
+Plantilla:Whitelist target LU
+Plantilla:Whitelist target LUs
+Plantilla:Wikify
+Plantilla:Wikify/tutorial
+Plantilla:Xs in family

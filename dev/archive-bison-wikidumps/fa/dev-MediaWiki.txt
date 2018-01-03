@@ -1,0 +1,11 @@
+مدیاویکی:Category-empty
+مدیاویکی:Common.css
+مدیاویکی:Common.js
+مدیاویکی:Group-analyst.css
+مدیاویکی:Group-sysop.css
+مدیاویکی:Mainpage
+مدیاویکی:Sidebar
+مدیاویکی:Sitenotice
+مدیاویکی:Sitenotice id
+مدیاویکی:Smw import foaf
+مدیاویکی:Smw import rdfs

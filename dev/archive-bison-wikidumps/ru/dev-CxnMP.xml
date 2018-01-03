@@ -1,0 +1,618 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Russian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="102" case="first-letter">Свойство</namespace>
+      <namespace key="103" case="first-letter">Обсуждение свойства</namespace>
+      <namespace key="106" case="first-letter">Форма</namespace>
+      <namespace key="107" case="first-letter">Обсуждение формы</namespace>
+      <namespace key="108" case="first-letter">Концепция</namespace>
+      <namespace key="109" case="first-letter">Обсуждение концепции</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CxnMP:S-verb T-dobj</title>
+    <ns>562</ns>
+    <id>3486</id>
+      <sha1>5m2k0ltfvrfpjibaig95yus34r4ldnv</sha1>
+    <revision>
+      <id>8248</id>
+      <timestamp>2014-11-19T01:21:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_T-dobj |Comments=Verb-Object construction: ... escape poverty |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?…»</comment>
+      <text xml:space="preserve" bytes="668">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_T-dobj
+|Comments=Verb-Object construction: ... escape poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:dobj ?source .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-adj T-noun</title>
+    <ns>562</ns>
+    <id>3491</id>
+      <sha1>ac6v9zvu9nv0nazfxik8rawfi9leupa</sha1>
+    <revision>
+      <id>8253</id>
+      <timestamp>2014-11-19T01:25:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPDescription=Adj-S Noun-T modification constructions |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx WHERE { 	?sent r…»</comment>
+      <text xml:space="preserve" bytes="605">{{CxnMP
+|CxnMPType=sparql
+|CxnMPDescription=Adj-S Noun-T modification constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^A&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+   	?source doc:adjmod ?target .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8255</id>
+      <timestamp>2014-11-19T01:26:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="630">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-adj_T-noun
+|CxnMPDescription=Adj-S Noun-T modification constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^A&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+   	?source doc:adjmod ?target .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb</title>
+    <ns>562</ns>
+    <id>3484</id>
+      <sha1>jjex5q1njshzyripxv2rvquazzf7674</sha1>
+    <revision>
+      <id>8244</id>
+      <timestamp>2014-11-19T01:10:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |Comments=Examples: poverty infects ... |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx WHERE { …»</comment>
+      <text xml:space="preserve" bytes="855">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|Comments=Examples: poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+    {
+    	?target doc:subj ?source .
+    } UNION {
+        ?otherv rdf:type doc:Word .
+        ?otherv doc:inSentence ?sent .
+        ?otherv doc:hasPOS ?opos .
+        FILTER regex(?opos, &quot;^V&quot;) .
+        ?target doc:subj ?otherv .
+        ?source doc:conj+ ?otherv .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb pp T-noun</title>
+    <ns>562</ns>
+    <id>3495</id>
+      <sha1>r9wu7ere9sp135jjcgw8s57649mz1hr</sha1>
+    <revision>
+      <id>8258</id>
+      <timestamp>2014-11-19T01:28:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_pp_T-noun |CxnMPDescription=S-Verb PP T-Noun constructions |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sid…»</comment>
+      <text xml:space="preserve" bytes="774">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_pp_T-noun
+|CxnMPDescription=S-Verb PP T-Noun constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?target doc:objprep ?prep .
+    ?prep (doc:dep&amp;#124;doc:spmod) ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-adj T-noun.POSseq</title>
+    <ns>562</ns>
+    <id>3492</id>
+      <sha1>gqjrbrfk3xfmvnr57nuu63p9mxjuawu</sha1>
+    <revision>
+      <id>8254</id>
+      <timestamp>2014-11-19T01:26:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-adj_T-noun |CxnMPDescription=Adj-S Noun-T modification construction: backup in case parse fails |Comments=Тягостны…»</comment>
+      <text xml:space="preserve" bytes="505">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-adj_T-noun
+|CxnMPDescription=Adj-S Noun-T modification construction: backup in case parse fails
+|Comments=Тягостный=тягостный=Afpmsnf=0 регламент=регламент=Ncmsnn=1
+make sure number/gender match
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=Af&amp;#91;pcs&amp;#93;(?P&lt;gen&gt;&amp;#91;mfn&amp;#93;)(?P&lt;num&gt;&amp;#91;sp&amp;#93;)&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=Nc(?P=gen)(?P=num)&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun pp T-noun.POSseq</title>
+    <ns>562</ns>
+    <id>3494</id>
+      <sha1>rl8l7q4dx8a0z8bl8tkf496mqp7a4hc</sha1>
+    <revision>
+      <id>8257</id>
+      <timestamp>2014-11-19T01:27:57Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-noun_pp_T-noun |CxnMPDescription=S-Noun PP T-Noun modification construction: backup in case parse fails |Comments=бегс…»</comment>
+      <text xml:space="preserve" bytes="467">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_pp_T-noun
+|CxnMPDescription=S-Noun PP T-Noun modification construction: backup in case parse fails
+|Comments=бегству=бегство=Ncnsdn=4 от=от=Sp-g=5 бедности=бедность=Ncfsgn=6
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=Nc&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+) &amp;#91;^=&amp;#93;+=&amp;#91;^=&amp;#93;{1,2}=Sp&amp;#91;^=&amp;#93;+=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=Nc&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-adj S-noun.POSseq</title>
+    <ns>562</ns>
+    <id>3498</id>
+      <sha1>cpn94inb13j16k4g7k937knxoha6byz</sha1>
+    <revision>
+      <id>8261</id>
+      <timestamp>2014-11-19T01:34:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=T-adj_S-noun |CxnMPDescription=Adj-T Noun-S modification construction: backup in case parse fails |Comments=политиче…»</comment>
+      <text xml:space="preserve" bytes="513">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-adj_S-noun
+|CxnMPDescription=Adj-T Noun-S modification construction: backup in case parse fails
+|Comments=политическая=политический=Afpfsnf=4 пропасть=пропасть=Ncfsnn=5
+make sure number/gender match
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=Af&amp;#91;pcs&amp;#93;(?P&lt;gen&gt;&amp;#91;mfn&amp;#93;)(?P&lt;num&gt;&amp;#91;sp&amp;#93;)&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=Nc(?P=gen)(?P=num)&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj cop S-adj</title>
+    <ns>562</ns>
+    <id>3490</id>
+      <sha1>5abnraxj0yaohug47ti08gcg5e990f9</sha1>
+    <revision>
+      <id>8252</id>
+      <timestamp>2014-11-19T01:24:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPDescription=Copular Adj constructions |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx WHERE { 	?sent rdf:type doc:Se…»</comment>
+      <text xml:space="preserve" bytes="589">{{CxnMP
+|CxnMPType=sparql
+|CxnMPDescription=Copular Adj constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^A&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+   	?target doc:subj ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj cop S-verb.POSseq</title>
+    <ns>562</ns>
+    <id>3496</id>
+      <sha1>qw2w8vsnl1416z649hpn8cxih3evdpa</sha1>
+    <revision>
+      <id>8259</id>
+      <timestamp>2014-11-19T01:30:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=T-subj_cop_S-verb |CxnMPDescription=Copular construction: backup in case parse fails |Comments=бедность=беднос…»</comment>
+      <text xml:space="preserve" bytes="455">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_cop_S-verb
+|CxnMPDescription=Copular construction: backup in case parse fails
+|Comments=бедность=бедность=Ncfsnn=5 -=-=-=6 это=это=P--nsnn=7 болезнь=болезнь=Ncfsnn=8
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+) (?:-=-=-=\d+ )?это=это=P&amp;#91;^=&amp;#93;+=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-adj S-noun</title>
+    <ns>562</ns>
+    <id>3497</id>
+      <sha1>3wdtv21awzxx7lrvroosfnmr5rkobuq</sha1>
+    <revision>
+      <id>8260</id>
+      <timestamp>2014-11-19T01:31:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-adj_S-noun |CxnMPDescription=Adj-T Noun-S modification constructions |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx…»</comment>
+      <text xml:space="preserve" bytes="630">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-adj_S-noun
+|CxnMPDescription=Adj-T Noun-S modification constructions
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^N&quot;) .
+	FILTER regex(?tpos, &quot;^A&quot;) .
+   	?target doc:adjmod ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj cop S-noun</title>
+    <ns>562</ns>
+    <id>3489</id>
+      <sha1>l6p5hpme3qwkjtk6b5f9iqdmmvigtb9</sha1>
+    <revision>
+      <id>8251</id>
+      <timestamp>2014-11-19T01:23:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPDescription= Copular construction |Comments=Бедность – это вирусное заболевание |CxnMPQueryCode=SE…»</comment>
+      <text xml:space="preserve" bytes="871">{{CxnMP
+|CxnMPType=sparql
+|CxnMPDescription= Copular construction
+|Comments=Бедность – это вирусное заболевание
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source doc:hasPOS ?spos .
+	?target doc:hasPOS ?tpos .
+	FILTER regex(?spos, &quot;^N&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+    {
+    	?target doc:subj ?source .
+    } UNION {
+        ?cop rdf:type doc:Word .
+        ?cop doc:inSentence ?sent .
+        ?cop doc:hasLemma &quot;это&quot;^^xsd:string .
+        ?target doc:ref ?cop .
+        ?cop doc:subj ?source .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb.POSseq</title>
+    <ns>562</ns>
+    <id>3485</id>
+      <sha1>rrve63fpuq59t596tedzu46z55zepz5</sha1>
+    <revision>
+      <id>8245</id>
+      <timestamp>2014-11-19T01:12:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=T-subj_S-verb |Comments=Subject-verb construction: backup incase parse fails  - common nom noun followed by matching number…»</comment>
+      <text xml:space="preserve" bytes="330">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_S-verb
+|Comments=Subject-verb construction: backup incase parse fails
+ - common nom noun followed by matching number 3-marked V
+|CxnMPQueryCode=\b[^=]+=(?P&lt;tlemma&gt;[^=]+)=Nc[fmnc](?P&lt;number&gt;[sp])n[ny]=(?P&lt;tidx&gt;\d+) [^=]+=(?P&lt;slemma&gt;[^=]+)=Vmi[pfs]3(?P=number)-a-[^=]+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+    <revision>
+      <id>8246</id>
+      <timestamp>2014-11-19T01:20:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="402">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_S-verb
+|Comments=Subject-verb construction: backup incase parse fails
+ - common nom noun followed by matching number 3-marked V
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=Nc&amp;#91;fmnc&amp;#93;(?P&lt;number&gt;&amp;#91;sp&amp;#93;)n&amp;#91;ny&amp;#93;=(?P&lt;tidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=Vmi&amp;#91;pfs&amp;#93;3(?P=number)-a-&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+    <revision>
+      <id>8247</id>
+      <timestamp>2014-11-19T01:20:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="399">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-subj_S-verb
+|Comments=Subject-verb construction: backup incase parse fails
+common nom noun followed by matching number 3-marked V
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=Nc&amp;#91;fmnc&amp;#93;(?P&lt;number&gt;&amp;#91;sp&amp;#93;)n&amp;#91;ny&amp;#93;=(?P&lt;tidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=Vmi&amp;#91;pfs&amp;#93;3(?P=number)-a-&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun</title>
+    <ns>562</ns>
+    <id>3487</id>
+      <sha1>7wmzixqhy98x051eyqpnozrfntpy1rl</sha1>
+    <revision>
+      <id>8249</id>
+      <timestamp>2014-11-19T01:22:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_of_T-noun |Comments=N of N constructions: Пропасть=пропасть=Ncfsnn=0 нищеты=нищета=Ncfsgn…»</comment>
+      <text xml:space="preserve" bytes="784">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|Comments=N of N constructions: Пропасть=пропасть=Ncfsnn=0 нищеты=нищета=Ncfsgn=1
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&amp;#91;a-z&amp;#93;+g(n&amp;#124;y)$&quot;) .
+    ?target (doc:spmod&amp;#124;doc:qamod&amp;#124;doc:dobj) ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun pp T-noun</title>
+    <ns>562</ns>
+    <id>3493</id>
+      <sha1>ho4qrsd9qkxcff1hvgbli909enoqd1e</sha1>
+    <revision>
+      <id>8256</id>
+      <timestamp>2014-11-19T01:27:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_pp_T-noun |CxnMPDescription=S-Noun PP T-Noun constructions |Comments=бегству=бегство=Ncnsdn=4 от=от…»</comment>
+      <text xml:space="preserve" bytes="883">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_pp_T-noun
+|CxnMPDescription=S-Noun PP T-Noun constructions
+|Comments=бегству=бегство=Ncnsdn=4 от=от=Sp-g=5 бедности=бедность=Ncfsgn=6
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?target doc:objprep ?prep .
+    ?prep (doc:dep&amp;#124;doc:spmod) ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun.POSseq</title>
+    <ns>562</ns>
+    <id>3488</id>
+      <sha1>ahgfebhxesyqe6fdawxm3nwxazj9glp</sha1>
+    <revision>
+      <id>8250</id>
+      <timestamp>2014-11-19T01:23:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-noun_of_T-noun |Comments=N of N constructions: backup in case dparse fails рабы=раб=Ncmpny=3 денег=деньг…»</comment>
+      <text xml:space="preserve" bytes="346">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_of_T-noun
+|Comments=N of N constructions: backup in case dparse fails рабы=раб=Ncmpny=3 денег=деньги=Ncmpgn=4
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;+g&amp;#91;ny&amp;#93;=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

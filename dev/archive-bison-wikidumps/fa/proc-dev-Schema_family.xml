@@ -1,0 +1,1726 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">مدیا</namespace>
+      <namespace case="first-letter" key="-1">ویژه</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">بحث</namespace>
+      <namespace case="first-letter" key="2">کاربر</namespace>
+      <namespace case="first-letter" key="3">بحث کاربر</namespace>
+      <namespace case="first-letter" key="4">Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">بحث Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">پرونده</namespace>
+      <namespace case="first-letter" key="7">بحث پرونده</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">بحث MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">بحث Template</namespace>
+      <namespace case="first-letter" key="12">راهنما</namespace>
+      <namespace case="first-letter" key="13">بحث راهنما</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">بحث Category</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">بحث Form</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frame family:طرح حکومت</title>
+    <ns>556</ns>
+    <id>1564</id>
+      <sha1>01zca7umicze0vkeqpyjd25s61w1tau</sha1>
+    <revision>
+      <id>6109</id>
+      <timestamp>2014-02-17T09:28:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames government |is subfamily of=طرح های اداره و مدیریت |LinkEnglish=Government frames }}» ایجاد کرد</comment>
+      <text bytes="139" xml:space="preserve">{{Frame family
+|Name gloss=frames government
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Government frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6906</id>
+      <timestamp>2014-05-23T20:44:41Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="123" xml:space="preserve">{{Frame family
+|Name gloss=frames government
+|is subfamily of=طرح های حکومت
+|LinkEnglish=Government frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های پیکاری</title>
+    <ns>556</ns>
+    <id>1560</id>
+      <sha1>sopy0j1nwo8dyh8hv8v144crlqkher1</sha1>
+    <revision>
+      <id>6060</id>
+      <timestamp>2013-12-02T12:09:57Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Conflict frames |LinkEnglish=Conflict frames }}» ایجاد کرد</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Conflict frames
+|LinkEnglish=Conflict frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح دموکراسی‌</title>
+    <ns>556</ns>
+    <id>1591</id>
+      <sha1>tu3al6670bx8wq5k1vx7fcdtpjkbs4z</sha1>
+    <revision>
+      <id>6162</id>
+      <timestamp>2014-03-14T22:27:32Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Democracy Frame }}» ایجاد کرد</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=Democracy Frame
+}}</text>
+    </revision>
+    <revision>
+      <id>6180</id>
+      <timestamp>2014-03-21T18:28:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="78" xml:space="preserve">{{Frame family
+|Name gloss=Democracy Frame
+|LinkEnglish=Democracy frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های منابع</title>
+    <ns>556</ns>
+    <id>1442</id>
+      <sha1>jc1255685ql0zhp5klhk5f3pbd3y0ta</sha1>
+    <revision>
+      <id>5584</id>
+      <timestamp>2013-09-27T21:26:31Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=resources frames }} This is a correct form, please do not change or delete» ایجاد کرد</comment>
+      <text bytes="103" xml:space="preserve">{{Frame family
+|Name gloss=resources frames
+}}
+This is a correct form, please do not change or delete</text>
+    </revision>
+    <revision>
+      <id>5703</id>
+      <timestamp>2013-10-11T22:29:00Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="134" xml:space="preserve">{{Frame family
+|Name gloss=resources frames
+|LinkEnglish=Resource Frames 
+}}
+This is a correct form, please do not change or delete</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرحواره مالیات</title>
+    <ns>556</ns>
+    <id>1592</id>
+      <sha1>mcfz68b471m3rhsknragrlshs8rhtgg</sha1>
+    <revision>
+      <id>6165</id>
+      <timestamp>2014-03-14T22:37:40Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=tax frames |LinkEnglish=Taxes frames }}» ایجاد کرد</comment>
+      <text bytes="69" xml:space="preserve">{{Frame family
+|Name gloss=tax frames
+|LinkEnglish=Taxes frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های ثروتمندان</title>
+    <ns>556</ns>
+    <id>1438</id>
+      <sha1>1z8bzxzjupw4kmtbkbwenull539h36z</sha1>
+    <revision>
+      <id>5565</id>
+      <timestamp>2013-09-18T21:51:52Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=The rich frames |is subfamily of=طرح های ثروت و طبقات اجتماعی }} This is the correct fo...» ایجاد کرد</comment>
+      <text bytes="163" xml:space="preserve">{{Frame family
+|Name gloss=The rich frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}
+This is the correct form, please do not change</text>
+    </revision>
+    <revision>
+      <id>5710</id>
+      <timestamp>2013-10-11T22:37:02Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="193" xml:space="preserve">{{Frame family
+|Name gloss=The rich frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+|LinkEnglish=The Rich frames
+}}
+This is the correct form, please do not change</text>
+    </revision>
+    <revision>
+      <id>8372</id>
+      <timestamp>2014-08-20T00:20:20Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="217" xml:space="preserve">{{Frame family
+|Name gloss=The rich frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی, طرح های ثروت
+|LinkEnglish=The Rich frames
+}}
+This is the correct form, please do not change</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح سیاستمداران</title>
+    <ns>556</ns>
+    <id>1586</id>
+      <sha1>bfdklmcy5h7b9nj42zdnoczztiit9ns</sha1>
+    <revision>
+      <id>6154</id>
+      <timestamp>2014-02-17T21:54:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames politicians |is subfamily of=طرح های اداره و مدیریت |LinkEnglish=Politicians frames }}» ایجاد کرد</comment>
+      <text bytes="141" xml:space="preserve">{{Frame family
+|Name gloss=frames politicians
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Politicians frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های بدهی</title>
+    <ns>556</ns>
+    <id>1436</id>
+      <sha1>6la6efakndssksyu6dy0t1dv53k7pls</sha1>
+    <revision>
+      <id>5559</id>
+      <timestamp>2013-09-18T21:42:59Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Debt frames |is subfamily of=طرح های ثروت و طبقات اجتماعی }}» ایجاد کرد</comment>
+      <text bytes="112" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}</text>
+    </revision>
+    <revision>
+      <id>5560</id>
+      <timestamp>2013-09-18T21:44:05Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="81" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=طرح های پول
+}}</text>
+    </revision>
+    <revision>
+      <id>5561</id>
+      <timestamp>2013-09-18T21:45:14Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="113" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی 
+}}</text>
+    </revision>
+    <revision>
+      <id>5707</id>
+      <timestamp>2013-10-11T22:32:00Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="138" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+|LinkEnglish=Debt frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح قانونی</title>
+    <ns>556</ns>
+    <id>1588</id>
+      <sha1>7x23uty0s269id1zea2saxfniy4k8dv</sha1>
+    <revision>
+      <id>6158</id>
+      <timestamp>2014-02-17T22:14:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames legality |is subfamily of=طرح های اداره و مدیریت |LinkEnglish=The Law frames }}» ایجاد کرد</comment>
+      <text bytes="134" xml:space="preserve">{{Frame family
+|Name gloss=frames legality
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=The Law frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6909</id>
+      <timestamp>2014-05-23T20:48:20Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="118" xml:space="preserve">{{Frame family
+|Name gloss=frames legality
+|is subfamily of=طرح های حکومت
+|LinkEnglish=The Law frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:سکیماهای نابرابری اقتصادی</title>
+    <ns>556</ns>
+    <id>1416</id>
+      <sha1>no6dlo1q4bni72kj46serwbvn2s5xc6</sha1>
+    <revision>
+      <id>5510</id>
+      <timestamp>2013-09-15T22:56:54Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames inequality economic }}» ایجاد کرد</comment>
+      <text bytes="58" xml:space="preserve">{{Frame family
+|Name gloss=frames inequality economic
+}}</text>
+    </revision>
+    <revision>
+      <id>5512</id>
+      <timestamp>2013-09-15T23:00:09Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <text bytes="107" xml:space="preserve">{{Frame family
+|Name gloss=frames inequality economic
+|is subfamily of=سکیماهای اقتصادی
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های حسی</title>
+    <ns>556</ns>
+    <id>1542</id>
+      <sha1>oqzgr9uxru8rqdviba97o39eegtogdb</sha1>
+    <revision>
+      <id>5920</id>
+      <timestamp>2013-11-23T23:44:57Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Perception frames }}» ایجاد کرد</comment>
+      <text bytes="49" xml:space="preserve">{{Frame family
+|Name gloss=Perception frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های وجود</title>
+    <ns>556</ns>
+    <id>1476</id>
+      <sha1>ilsfhu425o2syzo12wmbu1wzo82xz4v</sha1>
+    <revision>
+      <id>5689</id>
+      <timestamp>2013-10-11T20:39:40Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames entity |LinkEnglish=Entity frames }}» ایجاد کرد</comment>
+      <text bytes="73" xml:space="preserve">{{Frame family
+|Name gloss=frames entity
+|LinkEnglish=Entity frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های ثروت و طبقات اجتماعی</title>
+    <ns>556</ns>
+    <id>1433</id>
+      <sha1>q4ax928jn16ko1vqindvfuwxtqda8gf</sha1>
+    <revision>
+      <id>5548</id>
+      <timestamp>2013-09-18T21:27:22Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Wealth and social class frames |is subfamily of=طرح های نابرابری های اقتصادی }}» ایجاد کرد</comment>
+      <text bytes="132" xml:space="preserve">{{Frame family
+|Name gloss=Wealth and social class frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+}}</text>
+    </revision>
+    <revision>
+      <id>5705</id>
+      <timestamp>2013-10-11T22:30:58Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="177" xml:space="preserve">{{Frame family
+|Name gloss=Wealth and social class frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Wealth and Social Class Frames
+}}</text>
+    </revision>
+    <revision>
+      <id>5706</id>
+      <timestamp>2013-10-11T22:31:21Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="177" xml:space="preserve">{{Frame family
+|Name gloss=Wealth and social class frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Wealth and Social Class frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح مالیات</title>
+    <ns>556</ns>
+    <id>1417</id>
+      <sha1>eaw3pol80o03svnz47i69x6dwdlhf6e</sha1>
+    <revision>
+      <id>5511</id>
+      <timestamp>2013-09-15T22:59:23Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=taxation frames |is subfamily of=سکیماهای نابرابری اقتصادی }}» ایجاد کرد</comment>
+      <text bytes="113" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=سکیماهای نابرابری اقتصادی
+}}</text>
+    </revision>
+    <revision>
+      <id>6269</id>
+      <timestamp>2014-04-01T07:22:12Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <text bytes="135" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=طرح نابرابری اقتصادی, 
+|LinkEnglish=taxation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6851</id>
+      <timestamp>2014-05-21T17:50:22Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>Reza246 صفحهٔ [[سکیماهای مالیات]] را به [[طرح مالیات]] منتقل کرد</comment>
+      <text bytes="135" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=طرح نابرابری اقتصادی, 
+|LinkEnglish=taxation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های تحصیلات</title>
+    <ns>556</ns>
+    <id>1441</id>
+      <sha1>0yqsjo7h6pqfjhs4vp9aupshjl2ckdl</sha1>
+    <revision>
+      <id>5571</id>
+      <timestamp>2013-09-18T21:59:44Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Education frames |is subfamily of=طرح های دسترسی به تحصیلات }}» ایجاد کرد</comment>
+      <text bytes="112" xml:space="preserve">{{Frame family
+|Name gloss=Education frames
+|is subfamily of=طرح های دسترسی به تحصیلات
+}}</text>
+    </revision>
+    <revision>
+      <id>5572</id>
+      <timestamp>2013-09-18T22:00:14Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="168" xml:space="preserve">{{Frame family
+|Name gloss=Education frames
+|is subfamily of=طرح های دسترسی به تحصیلات
+}}
+This is the correct form, please do not change or erase</text>
+    </revision>
+    <revision>
+      <id>5714</id>
+      <timestamp>2013-10-11T22:44:01Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="199" xml:space="preserve">{{Frame family
+|Name gloss=frames education
+|is subfamily of=طرح های دسترسی به تحصیلات
+|LinkEnglish=Education frames
+}}
+This is the correct form, please do not change or erase</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های مالیات</title>
+    <ns>556</ns>
+    <id>1431</id>
+      <sha1>fljlaanzn4rnsjjw01h59fi9h83y6ct</sha1>
+    <revision>
+      <id>5544</id>
+      <timestamp>2013-09-18T21:18:09Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Taxes frames |is subfamily of=طرح های پرداختن مالیات }} This is the correct form, please do...» ایجاد کرد</comment>
+      <text bytes="159" xml:space="preserve">{{Frame family
+|Name gloss=Taxes frames
+|is subfamily of=طرح های پرداختن مالیات
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5720</id>
+      <timestamp>2013-10-11T23:47:51Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="132" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|LinkEnglish=Taxation frame
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5722</id>
+      <timestamp>2013-10-11T23:49:15Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="133" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|LinkEnglish=Taxation frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5723</id>
+      <timestamp>2013-10-11T23:50:16Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="203" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Taxation frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های اقتصادی</title>
+    <ns>556</ns>
+    <id>1443</id>
+      <sha1>nrlgbyiph34ohv2ei3ohj2kgue082v5</sha1>
+    <revision>
+      <id>5586</id>
+      <timestamp>2013-09-27T21:49:26Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=economic frames |is subfamily of=طرح های نابرابری های اقتصادی }}» ایجاد کرد</comment>
+      <text bytes="117" xml:space="preserve">{{Frame family
+|Name gloss=economic frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+}}</text>
+    </revision>
+    <revision>
+      <id>5702</id>
+      <timestamp>2013-10-11T22:28:03Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="147" xml:space="preserve">{{Frame family
+|Name gloss=economic frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Economic Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح ادراک</title>
+    <ns>556</ns>
+    <id>1671</id>
+      <sha1>90spn815wyynp56gp2m7gkscrm4a0yp</sha1>
+    <revision>
+      <id>6482</id>
+      <timestamp>2014-04-25T06:42:14Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=perception |LinkEnglish=Perception }}» ایجاد کرد</comment>
+      <text bytes="65" xml:space="preserve">{{Frame family
+|Name gloss=perception
+|LinkEnglish=Perception
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های ثروت</title>
+    <ns>556</ns>
+    <id>1432</id>
+      <sha1>ekl14e6fomz39o4nfz1pkguak9i0xrj</sha1>
+    <revision>
+      <id>5546</id>
+      <timestamp>2013-09-18T21:21:32Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Wealth frames |is subfamily of=طرح های نابرابری های اقتصادی }} This is the correct for...» ایجاد کرد</comment>
+      <text bytes="171" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+}}
+This is the correct form, please do no erase or change.</text>
+    </revision>
+    <revision>
+      <id>5549</id>
+      <timestamp>2013-09-18T21:29:27Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="170" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}
+This is the correct form, please do no erase or change.</text>
+    </revision>
+    <revision>
+      <id>5709</id>
+      <timestamp>2013-10-11T22:36:24Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="197" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+|LinkEnglish=Money frames
+}}
+This is the correct form, please do no erase or change.</text>
+    </revision>
+    <revision>
+      <id>6179</id>
+      <timestamp>2014-03-21T17:35:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="198" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+|LinkEnglish=Wealth frames
+}}
+This is the correct form, please do no erase or change.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح نهادهای دموکراتیک</title>
+    <ns>556</ns>
+    <id>1771</id>
+      <sha1>o3zu2wzsb5j392vb6aomgh24616ib9u</sha1>
+    <revision>
+      <id>6921</id>
+      <timestamp>2014-05-24T22:59:01Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Democratic institutions |is subfamily of=طرح دموکراسی‌ |LinkEnglish=Democratic institutions }}» ایجاد کرد</comment>
+      <text bytes="135" xml:space="preserve">{{Frame family
+|Name gloss=Democratic institutions
+|is subfamily of=طرح دموکراسی‌
+|LinkEnglish=Democratic institutions
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:ساختار رویداد</title>
+    <ns>556</ns>
+    <id>985</id>
+      <sha1>48sg6ma31a4jdn4ix12zhup702lcibh</sha1>
+    <revision>
+      <id>4211</id>
+      <timestamp>2012-11-26T04:31:30Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=structure event }}» ایجاد کرد</comment>
+      <text bytes="46" xml:space="preserve">{{Frame family
+|Name gloss=structure event
+}}</text>
+    </revision>
+    <revision>
+      <id>5652</id>
+      <timestamp>2013-10-08T23:35:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="83" xml:space="preserve">{{Frame family
+|Name gloss=structure event
+|LinkEnglish=Event Structure frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6100</id>
+      <timestamp>2014-01-25T00:11:25Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <text bytes="110" xml:space="preserve">{{Frame family
+|Name gloss=structure event
+|LinkEnglish=Event Structure frames
+}}
+This means event structure</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح نابرابری اقتصادی</title>
+    <ns>556</ns>
+    <id>1620</id>
+      <sha1>ek87pqzlrgly5838u2t71eycfrk5cry</sha1>
+    <revision>
+      <id>6268</id>
+      <timestamp>2014-04-01T07:15:12Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Economic Inquality Frames |LinkEnglish=Economic Inquality Frames }}» ایجاد کرد</comment>
+      <text bytes="97" xml:space="preserve">{{Frame family
+|Name gloss=Economic Inquality Frames
+|LinkEnglish=Economic Inquality Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های پرداختن مالیات</title>
+    <ns>556</ns>
+    <id>1430</id>
+      <sha1>2gluohsew3rmuuqeajolgedbu7rk7ze</sha1>
+    <revision>
+      <id>5541</id>
+      <timestamp>2013-09-18T21:15:44Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Taxation frames |is subfamily of=نابرابری های اقتصادی }} This is the correct form please do ...» ایجاد کرد</comment>
+      <text bytes="148" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|is subfamily of=نابرابری های اقتصادی
+}}
+This is the correct form please do not erase</text>
+    </revision>
+    <revision>
+      <id>5542</id>
+      <timestamp>2013-09-18T21:16:10Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="163" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|is subfamily of=طرح های نابرابری های اقتصادی 
+}}
+This is the correct form please do not erase</text>
+    </revision>
+    <revision>
+      <id>5617</id>
+      <timestamp>2013-09-28T03:09:30Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="150" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|is subfamily of=طرح های اداره و مدیریت
+}}
+This is the correct form please do not erase</text>
+    </revision>
+    <revision>
+      <id>6113</id>
+      <timestamp>2014-02-17T09:57:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="180" xml:space="preserve">{{Frame family
+|Name gloss=Taxation frames
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Taxation frames
+}}
+This is the correct form please do not erase</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های بلا استفاده</title>
+    <ns>556</ns>
+    <id>1879</id>
+      <sha1>7lqv6jln83jaw72yvu40r64demebb3q</sha1>
+    <revision>
+      <id>7087</id>
+      <timestamp>2014-06-04T21:53:55Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Excluded frames |LinkEnglish=Excluded frames }}» ایجاد کرد</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Excluded frames
+|LinkEnglish=Excluded frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7089</id>
+      <timestamp>2014-06-04T23:18:58Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <minor />
+      <text bytes="75" xml:space="preserve">{{Frame family
+|Name gloss=Unused frames
+|LinkEnglish=Excluded frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های دسترسی به تحصیلات</title>
+    <ns>556</ns>
+    <id>1440</id>
+      <sha1>6xvj5jj1s53f00fge7s8mk6qpgscnfv</sha1>
+    <revision>
+      <id>5569</id>
+      <timestamp>2013-09-18T21:58:06Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Access to education frames |is subfamily of=طرح های نابرابری های اقتصادی }} This is th...» ایجاد کرد</comment>
+      <text bytes="184" xml:space="preserve">{{Frame family
+|Name gloss=Access to education frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5713</id>
+      <timestamp>2013-10-11T22:43:26Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="225" xml:space="preserve">{{Frame family
+|Name gloss=frames access to education
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Access to Education frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های ضرری</title>
+    <ns>556</ns>
+    <id>1474</id>
+      <sha1>434l4audp5gcu0uhes0kq9h3jyp03rf</sha1>
+    <revision>
+      <id>5686</id>
+      <timestamp>2013-10-11T20:20:26Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames harm |LinkEnglish=Harm }}» ایجاد کرد</comment>
+      <text bytes="61" xml:space="preserve">{{Frame family
+|Name gloss=frames harm
+|LinkEnglish=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح انتخابات</title>
+    <ns>556</ns>
+    <id>1615</id>
+      <sha1>hbjjpc4t2oh0jobwfkcf0rn4unyzrct</sha1>
+    <revision>
+      <id>6257</id>
+      <timestamp>2014-04-01T04:44:53Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frame elections |is subfamily of=طرح دموکراسی |LinkEnglish=Election frames }}» ایجاد کرد</comment>
+      <text bytes="118" xml:space="preserve">{{Frame family
+|Name gloss=frame elections
+|is subfamily of=طرح دموکراسی
+|LinkEnglish=Election frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6361</id>
+      <timestamp>2014-04-11T22:53:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="121" xml:space="preserve">{{Frame family
+|Name gloss=frame elections
+|is subfamily of=طرح دموکراسی‌
+|LinkEnglish=Election frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح قانون</title>
+    <ns>556</ns>
+    <id>1582</id>
+      <sha1>c8kw69c3j1uq3zoaq115syyd0sw1mmc</sha1>
+    <revision>
+      <id>6148</id>
+      <timestamp>2014-02-17T21:35:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames legislation |is subfamily of=طرح های اداره و مدیریت |LinkEnglish=Legislation frames }}» ایجاد کرد</comment>
+      <text bytes="141" xml:space="preserve">{{Frame family
+|Name gloss=frames legislation
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های نابرابری های اقتصادی</title>
+    <ns>556</ns>
+    <id>1427</id>
+      <sha1>0o4rl24sgseqdwiknlcpxopcozcu0d0</sha1>
+    <revision>
+      <id>5533</id>
+      <timestamp>2013-09-18T20:56:44Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Economic inequality frames }} This is the correct form, please do not erase or change» ایجاد کرد</comment>
+      <text bytes="114" xml:space="preserve">{{Frame family
+|Name gloss=Economic inequality frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5704</id>
+      <timestamp>2013-10-11T22:29:51Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="155" xml:space="preserve">{{Frame family
+|Name gloss=Economic inequality frames
+|LinkEnglish=Economic Inequality Frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+    <revision>
+      <id>5817</id>
+      <timestamp>2013-10-22T19:56:57Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="155" xml:space="preserve">{{Frame family
+|Name gloss=Economic inequality frames
+|LinkEnglish=Economic Inequality frames
+}}
+This is the correct form, please do not erase or change</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های تحرک</title>
+    <ns>556</ns>
+    <id>1486</id>
+      <sha1>c3hvwpczsimet7w1ykq5i2q8erol6kg</sha1>
+    <revision>
+      <id>5731</id>
+      <timestamp>2013-10-12T00:18:47Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames mobility |is subfamily of=طرح های حرکت |LinkEnglish=Motion-affecting frames }}» ایجاد کرد</comment>
+      <text bytes="125" xml:space="preserve">{{Frame family
+|Name gloss=frames mobility
+|is subfamily of=طرح های حرکت
+|LinkEnglish=Motion-affecting frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:حمل بار</title>
+    <ns>556</ns>
+    <id>1445</id>
+      <sha1>bhkbjpqzblkd2i6nxyg4ghlzv8cswh0</sha1>
+    <revision>
+      <id>5592</id>
+      <timestamp>2013-09-27T22:08:49Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=carrying burden |is subfamily of=بار }}» ایجاد کرد</comment>
+      <text bytes="70" xml:space="preserve">{{Frame family
+|Name gloss=carrying burden
+|is subfamily of=بار
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های فقیر</title>
+    <ns>556</ns>
+    <id>1525</id>
+      <sha1>k5ep5e571n984ko59vtih8tb1p43jf4</sha1>
+    <revision>
+      <id>5833</id>
+      <timestamp>2013-10-25T22:02:25Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames poor |is subfamily of=طرح های فقر |LinkEnglish=The Poor frames }}» ایجاد کرد</comment>
+      <text bytes="111" xml:space="preserve">{{Frame family
+|Name gloss=frames poor
+|is subfamily of=طرح های فقر
+|LinkEnglish=The Poor frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های وسعت مکان</title>
+    <ns>556</ns>
+    <id>1517</id>
+      <sha1>7qzuexfvp6c6gbdfu26cscjowpuph3s</sha1>
+    <revision>
+      <id>5799</id>
+      <timestamp>2013-10-20T04:26:59Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |is subfamily of=طرح های مکان }}» ایجاد کرد</comment>
+      <text bytes="58" xml:space="preserve">{{Frame family
+|is subfamily of=طرح های مکان
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:رقابت</title>
+    <ns>556</ns>
+    <id>1666</id>
+      <sha1>i1vjnoap3al4r2hqth05i5038rkikc7</sha1>
+    <revision>
+      <id>6472</id>
+      <timestamp>2014-04-23T21:22:27Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=competition }}» ایجاد کرد</comment>
+      <text bytes="42" xml:space="preserve">{{Frame family
+|Name gloss=competition
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های اخلاقیات</title>
+    <ns>556</ns>
+    <id>1537</id>
+      <sha1>7mnok9greb6pvxzgt647yzqnbtlg8jo</sha1>
+    <revision>
+      <id>5904</id>
+      <timestamp>2013-11-21T22:04:20Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames morality |LinkEnglish=Morality frames }}» ایجاد کرد</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=frames morality
+|LinkEnglish=Morality frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح بروکراسی</title>
+    <ns>556</ns>
+    <id>1743</id>
+      <sha1>377o50ksj8120zqo46hup83h4hac0gb</sha1>
+    <revision>
+      <id>6794</id>
+      <timestamp>2014-05-17T07:01:05Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=bureaucracy frame |LinkEnglish=Bureaucracy }}» ایجاد کرد</comment>
+      <text bytes="74" xml:space="preserve">{{Frame family
+|Name gloss=bureaucracy frame
+|LinkEnglish=Bureaucracy
+}}</text>
+    </revision>
+    <revision>
+      <id>6843</id>
+      <timestamp>2014-05-20T22:30:45Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="109" xml:space="preserve">{{Frame family
+|Name gloss=bureaucracy frame
+|is subfamily of=طرح حکومت
+|LinkEnglish=Bureaucracy
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:ساختار مکان-رویداد</title>
+    <ns>556</ns>
+    <id>1527</id>
+      <sha1>6kkmdd9bspgco7aclh94fs1isxq6wmd</sha1>
+    <revision>
+      <id>5847</id>
+      <timestamp>2013-10-26T22:09:55Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=structure location-event }}» ایجاد کرد</comment>
+      <text bytes="55" xml:space="preserve">{{Frame family
+|Name gloss=structure location-event
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح مقررات</title>
+    <ns>556</ns>
+    <id>1585</id>
+      <sha1>3ez0a9scxoljlky1bgio43tqw6qc1kt</sha1>
+    <revision>
+      <id>6152</id>
+      <timestamp>2014-02-17T21:45:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames regulation |is subfamily of=طرح های اداره و مدیریت |LinkEnglish=Regulation frames }}» ایجاد کرد</comment>
+      <text bytes="139" xml:space="preserve">{{Frame family
+|Name gloss=frames regulation
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Regulation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6907</id>
+      <timestamp>2014-05-23T20:47:40Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="166" xml:space="preserve">{{Frame family
+|Name gloss=frames regulation
+|is subfamily of=طرح های حکومت، طرح های اداره و مدیریت
+|LinkEnglish=Regulation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6908</id>
+      <timestamp>2014-05-23T20:47:58Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <text bytes="123" xml:space="preserve">{{Frame family
+|Name gloss=frames regulation
+|is subfamily of=طرح های حکومت
+|LinkEnglish=Regulation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های موجود زنده</title>
+    <ns>556</ns>
+    <id>1511</id>
+      <sha1>ejucpjx1uyry2jncy00yxq8ziue1ikh</sha1>
+    <revision>
+      <id>5789</id>
+      <timestamp>2013-10-20T03:24:06Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames of live entity |is subfamily of=طرح های موجودات }}» ایجاد کرد</comment>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=frames of live entity
+|is subfamily of=طرح های موجودات
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های پول</title>
+    <ns>556</ns>
+    <id>1437</id>
+      <sha1>6ojayhyns43v0g4sehcxmmfpld46g7n</sha1>
+    <revision>
+      <id>5563</id>
+      <timestamp>2013-09-18T21:49:35Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Money frames |is subfamily of=طرح های ثروت و طبقات اجتماعی }}» ایجاد کرد</comment>
+      <text bytes="113" xml:space="preserve">{{Frame family
+|Name gloss=Money frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}</text>
+    </revision>
+    <revision>
+      <id>5711</id>
+      <timestamp>2013-10-11T22:37:45Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="140" xml:space="preserve">{{Frame family
+|Name gloss=Money frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+|LinkEnglish=Money frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح سیاست</title>
+    <ns>556</ns>
+    <id>1762</id>
+      <sha1>oaqja5kmtps4nvsxem7ke621n22iw4p</sha1>
+    <revision>
+      <id>6889</id>
+      <timestamp>2014-05-22T19:12:12Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor />
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=politics |is subfamily of=طرح حکومت |LinkEnglish=Politics }}» ایجاد کرد</comment>
+      <text bytes="96" xml:space="preserve">{{Frame family
+|Name gloss=politics
+|is subfamily of=طرح حکومت
+|LinkEnglish=Politics
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های حکومت</title>
+    <ns>556</ns>
+    <id>1505</id>
+      <sha1>635fw0pghdfxjx1eci85eqwnlzqard2</sha1>
+    <revision>
+      <id>5779</id>
+      <timestamp>2013-10-20T02:50:39Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames Leadership |is subfamily of=طرح های سیاست }} This word's interpretation can be authority or ...» ایجاد کرد</comment>
+      <text bytes="185" xml:space="preserve">{{Frame family
+|Name gloss=frames Leadership
+|is subfamily of=طرح های سیاست
+}}
+This word's interpretation can be authority or the regime, the highest spot in the heirarchy.</text>
+    </revision>
+    <revision>
+      <id>6101</id>
+      <timestamp>2014-02-17T09:01:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="217" xml:space="preserve">{{Frame family
+|Name gloss=frames Leadership
+|is subfamily of=طرح های سیاست
+|LinkEnglish=Leadership frames
+}}
+This word's interpretation can be authority or the regime, the highest spot in the heirarchy.</text>
+    </revision>
+    <revision>
+      <id>6102</id>
+      <timestamp>2014-02-17T09:06:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="235" xml:space="preserve">{{Frame family
+|Name gloss=frames Leadership
+|is subfamily of=ططرح های اداره و مدیریت
+|LinkEnglish=Leadership frames
+}}
+This word's interpretation can be authority or the regime, the highest spot in the heirarchy.</text>
+    </revision>
+    <revision>
+      <id>6103</id>
+      <timestamp>2014-02-17T09:07:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="233" xml:space="preserve">{{Frame family
+|Name gloss=frames Leadership
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Leadership frames
+}}
+This word's interpretation can be authority or the regime, the highest spot in the heirarchy.</text>
+    </revision>
+    <revision>
+      <id>6110</id>
+      <timestamp>2014-02-17T09:30:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="230" xml:space="preserve">{{Frame family
+|Name gloss=frames Leadership
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Leaders frames
+}}
+This word's interpretation can be authority or the regime, the highest spot in the heirarchy.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های سیاست</title>
+    <ns>556</ns>
+    <id>1506</id>
+      <sha1>dshht10j0rkhgijcpr7koosdqswfgb1</sha1>
+    <revision>
+      <id>5780</id>
+      <timestamp>2013-10-20T02:51:24Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames politics |is subfamily of=طرح های اداره و مدیریت }}» ایجاد کرد</comment>
+      <text bytes="105" xml:space="preserve">{{Frame family
+|Name gloss=frames politics
+|is subfamily of=طرح های اداره و مدیریت
+}}</text>
+    </revision>
+    <revision>
+      <id>6112</id>
+      <timestamp>2014-02-17T09:55:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="135" xml:space="preserve">{{Frame family
+|Name gloss=frames politics
+|is subfamily of=طرح های اداره و مدیریت
+|LinkEnglish=Politics frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های نمودارگونه</title>
+    <ns>556</ns>
+    <id>1491</id>
+      <sha1>l7qnsrzrdb30xiq3ry2d6emmwvyan61</sha1>
+    <revision>
+      <id>5747</id>
+      <timestamp>2013-10-12T00:51:11Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames.e scalar }}» ایجاد کرد</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=frames.e scalar
+}}</text>
+    </revision>
+    <revision>
+      <id>5748</id>
+      <timestamp>2013-10-12T00:51:36Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="74" xml:space="preserve">{{Frame family
+|Name gloss=frames.e scalar
+|LinkEnglish=Scale frames
+}}</text>
+    </revision>
+    <revision>
+      <id>5749</id>
+      <timestamp>2013-10-12T00:51:55Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="74" xml:space="preserve">{{Frame family
+|Name gloss=frames.e scalar
+|LinkEnglish=Scale Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های اداره و مدیریت</title>
+    <ns>556</ns>
+    <id>1447</id>
+      <sha1>7jksum9m8kr8j812z13g4ej40kiwshx</sha1>
+    <revision>
+      <id>5603</id>
+      <timestamp>2013-09-27T22:25:58Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=governance frames }}» ایجاد کرد</comment>
+      <text bytes="51" xml:space="preserve">{{Metaphor family
+|Name gloss=governance frames
+}}</text>
+    </revision>
+    <revision>
+      <id>5604</id>
+      <timestamp>2013-09-27T22:31:50Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="109" xml:space="preserve">{{Metaphor family
+|Name gloss=governance frames
+}}
+This is a correct form, please do not or change this page</text>
+    </revision>
+    <revision>
+      <id>5741</id>
+      <timestamp>2013-10-12T00:43:57Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="160" xml:space="preserve">{{Frame family
+|LinkEnglish=Governance frames
+}}
+{{Metaphor family
+|Name gloss=governance frames
+}}
+This is a correct form, please do not or change this page</text>
+    </revision>
+    <revision>
+      <id>5805</id>
+      <timestamp>2013-10-21T22:31:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="108" xml:space="preserve">{{Frame family
+|LinkEnglish=Governance frames
+}}
+This is a correct form, please do not or change this page</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های طبقات اجتماعی</title>
+    <ns>556</ns>
+    <id>1434</id>
+      <sha1>832ey1jurut0wul5x86415vi78e1kp6</sha1>
+    <revision>
+      <id>5551</id>
+      <timestamp>2013-09-18T21:32:56Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Social class frames |is subfamily of=طرح های ثروت و طبقات اجتماعی }} This is the correc...» ایجاد کرد</comment>
+      <text bytes="177" xml:space="preserve">{{Frame family
+|Name gloss=Social class frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}
+This is the correct form, please do not change or erase.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های وجودی</title>
+    <ns>556</ns>
+    <id>1512</id>
+      <sha1>ro33ngf22lx49e3v15f0l44xw07qwj1</sha1>
+    <revision>
+      <id>5790</id>
+      <timestamp>2013-10-20T03:24:37Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=frames of entity |LinkEnglish=Entity frames }}» ایجاد کرد</comment>
+      <text bytes="76" xml:space="preserve">{{Frame family
+|Name gloss=frames of entity
+|LinkEnglish=Entity frames
+}}</text>
+    </revision>
+    <revision>
+      <id>5933</id>
+      <timestamp>2013-11-25T02:19:07Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <minor />
+      <comment>Sanam صفحهٔ [[طرح های موجودات]] را به [[طرح های وجودی]] منتقل کرد</comment>
+      <text bytes="76" xml:space="preserve">{{Frame family
+|Name gloss=frames of entity
+|LinkEnglish=Entity frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های مکان</title>
+    <ns>556</ns>
+    <id>1446</id>
+      <sha1>tus2wqmxppr7hiik6jthgcgnxj85ovx</sha1>
+    <revision>
+      <id>5599</id>
+      <timestamp>2013-09-27T22:20:43Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=location frames }}» ایجاد کرد</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=location frames
+}}</text>
+    </revision>
+    <revision>
+      <id>5701</id>
+      <timestamp>2013-10-11T22:27:11Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=location frames
+|LinkEnglish=Location frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های طبقۀ متوسط</title>
+    <ns>556</ns>
+    <id>1439</id>
+      <sha1>n6gaaxfk9j52y7aqhyxwq543p8iyxx7</sha1>
+    <revision>
+      <id>5567</id>
+      <timestamp>2013-09-18T21:55:52Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=The middle class frames |is subfamily of=طرح های ثروت و طبقات اجتماعی }} This is the co...» ایجاد کرد</comment>
+      <text bytes="174" xml:space="preserve">{{Frame family
+|Name gloss=The middle class frames
+|is subfamily of=طرح های ثروت و طبقات اجتماعی
+}}
+This is the correct form, please do not change it</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های فقر</title>
+    <ns>556</ns>
+    <id>1428</id>
+      <sha1>c35uci10yoaopbqf928q219ufx8bnqy</sha1>
+    <revision>
+      <id>5535</id>
+      <timestamp>2013-09-18T20:58:31Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Poverty frames }} This is the correct form, please do not change or erase» ایجاد کرد</comment>
+      <text bytes="102" xml:space="preserve">{{Frame family
+|Name gloss=Poverty frames
+}}
+This is the correct form, please do not change or erase</text>
+    </revision>
+    <revision>
+      <id>5536</id>
+      <timestamp>2013-09-18T21:00:26Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text bytes="172" xml:space="preserve">{{Frame family
+|Name gloss=Poverty frames
+|is subfamily of=طرح های نابرابری های اقتصادی
+}}
+This is the correct form, please do not change or erase</text>
+    </revision>
+    <revision>
+      <id>5715</id>
+      <timestamp>2013-10-11T22:44:36Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <text bytes="173" xml:space="preserve">{{Frame family
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Poverty frames
+}}
+This is the correct form, please do not change or erase</text>
+    </revision>
+    <revision>
+      <id>5806</id>
+      <timestamp>2013-10-21T22:35:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="117" xml:space="preserve">{{Frame family
+|is subfamily of=طرح های نابرابری های اقتصادی
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:طرح های حرکت</title>
+    <ns>556</ns>
+    <id>1461</id>
+      <sha1>euxrr7ppgpqvn1mj2jyyhzz0xs6212r</sha1>
+    <revision>
+      <id>5661</id>
+      <timestamp>2013-10-09T22:44:42Z</timestamp>
+      <contributor>
+        <username>Kouros Falati</username>
+        <id>49</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Frame family |Name gloss=Frames motion |LinkEnglish=Motion Frames }}» ایجاد کرد</comment>
+      <text bytes="73" xml:space="preserve">{{Frame family
+|Name gloss=Frames motion
+|LinkEnglish=Motion Frames
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

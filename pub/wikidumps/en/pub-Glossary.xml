@@ -1,0 +1,1115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Glossary:Binding</title>
+    <ns>502</ns>
+    <id>325</id>
+    <revision>
+      <id>1447</id>
+      <parentid>1446</parentid>
+      <timestamp>2015-02-14T00:33:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="907">{{Glossary
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Frame pages, the Bindings field is used to specify bindings between a given role in the current frame and one or more roles in the Frame(s) listed in the &quot;Related Frames&quot; block.  Dot notation is used to specify the Related frame role. The binding relation itself is specified using a &quot;=&quot; sign.  
+
+For instance, if the current frame is &quot;Self propelled motion&quot; (which includes a 'self_mover' role), and a related frame is &quot;Action&quot; (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Frame
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014)
+}}</text>
+      <sha1>mack6inbu8170ywhzxdga4mny99lqsu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Category</title>
+    <ns>502</ns>
+    <id>290</id>
+    <revision>
+      <id>1322</id>
+      <parentid>1321</parentid>
+      <timestamp>2015-02-17T01:35:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1226">{{Glossary
+|Entry=Category
+|Other Aliases=Conceptual Category
+|Description=Categories are conceptual units, structured internally by prototype-extension relations among its members (ranging in inclusivity from prototypical to peripheral) and externally by taxonomic relations between categories.  Categorization about the world happens via inductive reasoning.  Because categories are formed for things that are relevant, or “matter”, to the people of a community, the meanings of most categories tend to be vague and fleeting, and the borderlines between categories are fuzzy.
+Categories occur in hierarchies, with superordinate-subordinate relations according to saliency, and in particular whole-part relations.  Basic level categories are conceptually more salient than categories at the higher and lower levels, and tend to elicit the most responses and richest images because they provide the most maximally necessary information.  Most categories have a prototype structure, and as such categories are understood in terms of their prototypes. This inherent superordinate-subordinate relation gives rise naturally to metonymy.
+|Applies to=Metaphor &amp; Frame
+|Utility=General Theory
+|Entered by=Karie (February 2015)
+}}</text>
+      <sha1>si8rya7hkrou675xx0nsk9v6l3kqxgn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Closest FrameNet Frames</title>
+    <ns>502</ns>
+    <id>330</id>
+    <revision>
+      <id>12478</id>
+      <parentid>1461</parentid>
+      <timestamp>2016-07-21T18:46:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="816">{{Glossary
+|Entry=Closest FrameNet Frames
+|Description=This is an optional field in the wiki Frame page that provides a live link to one or more FrameNet frames.   In order for this link to work, the name listed must match that of an existing FrameNet frame.  
+
+When a FrameNet frame is specified within a frame, equivalent FrameNet roles (FE's, in FrameNet terminology) may be specified for the roles defined in the 'Roles' section of the frame. These specifications require manual entry. See [[Glossary:Role|Role]].
+
+Additionally, there will be an automatically-added entry in the 'Lexical Units in Related Frames' section of the frame, indicating which lexical units are currently listed in the closest FrameNet frame(s).
+|Applies to=Frame
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014),
+}}</text>
+      <sha1>ecbqxcjftksc461azcm2fmv8ebqhmit</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Cognitive Primitive</title>
+    <ns>502</ns>
+    <id>297</id>
+    <revision>
+      <id>12597</id>
+      <parentid>1345</parentid>
+      <timestamp>2016-07-28T20:53:54Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="368">{{Glossary
+|Entry=Cognitive Primitive
+|Other Aliases=Cog, Conceptual Primitive
+|Description=Cognitive primitives are simple, experientially-basic conceptual building blocks (e.g. Causality, Containment, Animacy, Contact). Many -- but not all -- image schemas can be considered cognitive primitives.
+|Applies to=Frame
+|Utility=Wiki
+|Entered by=Karie (February 2015),
+}}</text>
+      <sha1>0pl0nviz0auh4hl8hu28wm0d9jm1ggk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Composed Frame</title>
+    <ns>502</ns>
+    <id>332</id>
+    <revision>
+      <id>1468</id>
+      <parentid>1467</parentid>
+      <timestamp>2015-02-17T01:36:24Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="286">{{Glossary
+|Entry=Composed Frame
+|Other Aliases=Relational Frame
+|Description=Composed/complex frames bind to multiple more general frames. Hence, some or all of their structure is inherited from other frames.
+|Applies to=Frame
+|Utility=General Theory
+|Entered by=Elise (July 2014), 
+}}</text>
+      <sha1>qjvpzh6hxw5m6ce1r9u8ssx79b7psos</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Composed Metaphor</title>
+    <ns>502</ns>
+    <id>302</id>
+    <revision>
+      <id>1362</id>
+      <parentid>1361</parentid>
+      <timestamp>2015-02-17T01:36:09Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="663">{{Glossary
+|Entry=Composed Metaphor
+|Other Aliases=Complex Metaphor
+|Description=A composed or complex metaphor has bindings to multiple, more general metaphors. Typically it is a source or target subcase of at least one metaphor, in which case either its source or target domain is a subcase of the source or target of the related metaphor.
+Composed metaphors bind fully to one or more metaphors which they are subcases of. Complex metaphors bind fully to at least one metaphor, but are also related to other metaphors without binding all of their roles to the roles of that metaphor.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2014)
+}}</text>
+      <sha1>t2ista87578kim3owdy4b8ggztfe8kp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Conceptual Metaphor</title>
+    <ns>502</ns>
+    <id>327</id>
+    <revision>
+      <id>1452</id>
+      <parentid>1451</parentid>
+      <timestamp>2015-02-17T01:36:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="553">{{Glossary
+|Entry=Conceptual Metaphor
+|Other Aliases=CM
+|Description=A conceptual metaphor is a mapping between frames that arise from our embodied experiences.  The core of the conceptual network of metaphors are primary metaphors.  Though primary metaphors are thought to consist of experientially-based universals, it is the case that many conceptual metaphors are composed of relations between culturally-constrained semantic frames (e.g. ROMANTIC RELATIONSHIP IS A JOURNEY).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie (February 2015), 
+}}</text>
+      <sha1>qcdrhdgcciihgp5a1sx0qu1id4ivsl1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Construct</title>
+    <ns>502</ns>
+    <id>295</id>
+    <revision>
+      <id>1337</id>
+      <parentid>1336</parentid>
+      <timestamp>2015-02-17T01:37:08Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="514">{{Glossary
+|Entry=Construct
+|Description=A fully instantiated and lexicalized instance of a construction.
+
+A construct analysis consists of:
+the text
+constructional information, including the lexeme(s), the construction, and frame(s)
+constructional information of its constituents
+bindings between entities in the cxns
+metaphor information, including links to any metaphor entries
+
+Form on English wiki: [[https://metaphor.icsi.berkeley.edu/en/index.php/Form:Construct_analysis]]
+|Entered by=Elise (July 2014), 
+}}</text>
+      <sha1>og2ol7bj9864iqiluz95nyk8kas8oam</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Cultural Information</title>
+    <ns>502</ns>
+    <id>326</id>
+    <revision>
+      <id>1450</id>
+      <parentid>1449</parentid>
+      <timestamp>2015-02-17T01:37:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="519">{{Glossary
+|Entry=Cultural Information
+|Description=If a frame happens to be a frame, this means that the frame has some socio-cultural meanings that may vary. The 'Cultural information' field is meant to provide a space to elaborate on possible relevant socio-cultural aspects of that frame, especially those aspects that may prove to be most variable cross-linguistically.
+If the cultural scope for a frame has been determined, it will be noted here.
+|Applies to=Frame
+|Utility=Wiki
+|Entered by=Elise (July 2014), 
+}}</text>
+      <sha1>j80eknuopgl44ujtn8r8kqk8cmgb2ir</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Cultural Scope</title>
+    <ns>502</ns>
+    <id>331</id>
+    <revision>
+      <id>1465</id>
+      <parentid>1464</parentid>
+      <timestamp>2015-02-17T01:37:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="421">{{Glossary
+|Entry=Cultural Scope
+|Description=&quot;Cultural scope&quot; refers to which languages/cultures a frame or metaphor has been validated for. This includes both national-level information (e.g., American English) and within-culture information (e.g., American conservative, American progressive). Some frames/metaphors do not hold across languages/cultures.
+|Applies to=Metaphor &amp; Frame
+|Entered by=Elise (July 2014), 
+}}</text>
+      <sha1>a508ig22gmw8jmvthlcacczn1ols81g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Entailment</title>
+    <ns>502</ns>
+    <id>291</id>
+    <revision>
+      <id>1324</id>
+      <parentid>1323</parentid>
+      <timestamp>2015-02-17T01:37:54Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="447">{{Glossary
+|Entry=Entailment
+|Description=In a metaphor mapping, an entailment constitutes the inferences in the frame or frame in the target domain given the conditions and constraints placed on the frame or frame in the source domain; entailments constitute anything that falls out from an understanding of a metaphor as a whole given the constraints on its frames.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>6jjrb02nuwse866re248ay32n429fap</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Family</title>
+    <ns>502</ns>
+    <id>323</id>
+    <revision>
+      <id>1432</id>
+      <parentid>1431</parentid>
+      <timestamp>2015-02-17T01:38:21Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="898">{{Glossary
+|Entry=Family
+|Description=Each frame can (optionally) be specified to be a member of one or more Frame families.  Similarly, each metaphor is (optionally) defined to be a member of one or more Metaphor families.
+
+Families are used to group related frames/metaphors together, e.g. for ease of analyzing a particular semantic domain or set of metaphors.    
+
+Lists of Frame Families and Metaphor Families can be accessed via links listed under the Metaphor Data Guide section of the Main page of the Wiki. 
+Clicking on a given family name provides access to a list of the frames/metaphors that have been specified to be members of that family, as well as a diagram that illustrates the defined relations between these  frames/metaphors.  For frame families, there is also a list of the LUs associated with each of the frames.
+|Applies to=Metaphor &amp; Frame
+|Entered by=Ellen (March 2014)
+}}</text>
+      <sha1>etoikh7u6cc8w220yajwbootruci9me</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Frame</title>
+    <ns>502</ns>
+    <id>2148</id>
+    <redirect title="Glossary:Frame Type" />
+    <revision>
+      <id>12593</id>
+      <timestamp>2016-07-28T20:13:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>EllenDodge moved page [[Glossary:Frame]] to [[Glossary:Frame Type]]</comment>
+      <text xml:space="preserve" bytes="33">#REDIRECT [[Glossary:Frame Type]]</text>
+      <sha1>orsoqed6c6inwg74cznywke1tm7esa6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Frame (definition)</title>
+    <ns>502</ns>
+    <id>292</id>
+    <revision>
+      <id>12602</id>
+      <parentid>12601</parentid>
+      <timestamp>2016-07-28T21:02:10Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="509">{{Glossary
+|Entry=Frame
+|Other Aliases=Schema, Image Schema
+|Description=Frames are conceptual gestalts: structured, schematic representations of different kinds of experiences, objects and events. 
+
+Frame representations include [[Glossary:Role|roles]] and [[Glossary:Inference|inferential structure]].
+
+Individual frame entries have [[Glossary:Frame Relation Type|relations]] to other frames, thereby forming larger frame networks.
+|Applies to=Frame
+|Utility=General Theory
+|Entered by=Elise (July 2012),
+}}</text>
+      <sha1>79tmc7osbpiqaor1bjo90x3ax9p6vkc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Frame Relation Type</title>
+    <ns>502</ns>
+    <id>310</id>
+    <revision>
+      <id>12481</id>
+      <parentid>12480</parentid>
+      <timestamp>2016-07-21T18:53:43Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="753">{{Glossary
+|Entry=Frame Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Glossary:Makes use of|Makes use of]]
+ 2. is a [[Glossary:Subcase of|Subcase of]]
+ 3. is a [[Glossary:Subprocess of|Subprocess of]]
+ 4. [[Glossary:Incorporates as a role|Incorporates as a role]]
+ 5. [[Glossary:is related to|is related to]]
+ 6. is in [[Glossary:Scalar opposition to|Scalar opposition to]]
+ 7. is a [[Glossary:Perspective on|Perspective on]]
+ 8. [[Glossary:is in causal relation with|is in causal relation with]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}</text>
+      <sha1>ln8npkfuwttm0dcf5nhu6onxfvfbty0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Frame Type</title>
+    <ns>502</ns>
+    <id>324</id>
+    <revision>
+      <id>12649</id>
+      <parentid>12594</parentid>
+      <timestamp>2016-08-01T17:50:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="780">{{Glossary
+|Entry=Frame Type
+|Description=Frame entries include a '''''Type''''' variable that is used to indicate different categories or subtypes of frames: 
+
+* '''''Cogs''''' are primitive gestalts that are experientially grounded and universally relevant (See [[Glossary:Cognitive Primitive|Cognitive Primitive]], [[Glossary:Image Schema|Image Schema]])
+
+* The '''''Frame''''' frame type is used to mark more culturally-specific scenes, objects and events.
+
+* '''''Primary''''' frames are conceptual primitives, in that they do not inherit or compose the structure of other frames
+
+* ''''' Composed''''' frames combine the structure and/or contents of two or more other frames (See [[Glossary:Composed Frame|Composed Frame]]).
+|Applies to=Frame
+|Utility=Wiki
+|Notation=Type
+}}</text>
+      <sha1>08rqhz48ebf4odasz3ehygl91hrsrjw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Idealized Cognitive Model</title>
+    <ns>502</ns>
+    <id>314</id>
+    <revision>
+      <id>1407</id>
+      <parentid>1406</parentid>
+      <timestamp>2015-02-17T01:38:46Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="737">{{Glossary
+|Entry=Idealized Cognitive Model
+|Other Aliases=ICM
+|Description=An ICM is a concept, or a cluster of related concepts, that defines our knowledge of a category.  An ICM is comprised of those features which most strongly characterize the category.  Members of a category who most strongly fit the definition imposed by the ICM are called prototypes.  For example, the ICM for the category bird includes an feathered animal, with two wings, that can fly, that has a beak and talons, and can lay eggs.  A prototypical bird would be something like a pigeon or sparrow, while a less prototypical bird would be something like a chicken or an ostrich.
+|Applies to=Frame
+|Utility=General Theory
+|Entered by=Karie (February 2015), 
+}}</text>
+      <sha1>syl0so82k1wzto4l9bluunbjpdhtk5e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Image Frame</title>
+    <ns>502</ns>
+    <id>2147</id>
+    <redirect title="Glossary:Image Schema" />
+    <revision>
+      <id>12588</id>
+      <timestamp>2016-07-28T19:40:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>EllenDodge moved page [[Glossary:Image Frame]] to [[Glossary:Image Schema]]</comment>
+      <text xml:space="preserve" bytes="35">#REDIRECT [[Glossary:Image Schema]]</text>
+      <sha1>5cvz962ws88htr32oo7sydz10hujdml</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Image Schema</title>
+    <ns>502</ns>
+    <id>321</id>
+    <revision>
+      <id>12587</id>
+      <parentid>12143</parentid>
+      <timestamp>2016-07-28T19:40:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <minor/>
+      <comment>EllenDodge moved page [[Glossary:Image Frame]] to [[Glossary:Image Schema]]</comment>
+      <text xml:space="preserve" bytes="614">{{Glossary
+|Entry=Image Schema
+|Other Aliases=Image Schematic Domain
+|Description=Image schemas are prelinguistic representations of highly schematic patterns arising from imagistic domains of sensory-motor experience that recur in a variety of embodied domains (e.g. Container, Forces, Scale, Locomotion).  Image schemas, as embodied structures, have a psychological reality, are internally structured, and have inferential structures that motivate conceptual metaphor mappings.
+
+In MetaNet, image schemas are represented as frames.
+|Applies to=Frame
+|Entered by=Karie (February 2015),
+|Last reviewed by=Ellen,
+}}</text>
+      <sha1>5zjaoxcgh6qy1xsx707lc63r1o7xn9u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Inference</title>
+    <ns>502</ns>
+    <id>318</id>
+    <revision>
+      <id>1420</id>
+      <parentid>1419</parentid>
+      <timestamp>2015-02-17T01:39:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="599">{{Glossary
+|Entry=Inference
+|Description=The detailed knowledge about a frame or frame that constitutes the internal logic of that frame or frame by which we reason about that frame or frame; inferences fall out from our understanding of a frame or frame given the constraints on that frame or frame. Traditionally, inference and entailment are synonymous. In the Wiki, inference is kept to refer to the internal logic of a frame or frame, while entailment is used to refer to the corresponding logic in the target domain in a metaphoric mapping.
+|Applies to=Frame
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>8ghud54spesbneffwyp68pys6hgerkp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Lexical Unit</title>
+    <ns>502</ns>
+    <id>304</id>
+    <revision>
+      <id>12650</id>
+      <parentid>12499</parentid>
+      <timestamp>2016-08-01T17:52:09Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="650">{{Glossary
+|Entry=Lexical Unit
+|Other Aliases=Lempos, Relevant Lexical Unit
+|Description=Lexical units that are associated with a given frame are listed in the 'Relevant Lexical Units' section of the Frame entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election frame:
+   election.n
+   elect.v
+|Applies to=Frame
+|Utility=Wiki
+|Notation=lempos = lemma, part of speeech (POS)
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014),
+}}</text>
+      <sha1>l00bzaf14ze86ifsxnkmw9uc5rcba4m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Linguistic Metaphor</title>
+    <ns>502</ns>
+    <id>301</id>
+    <revision>
+      <id>1358</id>
+      <parentid>1357</parentid>
+      <timestamp>2015-02-17T01:40:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="817">{{Glossary
+|Entry=Linguistic Metaphor
+|Other Aliases=LM
+|Description=A linguistic metaphor is an instantiation of, or linguistically mediated instance of, a more general conceptual metaphor.  Linguistic metaphors occur when words for source domain concepts are used for target domain concepts via metaphoric mappings.  Linguistic metaphors activate a conceptual metaphor, but they do not alter it.  (e.g. in the nominal clause &quot;epidemic of poverty,&quot; the target domain concept Poverty is described using the source domain lexeme 'epidemic,' evoking the linguistic metaphor POVERTY IS AN EPIDEMIC. The use of the lexeme 'epidemic' evokes the more general Disease frame, which activates the more general conceptual metaphor POVERTY IS A DISEASE).
+|Applies to=Metaphor
+|Utility=Wiki
+|Entered by=Karie (February 2015), 
+}}</text>
+      <sha1>6mlweudc2nqag7gdqb6rboma7fffcrr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Makes use of</title>
+    <ns>502</ns>
+    <id>300</id>
+    <revision>
+      <id>1356</id>
+      <parentid>1355</parentid>
+      <timestamp>2015-02-17T01:40:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="504">{{Glossary
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames. This relation can be compared to FrameNet's 'uses' relation.  
+
+For metaphors, this
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen (February 2015),
+}}</text>
+      <sha1>oxiu32z9h3vblilcib9jjglmtu7t8a6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Mapping</title>
+    <ns>502</ns>
+    <id>305</id>
+    <revision>
+      <id>12648</id>
+      <parentid>12647</parentid>
+      <timestamp>2016-08-01T17:43:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="775">{{Glossary
+|Entry=Mapping
+|Description=Metaphors are defined as mappings from a source domain to a target domain.
+
+Each metaphor entry specifies this mapping at two levels:
+* At the frame level, each metaphor specifies a [[Glossary:Source Frame|Source Frame]] and a [[Glossary:Target Frame|Target Frame]] (the source and the target, respectively, of the frame-to-frame mapping)
+
+* At the role level, mappings are specified unidirectional links from Source Frame roles to their corresponding Target Frame roles. 
+
+Mapped roles should, at least in principle, be of compatible semantic types.  For instance, an entity will be mapped to an entity, and a process to a process.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012),
+|Last reviewed by=Ellen,
+}}</text>
+      <sha1>40rw6rmzjxxejswkzx96yh80jndwnd2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Metaphor (definition)</title>
+    <ns>502</ns>
+    <id>315</id>
+    <revision>
+      <id>1409</id>
+      <parentid>1408</parentid>
+      <timestamp>2015-02-17T01:40:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="700">{{Glossary
+|Entry=Metaphor
+|Other Aliases=Metaphor Map
+|Description=When talking about metaphors, we use the term 'map' to refer to the correspondence between frames or domains as opposed to the correspondence between their frame elements (which is referred to as 'mappings'). For instance ARGUMENT IS WAR is a metaphor map, and 'words are weapons' would be one of its many mappings. The metaphor receives a name in the TARGET IS SOURCE format, where the terms chosen for the TARGET and SOURCE in that particular metaphor name are maximally informative of the metaphor itself, rather than of its entailments or mappings.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>iygq59k64stx3o3mw5hgy8g83waboal</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Metaphor Relation Type</title>
+    <ns>502</ns>
+    <id>308</id>
+    <revision>
+      <id>12509</id>
+      <parentid>12508</parentid>
+      <timestamp>2016-07-22T23:39:46Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1156">{{Glossary
+|Entry=Metaphor Relation Type
+|Description=n the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphors, either more generic metaphors from which it inherits or related metaphors which it commonly uses or is co-activated with. For instance, under the entry for the metaphor ROMANTIC RELATIONSHIP IS A JOURNEY, the metaphors PURPOSES ARE DESTINATIONS and ACTION IS MOTION are listed, and are each given a 'Relation type' relative to ROMANTIC RELATIONSHIP IS A JOURNEY.
+
+The current possible specific '''metaphor relation types''' are:
+
+ 1. is both a source and target subcase of
+ 2. is a source subcase of
+ 3. is a target subcase of
+ 4. is a mapping within
+ 5. makes use of
+ 6. has as transitive subpart1 (or 2)
+ 7. is an entailment of
+ 8. is in a dual relationship with 
+
+When in doubt as to which of the above specific relations applies, one of the following relations may be used:
+
+ 9. is in some source relation to
+ 10. is in some target relation to
+ 11. is in some way related to.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Elise (July 2012)
+}}</text>
+      <sha1>3i9vy6libkglzyge2odb39pi1y5jxk5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Name Gloss</title>
+    <ns>502</ns>
+    <id>316</id>
+    <revision>
+      <id>1411</id>
+      <parentid>1410</parentid>
+      <timestamp>2015-02-17T01:41:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="282">{{Glossary
+|Entry=Name Gloss
+|Description=Policy needs to be determined. Should we write the name gloss coherently as it applies to English syntax or match it word by word with the source text?
+|Applies to=Metaphor &amp; Frame
+|Utility=Wiki
+|Entered by=Ellen and Aria F. (March 2014)
+}}</text>
+      <sha1>jmy8jarkxy5vhc54n6lggtc6zrtwpge</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Other Aliases</title>
+    <ns>502</ns>
+    <id>309</id>
+    <revision>
+      <id>1388</id>
+      <parentid>1387</parentid>
+      <timestamp>2015-02-17T01:41:48Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="317">{{Glossary
+|Entry=Other Aliases
+|Description=Both frames and metaphors can be known by several names. Users of the Wiki and the repository should be able to find a metaphor or frame regardless of what variant of that metaphor or frame they have in mind.
+|Applies to=Metaphor &amp; Frame
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>680e28xmnnpeztkv03ea9zl3yc870ya</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Primary Metaphor</title>
+    <ns>502</ns>
+    <id>293</id>
+    <revision>
+      <id>12818</id>
+      <parentid>1328</parentid>
+      <timestamp>2016-08-06T10:29:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="146">{{Glossary
+|Entry=Primary Metaphor
+|Description=Metaphor that has direct experiential basis
+|Applies to=Metaphor
+|Entered by=Elise (July 2012),
+}}</text>
+      <sha1>mdgnxz7satmezuxsc7a3329zfa1dbc9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Primary scene</title>
+    <ns>502</ns>
+    <id>296</id>
+    <revision>
+      <id>1339</id>
+      <parentid>1338</parentid>
+      <timestamp>2015-02-17T01:42:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="363">{{Glossary
+|Description=An experientially basic scene, at a very general level, where associations start to form that lead to the development of primary metaphors. This includes, e.g., the primary scene leading to PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION.
+|Applies to=Metaphor &amp; Frame
+|Utility=General Theory
+|Entered by=Oana (February 2014)
+}}</text>
+      <sha1>paupcpfi5rlx857e43ekdzll5whcisk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Process (definition)</title>
+    <ns>502</ns>
+    <id>307</id>
+    <revision>
+      <id>1381</id>
+      <timestamp>2012-07-24T03:25:58Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Definition |Entry=Process }}&quot;</comment>
+      <text xml:space="preserve" bytes="28">{{Glossary
+|Entry=Process
+}}</text>
+      <sha1>5gjyvksdre6mw0nied1nbksmu9xhic1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Process Frame</title>
+    <ns>502</ns>
+    <id>322</id>
+    <revision>
+      <id>1430</id>
+      <parentid>1429</parentid>
+      <timestamp>2015-02-17T01:42:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="172">{{Glossary
+|Entry=Process Frame
+|Description=Essentially x-schemas, a process with its bound roles, or a process frame.
+|Applies to=Frame
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>k1yee7179l1dlrhjoaz5zs1lcw2gj0o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Prototype</title>
+    <ns>502</ns>
+    <id>298</id>
+    <revision>
+      <id>1347</id>
+      <parentid>1346</parentid>
+      <timestamp>2015-02-17T01:43:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="249">{{Glossary
+|Entry=Prototype
+|Description=A prototype is a member of a category that is the most central, salient, and typical subcategory or individual of its category.
+|Applies to=Frame
+|Utility=General Theory
+|Entered by=Karie (February 2015), 
+}}</text>
+      <sha1>4xlz6n2s7z6jsdo1nks3mm5z81p5t68</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Related Frame</title>
+    <ns>502</ns>
+    <id>317</id>
+    <revision>
+      <id>12821</id>
+      <parentid>12596</parentid>
+      <timestamp>2016-08-06T10:49:36Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="669">{{Glossary
+|Entry=Related Frame
+|Other Aliases=Relational frame; Subframe
+|Description=Each frame page includes a block that lists Related Frames.  For each related frame, the indicates how the Current Frame is related to the Related Frame -- see [[Glossary:Frame Relation Type|Frame Relation Type]] for a description of possible relation types. 
+
+In each case, the Related Frame must be either 'higher' (e.g. more general) or at the same level (e.g. co-activated by) as the Current Frame. Frames that are more specific than and/or entailed by the Current Frame are not listed in this block.
+|Applies to=Frame
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014),
+}}</text>
+      <sha1>ahszrjngt2pwl0s6pz13uu1a6hwmvdc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Relation Type</title>
+    <ns>502</ns>
+    <id>306</id>
+    <revision>
+      <id>12479</id>
+      <parentid>1380</parentid>
+      <timestamp>2016-07-21T18:49:54Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="449">{{Glossary
+|Entry=Relation Type
+|Description=Within a given form, frames are related to other frames and metaphors are related to other metaphors. The relationships reflect inheritance from higher frames or metaphors, or relationships at the same level. See [[Glossary:Metaphor Relation Type|Metaphor Relation Type]] and [[Glossary:Frame Relation Type|Frame Relation Type]] for details.
+|Entered by=Elise,
+|Last reviewed by=Ellen (February 2015),
+}}</text>
+      <sha1>hcupxv3iwis4l3ye9dy15ng7ucbizix</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Role</title>
+    <ns>502</ns>
+    <id>311</id>
+    <revision>
+      <id>12604</id>
+      <parentid>12477</parentid>
+      <timestamp>2016-07-28T21:08:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2114">{{Glossary
+|Entry=Role
+|Other Aliases=Frame role; Semantic roles; Frame role; Frame element
+|Description=Roles are used to represent the internal structure of Frames.  
+
+Within Metaphor  entries, roles are used to define role mappings between the Source frame and the Target Frame; the same roles as were listed for that frame in its frame form entry are used in the metaphor mapping. (see [[Glossary:Mapping|Mapping]])
+
+A given Frame’s roles are listed in the ‘Roles’ block of the Frame page.   Filling out this section is optional, but strongly preferred.  When a frame is defined as a ‘subcase of’ another frame, it is generally assumed that it inherits all the roles of that other frame, even if these roles are not actually listed in the roles section of the current frame.
+
+Roles are commonly assigned names that make them maximally relevant to and reflective of the frame they are roles of, and maximally distinct from the more generic frame from which they inherit. However, each role name is defined in relation to a particular frame.  Therefore, it is possible to use the same role name in more than one frame; for instance, the ‘experiencer’ role in the Anger frame is distinct from (though related to) the ‘experiencer’ role in the Emotion frame. 
+
+Each role can be assigned a Type.  Currently, these are text fields that are used to indicate whether a given role is, e.g., some kind of entity, an x-schema (process), or state/property. In many cases, the role type will itself be another frame.  The Glossary/Comments field can provide further, more elaborated information about a given role.  Where applicable, a given frame role entry can also specify which of the FrameNet roles (FE, in FrameNet terminology) in the closest FrameNet frame it most closely corresponds to (see [[Glossary:Closest FrameNet Frames|Closest FrameNet Frames]]). 
+     
+Relations between the current frame’s roles and those of other related frames are specified in the the Bindings section of the Frame page (see [[Glossary:Binding|Binding]]).
+|Entered by=Elise,
+|Last reviewed by=Ellen (March 2014),
+}}</text>
+      <sha1>q433mveq8ef6uf8fu32o0qplp6a0od7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Scenario</title>
+    <ns>502</ns>
+    <id>313</id>
+    <revision>
+      <id>1405</id>
+      <parentid>1404</parentid>
+      <timestamp>2015-02-17T19:29:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="29">{{Glossary
+|Entry=Scenario
+}}</text>
+      <sha1>q4pqdvaafr9y1pmjsmwi22lpejyup18</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Specific Metaphor</title>
+    <ns>502</ns>
+    <id>312</id>
+    <revision>
+      <id>12819</id>
+      <parentid>1403</parentid>
+      <timestamp>2016-08-06T10:39:46Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="234">{{Glossary
+|Entry=Specific Metaphor
+|Description=While metaphors fall along a continuum when it comes to generality/specificity, those marked 'specific' are at the more specific end of this continuum.
+|Entered by=Elise (July 2012),
+}}</text>
+      <sha1>82302qq0ine1kn4p2pkt0dl86b3heqn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Subcase of</title>
+    <ns>502</ns>
+    <id>328</id>
+    <revision>
+      <id>12510</id>
+      <parentid>1454</parentid>
+      <timestamp>2016-07-22T23:41:07Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="586">{{Glossary
+|Entry=Subcase of
+|Other Aliases=Instance of; Special case of; Specific case of
+|Description=With respect to '''metaphors''' these are, for instance: THINKING IS MOVING is an instance of MIND IS A BODY, as is COMMUNICATING IS SHOWING, etc. What we now call instance was formerly called &quot;special case of&quot; in George Lakoff's lectures and writings.
+
+With respect to '''frames''', a frame that is a subcase of another frame incorporates the structure of that other frame, e.g. it inherits the roles and inferential structure of that other frame.
+|Entered by=Elise (July 2012),
+}}</text>
+      <sha1>hlwlybgjihg0iuizmbfopt927yp7ro8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Glossary:Transitivity</title>
+    <ns>502</ns>
+    <id>319</id>
+    <revision>
+      <id>1422</id>
+      <parentid>1421</parentid>
+      <timestamp>2015-02-17T01:45:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="140">{{Glossary
+|Entry=Transitivity
+|Other Aliases=Transitive inference; Transitive property; Transitive chain
+|Entered by=Elise (July 2012), 
+}}</text>
+      <sha1>0rm8w6coz79sqxkfo1itq8ozd2yhpnr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

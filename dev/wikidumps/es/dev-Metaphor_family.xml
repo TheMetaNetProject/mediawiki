@@ -1,0 +1,666 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>ES MetaNet Wiki</sitename>
+    <dbname>esmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Esmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Esmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Metaphor family:Spanish Primary Metaphors</title>
+    <ns>554</ns>
+    <id>1529</id>
+    <revision>
+      <id>6408</id>
+      <timestamp>2014-10-03T20:34:12Z</timestamp>
+      <contributor>
+        <username>Coneglian</username>
+        <id>64</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family}}»</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Educación</title>
+    <ns>554</ns>
+    <id>1533</id>
+    <revision>
+      <id>6414</id>
+      <timestamp>2013-04-19T05:00:00Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=education }}»</comment>
+      <text xml:space="preserve" bytes="42">{{Metaphor family
+|Name gloss=education
+}}</text>
+      <sha1>l39w8zsfscjnlq359izo4giis7t8r3j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>6415</id>
+      <parentid>6414</parentid>
+      <timestamp>2013-09-07T20:09:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="82">{{Metaphor family
+|Name gloss=education
+|is subfamily of=Acceso a la educación
+}}</text>
+      <sha1>h2hcdd4jxtuc1wc1jyrua2eqn4364xs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Escala</title>
+    <ns>554</ns>
+    <id>1547</id>
+    <revision>
+      <id>6429</id>
+      <timestamp>2013-03-16T00:32:30Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Metaphors of Scale }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Metaphor family
+|Name gloss=Metaphors of Scale
+}}</text>
+      <sha1>jji85a0b36krdspt73ed4pwek1o6nvt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas del Acceso a la educación</title>
+    <ns>554</ns>
+    <id>1525</id>
+    <revision>
+      <id>6404</id>
+      <timestamp>2013-09-15T05:33:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of access to education }}»</comment>
+      <text xml:space="preserve" bytes="65">{{Metaphor family
+|Name gloss=metaphors of access to education
+}}</text>
+      <sha1>d3j1fgq9iruxm6rv91gelujzl8t4dq8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Enojo</title>
+    <ns>554</ns>
+    <id>1536</id>
+    <revision>
+      <id>6418</id>
+      <timestamp>2012-10-10T11:00:17Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Metaphors of anger |is subfamily of=Metáforas de Emociones  }}»</comment>
+      <text xml:space="preserve" bytes="93">{{Metaphor family
+|Name gloss=Metaphors of anger
+|is subfamily of=Metáforas de Emociones 
+}}</text>
+      <sha1>tjuivmzv6gzsbu7s7zycnmjphpkzs0z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Educación</title>
+    <ns>554</ns>
+    <id>1526</id>
+    <revision>
+      <id>6405</id>
+      <timestamp>2013-08-04T03:23:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=education metaphors }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Metaphor family
+|Name gloss=education metaphors
+}}</text>
+      <sha1>rp30x1m18ellzb9k5p1fqzxmt1ee319</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Gobernación</title>
+    <ns>554</ns>
+    <id>1546</id>
+    <revision>
+      <id>6428</id>
+      <timestamp>2012-12-12T01:42:30Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Governance }}»</comment>
+      <text xml:space="preserve" bytes="43">{{Metaphor family
+|Name gloss=Governance
+}}</text>
+      <sha1>dh7kv080xlctfqrgl6q4qws7xytqhsa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Riqueza</title>
+    <ns>554</ns>
+    <id>1551</id>
+    <revision>
+      <id>6434</id>
+      <timestamp>2013-08-04T03:03:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=wealth metaphors }}»</comment>
+      <text xml:space="preserve" bytes="49">{{Metaphor family
+|Name gloss=wealth metaphors
+}}</text>
+      <sha1>984q1qn0qsv08t4w1rvffpdl9u5ss1m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Pobreza</title>
+    <ns>554</ns>
+    <id>1552</id>
+    <revision>
+      <id>6435</id>
+      <timestamp>2013-08-04T03:32:43Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=poverty metaphors }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Metaphor family
+|Name gloss=poverty metaphors
+}}</text>
+      <sha1>0fx5dqv1nau1u94k3h2uxt4oalbkhra</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Estados</title>
+    <ns>554</ns>
+    <id>1537</id>
+    <revision>
+      <id>6419</id>
+      <timestamp>2013-08-04T14:34:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of states }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Metaphor family
+|Name gloss=metaphors of states
+}}</text>
+      <sha1>2wpl85ya7zvgnd0vu5qzf2tti3f0eqr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Estructura de Eventos como Lugares</title>
+    <ns>554</ns>
+    <id>1534</id>
+    <revision>
+      <id>6416</id>
+      <timestamp>2013-04-27T07:18:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Structure of Events as Locations |is subfamily of=Metáforas de la Estructura del Evento }}»</comment>
+      <text xml:space="preserve" bytes="121">{{Metaphor family
+|Name gloss=Structure of Events as Locations
+|is subfamily of=Metáforas de la Estructura del Evento
+}}</text>
+      <sha1>bbm4t7r76qgc85sjfzi3moyn0zztw0i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Emociones</title>
+    <ns>554</ns>
+    <id>1535</id>
+    <revision>
+      <id>6417</id>
+      <timestamp>2012-10-10T09:48:10Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Metaphors of emotions }}»</comment>
+      <text xml:space="preserve" bytes="54">{{Metaphor family
+|Name gloss=Metaphors of emotions
+}}</text>
+      <sha1>j2279jp1c9balcy6oy7t01hwe1rijly</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Impuestos</title>
+    <ns>554</ns>
+    <id>1540</id>
+    <revision>
+      <id>6422</id>
+      <timestamp>2013-08-04T14:49:36Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of taxation }}»</comment>
+      <text xml:space="preserve" bytes="54">{{Metaphor family
+|Name gloss=metaphors of taxation
+}}</text>
+      <sha1>oj0xml21egebknlejyq00h9dvvptm8f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Gobierno</title>
+    <ns>554</ns>
+    <id>1545</id>
+    <revision>
+      <id>6427</id>
+      <timestamp>2013-09-16T02:05:14Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=governing metaphors }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Metaphor family
+|Name gloss=governing metaphors
+}}</text>
+      <sha1>scalahq5tpxnhjigf9f6et9sgzzw5dq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Bienestar</title>
+    <ns>554</ns>
+    <id>1544</id>
+    <revision>
+      <id>6426</id>
+      <timestamp>2013-08-10T06:52:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of well-being }}»</comment>
+      <text xml:space="preserve" bytes="56">{{Metaphor family
+|Name gloss=metaphors of well-being
+}}</text>
+      <sha1>4qgwhomx3nynyufftvj8msqq53ozume</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Acción</title>
+    <ns>554</ns>
+    <id>1539</id>
+    <revision>
+      <id>6421</id>
+      <timestamp>2013-11-16T18:30:04Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of action }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Metaphor family
+|Name gloss=metaphors of action
+}}</text>
+      <sha1>eexd37nxnp4afr5psl2aguat5eafv8c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas Económicas</title>
+    <ns>554</ns>
+    <id>1541</id>
+    <revision>
+      <id>6423</id>
+      <timestamp>2013-09-16T02:06:06Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=economic metaphors }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Metaphor family
+|Name gloss=economic metaphors
+}}</text>
+      <sha1>b8lcvlyd9yqjl0regjuzq9e8sxvg2cp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Riqueza y Clase Social</title>
+    <ns>554</ns>
+    <id>1543</id>
+    <revision>
+      <id>6425</id>
+      <timestamp>2013-09-14T08:27:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of wealth and social class }}»</comment>
+      <text xml:space="preserve" bytes="69">{{Metaphor family
+|Name gloss=metaphors of wealth and social class
+}}</text>
+      <sha1>9hrl6rioawui06mf0iw84jhs893umqq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Democracia</title>
+    <ns>554</ns>
+    <id>1550</id>
+    <revision>
+      <id>6433</id>
+      <timestamp>2014-03-13T06:22:56Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family}}»</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas del Tiempo</title>
+    <ns>554</ns>
+    <id>1532</id>
+    <revision>
+      <id>6413</id>
+      <timestamp>2013-03-16T08:20:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Metaphors of Time }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Metaphor family
+|Name gloss=Metaphors of Time
+}}</text>
+      <sha1>oyhi9jgvd9odq8uuq51wxqa0pd7jf8c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Cognición</title>
+    <ns>554</ns>
+    <id>1527</id>
+    <revision>
+      <id>6406</id>
+      <timestamp>2013-09-13T02:55:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Metaphors of Cognition }}»</comment>
+      <text xml:space="preserve" bytes="55">{{Metaphor family
+|Name gloss=Metaphors of Cognition
+}}</text>
+      <sha1>qs4463pnig4d1gyv8tyquutld9prwar</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Mente</title>
+    <ns>554</ns>
+    <id>1530</id>
+    <revision>
+      <id>6409</id>
+      <timestamp>2013-08-04T02:08:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=mind metaphors }}»</comment>
+      <text xml:space="preserve" bytes="47">{{Metaphor family
+|Name gloss=mind metaphors
+}}</text>
+      <sha1>1vgu4wfud8ecr79yqunsls7884254kq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Estructura de Eventos como Objetos</title>
+    <ns>554</ns>
+    <id>1549</id>
+    <revision>
+      <id>6431</id>
+      <timestamp>2012-10-10T13:13:56Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=Structure of Events as Objects }}»</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|Name gloss=Structure of Events as Objects
+}}</text>
+      <sha1>qjw2lwj75vld0bnulm3i36qbk5yumef</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>6432</id>
+      <parentid>6431</parentid>
+      <timestamp>2013-04-27T07:10:23Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="119">{{Metaphor family
+|Name gloss=Structure of Events as Objects
+|is subfamily of=Metáforas de la Estructura del Evento
+}}</text>
+      <sha1>5izv9t7w0olx98r7dfvm7an6m1izy1x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de la Estructura del Evento</title>
+    <ns>554</ns>
+    <id>1548</id>
+    <revision>
+      <id>6430</id>
+      <timestamp>2012-12-12T03:12:12Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of the structure of event }}»</comment>
+      <text xml:space="preserve" bytes="68">{{Metaphor family
+|Name gloss=metaphors of the structure of event
+}}</text>
+      <sha1>1mb6h59qgttrahsh72c4slto2vcst2p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de Moralidad</title>
+    <ns>554</ns>
+    <id>1528</id>
+    <revision>
+      <id>6407</id>
+      <timestamp>2013-11-11T06:34:16Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of morality }}»</comment>
+      <text xml:space="preserve" bytes="54">{{Metaphor family
+|Name gloss=metaphors of morality
+}}</text>
+      <sha1>05tealybdlpibzm9fttehzohwcuaj2s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de aflicciones físicas</title>
+    <ns>554</ns>
+    <id>1538</id>
+    <revision>
+      <id>6420</id>
+      <timestamp>2014-04-18T19:14:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of afflictions physical |is subfamily of=Metáforas de Daño }}»</comment>
+      <text xml:space="preserve" bytes="103">{{Metaphor family
+|Name gloss=metaphors of afflictions physical
+|is subfamily of=Metáforas de Daño
+}}</text>
+      <sha1>7ptndzdupdlrh16vcxa95jj1p1fy0uf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphor family:Metáforas de pobreza como problema social</title>
+    <ns>554</ns>
+    <id>1531</id>
+    <revision>
+      <id>6410</id>
+      <timestamp>2014-04-18T19:10:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Metaphor family |Name gloss=metaphors of poverty as problem socia }}»</comment>
+      <text xml:space="preserve" bytes="70">{{Metaphor family
+|Name gloss=metaphors of poverty as problem socia
+}}</text>
+      <sha1>o6bi6eg1cugigcjocllpl0xex236l1i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>6411</id>
+      <parentid>6410</parentid>
+      <timestamp>2014-04-18T19:11:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="110">{{Metaphor family
+|Name gloss=metaphors of poverty as problem socia
+|is subfamily of=Metáforas de pobreza 
+}}</text>
+      <sha1>dpm2w61k6qzuxd8owlunjksuk4o7990</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>6412</id>
+      <parentid>6411</parentid>
+      <timestamp>2014-04-18T19:11:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="110">{{Metaphor family
+|Name gloss=metaphors of poverty as problem socia
+|is subfamily of=Metáforas de Pobreza 
+}}</text>
+      <sha1>8rasqi63m13fwrr681qy46p0fcq9fqq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1382 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Russian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="102" case="first-letter">Свойство</namespace>
+      <namespace key="103" case="first-letter">Обсуждение свойства</namespace>
+      <namespace key="106" case="first-letter">Форма</namespace>
+      <namespace key="107" case="first-letter">Обсуждение формы</namespace>
+      <namespace key="108" case="first-letter">Концепция</namespace>
+      <namespace key="109" case="first-letter">Обсуждение концепции</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:GUN RIGHTS</title>
+    <ns>570</ns>
+    <id>3419</id>
+      <sha1>aos9issce13u3mdpmcdpow2qxjbs2de</sha1>
+    <revision>
+      <id>8076</id>
+      <timestamp>2014-08-15T18:34:19Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=GUN OVERSIGHT |ConceptSchemas={{Linked schema |Schema name=Свобода }}{{Linked schema…»</comment>
+      <text xml:space="preserve" bytes="700">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptSchemas={{Linked schema
+|Schema name=Свобода
+}}{{Linked schema
+|Schema name=Право на оружие
+}}{{Linked schema
+|Schema name=Право на самооборону
+}}{{Linked schema
+|Schema name=Пропаганда права на оружие
+}}{{Linked schema
+|Schema name=Группа по интересам в ропаганде права на оружие
+}}{{Linked schema
+|Schema name= Закон об оружии
+}}{{Linked schema
+|Schema name=Оружейная промышленность 
+}}{{Linked schema
+|Schema name=Сторонник права на оружие
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MONEY</title>
+    <ns>570</ns>
+    <id>3430</id>
+      <sha1>omo2hqcp6kt8btzfyvyvc9ctudhco7z</sha1>
+    <revision>
+      <id>8096</id>
+      <timestamp>2014-08-16T21:41:40Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptSchemas={{Linked schema |Schema name=Деньги }}{{Linke…»</comment>
+      <text xml:space="preserve" bytes="269">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Деньги
+}}{{Linked schema
+|Schema name=Финансы
+}}{{Linked schema
+|Schema name=Финансовый ресурс
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8116</id>
+      <timestamp>2014-09-23T08:44:13Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Деньги
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8440</id>
+      <timestamp>2014-12-15T10:45:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="324">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Деньги
+}}{{Linked schema
+|Schema name=Финансы
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+    <revision>
+      <id>8441</id>
+      <timestamp>2014-12-15T10:45:59Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="389">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Деньги
+}}{{Linked schema
+|Schema name=Финансы
+}}{{Linked schema
+|Schema name=Финансовый ресурс
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEBT</title>
+    <ns>570</ns>
+    <id>3429</id>
+      <sha1>raspx64b45p5norvy2io5fvxw20ouk7</sha1>
+    <revision>
+      <id>8092</id>
+      <timestamp>2014-08-16T21:33:06Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptSchemas={{Linked schema |Schema name=Долг }} }}»</comment>
+      <text xml:space="preserve" bytes="154">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Долг
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUREAUCRACY</title>
+    <ns>570</ns>
+    <id>3426</id>
+      <sha1>opob2hxvov9jkn6wzihtat0y1lowt9o</sha1>
+    <revision>
+      <id>8087</id>
+      <timestamp>2014-08-15T19:18:46Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptSchemas={{Linked schema |Schema name=Бюрократия }} }}»</comment>
+      <text xml:space="preserve" bytes="156">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8094</id>
+      <timestamp>2014-08-16T21:38:01Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="228">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}{{Linked schema
+|Schema name=Законодательные меры
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8095</id>
+      <timestamp>2014-08-16T21:38:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="226">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}{{Linked schema
+|Schema name=Законодательный акт
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8120</id>
+      <timestamp>2014-09-23T09:12:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="157">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8135</id>
+      <timestamp>2014-09-23T23:21:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="156">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8340</id>
+      <timestamp>2014-12-13T03:42:36Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="334">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Бюрократия
+}}{{Linked schema
+|Schema name=Регулирование
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICS</title>
+    <ns>570</ns>
+    <id>3432</id>
+      <sha1>8fzcr6geho563zhfksgxvpj1f30jrdu</sha1>
+    <revision>
+      <id>8098</id>
+      <timestamp>2014-08-16T21:56:40Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptSchemas={{Linked schema |Schema name=Политика }}{{Linked schema |Schema name=Поли…»</comment>
+      <text xml:space="preserve" bytes="357">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptSchemas={{Linked schema
+|Schema name=Политика
+}}{{Linked schema
+|Schema name=Политический регион
+}}{{Linked schema
+|Schema name=Политическое равноправие
+}}{{Linked schema
+|Schema name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8122</id>
+      <timestamp>2014-09-23T09:15:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="383">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptSchemas={{Linked schema
+|Schema name=Политика
+}}{{Linked schema
+|Schema name=Политический регион
+}}{{Linked schema
+|Schema name=Политическое равноправие
+}}{{Linked schema
+|Schema name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WEALTH</title>
+    <ns>570</ns>
+    <id>3423</id>
+      <sha1>b6xvn4u58gq1x4jhjtgfmnnz8qybk0z</sha1>
+    <revision>
+      <id>8083</id>
+      <timestamp>2014-08-15T18:59:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptSchemas={{Linked schema |Schema name=Богатые }}{{Link…»</comment>
+      <text xml:space="preserve" bytes="616">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Богатые
+}}{{Linked schema
+|Schema name=Богатство
+}}{{Linked schema
+|Schema name=Быть богатым
+}}{{Linked schema
+|Schema name=Быть очень богатым
+}}{{Linked schema
+|Schema name=Становятся богатыми
+}}{{Linked schema
+|Schema name=Стать богатым
+}}{{Linked schema
+|Schema name=Предотвращение экономических трудностей
+}}{{Linked schema
+|Schema name=Инвестиция
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GOVERNMENT</title>
+    <ns>570</ns>
+    <id>3425</id>
+      <sha1>enbvrqmupeynt8a6nagscmvvubjxt2k</sha1>
+    <revision>
+      <id>8085</id>
+      <timestamp>2014-08-15T19:11:35Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptSchemas={{Linked schema |Schema name=Авторитет }}{{Linked sc…»</comment>
+      <text xml:space="preserve" bytes="2016">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Авторитет
+}}{{Linked schema
+|Schema name=Акт законодательной власти
+}}{{Linked schema
+|Schema name=Акт исполнительной власти
+}}{{Linked schema
+|Schema name=Аморальное действие
+}}{{Linked schema
+|Schema name=Бизнес
+}}{{Linked schema
+|Schema name=Военное руководство
+}}{{Linked schema
+|Schema name=Государственное учреждение
+}}{{Linked schema
+|Schema name=Действие управления
+}}{{Linked schema
+|Schema name=Закон
+}}{{Linked schema
+|Schema name=Контроль
+}}{{Linked schema
+|Schema name=Коррупция
+}}{{Linked schema
+|Schema name=Легитимность
+}}{{Linked schema
+|Schema name=Легитимность правительства
+}}{{Linked schema
+|Schema name=Лидерство
+}}{{Linked schema
+|Schema name=Мощность
+}}{{Linked schema
+|Schema name=Нация
+}}{{Linked schema
+|Schema name=Ответственность
+}}{{Linked schema
+|Schema name=Охрана детства
+}}{{Linked schema
+|Schema name=Оценка правительства гражданами
+}}{{Linked schema
+|Schema name=Политика
+}}{{Linked schema
+|Schema name=Политический регион
+}}{{Linked schema
+|Schema name=Полиция
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Правительство
+}}{{Linked schema
+|Schema name=Преступление
+}}{{Linked schema
+|Schema name=Принятие законодательства
+}}{{Linked schema
+|Schema name=Принятие решений правительства
+}}{{Linked schema
+|Schema name=Регуляция
+}}{{Linked schema
+|Schema name=Сообщество
+}}{{Linked schema
+|Schema name=Страна
+}}{{Linked schema
+|Schema name=Учреждение
+}}{{Linked schema
+|Schema name=Финансы
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8103</id>
+      <timestamp>2014-09-22T11:23:58Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1947">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Авторитет
+}}{{Linked schema
+|Schema name=Акт законодательной власти
+}}{{Linked schema
+|Schema name=Акт исполнительной власти
+}}{{Linked schema
+|Schema name=Бизнес
+}}{{Linked schema
+|Schema name=Военное руководство
+}}{{Linked schema
+|Schema name=Государственное учреждение
+}}{{Linked schema
+|Schema name=Действие управления
+}}{{Linked schema
+|Schema name=Закон
+}}{{Linked schema
+|Schema name=Контроль
+}}{{Linked schema
+|Schema name=Коррупция
+}}{{Linked schema
+|Schema name=Легитимность
+}}{{Linked schema
+|Schema name=Легитимность правительства
+}}{{Linked schema
+|Schema name=Лидерство
+}}{{Linked schema
+|Schema name=Мощность
+}}{{Linked schema
+|Schema name=Нация
+}}{{Linked schema
+|Schema name=Ответственность
+}}{{Linked schema
+|Schema name=Охрана детства
+}}{{Linked schema
+|Schema name=Оценка правительства гражданами
+}}{{Linked schema
+|Schema name=Политика
+}}{{Linked schema
+|Schema name=Политический регион
+}}{{Linked schema
+|Schema name=Полиция
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Правительство
+}}{{Linked schema
+|Schema name=Преступление
+}}{{Linked schema
+|Schema name=Принятие законодательства
+}}{{Linked schema
+|Schema name=Принятие решений правительства
+}}{{Linked schema
+|Schema name=Регуляция
+}}{{Linked schema
+|Schema name=Сообщество
+}}{{Linked schema
+|Schema name=Страна
+}}{{Linked schema
+|Schema name=Учреждение
+}}{{Linked schema
+|Schema name=Финансы
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8107</id>
+      <timestamp>2014-09-22T11:41:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1646">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Авторитет
+}}{{Linked schema
+|Schema name=Акт законодательной власти
+}}{{Linked schema
+|Schema name=Акт исполнительной власти
+}}{{Linked schema
+|Schema name=Военное руководство
+}}{{Linked schema
+|Schema name=Государственное учреждение
+}}{{Linked schema
+|Schema name=Действие управления
+}}{{Linked schema
+|Schema name=Закон
+}}{{Linked schema
+|Schema name=Контроль
+}}{{Linked schema
+|Schema name=Легитимность
+}}{{Linked schema
+|Schema name=Легитимность правительства
+}}{{Linked schema
+|Schema name=Лидерство
+}}{{Linked schema
+|Schema name=Мощность
+}}{{Linked schema
+|Schema name=Нация
+}}{{Linked schema
+|Schema name=Ответственность
+}}{{Linked schema
+|Schema name=Оценка правительства гражданами
+}}{{Linked schema
+|Schema name=Политика
+}}{{Linked schema
+|Schema name=Политический регион
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Правительство
+}}{{Linked schema
+|Schema name=Принятие законодательства
+}}{{Linked schema
+|Schema name=Принятие решений правительства
+}}{{Linked schema
+|Schema name=Регуляция
+}}{{Linked schema
+|Schema name=Сообщество
+}}{{Linked schema
+|Schema name=Страна
+}}{{Linked schema
+|Schema name=Учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8121</id>
+      <timestamp>2014-09-23T09:14:12Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="730">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Акт законодательной власти
+}}{{Linked schema
+|Schema name=Акт исполнительной власти
+}}{{Linked schema
+|Schema name=Государственное учреждение
+}}{{Linked schema
+|Schema name=Действие управления
+}}{{Linked schema
+|Schema name=Легитимность правительства
+}}{{Linked schema
+|Schema name=Правительство
+}}{{Linked schema
+|Schema name=Принятие законодательства
+}}{{Linked schema
+|Schema name=Принятие решений правительства
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TAXATION</title>
+    <ns>570</ns>
+    <id>3424</id>
+      <sha1>4jx03razc6hpy5onmufvrj685x2bc7q</sha1>
+    <revision>
+      <id>8084</id>
+      <timestamp>2014-08-15T19:02:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptSchemas={{Linked schema |Schema name=Налогообложение }}{{Linked schema |Schema …»</comment>
+      <text xml:space="preserve" bytes="314">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptSchemas={{Linked schema
+|Schema name=Налогообложение
+}}{{Linked schema
+|Schema name=Налог
+}}{{Linked schema
+|Schema name=Препятствия на пути улучшения экономического статуса
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8086</id>
+      <timestamp>2014-08-15T19:13:54Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="348">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Налогообложение
+}}{{Linked schema
+|Schema name=Налог
+}}{{Linked schema
+|Schema name=Препятствия на пути улучшения экономического статуса
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8115</id>
+      <timestamp>2014-09-23T08:43:01Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="217">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Налогообложение
+}}{{Linked schema
+|Schema name=Налог
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GUN CONTROL</title>
+    <ns>570</ns>
+    <id>3418</id>
+      <sha1>ic6xgkp694izsu8ajyrcx5xb8g4oiua</sha1>
+    <revision>
+      <id>8074</id>
+      <timestamp>2014-08-15T17:49:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=case |ConceptGroup=GUN OVERSIGHT |ConceptSchemas={{Linked schema |Schema name=  Контроль над ору…»</comment>
+      <text xml:space="preserve" bytes="193">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptSchemas={{Linked schema
+|Schema name=  Контроль над оружием
+}}{{Linked schema}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8075</id>
+      <timestamp>2014-08-15T18:06:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="587">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptSchemas={{Linked schema
+|Schema name=Контроль над оружием
+}}{{Linked schema
+|Schema name=Закон о контроле над оружием
+}}{{Linked schema
+|Schema name=Насилие с применением оружия
+}}{{Linked schema
+|Schema name=Владение оружием
+}}{{Linked schema
+|Schema name=Пропаганда  контроля над оружием
+}}{{Linked schema
+|Schema name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8077</id>
+      <timestamp>2014-08-15T18:37:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[IConcept:CONTROL OF GUNS]] в [[IConcept:КОНТРОЛЬ НАД ОРУЖИЕМ]]</comment>
+      <text xml:space="preserve" bytes="587">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptSchemas={{Linked schema
+|Schema name=Контроль над оружием
+}}{{Linked schema
+|Schema name=Закон о контроле над оружием
+}}{{Linked schema
+|Schema name=Насилие с применением оружия
+}}{{Linked schema
+|Schema name=Владение оружием
+}}{{Linked schema
+|Schema name=Пропаганда  контроля над оружием
+}}{{Linked schema
+|Schema name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8079</id>
+      <timestamp>2014-08-15T18:38:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[IConcept:КОНТРОЛЬ НАД ОРУЖИЕМ]] в [[IConcept:GUN CONTROL]]</comment>
+      <text xml:space="preserve" bytes="587">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptSchemas={{Linked schema
+|Schema name=Контроль над оружием
+}}{{Linked schema
+|Schema name=Закон о контроле над оружием
+}}{{Linked schema
+|Schema name=Насилие с применением оружия
+}}{{Linked schema
+|Schema name=Владение оружием
+}}{{Linked schema
+|Schema name=Пропаганда  контроля над оружием
+}}{{Linked schema
+|Schema name=Сторонник контроля над оружием
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICAL CORRUPTION</title>
+    <ns>570</ns>
+    <id>3441</id>
+      <sha1>kra8ki3x6nngkwyw0zfpv2qyepw0utd</sha1>
+    <revision>
+      <id>8123</id>
+      <timestamp>2014-09-23T09:18:20Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE  |ConceptSchemas={{Linked schema |Schema name=Коррупция }}{{Linked …»</comment>
+      <text xml:space="preserve" bytes="241">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptSchemas={{Linked schema
+|Schema name=Коррупция
+}}{{Linked schema
+|Schema name=Институциональная коррупция
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SOCIAL CLASS</title>
+    <ns>570</ns>
+    <id>3431</id>
+      <sha1>lfdey47546fh1ifpc0xifoonz8pgu42</sha1>
+    <revision>
+      <id>8097</id>
+      <timestamp>2014-08-16T21:52:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=SOCIAL CLASS |ConceptSchemas={{Linked schema |Schema name=Социальный Клас…»</comment>
+      <text xml:space="preserve" bytes="742">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SOCIAL CLASS
+|ConceptSchemas={{Linked schema
+|Schema name=Социальный Класс
+}}{{Linked schema
+|Schema name=Препятствия на пути улучшения экономического статуса
+}}{{Linked schema
+|Schema name=Улучшить экономический статус
+}}{{Linked schema
+|Schema name=Экономический статус
+}}{{Linked schema
+|Schema name=Работа
+}}{{Linked schema
+|Schema name=Безработица
+}}{{Linked schema
+|Schema name=Распределение богатства
+}}{{Linked schema
+|Schema name=Финансовый ресурс
+}}{{Linked schema
+|Schema name=Доход
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8117</id>
+      <timestamp>2014-09-23T08:50:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="611">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SOCIAL CLASS
+|ConceptSchemas={{Linked schema
+|Schema name=Социальный Класс
+}}{{Linked schema
+|Schema name=Улучшить экономический статус
+}}{{Linked schema
+|Schema name=Экономический статус
+}}{{Linked schema
+|Schema name=Работа
+}}{{Linked schema
+|Schema name=Безработица
+}}{{Linked schema
+|Schema name=Распределение богатства
+}}{{Linked schema
+|Schema name=Финансовый ресурс
+}}{{Linked schema
+|Schema name=Доход
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8136</id>
+      <timestamp>2014-09-23T23:23:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="674">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Социальный Класс
+}}{{Linked schema
+|Schema name=Улучшить экономический статус
+}}{{Linked schema
+|Schema name=Экономический статус
+}}{{Linked schema
+|Schema name=Работа
+}}{{Linked schema
+|Schema name=Безработица
+}}{{Linked schema
+|Schema name=Распределение богатства
+}}{{Linked schema
+|Schema name=Финансовый ресурс
+}}{{Linked schema
+|Schema name=Доход
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEMOCRACY</title>
+    <ns>570</ns>
+    <id>3427</id>
+      <sha1>6v0q258acw7e0sh2ybvocpifu240ax9</sha1>
+    <revision>
+      <id>8088</id>
+      <timestamp>2014-08-15T19:22:19Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptSchemas={{Linked schema |Schema name=Гражданственност…»</comment>
+      <text xml:space="preserve" bytes="536">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Гражданственность
+}}{{Linked schema
+|Schema name=Демократическое правительство
+}}{{Linked schema
+|Schema name=Демократия
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Равноправие
+}}{{Linked schema
+|Schema name=Свобода
+}}{{Linked schema
+|Schema name=Демократическое учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8093</id>
+      <timestamp>2014-08-16T21:36:03Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="535">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Гражданственность
+}}{{Linked schema
+|Schema name=Демократическое правительство
+}}{{Linked schema
+|Schema name=Демократия
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Равноправие
+}}{{Linked schema
+|Schema name=Свобода
+}}{{Linked schema
+|Schema name=Демократическое учреждение
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8104</id>
+      <timestamp>2014-09-22T11:26:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="685">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Гражданственность
+}}{{Linked schema
+|Schema name=Демократическое правительство
+}}{{Linked schema
+|Schema name=Демократия
+}}{{Linked schema
+|Schema name=Права
+}}{{Linked schema
+|Schema name=Равноправие
+}}{{Linked schema
+|Schema name=Свобода
+}}{{Linked schema
+|Schema name=Демократическое учреждение
+}}{{Linked schema
+|Schema name=Гражданское участие
+}}{{Linked schema
+|Schema name=Демократическая идеология
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8111</id>
+      <timestamp>2014-09-23T08:32:35Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="477">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Демократическое правительство
+}}{{Linked schema
+|Schema name=Демократия
+}}{{Linked schema
+|Schema name=Демократическое учреждение
+}}{{Linked schema
+|Schema name=Гражданское участие
+}}{{Linked schema
+|Schema name=Демократическая идеология
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8297</id>
+      <timestamp>2014-12-01T11:32:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="672">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Демократическое правительство
+}}{{Linked schema
+|Schema name=Демократия
+}}{{Linked schema
+|Schema name=Демократическое учреждение
+}}{{Linked schema
+|Schema name=Гражданское участие
+}}{{Linked schema
+|Schema name=Демократическая идеология
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=демократизация.n
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceSchemaFamilies=
+|BlacklistSourceSchemas=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADERSHIP</title>
+    <ns>570</ns>
+    <id>3443</id>
+      <sha1>anew9skuq9enmgrjedzvvtolvum2k6j</sha1>
+    <revision>
+      <id>8125</id>
+      <timestamp>2014-09-23T09:24:18Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptSchemas={{Linked schema |Schema name=Лидерство }}{{Linked s…»</comment>
+      <text xml:space="preserve" bytes="321">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptSchemas={{Linked schema
+|Schema name=Лидерство
+}}{{Linked schema
+|Schema name=Организационное лидерство
+}}{{Linked schema
+|Schema name=Государственное руководство
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8137</id>
+      <timestamp>2014-09-23T23:24:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="378">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removed from GOVERNANCE
+
+|ConceptSchemas={{Linked schema
+|Schema name=Лидерство
+}}{{Linked schema
+|Schema name=Организационное лидерство
+}}{{Linked schema
+|Schema name=Государственное руководство
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POVERTY</title>
+    <ns>570</ns>
+    <id>3422</id>
+      <sha1>b4e59q6lhfmprxfyjq3s44ifi59bk9n</sha1>
+    <revision>
+      <id>8081</id>
+      <timestamp>2014-08-15T18:47:07Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptSchemas={{Linked schema |Schema name=Бедной }}{{Linked schema |Schema name=Быть бе…»</comment>
+      <text xml:space="preserve" bytes="920">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptSchemas={{Linked schema
+|Schema name=Бедной
+}}{{Linked schema
+|Schema name=Быть бедной
+}}{{Linked schema
+|Schema name=Бедность
+}}{{Linked schema
+|Schema name=Оказаться обедневший
+}}{{Linked schema
+|Schema name=Решение социальных проблем
+}}{{Linked schema
+|Schema name=Социальные проблемы
+}}{{Linked schema
+|Schema name=Стать бедным
+}}{{Linked schema
+|Schema name=Экономическая трудность
+}}{{Linked schema
+|Schema name=Устранение социальных проблем
+}}{{Linked schema
+|Schema name=Улучшить экономический статус
+}}{{Linked schema
+|Schema name=Указания социальных проблем
+}}{{Linked schema
+|Schema name=Степень социальных проблем
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8082</id>
+      <timestamp>2014-08-15T18:50:55Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="954">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Бедной
+}}{{Linked schema
+|Schema name=Быть бедной
+}}{{Linked schema
+|Schema name=Бедность
+}}{{Linked schema
+|Schema name=Оказаться обедневший
+}}{{Linked schema
+|Schema name=Решение социальных проблем
+}}{{Linked schema
+|Schema name=Социальные проблемы
+}}{{Linked schema
+|Schema name=Стать бедным
+}}{{Linked schema
+|Schema name=Экономическая трудность
+}}{{Linked schema
+|Schema name=Устранение социальных проблем
+}}{{Linked schema
+|Schema name=Улучшить экономический статус
+}}{{Linked schema
+|Schema name=Указания социальных проблем
+}}{{Linked schema
+|Schema name=Степень социальных проблем
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8114</id>
+      <timestamp>2014-09-23T08:42:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="461">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptSchemas={{Linked schema
+|Schema name=Бедной
+}}{{Linked schema
+|Schema name=Быть бедной
+}}{{Linked schema
+|Schema name=Бедность
+}}{{Linked schema
+|Schema name=Оказаться обедневший
+}}{{Linked schema
+|Schema name=Стать бедным
+}}{{Linked schema
+|Schema name=Экономическая трудность
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ELECTIONS</title>
+    <ns>570</ns>
+    <id>3428</id>
+      <sha1>og46aztp4ypi1y8e7n2zii88eslp7dw</sha1>
+    <revision>
+      <id>8089</id>
+      <timestamp>2014-08-15T19:24:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptSchemas={{Linked schema |Schema name=Выборы }}{{Linked schema |Schema name=Голосо…»</comment>
+      <text xml:space="preserve" bytes="177">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptSchemas={{Linked schema
+|Schema name=Выборы
+}}{{Linked schema
+|Schema name=Голосование
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8090</id>
+      <timestamp>2014-08-15T22:37:45Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="219">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptSchemas={{Linked schema
+|Schema name=Выборы
+}}{{Linked schema
+|Schema name=Голосование
+}}{{Linked schema
+|Schema name=Права
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8091</id>
+      <timestamp>2014-08-15T22:39:55Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="243">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Выборы
+}}{{Linked schema
+|Schema name=Голосование
+}}{{Linked schema
+|Schema name=Права
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>8112</id>
+      <timestamp>2014-09-23T08:34:52Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="337">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptSchemas={{Linked schema
+|Schema name=Выборы
+}}{{Linked schema
+|Schema name=Голосование
+}}{{Linked schema
+|Schema name=Права голоса
+}}{{Linked schema
+|Schema name=Политическое соревнование
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEGISLATION</title>
+    <ns>570</ns>
+    <id>3446</id>
+      <sha1>5wq380sqavvvyx18kptk2gxgptqy5e8</sha1>
+    <revision>
+      <id>8128</id>
+      <timestamp>2014-09-23T09:55:47Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPATargetConcept |ConceptOwner=ICSI |ConceptType=general |ConceptGroup=GOVERNANCE  |ConceptSchemas={{Linked schema |Schema name=Действие законо…»</comment>
+      <text xml:space="preserve" bytes="422">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE 
+|ConceptSchemas={{Linked schema
+|Schema name=Действие законодательства
+}}{{Linked schema
+|Schema name=Разработка законодательства
+}}{{Linked schema
+|Schema name=Принятие законодательства
+}}{{Linked schema
+|Schema name=Законодательный акт
+}}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

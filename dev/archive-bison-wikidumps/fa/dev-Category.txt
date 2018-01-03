@@ -1,0 +1,14 @@
+رده:AutoMetaphor
+رده:AutoSchema
+رده:CxnMP
+رده:Definition
+رده:IARPASourceConcept
+رده:IARPATargetConcept
+رده:Linguistic metaphor
+رده:MetaRC
+رده:Metaphor
+رده:Metaphor family
+رده:Schema
+رده:Schema family
+رده:VettedMetaphor
+رده:VettedSchema

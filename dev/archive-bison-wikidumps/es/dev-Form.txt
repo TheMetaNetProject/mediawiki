@@ -1,0 +1,10 @@
+Formulario:CxnMP
+Formulario:Definition
+Formulario:IARPASourceConcept
+Formulario:IARPATargetConcept
+Formulario:Linguistic metaphor
+Formulario:MetaRC
+Formulario:Metaphor
+Formulario:Metaphor family
+Formulario:Schema
+Formulario:Schema family

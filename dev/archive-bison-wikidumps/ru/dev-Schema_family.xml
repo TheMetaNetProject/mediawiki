@@ -1,0 +1,1726 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Russian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="102" case="first-letter">Свойство</namespace>
+      <namespace key="103" case="first-letter">Обсуждение свойства</namespace>
+      <namespace key="106" case="first-letter">Форма</namespace>
+      <namespace key="107" case="first-letter">Обсуждение формы</namespace>
+      <namespace key="108" case="first-letter">Концепция</namespace>
+      <namespace key="109" case="first-letter">Обсуждение концепции</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Схемы владения</title>
+    <ns>0</ns>
+    <id>3271</id>
+      <sha1>1f96d65wudi4ptg9jqrx0bbspwij8cs</sha1>
+    <revision>
+      <id>7598</id>
+      <timestamp>2014-04-03T12:58:34Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Possession Schemas |LinkEnglish=Possession Schemas }}»</comment>
+      <text xml:space="preserve" bytes="81">{{Schema family
+|Name gloss=Possession Schemas
+|LinkEnglish=Possession Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы законодательства</title>
+    <ns>0</ns>
+    <id>3066</id>
+      <sha1>92qjqtouf24skkrfdtynybrqjzs8l4i</sha1>
+    <revision>
+      <id>7005</id>
+      <timestamp>2013-10-10T22:27:02Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Regulations schemas |is subfamily of=Cхемы Управления |LinkEnglish=Regulations schemas }}»</comment>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Regulations schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Regulations schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7428</id>
+      <timestamp>2014-02-17T10:57:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Legislation schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Legislation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7429</id>
+      <timestamp>2014-02-17T10:58:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Cхемы Устав]] в [[Схемы законодательства]]</comment>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Legislation schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Legislation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7437</id>
+      <timestamp>2014-02-17T11:43:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="132">{{Schema family
+|Name gloss=Legislation schemas
+|is subfamily of=Cхемы Управления,
+|LinkEnglish=Legislation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Средний Класс</title>
+    <ns>0</ns>
+    <id>3077</id>
+      <sha1>5bvq1hilk694kbpy0c6s3k5mqwxpcdo</sha1>
+    <revision>
+      <id>7028</id>
+      <timestamp>2013-10-11T04:27:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=The Middle Class schemas |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=The Middle Cla…»</comment>
+      <text xml:space="preserve" bytes="175">{{Schema family
+|Name gloss=The Middle Class schemas
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=The Middle Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы силы-динамики</title>
+    <ns>0</ns>
+    <id>3163</id>
+      <sha1>rpu61d0gf76bhe7droem9sksu4zwpwn</sha1>
+    <revision>
+      <id>7372</id>
+      <timestamp>2014-01-07T08:51:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas of force dynamics |LinkEnglish=Force dynamic schemas }}»</comment>
+      <text xml:space="preserve" bytes="91">{{Schema family
+|Name gloss=Schemas of force dynamics
+|LinkEnglish=Force dynamic schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Бедность</title>
+    <ns>0</ns>
+    <id>3041</id>
+      <sha1>rpq99n7ngqv44tzhon3jco5ceh29jfs</sha1>
+    <revision>
+      <id>6921</id>
+      <timestamp>2013-09-28T23:16:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema poverty }}»</comment>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|Name gloss=schema poverty
+}}</text>
+    </revision>
+    <revision>
+      <id>6977</id>
+      <timestamp>2013-10-09T22:22:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="141">{{Schema family
+|Name gloss=schema poverty
+|is subfamily of=экономическое неравенство
+|LinkEnglish=poverty schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>6979</id>
+      <timestamp>2013-10-09T23:12:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="152">{{Schema family
+|Name gloss=schema poverty
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Poverty schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>6984</id>
+      <timestamp>2013-10-10T03:24:09Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="187">{{Schema family
+|Name gloss=schema poverty
+|is subfamily of=Схемы экономическое неравенство и социальный класс
+|LinkEnglish=Poverty schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>6985</id>
+      <timestamp>2013-10-10T03:25:17Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="152">{{Schema family
+|Name gloss=schema poverty
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Poverty schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7010</id>
+      <timestamp>2013-10-10T23:43:11Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="152">{{Schema family
+|Name gloss=schema poverty
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Poverty schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы конкурса</title>
+    <ns>0</ns>
+    <id>3189</id>
+      <sha1>sopy0j1nwo8dyh8hv8v144crlqkher1</sha1>
+    <revision>
+      <id>7438</id>
+      <timestamp>2014-02-17T11:50:26Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Conflict schemas |LinkEnglish=Conflict schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Conflict schemas
+|LinkEnglish=Conflict schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7564</id>
+      <timestamp>2014-03-18T11:35:07Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Cхемы конфликта]] в [[Cхемы конкурса]]</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Conflict schemas
+|LinkEnglish=Conflict schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7576</id>
+      <timestamp>2014-04-03T08:20:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="83">{{Schema family
+|Name gloss=Competition schemas
+|LinkEnglish=Competition schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы причинности</title>
+    <ns>0</ns>
+    <id>3151</id>
+      <sha1>9oj6w3lrh3s5nknjsi8z2amifs4k17j</sha1>
+    <revision>
+      <id>7352</id>
+      <timestamp>2013-12-02T13:05:04Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Causation schemas |LinkEnglish=Causation schemas }}»</comment>
+      <text xml:space="preserve" bytes="79">{{Schema family
+|Name gloss=Causation schemas
+|LinkEnglish=Causation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7664</id>
+      <timestamp>2014-05-14T11:01:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="82">{{Schema family
+|Name gloss=Schemas of_causation
+|LinkEnglish=Causation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы нравственности</title>
+    <ns>0</ns>
+    <id>3197</id>
+      <sha1>bx5w276k33zyj2q1fvbg7q9gcszrmu5</sha1>
+    <revision>
+      <id>7450</id>
+      <timestamp>2014-02-17T17:57:37Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Morality schemas |LinkEnglish=Morality schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Morality schemas
+|LinkEnglish=Morality schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы эмоций</title>
+    <ns>0</ns>
+    <id>786</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3484</id>
+      <timestamp>2012-08-02T03:01:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>7053</id>
+      <timestamp>2013-10-21T18:50:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="75">{{Schema family
+|Name gloss=Emotion Schemas
+|LinkEnglish=Emotion Schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7054</id>
+      <timestamp>2013-10-21T18:51:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Emotion Schemas]] в [[Схемы эмоций]]</comment>
+      <text xml:space="preserve" bytes="75">{{Schema family
+|Name gloss=Emotion Schemas
+|LinkEnglish=Emotion Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы движения</title>
+    <ns>0</ns>
+    <id>3017</id>
+      <sha1>jwgit0qdqlxb15lq0mvrgbmcp2hibxd</sha1>
+    <revision>
+      <id>6843</id>
+      <timestamp>2013-09-10T07:47:53Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Motion Schemas }}»</comment>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|Name gloss=Motion Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Экономическое Неравенство</title>
+    <ns>0</ns>
+    <id>3055</id>
+      <sha1>j5pqgn1tvcopdkl0szb8x0qkru2mrdx</sha1>
+    <revision>
+      <id>6982</id>
+      <timestamp>2013-10-09T23:17:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema economic inequality |LinkEnglish=Economic Inequality schemas }}»</comment>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=schema economic inequality
+|LinkEnglish=Economic Inequality schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>6999</id>
+      <timestamp>2013-10-10T21:28:35Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Схемы экономическое неравенство]] в [[Схемы Экономическое Неравенство]]</comment>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=schema economic inequality
+|LinkEnglish=Economic Inequality schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7014</id>
+      <timestamp>2013-10-10T23:46:58Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="99">{{Schema family
+|Name gloss=Economic Inequality schemas
+|LinkEnglish=Economic Inequality schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Образование</title>
+    <ns>0</ns>
+    <id>3069</id>
+      <sha1>ep2sxqjjm2xvdfkfnxnuke3unm08zkn</sha1>
+    <revision>
+      <id>7018</id>
+      <timestamp>2013-10-11T00:01:08Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Education schemas |is subfamily of=Схемы Доступ к Образованию |LinkEnglish=Education schemas }}»</comment>
+      <text xml:space="preserve" bytes="146">{{Schema family
+|Name gloss=Education schemas
+|is subfamily of=Схемы Доступ к Образованию
+|LinkEnglish=Education schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы правительства</title>
+    <ns>0</ns>
+    <id>3086</id>
+      <sha1>300pp6obafew0jv7wj50a3k41zgy2d2</sha1>
+    <revision>
+      <id>7052</id>
+      <timestamp>2013-10-21T18:42:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Government schemas |is subfamily of=Cхемы Управления |LinkEnglish=Government schemas }}»</comment>
+      <text xml:space="preserve" bytes="129">{{Schema family
+|Name gloss=Government schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Government schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Долг</title>
+    <ns>0</ns>
+    <id>3059</id>
+      <sha1>00fqkzoziguvw6kkhrmnzsm9gebkrj6</sha1>
+    <revision>
+      <id>6995</id>
+      <timestamp>2013-10-10T20:58:18Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Debt schemas |is subfamily of=Схемы экономическое неравенство |LinkEnglish=Debt schemas }}»</comment>
+      <text xml:space="preserve" bytes="147">{{Schema family
+|Name gloss=Debt schemas
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Debt schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>6996</id>
+      <timestamp>2013-10-10T21:10:33Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="151">{{Schema family
+|Name gloss=Debt schemas
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Debt schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Социальные схемы</title>
+    <ns>0</ns>
+    <id>3175</id>
+      <sha1>lyiavxedanv0pldldjc0lii0niqt9yq</sha1>
+    <revision>
+      <id>7410</id>
+      <timestamp>2014-02-16T21:22:49Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Social schemas }}»</comment>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|Name gloss=Social schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Контроль над оружием</title>
+    <ns>0</ns>
+    <id>3448</id>
+      <sha1>r1psycykvsfz5yj4zjdczdbapkau0ld</sha1>
+    <revision>
+      <id>8130</id>
+      <timestamp>2014-09-23T10:02:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Control of guns family |LinkEnglish=Control of guns family }}»</comment>
+      <text xml:space="preserve" bytes="89">{{Schema family
+|Name gloss=Control of guns family
+|LinkEnglish=Control of guns family
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Управления</title>
+    <ns>0</ns>
+    <id>3080</id>
+      <sha1>7gt6j2uyh10602rxn5o7t1dg3nyjw77</sha1>
+    <revision>
+      <id>7043</id>
+      <timestamp>2013-10-17T21:17:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema governance |LinkEnglish=Governance }}»</comment>
+      <text xml:space="preserve" bytes="72">{{Schema family
+|Name gloss=schema governance
+|LinkEnglish=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>7044</id>
+      <timestamp>2013-10-17T21:33:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="80">{{Schema family
+|Name gloss=schema governance
+|LinkEnglish=Governance schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Пространственные отношения</title>
+    <ns>0</ns>
+    <id>3225</id>
+      <sha1>hxtvyyqvi561ucwtkh82fu4egy0ebwg</sha1>
+    <revision>
+      <id>7491</id>
+      <timestamp>2014-02-18T12:04:26Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Spatial relations |is subfamily of=Образные схемы |LinkEnglish=Spatial relations }}»</comment>
+      <text xml:space="preserve" bytes="124">{{Schema family
+|Name gloss=Spatial relations
+|is subfamily of=Образные схемы
+|LinkEnglish=Spatial relations
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Закон</title>
+    <ns>0</ns>
+    <id>3064</id>
+      <sha1>1plenkanqmdqrls0pxxv96wffhf0lqk</sha1>
+    <revision>
+      <id>7002</id>
+      <timestamp>2013-10-10T22:17:32Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=The Law schemas |is subfamily of=Cхемы Управления |LinkEnglish=The Law schemas }}»</comment>
+      <text xml:space="preserve" bytes="123">{{Schema family
+|Name gloss=The Law schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=The Law schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы препятствия и обеспечения</title>
+    <ns>0</ns>
+    <id>3130</id>
+      <sha1>q62biz3i8rs7fx6sxusz8rwwu9th4ov</sha1>
+    <revision>
+      <id>7259</id>
+      <timestamp>2013-11-23T00:50:23Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss= Impediment and enablement schemas |LinkEnglish= Impediment and enablement schemas }}»</comment>
+      <text xml:space="preserve" bytes="113">{{Schema family
+|Name gloss= Impediment and enablement schemas
+|LinkEnglish= Impediment and enablement schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7299</id>
+      <timestamp>2013-11-24T23:41:13Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Schema family
+|Name gloss=Impediment and enablement schemas
+|is subfamily of=Cхемы Bлияющие на Движение
+|LinkEnglish=Impediment and enablement schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы связанные со свойством</title>
+    <ns>0</ns>
+    <id>3122</id>
+      <sha1>oo5eoad90aqsfyvxwjofjz370264id3</sha1>
+    <revision>
+      <id>7144</id>
+      <timestamp>2013-11-16T23:54:46Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas related with property |LinkEnglish=Property-related schemas }}»</comment>
+      <text xml:space="preserve" bytes="98">{{Schema family
+|Name gloss=Schemas related with property
+|LinkEnglish=Property-related schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Экономические схемы</title>
+    <ns>0</ns>
+    <id>3190</id>
+      <sha1>oxqjg5wz3b70werco8a0j2qpz79qsuk</sha1>
+    <revision>
+      <id>7440</id>
+      <timestamp>2014-02-17T12:31:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Economic Schemas |LinkEnglish=Economic Schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Economic Schemas
+|LinkEnglish=Economic Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Демократии</title>
+    <ns>0</ns>
+    <id>3250</id>
+      <sha1>cvervsd3kemjn1g4pmdde2zkimw5qc3</sha1>
+    <revision>
+      <id>7550</id>
+      <timestamp>2014-03-12T06:24:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas of Democracy |LinkEnglish=Democracy schemas }}»</comment>
+      <text xml:space="preserve" bytes="82">{{Schema family
+|Name gloss=Schemas of Democracy
+|LinkEnglish=Democracy schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Социальный Класс</title>
+    <ns>0</ns>
+    <id>3075</id>
+      <sha1>5zz5ycmuwcthcnayzxih25a5o3s588k</sha1>
+    <revision>
+      <id>7026</id>
+      <timestamp>2013-10-11T04:19:01Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Social Class schemas |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=Social Class schem…»</comment>
+      <text xml:space="preserve" bytes="167">{{Schema family
+|Name gloss=Social Class schemas
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы шкалы</title>
+    <ns>0</ns>
+    <id>3121</id>
+      <sha1>hz7lplvkppe8c0jgpwrnreqgmhz0v42</sha1>
+    <revision>
+      <id>7142</id>
+      <timestamp>2013-11-16T23:53:31Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Scale Schemas }}»</comment>
+      <text xml:space="preserve" bytes="44">{{Schema family
+|Name gloss=Scale Schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7330</id>
+      <timestamp>2013-12-02T08:31:12Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="115">{{Schema family
+|Name gloss=Scale Schemas
+|is subfamily of=Схемы связанные со свойством
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Богатые</title>
+    <ns>0</ns>
+    <id>3073</id>
+      <sha1>58ellc1trbllxwaga7bpwaxr54qznst</sha1>
+    <revision>
+      <id>7024</id>
+      <timestamp>2013-10-11T01:44:36Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=The Rich schemas |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=The Rich schemas }}»</comment>
+      <text xml:space="preserve" bytes="159">{{Schema family
+|Name gloss=The Rich schemas
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=The Rich schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы сущности</title>
+    <ns>0</ns>
+    <id>876</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3814</id>
+      <timestamp>2012-09-05T21:04:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>7008</id>
+      <timestamp>2013-10-10T23:33:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Entity schemas]] в [[Entity]] без оставления перенаправления</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>7009</id>
+      <timestamp>2013-10-10T23:34:39Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Entity]] в [[Entity Schemas]] без оставления перенаправления</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>7060</id>
+      <timestamp>2013-10-21T19:09:43Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Entity Schemas]] в [[Cхемы сущности]]</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>7062</id>
+      <timestamp>2013-10-21T19:10:24Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="73">{{Schema family
+|Name gloss=Entity schemas
+|LinkEnglish=Entity schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Налогообложение</title>
+    <ns>0</ns>
+    <id>3040</id>
+      <sha1>nsrizr4cb1ai1c90f2yvau9azk58t0t</sha1>
+    <revision>
+      <id>6920</id>
+      <timestamp>2013-09-28T23:14:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema taxation }}»</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|Name gloss=schema taxation
+}}</text>
+    </revision>
+    <revision>
+      <id>6993</id>
+      <timestamp>2013-10-10T20:33:48Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="154">{{Schema family
+|Name gloss=schema taxation
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Taxation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7013</id>
+      <timestamp>2013-10-10T23:44:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="154">{{Schema family
+|Name gloss=schema taxation
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Taxation schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы лидеров</title>
+    <ns>0</ns>
+    <id>3089</id>
+      <sha1>3abts0trrwqljahzs4fhsx6bramcerq</sha1>
+    <revision>
+      <id>7057</id>
+      <timestamp>2013-10-21T19:02:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Leaders schemas |is subfamily of=Cхемы Управления |LinkEnglish=Leaders schemas }}»</comment>
+      <text xml:space="preserve" bytes="123">{{Schema family
+|Name gloss=Leaders schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Leaders schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Вред живому существу</title>
+    <ns>0</ns>
+    <id>3110</id>
+      <sha1>e870cmmjibcavrcmdkz3yppwiv41go6</sha1>
+    <revision>
+      <id>7114</id>
+      <timestamp>2013-11-16T22:29:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Harm to_living entity |is subfamily of=Вред |LinkEnglish=Harm to living entity }}»</comment>
+      <text xml:space="preserve" bytes="113">{{Schema family
+|Name gloss=Harm to_living entity
+|is subfamily of=Вред
+|LinkEnglish=Harm to living entity
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы бюрократии</title>
+    <ns>0</ns>
+    <id>3082</id>
+      <sha1>5v76kj5q2gi5q9am6z5pwyjja426hm1</sha1>
+    <revision>
+      <id>7047</id>
+      <timestamp>2013-10-21T18:24:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Bureaucracy schemas |is subfamily of=Cхемы Управления |LinkEnglish=Bureaucracy schemas }}»</comment>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Bureaucracy schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Bureaucracy schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы связанные с состоянием (State-related schemas)</title>
+    <ns>0</ns>
+    <id>2728</id>
+      <sha1>q4diyp0cr9qh8d1k67kfwloc02t1m63</sha1>
+    <revision>
+      <id>6323</id>
+      <timestamp>2013-04-30T15:05:20Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=State-related schemas |is subfamily of=Схемы связанные со свойством (Property-related schemas) }}»</comment>
+      <text xml:space="preserve" bytes="150">{{Schema family
+|Name gloss=State-related schemas
+|is subfamily of=Схемы связанные со свойством (Property-related schemas)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы оценки</title>
+    <ns>0</ns>
+    <id>3183</id>
+      <sha1>expw6j8s47cjusik75104yp6ti5sz5o</sha1>
+    <revision>
+      <id>7421</id>
+      <timestamp>2014-02-17T10:45:41Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Evaluation Schemas }}»</comment>
+      <text xml:space="preserve" bytes="49">{{Schema family
+|Name gloss=Evaluation Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы политики</title>
+    <ns>0</ns>
+    <id>3085</id>
+      <sha1>4sa497s2tfighonbpr82re3yh7urj55</sha1>
+    <revision>
+      <id>7050</id>
+      <timestamp>2013-10-21T18:34:14Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Politics schemas |is subfamily of=Cхемы Управления |LinkEnglish=Politics schemas }}»</comment>
+      <text xml:space="preserve" bytes="125">{{Schema family
+|Name gloss=Politics schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Politics schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы регулирования</title>
+    <ns>0</ns>
+    <id>3091</id>
+      <sha1>92qjqtouf24skkrfdtynybrqjzs8l4i</sha1>
+    <revision>
+      <id>7059</id>
+      <timestamp>2013-10-21T19:06:55Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Regulations schemas |is subfamily of=Cхемы Управления |LinkEnglish=Regulations schemas }}»</comment>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Regulations schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Regulations schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы коммуникации</title>
+    <ns>0</ns>
+    <id>3157</id>
+      <sha1>goyoo2ut2vtmbcidn1dwhopi7vff650</sha1>
+    <revision>
+      <id>7358</id>
+      <timestamp>2013-12-02T13:27:47Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Communication Schemas |LinkEnglish=Communication Schemas }}»</comment>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|Name gloss=Communication Schemas
+|LinkEnglish=Communication Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы структуры события</title>
+    <ns>0</ns>
+    <id>3125</id>
+      <sha1>b4s0esjgcsmy8o0ghajrvdxhxzhxw26</sha1>
+    <revision>
+      <id>7156</id>
+      <timestamp>2013-11-17T00:18:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Event Structure schemas |LinkEnglish=Event Structure schemas }}»</comment>
+      <text xml:space="preserve" bytes="91">{{Schema family
+|Name gloss=Event Structure schemas
+|LinkEnglish=Event Structure schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы действий</title>
+    <ns>0</ns>
+    <id>3146</id>
+      <sha1>2mar1w3iztoe7ktnjod8vg56n5lij62</sha1>
+    <revision>
+      <id>7341</id>
+      <timestamp>2013-12-02T09:32:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Action schemas |LinkEnglish=Action schemas }}»</comment>
+      <text xml:space="preserve" bytes="73">{{Schema family
+|Name gloss=Action schemas
+|LinkEnglish=Action schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Образные схемы</title>
+    <ns>0</ns>
+    <id>3224</id>
+      <sha1>h7nkn8oufpm3mpjk049m14l14gx9h6n</sha1>
+    <revision>
+      <id>7489</id>
+      <timestamp>2014-02-18T11:59:34Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Image Schemas |LinkEnglish=Image Schemas }}»</comment>
+      <text xml:space="preserve" bytes="71">{{Schema family
+|Name gloss=Image Schemas
+|LinkEnglish=Image Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы еды</title>
+    <ns>0</ns>
+    <id>3262</id>
+      <sha1>1q8z0l733ftocw44zjbqbrtk1u0nesg</sha1>
+    <revision>
+      <id>7578</id>
+      <timestamp>2014-04-03T08:35:03Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Eating Schemas |LinkEnglish=Eating Schemas }}»</comment>
+      <text xml:space="preserve" bytes="73">{{Schema family
+|Name gloss=Eating Schemas
+|LinkEnglish=Eating Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Доступ к Образованию</title>
+    <ns>0</ns>
+    <id>3044</id>
+      <sha1>8mhpj9nxdsgq9fuqb3tqnzh1o6etdiw</sha1>
+    <revision>
+      <id>6925</id>
+      <timestamp>2013-09-28T23:32:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema access to education }}»</comment>
+      <text xml:space="preserve" bytes="57">{{Schema family
+|Name gloss=schema access to education
+}}</text>
+    </revision>
+    <revision>
+      <id>6983</id>
+      <timestamp>2013-10-10T01:58:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Schema family
+|Name gloss=schema access to education
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Access to Education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7012</id>
+      <timestamp>2013-10-10T23:44:06Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Schema family
+|Name gloss=schema access to education
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Access to Education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7016</id>
+      <timestamp>2013-10-10T23:49:35Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Схемы Доступ к образованию]] в [[Схемы Доступ к Образованию]] без оставления перенаправления</comment>
+      <text xml:space="preserve" bytes="176">{{Schema family
+|Name gloss=schema access to education
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Access to Education schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы функции правительства</title>
+    <ns>0</ns>
+    <id>3169</id>
+      <sha1>fo53az33hp5pqvuuuxkj6jervh0vlld</sha1>
+    <revision>
+      <id>7400</id>
+      <timestamp>2014-02-14T20:35:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas Function of_Government |is subfamily of=Cхемы правительства |LinkEnglish=Function of Government schemas }}»</comment>
+      <text xml:space="preserve" bytes="159">{{Schema family
+|Name gloss=Schemas Function of_Government
+|is subfamily of=Cхемы правительства
+|LinkEnglish=Function of Government schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7401</id>
+      <timestamp>2014-02-14T20:36:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="153">{{Schema family
+|Name gloss=Schemas Function of_Government
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Function of Government schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Выборы</title>
+    <ns>0</ns>
+    <id>3251</id>
+      <sha1>f6gxce2cm6psa3kzec4pfsjeqx03h0m</sha1>
+    <revision>
+      <id>7552</id>
+      <timestamp>2014-03-12T07:28:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schema Elections |is subfamily of=Схемы Демократии |LinkEnglish=Elction schema }}»</comment>
+      <text xml:space="preserve" bytes="124">{{Schema family
+|Name gloss=Schema Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Elction schema
+}}</text>
+    </revision>
+    <revision>
+      <id>7553</id>
+      <timestamp>2014-03-12T07:28:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="125">{{Schema family
+|Name gloss=Schema Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Election schema
+}}</text>
+    </revision>
+    <revision>
+      <id>7560</id>
+      <timestamp>2014-03-13T05:08:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="126">{{Schema family
+|Name gloss=Schema Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Election schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы болезни</title>
+    <ns>0</ns>
+    <id>3532</id>
+      <sha1>4s831dblk4qa4waws0aj24vxyuawdbk</sha1>
+    <revision>
+      <id>8362</id>
+      <timestamp>2014-12-13T05:49:37Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas of disease |LinkEnglish=Disease schema }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Schemas of disease
+|LinkEnglish=Disease schema
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Богатство и Социальный Класс</title>
+    <ns>0</ns>
+    <id>3042</id>
+      <sha1>2ot1x4hi9ir8wmrlygzg7amj5u1ur6e</sha1>
+    <revision>
+      <id>6923</id>
+      <timestamp>2013-09-28T23:28:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema wealth }}»</comment>
+      <text xml:space="preserve" bytes="44">{{Schema family
+|Name gloss=schema wealth
+}}</text>
+    </revision>
+    <revision>
+      <id>6978</id>
+      <timestamp>2013-10-09T22:52:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="111">{{Schema family
+|Name gloss=schema wealth
+|is subfamily of=экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6981</id>
+      <timestamp>2013-10-09T23:17:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="122">{{Schema family
+|Name gloss=schema wealth
+|is subfamily of=Схемы экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6986</id>
+      <timestamp>2013-10-10T03:47:26Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Схемы Богатство]] в [[Схемы Богатство и социальный класс]]</comment>
+      <text xml:space="preserve" bytes="122">{{Schema family
+|Name gloss=schema wealth
+|is subfamily of=Схемы экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6988</id>
+      <timestamp>2013-10-10T08:10:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="184">{{Schema family
+|Name gloss=schema wealth and social class
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Wealth and Social Class schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7011</id>
+      <timestamp>2013-10-10T23:43:40Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="184">{{Schema family
+|Name gloss=schema wealth and social class
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Wealth and Social Class schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7015</id>
+      <timestamp>2013-10-10T23:48:53Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor/>
+      <comment>PatriciaL переименовал страницу [[Схемы Богатство и социальный класс]] в [[Схемы Богатство и Социальный Класс]] без оставления перенаправления</comment>
+      <text xml:space="preserve" bytes="184">{{Schema family
+|Name gloss=schema wealth and social class
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы демократических учреждений</title>
+    <ns>0</ns>
+    <id>3280</id>
+      <sha1>anyt67htw9bjlxfgc1fkjp4ptka8ekw</sha1>
+    <revision>
+      <id>7624</id>
+      <timestamp>2014-05-12T04:59:01Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas of democratic institutions |is subfamily of=Схемы Демократии |LinkEnglish=Democratic institutions schemas }}»</comment>
+      <text xml:space="preserve" bytes="159">{{Schema family
+|Name gloss=Schemas of democratic institutions
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Democratic institutions schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы связанные со состоянием</title>
+    <ns>0</ns>
+    <id>3282</id>
+      <sha1>ct0grxraafspw23n2z02adf5nrxwcjc</sha1>
+    <revision>
+      <id>7645</id>
+      <timestamp>2014-05-13T21:21:37Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Schemas related to state |is subfamily of=Схемы связанные со свойством |LinkEnglish=State-related schemas }}»</comment>
+      <text xml:space="preserve" bytes="161">{{Schema family
+|Name gloss=Schemas related to state
+|is subfamily of=Схемы связанные со свойством
+|LinkEnglish=State-related schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы отвращения</title>
+    <ns>0</ns>
+    <id>3272</id>
+      <sha1>p973fdwni7cs7po9mq0g96gm4jju8n0</sha1>
+    <revision>
+      <id>7600</id>
+      <timestamp>2014-04-03T13:11:04Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Aversion schemas |LinkEnglish=Aversion schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Aversion schemas
+|LinkEnglish=Aversion schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы местонахождения</title>
+    <ns>0</ns>
+    <id>3159</id>
+      <sha1>4nib8m4amp27uf5a2nvkpumapnvq8xs</sha1>
+    <revision>
+      <id>7361</id>
+      <timestamp>2013-12-03T14:30:31Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Location schemas |LinkEnglish=Location schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Location schemas
+|LinkEnglish=Location schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Исключенные схемы</title>
+    <ns>0</ns>
+    <id>3385</id>
+      <sha1>dh35t0837jfqekbk2w1y52iimwnqnrm</sha1>
+    <revision>
+      <id>7859</id>
+      <timestamp>2014-06-08T23:04:03Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Excluded schemas |LinkEnglish=Excluded schemas |LinkPersian=طرح های بلا استفاده }} This is a temporary schema family d…»</comment>
+      <text xml:space="preserve" bytes="203">{{Schema family
+|Name gloss=Excluded schemas
+|LinkEnglish=Excluded schemas
+|LinkPersian=طرح های بلا استفاده
+}}
+This is a temporary schema family defined to aid June 2014 extraction tests.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Богатство</title>
+    <ns>0</ns>
+    <id>3057</id>
+      <sha1>20704v80pqbzfq7voyljxdi5lajsicl</sha1>
+    <revision>
+      <id>6989</id>
+      <timestamp>2013-10-10T08:12:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=schema wealth |is subfamily of=Схемы Богатство и социальный класс |LinkEnglish=Wealth schemas }}»</comment>
+      <text xml:space="preserve" bytes="154">{{Schema family
+|Name gloss=schema wealth
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Wealth schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Деньги</title>
+    <ns>0</ns>
+    <id>3061</id>
+      <sha1>9gtuztmbmkt6izim2rn1xusx29cc467</sha1>
+    <revision>
+      <id>6998</id>
+      <timestamp>2013-10-10T21:24:25Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Money schemas |is subfamily of=Схемы Богатство и социальный класс |LinkEnglish=Money schemas }}»</comment>
+      <text xml:space="preserve" bytes="153">{{Schema family
+|Name gloss=Money schemas
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Money schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cхемы Bлияющие на Движение</title>
+    <ns>0</ns>
+    <id>3134</id>
+      <sha1>0gatktwd336cxu00bpwy2q6j2qybi5g</sha1>
+    <revision>
+      <id>7294</id>
+      <timestamp>2013-11-24T22:11:18Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Motion-Affecting Schemas |is subfamily of=Cхемы движения }}»</comment>
+      <text xml:space="preserve" bytes="99">{{Schema family
+|Name gloss=Motion-Affecting Schemas
+|is subfamily of=Cхемы движения
+}}</text>
+    </revision>
+    <revision>
+      <id>7295</id>
+      <timestamp>2013-11-24T22:35:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="146">{{Schema family
+|Name gloss=Motion-Affecting Schemas
+|is subfamily of=Cхемы движения
+|LinkEnglish=Impediment and enablement schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7298</id>
+      <timestamp>2013-11-24T23:41:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="137">{{Schema family
+|Name gloss=Motion-Affecting Schemas
+|is subfamily of=Cхемы движения
+|LinkEnglish=Motion-affecting schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы Налог</title>
+    <ns>0</ns>
+    <id>3071</id>
+      <sha1>sncxes1ejij7o8o1kboaj0pk53zjx4c</sha1>
+    <revision>
+      <id>7021</id>
+      <timestamp>2013-10-11T01:33:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Tax |is subfamily of=Схемы Налогообложение |LinkEnglish=Taxes schemas }}»</comment>
+      <text xml:space="preserve" bytes="120">{{Schema family
+|Name gloss=Tax
+|is subfamily of=Схемы Налогообложение
+|LinkEnglish=Taxes schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Вред</title>
+    <ns>0</ns>
+    <id>3109</id>
+      <sha1>hkujf0m7k624v6hyx5hg5sq7olsaxvp</sha1>
+    <revision>
+      <id>7113</id>
+      <timestamp>2013-11-16T22:27:54Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Harm |LinkEnglish=Harm }}»</comment>
+      <text xml:space="preserve" bytes="53">{{Schema family
+|Name gloss=Harm
+|LinkEnglish=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы ресурсов</title>
+    <ns>0</ns>
+    <id>3273</id>
+      <sha1>5jj1kdocr4cg31kl3nkb2r0l9thot6p</sha1>
+    <revision>
+      <id>7602</id>
+      <timestamp>2014-04-03T13:27:41Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Resource Schemas |LinkEnglish=Resource Schemas }}»</comment>
+      <text xml:space="preserve" bytes="77">{{Schema family
+|Name gloss=Resource Schemas
+|LinkEnglish=Resource Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы физического конфликта</title>
+    <ns>0</ns>
+    <id>3260</id>
+      <sha1>so9j93k8zbbm2sgwu0skidzrfwtd5vq</sha1>
+    <revision>
+      <id>7566</id>
+      <timestamp>2014-03-18T11:36:24Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Physical conflict schemas |LinkEnglish=Physical conflict schemas }}»</comment>
+      <text xml:space="preserve" bytes="95">{{Schema family
+|Name gloss=Physical conflict schemas
+|LinkEnglish=Physical conflict schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы познания</title>
+    <ns>0</ns>
+    <id>3153</id>
+      <sha1>ptue1l58hv4d91kxjz9fpotci3ip3kz</sha1>
+    <revision>
+      <id>7354</id>
+      <timestamp>2013-12-02T13:13:48Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Cognition Schemas |LinkEnglish=Cognition Schemas }}»</comment>
+      <text xml:space="preserve" bytes="79">{{Schema family
+|Name gloss=Cognition Schemas
+|LinkEnglish=Cognition Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы восприятия</title>
+    <ns>0</ns>
+    <id>3165</id>
+      <sha1>o22es06oy0e0lwi4ndw4wej01204pno</sha1>
+    <revision>
+      <id>7381</id>
+      <timestamp>2014-01-23T07:50:30Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Perception schemas |LinkEnglish=Perception schemas }}»</comment>
+      <text xml:space="preserve" bytes="81">{{Schema family
+|Name gloss=Perception schemas
+|LinkEnglish=Perception schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>7572</id>
+      <timestamp>2014-04-03T08:12:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Схемы восприятие]] в [[Схемы восприятия]]</comment>
+      <text xml:space="preserve" bytes="81">{{Schema family
+|Name gloss=Perception schemas
+|LinkEnglish=Perception schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Схемы политиков</title>
+    <ns>0</ns>
+    <id>3084</id>
+      <sha1>rku2fzcvv628yi5v0p8bx9zyqqd00z5</sha1>
+    <revision>
+      <id>7049</id>
+      <timestamp>2013-10-21T18:33:15Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Schema family |Name gloss=Politicians schemas |is subfamily of=Cхемы Управления |LinkEnglish=Politicians schemas }}»</comment>
+      <text xml:space="preserve" bytes="131">{{Schema family
+|Name gloss=Politicians schemas
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Politicians schemas
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

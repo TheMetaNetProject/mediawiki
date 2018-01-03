@@ -1,0 +1,467 @@
+Frame:Trabajo
+Frame:Consumir
+Frame:Tratar una aflicción física
+Frame:Esclavitud
+Frame:Votar
+Frame:Policía
+Frame:Relación romántica
+Frame:Escala vertical
+Frame:Computadora
+Frame:Grupos sociales
+Frame:Electricidad
+Frame:Presión en un contenedor
+Frame:Textil
+Frame:Sistema educativo
+Frame:Esconder
+Frame:Reparar
+Frame:Derechos
+Frame:Estado de economía
+Frame:Bienestar
+Frame:Náutico
+Frame:Bondad moral
+Frame:Ley
+Frame:Ubicación
+Frame:Ingestión
+Frame:Carga
+Frame:Corrupción
+Frame:Circulación sanguínea
+Frame:Convertir a sólido
+Frame:Dificultades en la acción
+Frame:Cambio de ubicación causado
+Frame:Medicina
+Frame:Obstrucciones a la visión
+Frame:Familia
+Frame:Contención
+Frame:Actividad
+Frame:Contacto
+Frame:Impedimentos de movimiento
+Frame:Empresa
+Frame:Tinieblas
+Frame:Encierros construidos
+Frame:Líder
+Frame:Cambio de ubicación
+Frame:Condición del objeto físico
+Frame:Sistema concreto
+Frame:Caminos claros hacia fuera de un lugar
+Frame:Depredación
+Frame:Visión dirigida
+Frame:Pan
+Frame:Firme
+Frame:Consciencia
+Frame:Idea
+Frame:Entender
+Frame:Hurto
+Frame:Herramienta
+Frame:Navegar
+Frame:Liderazgo
+Frame:Acceso a un lugar
+Frame:Tristeza
+Frame:Disfraz
+Frame:Adicción
+Frame:Experiencia
+Frame:Verticalidad
+Frame:Cariño
+Frame:Sociedad
+Frame:Proximidad
+Frame:Institución
+Frame:Juego
+Frame:Entidades colectivas
+Frame:Padres
+Frame:Convertir a líquido
+Frame:Debatir
+Frame:Adversidad económica
+Frame:Clase social
+Frame:Proceso
+Frame:Movimiento en líquido
+Frame:Locura
+Frame:Movimiento a lo largo de un camino
+Frame:Centro-periferia
+Frame:Campaña electoral
+Frame:Cierra de un portal
+Frame:Colocar en un lugar protegido
+Frame:Caminos hacia fuera de un lugar
+Frame:Votación
+Frame:Estar en un región delimitada
+Frame:Descomponerse
+Frame:Crimen
+Frame:Recursos económicos
+Frame:Energía
+Frame:Sobrepeso corporal
+Frame:Fijar
+Frame:Sanción
+Frame:Apoyo
+Frame:Secuencia de acciones
+Frame:Fuente de luz
+Frame:Espacio
+Frame:Cambiar de tamaño
+Frame:Enojo
+Frame:Movimiento forzado
+Frame:Movimiento causado
+Frame:Contener
+Frame:Pájaro
+Frame:Acción moral
+Frame:X-esquema
+Frame:Entidad sintiente
+Frame:Competencia
+Frame:Lubricación
+Frame:Ganar posesión
+Frame:Entidad física
+Frame:Intensidad emocional
+Frame:Malvado
+Frame:Negociación
+Frame:Toma de decisiones del gobierno
+Frame:Líquido
+Frame:Hambre
+Frame:Adversidad
+Frame:Entidad biológica
+Frame:Objeto flexible
+Frame:Restricciones construidas
+Frame:Objeto
+Frame:Elección
+Frame:Borde
+Frame:Acceso físico a un objeto
+Frame:Guerra
+Frame:Argumento
+Frame:Acción propositiva
+Frame:Igualdad política
+Frame:Daño
+Frame:Edificio
+Frame:Tierra salvaje
+Frame:Entendimiento
+Frame:Estabilidad
+Frame:Problemas sociales
+Frame:Cortar un objeto
+Frame:Lejano
+Frame:Viento
+Frame:Cambio de estado económico
+Frame:Accidente vehicular
+Frame:Cultivo
+Frame:Ropa
+Frame:Amasar
+Frame:Institución gubernamental
+Frame:Portales
+Frame:Magia
+Frame:Ciclo de vida de las plantas
+Frame:Llegar a un destino
+Frame:Confinamiento hundido
+Frame:Peso corporal
+Frame:Grupos de naciones
+Frame:Gobierno
+Frame:Dinero
+Frame:Los pobres
+Frame:Moralidad
+Frame:Pluralidad
+Frame:Propagación de enfermedades
+Frame:Lugar
+Frame:Separación
+Frame:Movimiento autopropulsado
+Frame:Tiranía
+Frame:Laberinto
+Frame:Tamaño
+Frame:Igualdad
+Frame:Medir
+Frame:Ayudas al movimiento
+Frame:Entierro
+Frame:Próximo
+Frame:Sustancia
+Frame:Sueldo
+Frame:Transferir
+Frame:Causación
+Frame:Reglamentos gubernamentales
+Frame:Cuota
+Frame:Falta de impedimentos al movimiento
+Frame:Funcionamiento corporal
+Frame:Toma de decisiones
+Frame:Evitar un obstáculo
+Frame:Organización
+Frame:Peste
+Frame:Firmeza
+Frame:Cambiar a inestable
+Frame:Animal feroz
+Frame:Ira
+Frame:Inversión
+Frame:Participación ciudadana
+Frame:Obstáculo en el camino
+Frame:Negocios
+Frame:Transacción financiera
+Frame:Situación
+Frame:Reglamento
+Frame:Control sobre personas
+Frame:Gas
+Frame:Región circundante
+Frame:Disminución de tamaño
+Frame:Entidad animado
+Frame:Experimentar un estado
+Frame:Finanzas públicas
+Frame:Ayudas al movimiento hacia abajo
+Frame:Movimiento de ida y vuelta
+Frame:Felicidad
+Frame:Similitud
+Frame:Animal
+Frame:Acción legislativa
+Frame:Confinamiento
+Frame:Entidad limitada
+Frame:Debilidad física
+Frame:Impacto
+Frame:Asquear
+Frame:Acceso
+Frame:Violencia
+Frame:Absorción
+Frame:Oportunidad
+Frame:Persona
+Frame:Riqueza
+Frame:Inmoralidad
+Frame:Enscenario de ver
+Frame:Poder
+Frame:Estar en una ubicación
+Frame:Vehículo
+Frame:Fanatismo
+Frame:Objeto físico complejo
+Frame:Temperatura del cuerpo
+Frame:Cambio de posesión
+Frame:Bondad
+Frame:Movimiento forzado a lo largo de una escala vertical
+Frame:Pago
+Frame:Erosión
+Frame:Infortunio
+Frame:Importancia
+Frame:Perder una posesión
+Frame:Inanición
+Frame:Educación superior
+Frame:La clase media
+Frame:Objeto en movimiento
+Frame:Cantidad
+Frame:Combate
+Frame:Escala lineal
+Frame:Ciudadanos
+Frame:Acciones
+Frame:Institución social
+Frame:Aflicción física
+Frame:Poder económico
+Frame:Expresión en la sociedad
+Frame:Economía
+Frame:Autoiniciado cambio de estado
+Frame:Teoría
+Frame:Cuerpo de agua
+Frame:Libertad
+Frame:Inestable
+Frame:Parásito
+Frame:Finanzas
+Frame:Deidad
+Frame:Obscenidad
+Frame:Toma de decisiones gubernamentales
+Frame:Comprender
+Frame:Escapar
+Frame:Próximo lejano
+Frame:Forma de objeto
+Frame:Peleonero
+Frame:Educación pública
+Frame:Punto en una escala vertical
+Frame:Percepción
+Frame:Consumir alimento excesivo
+Frame:Comienzo
+Frame:Autoridad
+Frame:Claridad
+Frame:Movimiento hacia arriba
+Frame:Autoridad moral
+Frame:Libertad de acción
+Frame:Abordar los problemas sociales
+Frame:Máquina
+Frame:Abordar el hambre
+Frame:Estado económico
+Frame:Crear objetos
+Frame:Adorar
+Frame:Ciclo de vida de los animales
+Frame:Drogas
+Frame:Pirámide
+Frame:Planta
+Frame:Acción gobernante
+Frame:Criatura chupasangre
+Frame:Proceso Complejo
+Frame:Mente
+Frame:Causar daño físico
+Frame:País
+Frame:Control de una situación
+Frame:Comida
+Frame:Recurso
+Frame:Desechar
+Frame:Alimento
+Frame:Comunidad
+Frame:Escala
+Frame:Cambio de estado
+Frame:Aplicación-fuerza
+Frame:Cambiar a estable
+Frame:Remoción de obstáculos
+Frame:Daño psicológico
+Frame:Obligaciones
+Frame:Relación de miembros del grupo
+Frame:Eje
+Frame:Lucha física
+Frame:Navío
+Frame:Amor
+Frame:Vida
+Frame:Daño físico
+Frame:Estatus económico
+Frame:Discutir
+Frame:Inserción de un objeto
+Frame:Alimentos ricos
+Frame:Restaurar a la vida
+Frame:Burocracia
+Frame:Fábrica
+Frame:Movimiento autopropulsado hacia un destino
+Frame:Jardinería
+Frame:Aula
+Frame:Acción inmoral
+Frame:Combustible
+Frame:Barreras
+Frame:Democracia
+Frame:Movilidad
+Frame:Terminar movimiento
+Frame:Desastre natural
+Frame:Liberar líquido
+Frame:Estructura compleja
+Frame:Dispersión
+Frame:Ceguera
+Frame:Cuidado de los niños
+Frame:Proceso de luz
+Frame:Entidad
+Frame:Relación espacial
+Frame:Impureza
+Frame:Estado
+Frame:Grandes características geográficas
+Frame:Control
+Frame:Institución electoral
+Frame:Evaluación
+Frame:Cambio hacia más oscuro
+Frame:Movimiento
+Frame:Comunicación
+Frame:Fuerzas naturales
+Frame:Posesión
+Frame:Manejar un vehículo
+Frame:Agrupación geopolítica
+Frame:Impuesto
+Frame:Transferencia forzada
+Frame:Pastorear
+Frame:Desigualdad económica
+Frame:Ayudas a la acción
+Frame:Diagnóstico de afliccón física
+Frame:Deformar
+Frame:Explotación financiera
+Frame:Relación
+Frame:Movimiento hacia atrás
+Frame:Movimiento hacia abajo
+Frame:Cuerpo
+Frame:Cambio de estado causado
+Frame:Grupo
+Frame:Manipulación de un objeto
+Frame:Calentar liquido
+Frame:Matar
+Frame:Luminosidad
+Frame:Cuidado de una planta
+Frame:Servicios domésticos
+Frame:Trayector-landmark
+Frame:Castigo
+Frame:Redacción de legislación
+Frame:Máquina fotográfica
+Frame:Cambio hacia más luminoso
+Frame:Generar recursos económicos
+Frame:Alivio de carga
+Frame:Caber
+Frame:Impedimentos al movimiento hacia abajo
+Frame:Temperatura
+Frame:Funcionalidad
+Frame:Cubrir
+Frame:Movimiento de fluidos
+Frame:Objeto afilado
+Frame:Los ricos
+Frame:Fuerza restrictiva
+Frame:Daño ambiental
+Frame:Encierros ambientales
+Frame:Fuerza
+Frame:Concentración
+Frame:Conexión física
+Frame:Experimentar daño
+Frame:Explosión
+Frame:Institución democrática
+Frame:Secuestrar
+Frame:Poder ver
+Frame:Síntomas de aflicción física
+Frame:Contención subterráneo
+Frame:Nación
+Frame:Estar en un lugar alto
+Frame:Corrupción institucional
+Frame:Educación
+Frame:Pureza
+Frame:Evento
+Frame:Estructura física
+Frame:Ver
+Frame:Brecha en el camino
+Frame:Fuerza física
+Frame:Ideología
+Frame:Escenario de trabajo
+Frame:Objeto quebradizo
+Frame:Encierros acuáticos
+Frame:Deuda
+Frame:Características geográficas
+Frame:Tiempo
+Frame:Desempleo
+Frame:Emoción
+Frame:Capacidad de actuar
+Frame:Política
+Frame:Estado mental
+Frame:Todo-parte
+Frame:Estados sociales
+Frame:Artefacto
+Frame:Aumento de tamaño
+Frame:Agarrar
+Frame:Subsidio
+Frame:Criatura monstruosa
+Frame:Presión
+Frame:Promulgación de legislación
+Frame:Racionalidad
+Frame:Entidad destructiva
+Frame:Política educativa
+Frame:Política laboral
+Frame:Peligro
+Frame:Ciclo
+Frame:Terreno físico
+Frame:Camino
+Frame:Ciclo de vida
+Frame:Estar en un lugar bajo
+Frame:Contenedor
+Frame:Proteger
+Frame:Duración
+Frame:Enfermedad
+Frame:Detener flujo de aire
+Frame:Laxo
+Frame:Acción
+Frame:Ideología democrática
+Frame:Muerte
+Frame:Tocar
+Frame:Tratamiento de salud
+Frame:Carrera
+Frame:Salir de un lugar indeseable
+Frame:Región delimitada
+Frame:Partida-ruta-meta
+Frame:Obstáculos al movimiento para adelante
+Frame:Fuerza antagónica
+Frame:Destruir
+Frame:Fuego
+Frame:Empleo
+Frame:Control de objetos
+Frame:Higiene
+Frame:Viaje
+Frame:Salud
+Frame:Medio de comunicación
+Frame:Saber
+Frame:Perseguir
+Frame:Pobreza
+Frame:Estable
+Frame:Movimiento guiado
+Frame:Tributación
+Frame:Conocimiento
+Frame:Confianza
+Frame:Discusión
+Frame:Ayudas al movimiento hacia arriba
+Frame:Personas explotadores
+Frame:Visión

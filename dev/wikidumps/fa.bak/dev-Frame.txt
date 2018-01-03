@@ -1,0 +1,317 @@
+Frame:نیروهای محرکه
+Frame:وضعیت اجتماعی
+Frame:امنیت
+Frame:مسئولیت پرداخت عوارض
+Frame:بیکاری
+Frame:صدمه
+Frame:پول
+Frame:معضلات
+Frame:تیرگی
+Frame:ناتوانی در بهبود وضعیت اقتصادی
+Frame:وضعیت اقتصادی
+Frame:بهبودی وضعیت اقتصادی
+Frame:درمان بیماری
+Frame:ارائه دهنده مراقبت از کودکان
+Frame:محدوده
+Frame:ویژگی های جغرافیایی
+Frame:مالیات بخش‌های خصوصی
+Frame:رهبری
+Frame:بدهی
+Frame:رقابت اقتصادی
+Frame:راه
+Frame:بزرگ شدن یک موجود زنده
+Frame:کانون
+Frame:وسیله نقلیه
+Frame:پیشرفت و افزایش
+Frame:رقابت سیاسی
+Frame:توزیع قدرت
+Frame:نیرو
+Frame:جرم
+Frame:نابودی
+Frame:پل
+Frame:جامعه مدنی
+Frame:حسن نیت
+Frame:عمل قانونگذاری
+Frame:قوه مجریه
+Frame:اقتصاد
+Frame:تحصیل
+Frame:موجود
+Frame:راننده
+Frame:حرکت غیر ارادی رو به پایین
+Frame:تصمیم‌گیری قضایی
+Frame:درآمد
+Frame:صنعت
+Frame:فاصله فیزیکی
+Frame:قادر نبودن به خارج شدن از محل
+Frame:دارو
+Frame:فساد
+Frame:موجود زنده
+Frame:بیماری
+Frame:ساکن ماندن
+Frame:فاجعه
+Frame:درد جسمی
+Frame:پیکار با نیرویی متخاصم
+Frame:حرکت به سمت پایین
+Frame:بودن در یک مکان مشخص
+Frame:محرومیت های تحصیلی
+Frame:حوادث
+Frame:عملیات نجات
+Frame:روشنایی
+Frame:تنظیم لایحه قانونی
+Frame:نابرابری
+Frame:نابرابری اقتصادی
+Frame:مزه
+Frame:مشروعیت دولت
+Frame:بلایای طبیعی
+Frame:ایدئولوژی دموکراتیک
+Frame:رابطه اعتماد آمیز
+Frame:آموزش
+Frame:خلاف
+Frame:گرما
+Frame:حرکت بی اختیار به سمت پایین
+Frame:ارائه منابع
+Frame:بخش خصوصی
+Frame:شهروند
+Frame:منابع مالی
+Frame:مهاربا مایعات
+Frame:منشاء
+Frame:خط سیر و لندمارک
+Frame:علت
+Frame:مدیریت
+Frame:اطلاعات
+Frame:عوارض جاده‌ای
+Frame:بورس
+Frame:نان و معیشت
+Frame:فقیر
+Frame:بسط منطقه محدود
+Frame:نهاد های دموکراتیک
+Frame:فرصت های تحصیلی
+Frame:خارج شدن از محل
+Frame:حمل بار
+Frame:قانونی بودن
+Frame:نیروی ترسناک
+Frame:دیپلماسی
+Frame:پخش شدن یک بیماری مسری
+Frame:بیرون آمدن از مکانی محدود شده
+Frame:فعالیت
+Frame:مالکیت
+Frame:جزء کل
+Frame:مردم
+Frame:فتنه
+Frame:مشاهده
+Frame:ارباب و برده
+Frame:طبقه اجتماعی
+Frame:تصمیم‌گیری دولت
+Frame:مشکلات اجتماعی
+Frame:سیاست
+Frame:چوپان
+Frame:غول
+Frame:دیوان سالاری
+Frame:محدودیت مکانی
+Frame:آب
+Frame:انسان
+Frame:سندیکا
+Frame:محبت
+Frame:مسیر مبدا هدف
+Frame:برطرف کردن مشکلات اجتماعی
+Frame:گرفتار شدن
+Frame:ماشین
+Frame:کارخانه
+Frame:آزادی بیان
+Frame:بسط در سطح افقی
+Frame:برابر کردن امکانات تحصیلی
+Frame:مردم‌سالاری
+Frame:افزایش دسترسی به تحصیل
+Frame:ابتذال
+Frame:تحریم
+Frame:والدین
+Frame:نهاد دولت
+Frame:داوری
+Frame:مسابقه
+Frame:بیرون آمدن از مکانی محدود
+Frame:نا برابری سیاسی
+Frame:آدم
+Frame:رشد یک موجود زنده
+Frame:زالو
+Frame:نیروی محرکه
+Frame:دانستن
+Frame:حیوان
+Frame:اقتدار
+Frame:حرکت در باتلاق
+Frame:رأی گیری
+Frame:عمل
+Frame:زمان
+Frame:نهاد
+Frame:تنظیم
+Frame:توزیع مجدد ثروت
+Frame:مدیریت جهادی
+Frame:تقسیم‌‌‌‌بندی‌های سیاسی
+Frame:تغییر ناگهانی به وضعیت بد اقتصادی
+Frame:نمودار کمیتی
+Frame:ناتوانی در حل معضل
+Frame:نهاد های دولتی
+Frame:یارانه
+Frame:درگیری‌های فیزیکی‌
+Frame:رأی دادن
+Frame:مانع
+Frame:کانون اجتماعی
+Frame:خلاف های مالیاتی
+Frame:سیستم
+Frame:رنگ
+Frame:دسترسی به شی ء
+Frame:نشر مایع
+Frame:آب حیات
+Frame:اعتیاد
+Frame:حمل بار سنگین
+Frame:محروم شدن از فرصت های تحصیلی
+Frame:ارتفاع
+Frame:حکومت
+Frame:هیولا
+Frame:قانون
+Frame:گسترش مشکلات اجتماعی
+Frame:بهداشت و درمان
+Frame:عوارض
+Frame:مسیر متوالی
+Frame:انبساط
+Frame:ثروت
+Frame:هدایت کردن پیشرفت
+Frame:شورا‌
+Frame:افزایش مساحت محدوده
+Frame:سفر
+Frame:دولت
+Frame:جسم
+Frame:سرمایه گذاری
+Frame:تجارت
+Frame:نهاد قدرت
+Frame:دولت دموکراتیک
+Frame:توزیع ثروت
+Frame:آلودگی
+Frame:نقش
+Frame:بار فیزیکی
+Frame:مستقیم
+Frame:دوره تحصیلات
+Frame:پخش
+Frame:معضلات اجتماعی
+Frame:داشتن وضعیت اقتصادی مطلوب
+Frame:بزرگ شدن
+Frame:قوطی
+Frame:استقبال
+Frame:گیر کردن
+Frame:دسترسی برابر به یک شیء
+Frame:آزادی
+Frame:نیروهای تهدید کننده جان
+Frame:ملت
+Frame:زندگی
+Frame:برابر کردن
+Frame:ثروت و طبقه اجتماعی
+Frame:تورم
+Frame:حرکت
+Frame:کابوس
+Frame:موجود بی جان
+Frame:رقابت
+Frame:فقیر بودن
+Frame:آفت
+Frame:میزان توانایی اقتصادی فقیران
+Frame:فعاالیت
+Frame:برداشتن شیء
+Frame:حکم قضایی
+Frame:در
+Frame:تغییر وضعیت
+Frame:وام خرید مسکن
+Frame:مقیاس
+Frame:لمس فیزیکی
+Frame:برابری سیاسی
+Frame:احساسات
+Frame:ثروتمندان
+Frame:منطقه پست
+Frame:رهبر
+Frame:دیو
+Frame:مکان
+Frame:مشارکت مردم
+Frame:فقر
+Frame:جابجایی کالا
+Frame:دموکراسی
+Frame:رشد
+Frame:شیء
+Frame:بخش دولتی
+Frame:ارزیابی شهروندان از عملکرد دولت
+Frame:افزایش تولید ملی
+Frame:افزایش امکانات تحصیلی
+Frame:هدایت کردن حرکت در مسیر راه
+Frame:قوه قضائیه
+Frame:وقت
+Frame:کالا
+Frame:دادن سهمیه دولت
+Frame:سانسور
+Frame:مردم‌سالاری دینی
+Frame:تغییروضعیت
+Frame:بودن در یک جا
+Frame:اخلاقیات
+Frame:باتلاق
+Frame:افزایش
+Frame:اصلاحات
+Frame:انتخابات
+Frame:امکانات تحصیلی
+Frame:بهبودی
+Frame:حکومتداری
+Frame:ادامه دوره های تحصیلی
+Frame:اکسیژن
+Frame:مریضی
+Frame:مسدود شدن
+Frame:مالیات بر ارزش افزوده
+Frame:قوه مقننه
+Frame:برابری
+Frame:مواجهه با مشکلات تحصیلی
+Frame:فراهم کردن امکانات آموزشی
+Frame:قدرت
+Frame:موجود جاندار
+Frame:شرایط
+Frame:جامعه
+Frame:عدالت
+Frame:قوای سه‌گانه
+Frame:صدمات فیزیکی
+Frame:تفکر
+Frame:امکانات
+Frame:گیاه
+Frame:پلیس
+Frame:افزودن
+Frame:نمایندگی و تصمیم گیری
+Frame:رسانه
+Frame:ازدیاد فقیران
+Frame:دیدن
+Frame:اعتماد جمعی
+Frame:بودن در یک مکان مشخص در یک مدت زمان
+Frame:خطرناک
+Frame:تغییر مکان
+Frame:دریافت صدمه
+Frame:دانشکده
+Frame:پرداخت عوارض
+Frame:کاهش
+Frame:دستگاه
+Frame:سازمان
+Frame:محدودیت تحرک
+Frame:حقوق
+Frame:ساختمان
+Frame:تغییر ناخواسته وضعیت اقتصادی
+Frame:طعم
+Frame:محدود شدن
+Frame:بروکراسی
+Frame:بداقبالی
+Frame:روابط بین‌الملل
+Frame:مالیات
+Frame:بازار
+Frame:توزیع مالیات بر ارزش افزوده
+Frame:وام
+Frame:شدید
+Frame:اقتصاد مقاومتی
+Frame:اشتغال
+Frame:تحرک
+Frame:جنگ
+Frame:قرار گرفتن در یک محدوده
+Frame:حق رأی
+Frame:بنده
+Frame:کشور
+Frame:پرداخت مالیات
+Frame:خوبی
+Frame:حرکت در مسیر راه
+Frame:رسیدگی به مشکلات فقیران

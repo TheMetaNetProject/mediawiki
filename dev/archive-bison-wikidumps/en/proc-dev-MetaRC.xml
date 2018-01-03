@@ -1,0 +1,1298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="en">
+  <siteinfo>
+    <sitename>English Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Media</namespace>
+      <namespace case="first-letter" key="-1">Special</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Talk</namespace>
+      <namespace case="first-letter" key="2">User</namespace>
+      <namespace case="first-letter" key="3">User talk</namespace>
+      <namespace case="first-letter" key="4">English Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">English Metaphor Wiki talk</namespace>
+      <namespace case="first-letter" key="6">File</namespace>
+      <namespace case="first-letter" key="7">File talk</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki talk</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template talk</namespace>
+      <namespace case="first-letter" key="12">Help</namespace>
+      <namespace case="first-letter" key="13">Help talk</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category talk</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Form talk</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MetaRC:SubcaseOfSameFrame</title>
+    <ns>564</ns>
+    <id>10917</id>
+      <sha1>s03ksq5afvmtwxac0sd4055erdtli57</sha1>
+    <revision>
+      <id>29441</id>
+      <timestamp>2014-11-20T00:20:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=SubcaseOfSameFrame |MetaRCDescription=Frame1 and frame2 are subcases of the the same frame, with up to 2 subcase relations cascaded. |MetaRCScore=-0...."</comment>
+      <text bytes="492" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfSameFrame
+|MetaRCDescription=Frame1 and frame2 are subcases of the the same frame, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.8
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 ?otherframe ?othername WHERE {
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?frame1 .
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?frame2 .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29464</id>
+      <timestamp>2014-11-20T01:03:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="492" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfSameFrame
+|MetaRCDescription=Frame1 and frame2 are subcases of the the same frame, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 ?otherframe ?othername WHERE {
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?frame1 .
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?frame2 .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30024</id>
+      <timestamp>2014-11-20T01:04:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="504" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfSameFrame
+|MetaRCDescription=Target frame and source frame are subcases of the the same frame, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?tframe .
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30025</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="504" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfSameFrame
+|MetaRCDescription=Target frame and source frame are subcases of the the same frame, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?tframe .
+    ?otherframe (mo:isSubcaseOfFrame&amp;#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TFrameIsRoleInSFrame</title>
+    <ns>564</ns>
+    <id>10918</id>
+      <sha1>jv3tmytvgopzk9wb68br7x888cvex2h</sha1>
+    <revision>
+      <id>29444</id>
+      <timestamp>2014-11-20T00:25:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=Frame1IsRoleInFrame2 |MetaRCDescription=Frame1 is incorporated as a role in Frame2, OR frame1 us a subcase of a frame that's incorporated into Sche..."</comment>
+      <text bytes="561" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1IsRoleInFrame2
+|MetaRCDescription=Frame1 is incorporated as a role in Frame2, OR frame1 us a subcase of a frame that's incorporated into Frame 2, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.75
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame2 mo:incorporatesFrameAsRole ?frame1 .
+    } UNION {
+        ?frame2 mo:isSubcaseOfFrame* ?iframe2 .
+        ?iframe2 mo:incorporatesFrameAsRole ?iframe1 .
+        ?frame1 mo:isSubcaseOfFrame* ?iframe1 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29465</id>
+      <timestamp>2014-11-20T01:04:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="560" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1IsRoleInFrame2
+|MetaRCDescription=Frame1 is incorporated as a role in Frame2, OR frame1 us a subcase of a frame that's incorporated into Frame 2, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame2 mo:incorporatesFrameAsRole ?frame1 .
+    } UNION {
+        ?frame2 mo:isSubcaseOfFrame* ?iframe2 .
+        ?iframe2 mo:incorporatesFrameAsRole ?iframe1 .
+        ?frame1 mo:isSubcaseOfFrame* ?iframe1 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30016</id>
+      <timestamp>2015-03-09T06:03:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[MetaRC:Frame1IsRoleInFrame2]] to [[MetaRC:TFrameIsRoleInSFrame]] without leaving a redirect: TFrameIsRoleInSFrame</comment>
+      <text bytes="560" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1IsRoleInFrame2
+|MetaRCDescription=Frame1 is incorporated as a role in Frame2, OR frame1 us a subcase of a frame that's incorporated into Frame 2, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame2 mo:incorporatesFrameAsRole ?frame1 .
+    } UNION {
+        ?frame2 mo:isSubcaseOfFrame* ?iframe2 .
+        ?iframe2 mo:incorporatesFrameAsRole ?iframe1 .
+        ?frame1 mo:isSubcaseOfFrame* ?iframe1 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30017</id>
+      <timestamp>2015-03-09T06:07:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="583" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameIsRoleInSFrame
+|MetaRCDescription=Target frame is incorporated as a role in source frame, OR target frame us a subcase of a frame that's incorporated into source frame, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?sframe mo:incorporatesFrameAsRole ?tframe .
+    } UNION {
+        ?sframe mo:isSubcaseOfFrame* ?isframe .
+        ?isframe mo:incorporatesFrameAsRole ?itframe .
+        ?tframe mo:isSubcaseOfFrame* ?itframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30026</id>
+      <timestamp>2015-03-09T06:08:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="583" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameIsRoleInSFrame
+|MetaRCDescription=Target frame is incorporated as a role in source frame, OR target frame us a subcase of a frame that's incorporated into source frame, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?sframe mo:incorporatesFrameAsRole ?tframe .
+    } UNION {
+        ?sframe mo:isSubcaseOfFrame* ?isframe .
+        ?isframe mo:incorporatesFrameAsRole ?itframe .
+        ?tframe mo:isSubcaseOfFrame* ?itframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30027</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="583" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameIsRoleInSFrame
+|MetaRCDescription=Target frame is incorporated as a role in source frame, OR target frame us a subcase of a frame that's incorporated into source frame, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?sframe mo:incorporatesFrameAsRole ?tframe .
+    } UNION {
+        ?sframe mo:isSubcaseOfFrame* ?isframe .
+        ?isframe mo:incorporatesFrameAsRole ?itframe .
+        ?tframe mo:isSubcaseOfFrame* ?itframe .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesRelatedAtHigherLevelByCM.2</title>
+    <ns>564</ns>
+    <id>10924</id>
+      <sha1>ezr5pgqwwlbt5p9xizom5xwertzfnci</sha1>
+    <revision>
+      <id>29455</id>
+      <timestamp>2014-11-20T00:40:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesRelatedAtHigherLevelByCM |MetaRCDescription=The target frame is a subcase descendent of a frame which is made use of by a frame which is a subc..."</comment>
+      <text bytes="737" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is a subcase descendent of a frame which is made use of by a frame which is a subcase descendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of a CM.
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29461</id>
+      <timestamp>2014-11-20T00:59:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="774" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is a subcase descendent of a frame which is made use of by a frame which is a subcase descendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of a CM.
+|MetaRCComments=getcmsfromframesmed
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30032</id>
+      <timestamp>2014-11-20T01:00:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="774" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is a subcase descendent of a frame which is made use of by a frame which is a subcase descendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of a CM.
+|MetaRCComments=getcmsfromframesmed
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30033</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="774" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is a subcase descendent of a frame which is made use of by a frame which is a subcase descendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of a CM.
+|MetaRCComments=getcmsfromframesmed
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesRelatedAtHigherLevelByCM.3</title>
+    <ns>564</ns>
+    <id>10925</id>
+      <sha1>oi8ypkcdhyna8kod5amhzfm9k2lokvy</sha1>
+    <revision>
+      <id>29456</id>
+      <timestamp>2014-11-20T00:43:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesRelatedAtHigherLevelByCM |MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase ..."</comment>
+      <text bytes="1017" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase descdendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of that CM OR it is the subcase of a frame which is made use of by a frame which is a subcase descendant of the source frame of the CM.
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        {
+            ?sframe mo:isSubcaseOfFrame* ?isframe
+        } UNION {
+            ?iisframe mo:makesUseOfFrame ?sframe .
+            ?iisframe mo:isSubcaseOfFrame* ?isframe .
+        }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29462</id>
+      <timestamp>2014-11-20T01:00:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1055" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase descdendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of that CM OR it is the subcase of a frame which is made use of by a frame which is a subcase descendant of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        {
+            ?sframe mo:isSubcaseOfFrame* ?isframe
+        } UNION {
+            ?iisframe mo:makesUseOfFrame ?sframe .
+            ?iisframe mo:isSubcaseOfFrame* ?isframe .
+        }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30034</id>
+      <timestamp>2014-11-20T01:01:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1055" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase descdendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of that CM OR it is the subcase of a frame which is made use of by a frame which is a subcase descendant of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        {
+            ?sframe mo:isSubcaseOfFrame* ?isframe
+        } UNION {
+            ?iisframe mo:makesUseOfFrame ?sframe .
+            ?iisframe mo:isSubcaseOfFrame* ?isframe .
+        }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30035</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="1055" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase descdendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of that CM OR it is the subcase of a frame which is made use of by a frame which is a subcase descendant of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        {
+            ?sframe mo:isSubcaseOfFrame* ?isframe
+        } UNION {
+            ?iisframe mo:makesUseOfFrame ?sframe .
+            ?iisframe mo:isSubcaseOfFrame* ?isframe .
+        }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TFrameUsesSFrame.1-2</title>
+    <ns>564</ns>
+    <id>10912</id>
+      <sha1>ojln0r6ocbbuby7xswla2eot97rcj05</sha1>
+    <revision>
+      <id>29430</id>
+      <timestamp>2014-11-20T00:11:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=Frame1UsesFrame2 |MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, where those relations may occur once or twice in succession. |Me..."</comment>
+      <text bytes="470" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1UsesFrame2
+|MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.3
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    } UNION {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29436</id>
+      <timestamp>2014-11-20T00:16:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="470" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1UsesFrame2
+|MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.8
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    } UNION {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29466</id>
+      <timestamp>2014-11-20T01:04:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="470" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1UsesFrame2
+|MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    } UNION {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30018</id>
+      <timestamp>2014-11-20T01:05:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="480" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30019</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="480" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30042</id>
+      <timestamp>2015-03-09T06:22:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[MetaRC:Frame1UsesFrame2.1-2]] to [[MetaRC:TFrameUsesSFrame.1-2]] without leaving a redirect</comment>
+      <text bytes="480" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesMakeUseOfCM</title>
+    <ns>564</ns>
+    <id>10926</id>
+      <sha1>ccw0dlm7qo0xyrgnr9d2annddh7drm1</sha1>
+    <revision>
+      <id>29457</id>
+      <timestamp>2014-11-20T00:45:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesMakeUseOfCM |MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively. |MetaRCScore=0.8 |MetaRC..."</comment>
+      <text bytes="489" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively.
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?tgframe .
+        ?sframe mo:makesUseOfFrame ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29458</id>
+      <timestamp>2014-11-20T00:57:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="516" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?tgframe .
+        ?sframe mo:makesUseOfFrame ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30036</id>
+      <timestamp>2014-11-20T00:58:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="516" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?tgframe .
+        ?sframe mo:makesUseOfFrame ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30037</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="516" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?tgframe .
+        ?sframe mo:makesUseOfFrame ?isframe .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesDirectlyRelatedByCM</title>
+    <ns>564</ns>
+    <id>10921</id>
+      <sha1>c7d1o4f9u3nbewq704goerd1p4tf5lz</sha1>
+    <revision>
+      <id>29452</id>
+      <timestamp>2014-11-20T00:32:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesDirectlyRelatedByCM |MetaRCDescription=The target and source frames are directly related by a CM. |MetaRCScore=0.95 |MetaRCQueryCode=SELECT DISTI..."</comment>
+      <text bytes="367" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCScore=0.95
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29459</id>
+      <timestamp>2014-11-20T00:58:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="405" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCComments=getdirectcmfromframes
+|MetaRCScore=0.6
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29535</id>
+      <timestamp>2014-11-21T01:23:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="405" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCComments=getdirectcmfromframes
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30028</id>
+      <timestamp>2014-11-21T01:24:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="405" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCComments=getdirectcmfromframes
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30029</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="405" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCComments=getdirectcmfromframes
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesRelatedAtHigherLevelByCM</title>
+    <ns>564</ns>
+    <id>10923</id>
+      <sha1>gnu4019gvfzw1o7dfipuc8n7ie1txed</sha1>
+    <revision>
+      <id>29454</id>
+      <timestamp>2014-11-20T00:37:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesRelatedAtHigherLevelByCM |MetaRCDescription=The target frame is made use of by a frame that is a subcase descendent of the target frame of a CM..."</comment>
+      <text bytes="642" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is made use of by a frame that is a subcase descendent of the target frame of a CM.  The source frame is a subcase descendent of the source frame of the CM.
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?tframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29460</id>
+      <timestamp>2014-11-20T00:59:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="681" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is made use of by a frame that is a subcase descendent of the target frame of a CM.  The source frame is a subcase descendent of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslocal
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?tframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30030</id>
+      <timestamp>2014-11-20T01:00:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="681" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is made use of by a frame that is a subcase descendent of the target frame of a CM.  The source frame is a subcase descendent of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslocal
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?tframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30031</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="681" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=The target frame is made use of by a frame that is a subcase descendent of the target frame of a CM.  The source frame is a subcase descendent of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslocal
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?tframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        ?sframe mo:isSubcaseOfFrame* ?isframe
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TFrameUsesSFrame.3-4</title>
+    <ns>564</ns>
+    <id>10913</id>
+      <sha1>qaafpp5eylxdb0adszr61gi58w5ni0k</sha1>
+    <revision>
+      <id>29434</id>
+      <timestamp>2014-11-20T00:15:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=Frame1UsesFrame2 |MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, with 3 or 4 such relations intervening between the frames. |Met..."</comment>
+      <text bytes="661" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1UsesFrame2
+|MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.3
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    } UNION {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29437</id>
+      <timestamp>2014-11-20T00:17:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="661" xml:space="preserve">{{MetaRC
+|MetaRCGroup=Frame1UsesFrame2
+|MetaRCDescription=Frame 1 is a subcase of or makes use of frame 2, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 WHERE {
+    {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    } UNION {
+        ?frame1 (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?frame2 .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30020</id>
+      <timestamp>2014-11-20T00:18:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="671" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30021</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="671" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30043</id>
+      <timestamp>2015-03-09T06:23:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[MetaRC:Frame1UsesFrame2.3-4]] to [[MetaRC:TFrameUsesSFrame.3-4]] without leaving a redirect</comment>
+      <text bytes="671" xml:space="preserve">{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&amp;#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SubcaseOfFramesRelatedByCM</title>
+    <ns>564</ns>
+    <id>10940</id>
+      <sha1>bqvrhbhthtwoinls97dwtwv5rbufn5c</sha1>
+    <revision>
+      <id>29536</id>
+      <timestamp>2014-11-21T01:25:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=SubcaseOfFramesRelatedByCM |MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively. |MetaRCCommen..."</comment>
+      <text bytes="538" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfFramesRelatedByCM
+|MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively.
+|MetaRCComments=getcmsfromsubcase
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?itframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:isSubCaseOfFrame* ?itframe .
+        ?sframe mo:isSubCaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30040</id>
+      <timestamp>2014-11-21T01:26:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=SubcaseOfFramesRelatedByCM |MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively. |MetaRCCommen..."</comment>
+      <text bytes="538" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfFramesRelatedByCM
+|MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively.
+|MetaRCComments=getcmsfromsubcase
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?itframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:isSubCaseOfFrame* ?itframe .
+        ?sframe mo:isSubCaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30041</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="538" xml:space="preserve">{{MetaRC
+|MetaRCGroup=SubcaseOfFramesRelatedByCM
+|MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively.
+|MetaRCComments=getcmsfromsubcase
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?itframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:isSubCaseOfFrame* ?itframe .
+        ?sframe mo:isSubCaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:UsedByOtherFrame</title>
+    <ns>564</ns>
+    <id>10914</id>
+      <sha1>fltry5oh09iefxkhsc8ooedtoavu15m</sha1>
+    <revision>
+      <id>29438</id>
+      <timestamp>2014-11-20T00:19:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=UsedByOtherFrame |MetaRCDescription=There is a frame that makes use of both frame1 and frame2. |MetaRCScore=-0.8 |MetaRCQueryCode=SELECT ?frame1 ?sc..."</comment>
+      <text bytes="354" xml:space="preserve">{{MetaRC
+|MetaRCGroup=UsedByOtherFrame
+|MetaRCDescription=There is a frame that makes use of both frame1 and frame2.
+|MetaRCScore=-0.8
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 ?otherframe ?othername WHERE {
+    ?otherframe mo:makesUseOfFrame ?frame1 .
+    ?otherframe mo:makesUseOfFrame ?frame2 .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>29467</id>
+      <timestamp>2014-11-20T01:05:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="354" xml:space="preserve">{{MetaRC
+|MetaRCGroup=UsedByOtherFrame
+|MetaRCDescription=There is a frame that makes use of both frame1 and frame2.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?frame1 ?frame2 ?otherframe ?othername WHERE {
+    ?otherframe mo:makesUseOfFrame ?frame1 .
+    ?otherframe mo:makesUseOfFrame ?frame2 .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30022</id>
+      <timestamp>2014-11-20T01:06:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="370" xml:space="preserve">{{MetaRC
+|MetaRCGroup=UsedByOtherFrame
+|MetaRCDescription=There is a frame that makes use of both the target frame and source frame.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe mo:makesUseOfFrame ?tframe .
+    ?otherframe mo:makesUseOfFrame ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30023</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="370" xml:space="preserve">{{MetaRC
+|MetaRCGroup=UsedByOtherFrame
+|MetaRCDescription=There is a frame that makes use of both the target frame and source frame.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe mo:makesUseOfFrame ?tframe .
+    ?otherframe mo:makesUseOfFrame ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:FramesMakeUseOfCM.2</title>
+    <ns>564</ns>
+    <id>10927</id>
+      <sha1>7q99i308zwb0mupedtq5x6wjvxlkren</sha1>
+    <revision>
+      <id>29463</id>
+      <timestamp>2014-11-20T01:02:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesMakeUseOfCM |MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of ..."</comment>
+      <text bytes="659" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?itgframe .
+        ?sframe mo:makesUseOfFrame ?iisframe .
+        ?itgframe mo:isSubcaseOfFrame* ?tgframe .
+        ?iisframe mo:isSubcaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30038</id>
+      <timestamp>2014-11-20T01:03:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{MetaRC |MetaRCGroup=FramesMakeUseOfCM |MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of ..."</comment>
+      <text bytes="659" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?itgframe .
+        ?sframe mo:makesUseOfFrame ?iisframe .
+        ?itgframe mo:isSubcaseOfFrame* ?tgframe .
+        ?iisframe mo:isSubcaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>30039</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>1 revision</comment>
+      <text bytes="659" xml:space="preserve">{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?itgframe .
+        ?sframe mo:makesUseOfFrame ?iisframe .
+        ?itgframe mo:isSubcaseOfFrame* ?tgframe .
+        ?iisframe mo:isSubcaseOfFrame* ?isframe .
+}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

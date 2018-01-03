@@ -1,0 +1,48 @@
+Metaphor family:Disease metaphors
+Metaphor family:Action is Motion metaphors
+Metaphor family:Taxation metaphors
+Metaphor family:Rights metaphors
+Metaphor family:Social problems metaphors
+Metaphor family:Location Event Structure Metaphor
+Metaphor family:Scalar Metaphors
+Metaphor family:States are Locations metaphors
+Metaphor family:Time Metaphors
+Metaphor family:Physical afflictions metaphors
+Metaphor family:Primary Metaphors
+Metaphor family:Gun debate metaphors
+Metaphor family:Wealth metaphors
+Metaphor family:Metaphors slated for deletion
+Metaphor family:Ontological Metaphors
+Metaphor family:Economics Metaphors
+Metaphor family:Advocacy metaphors
+Metaphor family:Morality metaphors
+Metaphor family:Emotion Metaphors
+Metaphor family:Poverty as an individual problem metaphors
+Metaphor family:Anger Metaphors
+Metaphor family:Thought as Language Metaphors
+Metaphor family:Morality as nurturance metaphors
+Metaphor family:Conduit Metaphor
+Metaphor family:Object Event Structure Metaphor
+Metaphor family:Governance metaphors
+Metaphor family:Orientational Metaphors
+Metaphor family:Strict father morality metaphors
+Metaphor family:Harm metaphors
+Metaphor family:DEMO metaphors
+Metaphor family:Mind Metaphors
+Metaphor family:LOVE IS A JOURNEY Cascade
+Metaphor family:Poverty as a social problem metaphors
+Metaphor family:Grady Primary Metaphors
+Metaphor family:Poverty metaphors
+Metaphor family:Education metaphors
+Metaphor family:Wealth and Social Class metaphors
+Metaphor family:Government institution metaphors
+Metaphor family:Function of Government metaphors
+Metaphor family:Bureaucracy metaphors
+Metaphor family:Event Structure Metaphor
+Metaphor family:Questionable entailments of metaphors
+Metaphor family:Mathematics Metaphors
+Metaphor family:Democracy metaphors
+Metaphor family:Legislation metaphors
+Metaphor family:Action special cases
+Metaphor family:Election metaphors
+Metaphor family:Possession metaphors

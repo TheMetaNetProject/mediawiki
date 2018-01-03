@@ -1,0 +1,512 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="es">
+  <siteinfo>
+    <sitename>Spanish Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medio</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discusión</namespace>
+      <namespace key="2" case="first-letter">Usuario</namespace>
+      <namespace key="3" case="first-letter">Usuario discusión</namespace>
+      <namespace key="4" case="first-letter">Spanish Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Spanish Metaphor Wiki discusión</namespace>
+      <namespace key="6" case="first-letter">Archivo</namespace>
+      <namespace key="7" case="first-letter">Archivo discusión</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki discusión</namespace>
+      <namespace key="10" case="first-letter">Plantilla</namespace>
+      <namespace key="11" case="first-letter">Plantilla discusión</namespace>
+      <namespace key="12" case="first-letter">Ayuda</namespace>
+      <namespace key="13" case="first-letter">Ayuda discusión</namespace>
+      <namespace key="14" case="first-letter">Categoría</namespace>
+      <namespace key="15" case="first-letter">Categoría discusión</namespace>
+      <namespace key="102" case="first-letter">Atributo</namespace>
+      <namespace key="103" case="first-letter">Discusión atributo</namespace>
+      <namespace key="106" case="first-letter">Formulario</namespace>
+      <namespace key="107" case="first-letter">Discusión formulario</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CxnMP:S-verb T-dobj</title>
+    <ns>562</ns>
+    <id>7174</id>
+      <sha1>2o9v5uiuanijrc7o0fxbo3bvh8auda4</sha1>
+    <revision>
+      <id>14956</id>
+      <timestamp>2014-11-19T01:56:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_T-dobj |CxnMPDescription=Verb-Object construction |Comments=... escape poverty |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ...»</comment>
+      <text xml:space="preserve" bytes="622">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:dobj ?source .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun prep T-noun</title>
+    <ns>562</ns>
+    <id>7184</id>
+      <sha1>7cjcdy00sjtvgxjhikpom4h50kwwfdu</sha1>
+    <revision>
+      <id>14966</id>
+      <timestamp>2014-11-19T02:04:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_prep_T-noun |CxnMPDescription=N PP constructions |Comments=avalancha contra pueblos pobres |CxnMPQueryCode=SELECT ?tlemma ?slem...»</comment>
+      <text xml:space="preserve" bytes="915">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_prep_T-noun
+|CxnMPDescription=N PP constructions
+|Comments=avalancha contra pueblos pobres
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+   ?sent rdf:type doc:Sentence .
+   ?sent doc:hasIdx ?sentidx .
+   ?target rdf:type doc:Word .
+   ?target doc:hasIdx ?tidx .
+   ?target doc:hasLemma ?tlemma .
+   ?source rdf:type doc:Word .
+   ?source doc:hasIdx ?sidx .
+   ?source doc:hasLemma ?slemma .
+   ?target doc:inSentence ?sent .
+   ?source doc:inSentence ?sent .
+   ?source doc:hasPOS ?spos .
+   FILTER regex(?spos, &quot;^N&quot;) .
+   ?target (doc:hasPOS&amp;#124;doc:hasRPOS) ?tpos .
+   FILTER regex(?tpos, &quot;^N&quot;) .
+   ?ofword rdf:type doc:Word .
+   ?ofword doc:inSentence ?sent .
+   ?ofword doc:hasLemma ?oflemma
+   FILTER regex(?oflemma, &quot;(contra&amp;#124;para&amp;#124;a&amp;#124;entre)&quot;) .
+   ?ofword (doc:spmod&amp;#124;doc:cc) ?source .
+   ?target doc:objprep ?ofword .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb</title>
+    <ns>562</ns>
+    <id>7173</id>
+      <sha1>58xma698sj80borw8q6diy4vw8yqctv</sha1>
+    <revision>
+      <id>14954</id>
+      <timestamp>2014-11-19T01:55:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |CxnMPDescription= Subject-Verb construction |Comments=poverty infects |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?...»</comment>
+      <text xml:space="preserve" bytes="697">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription= Subject-Verb construction
+|Comments=poverty infects
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	{
+		?target (doc:subj&amp;#124;doc:subjpac) ?source .
+	} UNION {
+		?source doc:snmod ?target .
+	}
+	?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER (?slemma != &quot;ser&quot;) .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-adj mod T-noun</title>
+    <ns>562</ns>
+    <id>7181</id>
+      <sha1>ayavwx69rdxrej6t7hvvjx8qom5njrs</sha1>
+    <revision>
+      <id>14963</id>
+      <timestamp>2014-11-19T02:02:04Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-adj_mod_T-noun |CxnMPDescription=adjective noun modification |Comments=pobreza estructural |CxnMPQueryCode=SELECT ?tlemma ?slemma ?s...»</comment>
+      <text xml:space="preserve" bytes="707">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-adj_mod_T-noun
+|CxnMPDescription=adjective noun modification
+|Comments=pobreza estructural
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(J&amp;#124;A)&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?source doc:adjmod ?target .    
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb la T-noun.POS</title>
+    <ns>562</ns>
+    <id>7176</id>
+      <sha1>hn3msfgip41pn9478m9v2rqmhe9275v</sha1>
+    <revision>
+      <id>14958</id>
+      <timestamp>2014-11-19T01:58:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-verb_T-noun |CxnMPDescription=Verb-Object constructions |Comments=abatir la pobreza |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;...»</comment>
+      <text xml:space="preserve" bytes="324">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-verb_T-noun
+|CxnMPDescription=Verb-Object constructions
+|Comments=abatir la pobreza
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=(?:V)&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+) &amp;#91;^=&amp;#93;+=&amp;#91;^=&amp;#93;+=ART=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj es S-noun</title>
+    <ns>562</ns>
+    <id>7183</id>
+      <sha1>23784ymw0g9a4nq8pvcr54fkm5c4bv7</sha1>
+    <revision>
+      <id>14965</id>
+      <timestamp>2014-11-19T02:03:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_es_S-noun |CxnMPDescription=Copular construction |Comments=poverty is a cancer |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ...»</comment>
+      <text xml:space="preserve" bytes="792">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_es_S-noun
+|CxnMPDescription=Copular construction
+|Comments=poverty is a cancer
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:inSentence ?sent .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+    ?target doc:hasPOS ?tpos .
+	?source rdf:type doc:Word .
+	?source doc:inSentence ?sent .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+    ?source doc:hasPOS ?spos .
+	FILTER regex(?spos, &quot;^(N&amp;#124;A&amp;#124;J)&quot;) .
+	FILTER regex(?tpos, &quot;^N&quot;) .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?cop doc:hasLemma &quot;ser&quot;^^xsd:string .
+    ?target doc:subj ?cop .
+    ?source doc:att ?cop .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun.POSdel</title>
+    <ns>562</ns>
+    <id>7179</id>
+      <sha1>bfiz82xrbujph5l1gam8c7m4rnt1tbd</sha1>
+    <revision>
+      <id>14961</id>
+      <timestamp>2014-11-19T02:00:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-noun_of_T-noun |CxnMPDescription=N of N constructions via POS tags |Comments=flagelo de la pobreza |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(...»</comment>
+      <text xml:space="preserve" bytes="362">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions via POS tags
+|Comments=flagelo de la pobreza
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=(?:N&amp;#124;VLfin)&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+) &amp;#91;^=&amp;#93;+=(?:de&amp;#124;del)=&amp;#91;^=&amp;#93;+=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-adj mod S-noun</title>
+    <ns>562</ns>
+    <id>7182</id>
+      <sha1>0tp45vrh2857ryqrw5ssx244km39o4o</sha1>
+    <revision>
+      <id>14964</id>
+      <timestamp>2014-11-19T02:02:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-adj_mod_S-noun |CxnMPDescription= adjective noun modification |Comments=crecimiento=crecimiento=NC=10 económico=económico=ADJ=11 |...»</comment>
+      <text xml:space="preserve" bytes="747">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-adj_mod_S-noun
+|CxnMPDescription= adjective noun modification
+|Comments=crecimiento=crecimiento=NC=10 económico=económico=ADJ=11
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?tpos, &quot;^(J&amp;#124;A)&quot;) .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    ?target doc:adjmod ?source .    
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun.POSdeART</title>
+    <ns>562</ns>
+    <id>7178</id>
+      <sha1>17f8d3m25q509s7tmlk5jnd9ppgxs92</sha1>
+    <revision>
+      <id>14960</id>
+      <timestamp>2014-11-19T01:59:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-noun_of_T-noun |CxnMPDescription=N of N constructions via POS tags |Comments=flagelo de la pobreza |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(...»</comment>
+      <text xml:space="preserve" bytes="385">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions via POS tags
+|Comments=flagelo de la pobreza
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=(?:N&amp;#124;VLfin)&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+) &amp;#91;^=&amp;#93;+=de=&amp;#91;^=&amp;#93;+=\d+ &amp;#91;^=&amp;#93;+=&amp;#91;^=&amp;#93;+=ART=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb Prep T-noun</title>
+    <ns>562</ns>
+    <id>7180</id>
+      <sha1>k8ucz6jlq4uwklnz7z55saujp6ph52f</sha1>
+    <revision>
+      <id>14962</id>
+      <timestamp>2014-11-19T02:01:04Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_Prep_T-noun |CxnMPDescription=Verb Prep Noun |Comments=escapar a la pobreza |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?ti...»</comment>
+      <text xml:space="preserve" bytes="844">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_Prep_T-noun
+|CxnMPDescription=Verb Prep Noun
+|Comments=escapar a la pobreza
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:hasPOS ?prepPOS .
+    ?target doc:objprep ?prep .
+    FILTER regex(?prepPOS, &quot;^(I&amp;#124;SPS&amp;#124;PREP)&quot;) .
+    ?prep (doc:spobj&amp;#124;doc:iobj&amp;#124;doc:cc&amp;#124;doc:spmod) ?source .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun T-adj</title>
+    <ns>562</ns>
+    <id>7203</id>
+      <sha1>7j19fftl2cciqkiv7gattex4p2s6zrn</sha1>
+    <revision>
+      <id>15073</id>
+      <timestamp>2014-12-15T10:25:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPGroup=S-noun_T-adj |CxnMPDescription=noun adjective modification |Comments=máquina burocrática }} need a cxn mp query for this!»</comment>
+      <text xml:space="preserve" bytes="143">{{CxnMP
+|CxnMPGroup=S-noun_T-adj
+|CxnMPDescription=noun adjective modification
+|Comments=máquina burocrática
+}}
+need a cxn mp query for this!</text>
+    </revision>
+    <revision>
+      <id>15074</id>
+      <timestamp>2014-12-15T10:25:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="163">{{CxnMP
+|CxnMPGroup=S-noun_T-adj
+|CxnMPDescription=noun adjective modification
+|Comments=máquina burocrática
+}}
+need a [cxn mp type] and [cxn mp query] for this!</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb a la T-dobj</title>
+    <ns>562</ns>
+    <id>7175</id>
+      <sha1>nsj80u6lixas6zt43g7wew3ar5bq58e</sha1>
+    <revision>
+      <id>14957</id>
+      <timestamp>2014-11-19T01:57:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=regexp |CxnMPGroup=S-verb_T-dobj |CxnMPDescription=Verb-Object construction |Comments=... escape poverty |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;...»</comment>
+      <text xml:space="preserve" bytes="322">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=V&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+) a=a=PREP=\d+ &amp;#91;^=&amp;#93;+=el=ART=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=N&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+)\b
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun</title>
+    <ns>562</ns>
+    <id>7177</id>
+      <sha1>1d41b0tg470e6xj7yw1j00ats9zlvh7</sha1>
+    <revision>
+      <id>14959</id>
+      <timestamp>2014-11-19T01:59:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_of_T-noun |CxnMPDescription=N of N constructions |Comments=flagelo de la pobreza |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentid...»</comment>
+      <text xml:space="preserve" bytes="886">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions
+|Comments=flagelo de la pobreza
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, &quot;^(N&amp;#124;VLfin&amp;#124;A)&quot;) .
+    ?target (doc:hasPOS&amp;#124;doc:hasRPOS) ?tpos .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?ofword rdf:type doc:Word .
+    ?ofword doc:inSentence ?sent .
+    ?ofword doc:hasLemma &quot;de&quot;^^xsd:string .
+    ?ofword (doc:spmod&amp;#124;doc:cc) ?source .
+    ?target doc:objprep ?ofword .
+}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

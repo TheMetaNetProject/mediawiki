@@ -1,0 +1,363 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">مدیا</namespace>
+      <namespace key="-1" case="first-letter">ویژه</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">بحث</namespace>
+      <namespace key="2" case="first-letter">کاربر</namespace>
+      <namespace key="3" case="first-letter">بحث کاربر</namespace>
+      <namespace key="4" case="first-letter">Persian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">بحث Persian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">پرونده</namespace>
+      <namespace key="7" case="first-letter">بحث پرونده</namespace>
+      <namespace key="8" case="first-letter">مدیاویکی</namespace>
+      <namespace key="9" case="first-letter">بحث مدیاویکی</namespace>
+      <namespace key="10" case="first-letter">الگو</namespace>
+      <namespace key="11" case="first-letter">بحث الگو</namespace>
+      <namespace key="12" case="first-letter">راهنما</namespace>
+      <namespace key="13" case="first-letter">بحث راهنما</namespace>
+      <namespace key="14" case="first-letter">رده</namespace>
+      <namespace key="15" case="first-letter">بحث رده</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">فرم</namespace>
+      <namespace key="107" case="first-letter">بحث فرم</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ساختار واقعه (مکان)</title>
+    <ns>0</ns>
+    <id>994</id>
+      <sha1>i349rkxon9ifzotwptwae68v3aep8km</sha1>
+    <revision>
+      <id>4240</id>
+      <timestamp>2012-11-26T06:09:26Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=(structure event (location |is subfamily of=ساختار واقعه }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="100">{{Metaphor family
+|Name gloss=(structure event (location
+|is subfamily of=ساختار واقعه
+}}</text>
+    </revision>
+    <revision>
+      <id>4241</id>
+      <timestamp>2012-11-26T06:10:36Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <text xml:space="preserve" bytes="100">{{Metaphor family
+|Name gloss=structure event (location)
+|is subfamily of=ساختار واقعه
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره های اخلاقیات</title>
+    <ns>0</ns>
+    <id>1221</id>
+      <sha1>nq6lo6353bt56ebk33qaqwczldtwwu8</sha1>
+    <revision>
+      <id>5215</id>
+      <timestamp>2013-03-28T21:32:01Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=Metaphor-pl Moral-pl }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|Name gloss=Metaphor-pl Moral-pl
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره دموکراسی</title>
+    <ns>0</ns>
+    <id>1604</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>6213</id>
+      <timestamp>2014-03-27T23:24:49Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>50</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family}}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>حکومت</title>
+    <ns>0</ns>
+    <id>1130</id>
+      <sha1>iz07p00vtmft08qr8449gjx7yx73jzc</sha1>
+    <revision>
+      <id>4969</id>
+      <timestamp>2012-12-19T04:26:14Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Schema family |Name gloss=Governance }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="41">{{Schema family
+|Name gloss=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>5025</id>
+      <timestamp>2012-12-19T21:36:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="43">{{Metaphor family
+|Name gloss=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>5601</id>
+      <timestamp>2013-09-27T22:23:08Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text xml:space="preserve" bytes="100">{{Metaphor family
+|Name gloss=Goverment
+|is subfamily of=طرح های اداره و مدیریت
+}}</text>
+    </revision>
+    <revision>
+      <id>5614</id>
+      <timestamp>2013-09-27T23:19:03Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <text xml:space="preserve" bytes="86">{{Metaphor family
+|Name gloss=Goverment
+|is subfamily of=اداره و مدیریت
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>طرح دولت</title>
+    <ns>0</ns>
+    <id>1788</id>
+      <sha1>lrvsks50k2qcefweob3jmu5w0utzs7r</sha1>
+    <revision>
+      <id>6958</id>
+      <timestamp>2014-05-28T19:37:20Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor/>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=Govenrment schema |is subfamily of=Governance }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="78">{{Metaphor family
+|Name gloss=Govenrment schema
+|is subfamily of=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>6959</id>
+      <timestamp>2014-05-28T19:44:33Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="85">{{Metaphor family
+|Name gloss=Govenrment schema
+|is subfamily of=Governance schema
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره اقتصاد</title>
+    <ns>0</ns>
+    <id>1668</id>
+      <sha1>ob93wtu9b7il4ez46c0y74ugwf3enn6</sha1>
+    <revision>
+      <id>6475</id>
+      <timestamp>2014-04-24T20:14:36Z</timestamp>
+      <contributor>
+        <username>Reza246</username>
+        <id>51</id>
+      </contributor>
+      <minor/>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=economy }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="40">{{Metaphor family
+|Name gloss=economy
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Anger Metaphors</title>
+    <ns>0</ns>
+    <id>770</id>
+      <sha1>01snkwsp7rjtjoxllstnf80y6kmsx7n</sha1>
+    <revision>
+      <id>3378</id>
+      <timestamp>2012-08-01T01:50:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Emotion Metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Metaphor family
+|is subfamily of=Emotion Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره های امکان تحصیل</title>
+    <ns>0</ns>
+    <id>1454</id>
+      <sha1>q0igksts615ujzwdg7kypfeo7isfgny</sha1>
+    <revision>
+      <id>5642</id>
+      <timestamp>2013-10-03T11:44:45Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=education-possibilities }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="56">{{Metaphor family
+|Name gloss=education-possibilities
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Emotion Metaphors</title>
+    <ns>0</ns>
+    <id>772</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3390</id>
+      <timestamp>2012-08-01T02:09:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره های فقر</title>
+    <ns>0</ns>
+    <id>1448</id>
+      <sha1>0fx5dqv1nau1u94k3h2uxt4oalbkhra</sha1>
+    <revision>
+      <id>5612</id>
+      <timestamp>2013-09-27T22:58:56Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=poverty metaphors }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="50">{{Metaphor family
+|Name gloss=poverty metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>استعاره های مالیات</title>
+    <ns>0</ns>
+    <id>1453</id>
+      <sha1>icpveznia4dm55es7q0inxlw7qtpfqt</sha1>
+    <revision>
+      <id>5641</id>
+      <timestamp>2013-10-03T11:43:51Z</timestamp>
+      <contributor>
+        <username>Sanam</username>
+        <id>36</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی «{{Metaphor family |Name gloss=Taxation metaphors }}» ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="51">{{Metaphor family
+|Name gloss=Taxation metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>ساجتار واقعه (مکان)</title>
+    <ns>0</ns>
+    <id>949</id>
+      <sha1>oz6axbsivjvxu2vu8h8enb4vy6pto19</sha1>
+    <revision>
+      <id>4055</id>
+      <timestamp>2012-11-15T18:07:32Z</timestamp>
+      <contributor>
+        <username>Aria</username>
+        <id>33</id>
+      </contributor>
+      <comment>صفحه‌ای جدید حاوی '{{Metaphor family |is subfamily of=ساختار واقعه }}' ایجاد کرد</comment>
+      <text xml:space="preserve" bytes="61">{{Metaphor family
+|is subfamily of=ساختار واقعه
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>LOVE IS A JOURNEY Cascade</title>
+    <ns>0</ns>
+    <id>773</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3398</id>
+      <timestamp>2012-08-01T21:33:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>8835</id>
+      <timestamp>2015-04-13T19:58:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong صفحهٔ [[LIFE/LOVE IS A JOURNEY Cascade]] را بدون برجای‌گذاشتن تغییرمسیر به [[LOVE IS A JOURNEY Cascade]] منتقل کرد: slashes not allowed in page names</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,656 @@
+Schema:Knowledge
+Schema:Biological entity
+Schema:Health
+Schema:Experience pain
+Schema:Reaching a destination
+Schema:Addressing social problems
+Schema:Emotional intensity
+Schema:Natural resource
+Schema:Parent
+Schema:Plurality
+Schema:Morality
+Schema:Proximal distal
+Schema:Moving into a bounded region
+Schema:Government institution
+Schema:Process initial state
+Schema:Blood-sucking creature
+Schema:Educational institution
+Schema:Adoption
+Schema:Bully
+Schema:Becoming aware
+Schema:Motion impediments
+Schema:Fit
+Schema:Force-application
+Schema:Physical weakness
+Schema:Machine
+Schema:Negotiation
+Schema:Destructive force
+Schema:Into
+Schema:Lack of enablement
+Schema:Virtual motion
+Schema:Boat motion x-schema
+Schema:Economic difficulty
+Schema:Health treatment
+Schema:Restraints
+Schema:Physical path
+Schema:Stockholders
+Schema:Open
+Schema:Event
+Schema:Process start
+Schema:Physical strength
+Schema:Drugs
+Schema:Process pause
+Schema:Ingestion
+Schema:Avoiding obstacles
+Schema:State leadership
+Schema:Finance
+Schema:Government
+Schema:Tending to plants
+Schema:Excess body weight
+Schema:Erosion
+Schema:Controlled vehicular motion
+Schema:Impeding downward motion
+Schema:Extinguish
+Schema:Destroying
+Schema:Theory
+Schema:Ownership
+Schema:X-schema
+Schema:Institution
+Schema:Learning
+Schema:Immoral action
+Schema:Commodity
+Schema:Differences in state
+Schema:Duration
+Schema:Debt
+Schema:Poverty
+Schema:Death
+Schema:Steering a boat
+Schema:Animate entity
+Schema:Belief
+Schema:Group
+Schema:Being at a location
+Schema:Situation
+Schema:Change in condition of physical object
+Schema:Being low on a scale
+Schema:Access
+Schema:Self propelled motion to a destination
+Schema:Well-being
+Schema:Length
+Schema:Human rights
+Schema:Process continue
+Schema:Disorderly group
+Schema:Word
+Schema:Mass motion
+Schema:Guided motion
+Schema:Physical strength scale
+Schema:Straight path
+Schema:Impoverished
+Schema:Mind
+Schema:Plant life cycle
+Schema:Addiction
+Schema:Trust relationship
+Schema:Advocacy
+Schema:Competition
+Schema:Disease
+Schema:Large geographic features
+Schema:Protecting
+Schema:Democratic institution
+Schema:Animal
+Schema:Gun-rights advocate
+Schema:Force
+Schema:Constructed Confinement
+Schema:Sentient entity
+Schema:Media
+Schema:Moral goodness
+Schema:Operating a machine
+Schema:Caused change of state
+Schema:Child care
+Schema:Physical competition
+Schema:Loose fit
+Schema:Reciprocation
+Schema:Weapons handling
+Schema:Gun-control advocate
+Schema:Bounded entity
+Schema:Out
+Schema:Argument
+Schema:Awakening
+Schema:Barrier on a path
+Schema:Gun use
+Schema:Living
+Schema:Luminosity
+Schema:Government decision making
+Schema:Decrease ease of accessing a location
+Schema:Safety
+Schema:Being in the middle of a scale
+Schema:Desiring
+Schema:Concentration
+Schema:Wet
+Schema:Cultivation
+Schema:Selection
+Schema:Edge
+Schema:Gun legislation
+Schema:Network
+Schema:Moral action
+Schema:Group membership
+Schema:Forming words
+Schema:Trajector landmark
+Schema:Understanding
+Schema:Increase ease of motion
+Schema:Parasite
+Schema:Market
+Schema:Computer
+Schema:Condition of physical object
+Schema:Laissez-faire market
+Schema:Need
+Schema:Card game
+Schema:Positivity scale
+Schema:Purity
+Schema:Hearing
+Schema:Position
+Schema:Servant
+Schema:Speech act
+Schema:Speaking
+Schema:Legislative action
+Schema:Placing in a protected location
+Schema:Self propelled motion
+Schema:Constructed Restraints
+Schema:Unemployment
+Schema:Decrease size
+Schema:Right to life
+Schema:Object manipulation
+Schema:Bird
+Schema:Leadership
+Schema:Psychological harm
+Schema:School
+Schema:Discussing
+Schema:Motion
+Schema:Pursue
+Schema:Judicial decision-making
+Schema:Cut
+Schema:Control
+Schema:Representation and decision-making
+Schema:Freedom
+Schema:Weed
+Schema:Directed vision
+Schema:Delegation of trust
+Schema:Proximity
+Schema:Action
+Schema:Country
+Schema:Gun rights
+Schema:Moving backward
+Schema:Citizen participation
+Schema:Lightness
+Schema:Military leadership
+Schema:Organization
+Schema:Darkness
+Schema:Losing
+Schema:Destructive natural process
+Schema:Confinement
+Schema:Equality
+Schema:Tight fit
+Schema:Social status
+Schema:Fluid containment
+Schema:Treating a physical affliction
+Schema:Lose possession
+Schema:Quality
+Schema:Controlled motion
+Schema:Portals
+Schema:Government institution US
+Schema:Misfortune
+Schema:Accompany
+Schema:Knowing
+Schema:Nutritious food
+Schema:Disease treatment
+Schema:Servitude authority
+Schema:Resource
+Schema:Region
+Schema:Gun ownership
+Schema:Nurturant parent family
+Schema:Politics
+Schema:Enablement
+Schema:Moral authority
+Schema:Increase size
+Schema:Eating
+Schema:Diplomacy
+Schema:Self-defense
+Schema:Attention
+Schema:Process uncompleted state
+Schema:Happiness
+Schema:Corporation
+Schema:Upward motion
+Schema:Performance
+Schema:Dwelling place
+Schema:Process stop
+Schema:Financial resource
+Schema:Deforming
+Schema:Game
+Schema:Boat
+Schema:Energy
+Schema:Commercial transaction
+Schema:Firmness
+Schema:Fixing
+Schema:Speech in society
+Schema:Sadness
+Schema:Cleanliness
+Schema:Educational evaluation
+Schema:Physical attributes
+Schema:Aids to motion
+Schema:Rocks along shore
+Schema:Topological scale
+Schema:Marriage
+Schema:Emotion
+Schema:Branches of government
+Schema:Value
+Schema:Unstable
+Schema:Funding education
+Schema:Searching
+Schema:Gun rights legislation
+Schema:Shepherding
+Schema:Starvation
+Schema:Causation
+Schema:Moral evaluation
+Schema:Aids to action
+Schema:Motion-affecting actors
+Schema:Environmental harm
+Schema:Ideology
+Schema:Judicial action
+Schema:Factory
+Schema:Citizens
+Schema:Economic resource
+Schema:Caused Downward Motion
+Schema:Physical connection
+Schema:In
+Schema:Impediment to motion
+Schema:Physical affliction
+Schema:Freedom of action
+Schema:Worship
+Schema:Protect against contact
+Schema:Gap in path
+Schema:Increase ease of accessing a location
+Schema:Predication
+Schema:Importance
+Schema:Geographic void
+Schema:Territory
+Schema:Negatively evaluated condition
+Schema:Status
+Schema:Verticality
+Schema:Process resume
+Schema:Curriculum
+Schema:Affection
+Schema:Social problems
+Schema:Improving economic status
+Schema:Quantity
+Schema:Punishment
+Schema:Agentive causation
+Schema:Stop flow of substance
+Schema:Wealthy people
+Schema:Land vehicle
+Schema:Increase ease of action
+Schema:Psychological attributes
+Schema:Barrier
+Schema:Injurious gun use
+Schema:Greed
+Schema:Risky activity
+Schema:Diagnosis of affliction
+Schema:Evil
+Schema:Economic status
+Schema:Wilderness
+Schema:Second Amendment
+Schema:Physical structure
+Schema:Communication
+Schema:Bodily functioning
+Schema:Lax
+Schema:Theft
+Schema:Boat on the rocks
+Schema:Linguistic activity
+Schema:Bodily sensation
+Schema:Location
+Schema:Light source
+Schema:Responsibility
+Schema:Physical combat
+Schema:Trust emotion
+Schema:Detach
+Schema:Political competition
+Schema:Intimacy
+Schema:Nuclear family
+Schema:Obscenity
+Schema:Improving a state
+Schema:Gun debate
+Schema:Rotation
+Schema:Visual evaluation
+Schema:Water Confinement
+Schema:Authority
+Schema:Force-Dynamic Interaction
+Schema:Consciousness
+Schema:Functionality
+Schema:Aid to upward motion
+Schema:Election
+Schema:Corruption
+Schema:Remove burden
+Schema:Aids to downward motion
+Schema:Civil social-political community
+Schema:Spatial relation
+Schema:Investment
+Schema:Democracy
+Schema:Purposeful action
+Schema:Idea
+Schema:Fierce animal
+Schema:Social group
+Schema:Fluid motion
+Schema:Power
+Schema:Seeing scenario
+Schema:Public trust
+Schema:Create object
+Schema:Gun control legislation
+Schema:Decision making
+Schema:Journey
+Schema:Process stopped state
+Schema:Building
+Schema:Experiencing a negative state
+Schema:Disgusting
+Schema:Insanity
+Schema:Robot
+Schema:X-schema continue
+Schema:Visual obstruction
+Schema:Neighbor
+Schema:Regulation
+Schema:Category
+Schema:Ability to act
+Schema:Resource consumption
+Schema:Containing
+Schema:Taste
+Schema:Legality
+Schema:Motion out of a location
+Schema:Downward motion
+Schema:Decay
+Schema:Agriculture
+Schema:Consume
+Schema:Wealth redistribution
+Schema:Liquid
+Schema:Gambling
+Schema:Moral order
+Schema:Body
+Schema:Moving forward
+Schema:Part whole
+Schema:Democratic government
+Schema:Air motion
+Schema:Distant
+Schema:Being unstable
+Schema:Income
+Schema:Support
+Schema:Natural disaster
+Schema:Government executive action
+Schema:Brittle object
+Schema:Crime
+Schema:Textile
+Schema:Economy
+Schema:Attribute
+Schema:Containment
+Schema:Weather
+Schema:Voting rights
+Schema:Fairness
+Schema:Life cycle
+Schema:Citizen rights
+Schema:Moral corruption
+Schema:Thinking about
+Schema:Political region
+Schema:Resource transfer
+Schema:Process
+Schema:Amassing
+Schema:Career
+Schema:Being receptive
+Schema:Blood flow
+Schema:Strict father family
+Schema:Being stable
+Schema:Awake
+Schema:Membership
+Schema:Bureaucracy
+Schema:Legitimacy
+Schema:Access to an object
+Schema:Artifact
+Schema:Enable ability to access locations
+Schema:Cycle
+Schema:Rich food
+Schema:Hiding
+Schema:Access to education
+Schema:Absorption
+Schema:Firm
+Schema:Business
+Schema:Servitude
+Schema:War
+Schema:Change of location
+Schema:Fire
+Schema:Harm
+Schema:Proximal
+Schema:Cognizing
+Schema:Benefit
+Schema:Contact
+Schema:Social class
+Schema:Narrowing width of bounded region
+Schema:Gun-rights advocacy
+Schema:Virtual path
+Schema:Criticizing
+Schema:Quality of landscape
+Schema:Birth
+Schema:Danger
+Schema:Sunken confinement
+Schema:Gun industry
+Schema:Law
+Schema:Resource container
+Schema:Employment
+Schema:Object insertion
+Schema:Gun-control advocacy
+Schema:Analysis
+Schema:Wealth
+Schema:Money
+Schema:Burden
+Schema:Taxes
+Schema:Maze
+Schema:Citizen evaluation of government
+Schema:Harm to living entity
+Schema:Crafting
+Schema:Sequence of actions
+Schema:Entity
+Schema:Discard
+Schema:Complex process
+Schema:Existence
+Schema:Moving out of an undesirable location
+Schema:Immorality
+Schema:Wealth distribution
+Schema:Motion to a destination
+Schema:Payment
+Schema:Nurturance
+Schema:Distances between locations
+Schema:Silencing
+Schema:Trust
+Schema:Group of related ideas
+Schema:Chewing
+Schema:Personal weapon
+Schema:Motion-affecting external factors
+Schema:Instrument
+Schema:Family
+Schema:Size
+Schema:Recreational competition
+Schema:Using
+Schema:Educational opportunities
+Schema:Object
+Schema:Human life cycle
+Schema:Inability to access a location
+Schema:Motion to avoid a destination
+Schema:Complex structure
+Schema:Deity
+Schema:Criminal gun violence
+Schema:Goodness
+Schema:Remove obstacles to motion
+Schema:Mode of transportation
+Schema:Forced movement
+Schema:Motion-affecting forces
+Schema:Circumstances
+Schema:Supply and demand
+Schema:Touching
+Schema:Being high on a scale
+Schema:Governing action
+Schema:Dissect
+Schema:Motion-affecting objects
+Schema:Competitive sport
+Schema:Straightness
+Schema:Reasoning
+Schema:Constitution
+Schema:Flexible object
+Schema:System
+Schema:Physical harm
+Schema:Legislation enactment
+Schema:Lack of impediment to motion
+Schema:Vehicular accident
+Schema:Access to a location
+Schema:Clear paths to accessing a location
+Schema:Cause contact
+Schema:Motion-affecting properties of the landscape
+Schema:Hunger
+Schema:Stop airflow
+Schema:Heat
+Schema:Food
+Schema:Judgment
+Schema:Attach
+Schema:Anger
+Schema:Political equality
+Schema:Measuring
+Schema:Being in a Bounded Region
+Schema:Being at a High Location
+Schema:Organization of power
+Schema:Bounded region
+Schema:Community relationship
+Schema:Possession
+Schema:Cause to see
+Schema:Activity
+Schema:Sanction
+Schema:Environmental restraints
+Schema:Legislative branch
+Schema:Impact
+Schema:Company
+Schema:Ticket
+Schema:Nation
+Schema:Relationship
+Schema:Overeating
+Schema:Financial transaction
+Schema:Burial
+Schema:Leftover Food
+Schema:Monetary evaluation
+Schema:Barrier to accessing a location
+Schema:Debating
+Schema:Geographic feature
+Schema:Motion back and forth
+Schema:Experiencing an economic status
+Schema:Evaluation
+Schema:Trespassing
+Schema:Assets
+Schema:Insurmountable differences in distance
+Schema:Magic
+Schema:Restore
+Schema:Community
+Schema:Process end
+Schema:Gardening
+Schema:Temperature
+Schema:Driving a vehicle
+Schema:Limited resource
+Schema:Change of state
+Schema:Grasp
+Schema:Difficulties in action
+Schema:Wearable disguises
+Schema:Violence
+Schema:Judicial branch
+Schema:Access to knowledge
+Schema:Zealotry
+Schema:Pest
+Schema:Democratic ideology
+Schema:Component of building
+Schema:Separation
+Schema:Rights
+Schema:Paths out of a location
+Schema:Addressing poverty
+Schema:Transfer scenario
+Schema:Gun possession
+Schema:Heating fluid
+Schema:Relation
+Schema:Natural process
+Schema:Upright posture
+Schema:Vertical position
+Schema:Being at a Low Location
+Schema:Government legitimacy
+Schema:Moving object
+Schema:Right to self-defense
+Schema:Closing a portal
+Schema:Complex physical object
+Schema:Dispersal
+Schema:Race
+Schema:Release liquid
+Schema:Tyranny
+Schema:Disease spread
+Schema:Substance
+Schema:Entrusting
+Schema:Caused Upward Motion
+Schema:Center periphery
+Schema:International Relations
+Schema:Scale
+Schema:Impurity
+Schema:Police
+Schema:Romantic relationship
+Schema:Person
+Schema:Self-initiated state change
+Schema:Force transfer
+Schema:Attacking
+Schema:Beauty
+Schema:Restaurant
+Schema:Subsidy
+Schema:Pressure
+Schema:Motion along a path
+Schema:Education
+Schema:Seafaring vehicle
+Schema:Body weight
+Schema:Pressure in a container
+Schema:Gun-rights advocacy interest group
+Schema:Body of water
+Schema:Gain possession
+Schema:Vehicle
+Schema:Social obligation
+Schema:Restore to life
+Schema:Opportunities
+Schema:Surgery
+Schema:Source path goal
+Schema:Liberal market
+Schema:Differences in distance
+Schema:Arriving
+Schema:Gun control
+Schema:Stable
+Schema:Organizational leadership
+Schema:Plants
+Schema:Killing
+Schema:Evil creature
+Schema:Legislation drafting
+Schema:Time
+Schema:Antagonistic force
+Schema:Weight
+Schema:Essence
+Schema:Economic competition
+Schema:Possession change
+Schema:Axis
+Schema:Perception
+Schema:Experiencing a state
+Schema:Work scenario
+Schema:Physical entity
+Schema:Smell
+Schema:Across
+Schema:Life
+Schema:State
+Schema:Society
+Schema:Seeing
+Schema:Possessable object
+Schema:Object propulsion
+Schema:Voting
+Schema:Process completed state
+Schema:Animal life cycle
+Schema:Institutional corruption
+Schema:Directed emotion
+Schema:Stability
+Schema:Taxation
+Schema:Mass

@@ -1,0 +1,1727 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Медиа</namespace>
+      <namespace case="first-letter" key="-1">Служебная</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Обсуждение</namespace>
+      <namespace case="first-letter" key="2">Участник</namespace>
+      <namespace case="first-letter" key="3">Обсуждение участника</namespace>
+      <namespace case="first-letter" key="4">Russian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">Файл</namespace>
+      <namespace case="first-letter" key="7">Обсуждение файла</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">Обсуждение MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Обсуждение шаблона</namespace>
+      <namespace case="first-letter" key="12">Справка</namespace>
+      <namespace case="first-letter" key="13">Обсуждение справки</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Обсуждение категории</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Обсуждение свойства</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Обсуждение формы</namespace>
+      <namespace case="first-letter" key="108">Концепция</namespace>
+      <namespace case="first-letter" key="109">Обсуждение концепции</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frame family:Схемы владения</title>
+    <ns>556</ns>
+    <id>3271</id>
+      <sha1>1f96d65wudi4ptg9jqrx0bbspwij8cs</sha1>
+    <revision>
+      <id>7598</id>
+      <timestamp>2014-04-03T12:58:34Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Possession Frames |LinkEnglish=Possession Frames }}»</comment>
+      <text bytes="81" xml:space="preserve">{{Frame family
+|Name gloss=Possession Frames
+|LinkEnglish=Possession Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы законодательства</title>
+    <ns>556</ns>
+    <id>3066</id>
+      <sha1>92qjqtouf24skkrfdtynybrqjzs8l4i</sha1>
+    <revision>
+      <id>7005</id>
+      <timestamp>2013-10-10T22:27:02Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Regulations frames |is subfamily of=Cхемы Управления |LinkEnglish=Regulations frames }}»</comment>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Regulations frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Regulations frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7428</id>
+      <timestamp>2014-02-17T10:57:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Legislation frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7429</id>
+      <timestamp>2014-02-17T10:58:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[Cхемы Устав]] в [[Схемы законодательства]]</comment>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Legislation frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7437</id>
+      <timestamp>2014-02-17T11:43:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="132" xml:space="preserve">{{Frame family
+|Name gloss=Legislation frames
+|is subfamily of=Cхемы Управления,
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Средний Класс</title>
+    <ns>556</ns>
+    <id>3077</id>
+      <sha1>5bvq1hilk694kbpy0c6s3k5mqwxpcdo</sha1>
+    <revision>
+      <id>7028</id>
+      <timestamp>2013-10-11T04:27:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=The Middle Class frames |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=The Middle Cla…»</comment>
+      <text bytes="175" xml:space="preserve">{{Frame family
+|Name gloss=The Middle Class frames
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=The Middle Class frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы силы-динамики</title>
+    <ns>556</ns>
+    <id>3163</id>
+      <sha1>rpu61d0gf76bhe7droem9sksu4zwpwn</sha1>
+    <revision>
+      <id>7372</id>
+      <timestamp>2014-01-07T08:51:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames of force dynamics |LinkEnglish=Force dynamic frames }}»</comment>
+      <text bytes="91" xml:space="preserve">{{Frame family
+|Name gloss=Frames of force dynamics
+|LinkEnglish=Force dynamic frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Бедность</title>
+    <ns>556</ns>
+    <id>3041</id>
+      <sha1>rpq99n7ngqv44tzhon3jco5ceh29jfs</sha1>
+    <revision>
+      <id>6921</id>
+      <timestamp>2013-09-28T23:16:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame poverty }}»</comment>
+      <text bytes="45" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+}}</text>
+    </revision>
+    <revision>
+      <id>6977</id>
+      <timestamp>2013-10-09T22:22:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="141" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+|is subfamily of=экономическое неравенство
+|LinkEnglish=poverty frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6979</id>
+      <timestamp>2013-10-09T23:12:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="152" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6984</id>
+      <timestamp>2013-10-10T03:24:09Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="187" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+|is subfamily of=Схемы экономическое неравенство и социальный класс
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6985</id>
+      <timestamp>2013-10-10T03:25:17Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="152" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7010</id>
+      <timestamp>2013-10-10T23:43:11Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="152" xml:space="preserve">{{Frame family
+|Name gloss=frame poverty
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы конкурса</title>
+    <ns>556</ns>
+    <id>3189</id>
+      <sha1>sopy0j1nwo8dyh8hv8v144crlqkher1</sha1>
+    <revision>
+      <id>7438</id>
+      <timestamp>2014-02-17T11:50:26Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Conflict frames |LinkEnglish=Conflict frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Conflict frames
+|LinkEnglish=Conflict frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7564</id>
+      <timestamp>2014-03-18T11:35:07Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[Cхемы конфликта]] в [[Cхемы конкурса]]</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Conflict frames
+|LinkEnglish=Conflict frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7576</id>
+      <timestamp>2014-04-03T08:20:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="83" xml:space="preserve">{{Frame family
+|Name gloss=Competition frames
+|LinkEnglish=Competition frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы причинности</title>
+    <ns>556</ns>
+    <id>3151</id>
+      <sha1>9oj6w3lrh3s5nknjsi8z2amifs4k17j</sha1>
+    <revision>
+      <id>7352</id>
+      <timestamp>2013-12-02T13:05:04Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Causation frames |LinkEnglish=Causation frames }}»</comment>
+      <text bytes="79" xml:space="preserve">{{Frame family
+|Name gloss=Causation frames
+|LinkEnglish=Causation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7664</id>
+      <timestamp>2014-05-14T11:01:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="82" xml:space="preserve">{{Frame family
+|Name gloss=Frames of_causation
+|LinkEnglish=Causation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы нравственности</title>
+    <ns>556</ns>
+    <id>3197</id>
+      <sha1>bx5w276k33zyj2q1fvbg7q9gcszrmu5</sha1>
+    <revision>
+      <id>7450</id>
+      <timestamp>2014-02-17T17:57:37Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Morality frames |LinkEnglish=Morality frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Morality frames
+|LinkEnglish=Morality frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы эмоций</title>
+    <ns>556</ns>
+    <id>786</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3484</id>
+      <timestamp>2012-08-02T03:01:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{Frame family}}"</comment>
+      <text bytes="17" xml:space="preserve">{{Frame family}}</text>
+    </revision>
+    <revision>
+      <id>7053</id>
+      <timestamp>2013-10-21T18:50:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="75" xml:space="preserve">{{Frame family
+|Name gloss=Emotion Frames
+|LinkEnglish=Emotion Frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7054</id>
+      <timestamp>2013-10-21T18:51:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[Emotion Frames]] в [[Схемы эмоций]]</comment>
+      <text bytes="75" xml:space="preserve">{{Frame family
+|Name gloss=Emotion Frames
+|LinkEnglish=Emotion Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы движения</title>
+    <ns>556</ns>
+    <id>3017</id>
+      <sha1>jwgit0qdqlxb15lq0mvrgbmcp2hibxd</sha1>
+    <revision>
+      <id>6843</id>
+      <timestamp>2013-09-10T07:47:53Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Motion Frames }}»</comment>
+      <text bytes="45" xml:space="preserve">{{Frame family
+|Name gloss=Motion Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Экономическое Неравенство</title>
+    <ns>556</ns>
+    <id>3055</id>
+      <sha1>j5pqgn1tvcopdkl0szb8x0qkru2mrdx</sha1>
+    <revision>
+      <id>6982</id>
+      <timestamp>2013-10-09T23:17:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame economic inequality |LinkEnglish=Economic Inequality frames }}»</comment>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=frame economic inequality
+|LinkEnglish=Economic Inequality frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6999</id>
+      <timestamp>2013-10-10T21:28:35Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Схемы экономическое неравенство]] в [[Схемы Экономическое Неравенство]]</comment>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=frame economic inequality
+|LinkEnglish=Economic Inequality frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7014</id>
+      <timestamp>2013-10-10T23:46:58Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=Economic Inequality frames
+|LinkEnglish=Economic Inequality frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Образование</title>
+    <ns>556</ns>
+    <id>3069</id>
+      <sha1>ep2sxqjjm2xvdfkfnxnuke3unm08zkn</sha1>
+    <revision>
+      <id>7018</id>
+      <timestamp>2013-10-11T00:01:08Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Education frames |is subfamily of=Схемы Доступ к Образованию |LinkEnglish=Education frames }}»</comment>
+      <text bytes="146" xml:space="preserve">{{Frame family
+|Name gloss=Education frames
+|is subfamily of=Схемы Доступ к Образованию
+|LinkEnglish=Education frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы правительства</title>
+    <ns>556</ns>
+    <id>3086</id>
+      <sha1>300pp6obafew0jv7wj50a3k41zgy2d2</sha1>
+    <revision>
+      <id>7052</id>
+      <timestamp>2013-10-21T18:42:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Government frames |is subfamily of=Cхемы Управления |LinkEnglish=Government frames }}»</comment>
+      <text bytes="129" xml:space="preserve">{{Frame family
+|Name gloss=Government frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Government frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Долг</title>
+    <ns>556</ns>
+    <id>3059</id>
+      <sha1>00fqkzoziguvw6kkhrmnzsm9gebkrj6</sha1>
+    <revision>
+      <id>6995</id>
+      <timestamp>2013-10-10T20:58:18Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Debt frames |is subfamily of=Схемы экономическое неравенство |LinkEnglish=Debt frames }}»</comment>
+      <text bytes="147" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Debt frames
+}}</text>
+    </revision>
+    <revision>
+      <id>6996</id>
+      <timestamp>2013-10-10T21:10:33Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="151" xml:space="preserve">{{Frame family
+|Name gloss=Debt frames
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Debt frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Социальные схемы</title>
+    <ns>556</ns>
+    <id>3175</id>
+      <sha1>lyiavxedanv0pldldjc0lii0niqt9yq</sha1>
+    <revision>
+      <id>7410</id>
+      <timestamp>2014-02-16T21:22:49Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Social frames }}»</comment>
+      <text bytes="45" xml:space="preserve">{{Frame family
+|Name gloss=Social frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Контроль над оружием</title>
+    <ns>556</ns>
+    <id>3448</id>
+      <sha1>r1psycykvsfz5yj4zjdczdbapkau0ld</sha1>
+    <revision>
+      <id>8130</id>
+      <timestamp>2014-09-23T10:02:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Control of guns family |LinkEnglish=Control of guns family }}»</comment>
+      <text bytes="89" xml:space="preserve">{{Frame family
+|Name gloss=Control of guns family
+|LinkEnglish=Control of guns family
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Управления</title>
+    <ns>556</ns>
+    <id>3080</id>
+      <sha1>7gt6j2uyh10602rxn5o7t1dg3nyjw77</sha1>
+    <revision>
+      <id>7043</id>
+      <timestamp>2013-10-17T21:17:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame governance |LinkEnglish=Governance }}»</comment>
+      <text bytes="72" xml:space="preserve">{{Frame family
+|Name gloss=frame governance
+|LinkEnglish=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>7044</id>
+      <timestamp>2013-10-17T21:33:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="80" xml:space="preserve">{{Frame family
+|Name gloss=frame governance
+|LinkEnglish=Governance frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Пространственные отношения</title>
+    <ns>556</ns>
+    <id>3225</id>
+      <sha1>hxtvyyqvi561ucwtkh82fu4egy0ebwg</sha1>
+    <revision>
+      <id>7491</id>
+      <timestamp>2014-02-18T12:04:26Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Spatial relations |is subfamily of=Образные схемы |LinkEnglish=Spatial relations }}»</comment>
+      <text bytes="124" xml:space="preserve">{{Frame family
+|Name gloss=Spatial relations
+|is subfamily of=Образные схемы
+|LinkEnglish=Spatial relations
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Закон</title>
+    <ns>556</ns>
+    <id>3064</id>
+      <sha1>1plenkanqmdqrls0pxxv96wffhf0lqk</sha1>
+    <revision>
+      <id>7002</id>
+      <timestamp>2013-10-10T22:17:32Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=The Law frames |is subfamily of=Cхемы Управления |LinkEnglish=The Law frames }}»</comment>
+      <text bytes="123" xml:space="preserve">{{Frame family
+|Name gloss=The Law frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=The Law frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы препятствия и обеспечения</title>
+    <ns>556</ns>
+    <id>3130</id>
+      <sha1>q62biz3i8rs7fx6sxusz8rwwu9th4ov</sha1>
+    <revision>
+      <id>7259</id>
+      <timestamp>2013-11-23T00:50:23Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss= Impediment and enablement frames |LinkEnglish= Impediment and enablement frames }}»</comment>
+      <text bytes="113" xml:space="preserve">{{Frame family
+|Name gloss= Impediment and enablement frames
+|LinkEnglish= Impediment and enablement frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7299</id>
+      <timestamp>2013-11-24T23:41:13Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="176" xml:space="preserve">{{Frame family
+|Name gloss=Impediment and enablement frames
+|is subfamily of=Cхемы Bлияющие на Движение
+|LinkEnglish=Impediment and enablement frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы связанные со свойством</title>
+    <ns>556</ns>
+    <id>3122</id>
+      <sha1>oo5eoad90aqsfyvxwjofjz370264id3</sha1>
+    <revision>
+      <id>7144</id>
+      <timestamp>2013-11-16T23:54:46Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames related with property |LinkEnglish=Property-related frames }}»</comment>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=Frames related with property
+|LinkEnglish=Property-related frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Экономические схемы</title>
+    <ns>556</ns>
+    <id>3190</id>
+      <sha1>oxqjg5wz3b70werco8a0j2qpz79qsuk</sha1>
+    <revision>
+      <id>7440</id>
+      <timestamp>2014-02-17T12:31:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Economic Frames |LinkEnglish=Economic Frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Economic Frames
+|LinkEnglish=Economic Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Демократии</title>
+    <ns>556</ns>
+    <id>3250</id>
+      <sha1>cvervsd3kemjn1g4pmdde2zkimw5qc3</sha1>
+    <revision>
+      <id>7550</id>
+      <timestamp>2014-03-12T06:24:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames of Democracy |LinkEnglish=Democracy frames }}»</comment>
+      <text bytes="82" xml:space="preserve">{{Frame family
+|Name gloss=Frames of Democracy
+|LinkEnglish=Democracy frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Социальный Класс</title>
+    <ns>556</ns>
+    <id>3075</id>
+      <sha1>5zz5ycmuwcthcnayzxih25a5o3s588k</sha1>
+    <revision>
+      <id>7026</id>
+      <timestamp>2013-10-11T04:19:01Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Social Class frames |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=Social Class schem…»</comment>
+      <text bytes="167" xml:space="preserve">{{Frame family
+|Name gloss=Social Class frames
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=Social Class frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы шкалы</title>
+    <ns>556</ns>
+    <id>3121</id>
+      <sha1>hz7lplvkppe8c0jgpwrnreqgmhz0v42</sha1>
+    <revision>
+      <id>7142</id>
+      <timestamp>2013-11-16T23:53:31Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Scale Frames }}»</comment>
+      <text bytes="44" xml:space="preserve">{{Frame family
+|Name gloss=Scale Frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7330</id>
+      <timestamp>2013-12-02T08:31:12Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="115" xml:space="preserve">{{Frame family
+|Name gloss=Scale Frames
+|is subfamily of=Схемы связанные со свойством
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Богатые</title>
+    <ns>556</ns>
+    <id>3073</id>
+      <sha1>58ellc1trbllxwaga7bpwaxr54qznst</sha1>
+    <revision>
+      <id>7024</id>
+      <timestamp>2013-10-11T01:44:36Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=The Rich frames |is subfamily of=Схемы Богатство и Социальный Класс |LinkEnglish=The Rich frames }}»</comment>
+      <text bytes="159" xml:space="preserve">{{Frame family
+|Name gloss=The Rich frames
+|is subfamily of=Схемы Богатство и Социальный Класс
+|LinkEnglish=The Rich frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы сущности</title>
+    <ns>556</ns>
+    <id>876</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3814</id>
+      <timestamp>2012-09-05T21:04:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "{{Frame family}}"</comment>
+      <text bytes="17" xml:space="preserve">{{Frame family}}</text>
+    </revision>
+    <revision>
+      <id>7008</id>
+      <timestamp>2013-10-10T23:33:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Entity frames]] в [[Entity]] без оставления перенаправления</comment>
+      <text bytes="17" xml:space="preserve">{{Frame family}}</text>
+    </revision>
+    <revision>
+      <id>7009</id>
+      <timestamp>2013-10-10T23:34:39Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Entity]] в [[Entity Frames]] без оставления перенаправления</comment>
+      <text bytes="17" xml:space="preserve">{{Frame family}}</text>
+    </revision>
+    <revision>
+      <id>7060</id>
+      <timestamp>2013-10-21T19:09:43Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[Entity Frames]] в [[Cхемы сущности]]</comment>
+      <text bytes="17" xml:space="preserve">{{Frame family}}</text>
+    </revision>
+    <revision>
+      <id>7062</id>
+      <timestamp>2013-10-21T19:10:24Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="73" xml:space="preserve">{{Frame family
+|Name gloss=Entity frames
+|LinkEnglish=Entity frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Налогообложение</title>
+    <ns>556</ns>
+    <id>3040</id>
+      <sha1>nsrizr4cb1ai1c90f2yvau9azk58t0t</sha1>
+    <revision>
+      <id>6920</id>
+      <timestamp>2013-09-28T23:14:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame taxation }}»</comment>
+      <text bytes="46" xml:space="preserve">{{Frame family
+|Name gloss=frame taxation
+}}</text>
+    </revision>
+    <revision>
+      <id>6993</id>
+      <timestamp>2013-10-10T20:33:48Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="154" xml:space="preserve">{{Frame family
+|Name gloss=frame taxation
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Taxation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7013</id>
+      <timestamp>2013-10-10T23:44:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="154" xml:space="preserve">{{Frame family
+|Name gloss=frame taxation
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Taxation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы лидеров</title>
+    <ns>556</ns>
+    <id>3089</id>
+      <sha1>3abts0trrwqljahzs4fhsx6bramcerq</sha1>
+    <revision>
+      <id>7057</id>
+      <timestamp>2013-10-21T19:02:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Leaders frames |is subfamily of=Cхемы Управления |LinkEnglish=Leaders frames }}»</comment>
+      <text bytes="123" xml:space="preserve">{{Frame family
+|Name gloss=Leaders frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Leaders frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Вред живому существу</title>
+    <ns>556</ns>
+    <id>3110</id>
+      <sha1>e870cmmjibcavrcmdkz3yppwiv41go6</sha1>
+    <revision>
+      <id>7114</id>
+      <timestamp>2013-11-16T22:29:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Harm to_living entity |is subfamily of=Вред |LinkEnglish=Harm to living entity }}»</comment>
+      <text bytes="113" xml:space="preserve">{{Frame family
+|Name gloss=Harm to_living entity
+|is subfamily of=Вред
+|LinkEnglish=Harm to living entity
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы бюрократии</title>
+    <ns>556</ns>
+    <id>3082</id>
+      <sha1>5v76kj5q2gi5q9am6z5pwyjja426hm1</sha1>
+    <revision>
+      <id>7047</id>
+      <timestamp>2013-10-21T18:24:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Bureaucracy frames |is subfamily of=Cхемы Управления |LinkEnglish=Bureaucracy frames }}»</comment>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Bureaucracy frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Bureaucracy frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы связанные с состоянием (State-related frames)</title>
+    <ns>556</ns>
+    <id>2728</id>
+      <sha1>q4diyp0cr9qh8d1k67kfwloc02t1m63</sha1>
+    <revision>
+      <id>6323</id>
+      <timestamp>2013-04-30T15:05:20Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=State-related frames |is subfamily of=Схемы связанные со свойством (Property-related frames) }}»</comment>
+      <text bytes="150" xml:space="preserve">{{Frame family
+|Name gloss=State-related frames
+|is subfamily of=Схемы связанные со свойством (Property-related frames)
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы оценки</title>
+    <ns>556</ns>
+    <id>3183</id>
+      <sha1>expw6j8s47cjusik75104yp6ti5sz5o</sha1>
+    <revision>
+      <id>7421</id>
+      <timestamp>2014-02-17T10:45:41Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Evaluation Frames }}»</comment>
+      <text bytes="49" xml:space="preserve">{{Frame family
+|Name gloss=Evaluation Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы политики</title>
+    <ns>556</ns>
+    <id>3085</id>
+      <sha1>4sa497s2tfighonbpr82re3yh7urj55</sha1>
+    <revision>
+      <id>7050</id>
+      <timestamp>2013-10-21T18:34:14Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Politics frames |is subfamily of=Cхемы Управления |LinkEnglish=Politics frames }}»</comment>
+      <text bytes="125" xml:space="preserve">{{Frame family
+|Name gloss=Politics frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Politics frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы регулирования</title>
+    <ns>556</ns>
+    <id>3091</id>
+      <sha1>92qjqtouf24skkrfdtynybrqjzs8l4i</sha1>
+    <revision>
+      <id>7059</id>
+      <timestamp>2013-10-21T19:06:55Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Regulations frames |is subfamily of=Cхемы Управления |LinkEnglish=Regulations frames }}»</comment>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Regulations frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Regulations frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы коммуникации</title>
+    <ns>556</ns>
+    <id>3157</id>
+      <sha1>goyoo2ut2vtmbcidn1dwhopi7vff650</sha1>
+    <revision>
+      <id>7358</id>
+      <timestamp>2013-12-02T13:27:47Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Communication Frames |LinkEnglish=Communication Frames }}»</comment>
+      <text bytes="87" xml:space="preserve">{{Frame family
+|Name gloss=Communication Frames
+|LinkEnglish=Communication Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы структуры события</title>
+    <ns>556</ns>
+    <id>3125</id>
+      <sha1>b4s0esjgcsmy8o0ghajrvdxhxzhxw26</sha1>
+    <revision>
+      <id>7156</id>
+      <timestamp>2013-11-17T00:18:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Event Structure frames |LinkEnglish=Event Structure frames }}»</comment>
+      <text bytes="91" xml:space="preserve">{{Frame family
+|Name gloss=Event Structure frames
+|LinkEnglish=Event Structure frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы действий</title>
+    <ns>556</ns>
+    <id>3146</id>
+      <sha1>2mar1w3iztoe7ktnjod8vg56n5lij62</sha1>
+    <revision>
+      <id>7341</id>
+      <timestamp>2013-12-02T09:32:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Action frames |LinkEnglish=Action frames }}»</comment>
+      <text bytes="73" xml:space="preserve">{{Frame family
+|Name gloss=Action frames
+|LinkEnglish=Action frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Образные схемы</title>
+    <ns>556</ns>
+    <id>3224</id>
+      <sha1>h7nkn8oufpm3mpjk049m14l14gx9h6n</sha1>
+    <revision>
+      <id>7489</id>
+      <timestamp>2014-02-18T11:59:34Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Image Frames |LinkEnglish=Image Frames }}»</comment>
+      <text bytes="71" xml:space="preserve">{{Frame family
+|Name gloss=Image Frames
+|LinkEnglish=Image Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы еды</title>
+    <ns>556</ns>
+    <id>3262</id>
+      <sha1>1q8z0l733ftocw44zjbqbrtk1u0nesg</sha1>
+    <revision>
+      <id>7578</id>
+      <timestamp>2014-04-03T08:35:03Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Eating Frames |LinkEnglish=Eating Frames }}»</comment>
+      <text bytes="73" xml:space="preserve">{{Frame family
+|Name gloss=Eating Frames
+|LinkEnglish=Eating Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Доступ к Образованию</title>
+    <ns>556</ns>
+    <id>3044</id>
+      <sha1>8mhpj9nxdsgq9fuqb3tqnzh1o6etdiw</sha1>
+    <revision>
+      <id>6925</id>
+      <timestamp>2013-09-28T23:32:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame access to education }}»</comment>
+      <text bytes="57" xml:space="preserve">{{Frame family
+|Name gloss=frame access to education
+}}</text>
+    </revision>
+    <revision>
+      <id>6983</id>
+      <timestamp>2013-10-10T01:58:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="176" xml:space="preserve">{{Frame family
+|Name gloss=frame access to education
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Access to Education frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7012</id>
+      <timestamp>2013-10-10T23:44:06Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="176" xml:space="preserve">{{Frame family
+|Name gloss=frame access to education
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Access to Education frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7016</id>
+      <timestamp>2013-10-10T23:49:35Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Схемы Доступ к образованию]] в [[Схемы Доступ к Образованию]] без оставления перенаправления</comment>
+      <text bytes="176" xml:space="preserve">{{Frame family
+|Name gloss=frame access to education
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Access to Education frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы функции правительства</title>
+    <ns>556</ns>
+    <id>3169</id>
+      <sha1>fo53az33hp5pqvuuuxkj6jervh0vlld</sha1>
+    <revision>
+      <id>7400</id>
+      <timestamp>2014-02-14T20:35:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames Function of_Government |is subfamily of=Cхемы правительства |LinkEnglish=Function of Government frames }}»</comment>
+      <text bytes="159" xml:space="preserve">{{Frame family
+|Name gloss=Frames Function of_Government
+|is subfamily of=Cхемы правительства
+|LinkEnglish=Function of Government frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7401</id>
+      <timestamp>2014-02-14T20:36:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text bytes="153" xml:space="preserve">{{Frame family
+|Name gloss=Frames Function of_Government
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Function of Government frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Выборы</title>
+    <ns>556</ns>
+    <id>3251</id>
+      <sha1>f6gxce2cm6psa3kzec4pfsjeqx03h0m</sha1>
+    <revision>
+      <id>7552</id>
+      <timestamp>2014-03-12T07:28:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frame Elections |is subfamily of=Схемы Демократии |LinkEnglish=Elction frame }}»</comment>
+      <text bytes="124" xml:space="preserve">{{Frame family
+|Name gloss=Frame Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Elction frame
+}}</text>
+    </revision>
+    <revision>
+      <id>7553</id>
+      <timestamp>2014-03-12T07:28:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="125" xml:space="preserve">{{Frame family
+|Name gloss=Frame Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Election frame
+}}</text>
+    </revision>
+    <revision>
+      <id>7560</id>
+      <timestamp>2014-03-13T05:08:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="126" xml:space="preserve">{{Frame family
+|Name gloss=Frame Elections
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Election frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы болезни</title>
+    <ns>556</ns>
+    <id>3532</id>
+      <sha1>4s831dblk4qa4waws0aj24vxyuawdbk</sha1>
+    <revision>
+      <id>8362</id>
+      <timestamp>2014-12-13T05:49:37Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames of disease |LinkEnglish=Disease frame }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Frames of disease
+|LinkEnglish=Disease frame
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Богатство и Социальный Класс</title>
+    <ns>556</ns>
+    <id>3042</id>
+      <sha1>2ot1x4hi9ir8wmrlygzg7amj5u1ur6e</sha1>
+    <revision>
+      <id>6923</id>
+      <timestamp>2013-09-28T23:28:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame wealth }}»</comment>
+      <text bytes="44" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth
+}}</text>
+    </revision>
+    <revision>
+      <id>6978</id>
+      <timestamp>2013-10-09T22:52:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="111" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth
+|is subfamily of=экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6981</id>
+      <timestamp>2013-10-09T23:17:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="122" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth
+|is subfamily of=Схемы экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6986</id>
+      <timestamp>2013-10-10T03:47:26Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Схемы Богатство]] в [[Схемы Богатство и социальный класс]]</comment>
+      <text bytes="122" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth
+|is subfamily of=Схемы экономическое неравенство
+}}</text>
+    </revision>
+    <revision>
+      <id>6988</id>
+      <timestamp>2013-10-10T08:10:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="184" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth and social class
+|is subfamily of=Схемы экономическое неравенство
+|LinkEnglish=Wealth and Social Class frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7011</id>
+      <timestamp>2013-10-10T23:43:40Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="184" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth and social class
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Wealth and Social Class frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7015</id>
+      <timestamp>2013-10-10T23:48:53Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <minor />
+      <comment>PatriciaL переименовал страницу [[Схемы Богатство и социальный класс]] в [[Схемы Богатство и Социальный Класс]] без оставления перенаправления</comment>
+      <text bytes="184" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth and social class
+|is subfamily of=Схемы Экономическое Неравенство
+|LinkEnglish=Wealth and Social Class frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы демократических учреждений</title>
+    <ns>556</ns>
+    <id>3280</id>
+      <sha1>anyt67htw9bjlxfgc1fkjp4ptka8ekw</sha1>
+    <revision>
+      <id>7624</id>
+      <timestamp>2014-05-12T04:59:01Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames of democratic institutions |is subfamily of=Схемы Демократии |LinkEnglish=Democratic institutions frames }}»</comment>
+      <text bytes="159" xml:space="preserve">{{Frame family
+|Name gloss=Frames of democratic institutions
+|is subfamily of=Схемы Демократии
+|LinkEnglish=Democratic institutions frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы связанные со состоянием</title>
+    <ns>556</ns>
+    <id>3282</id>
+      <sha1>ct0grxraafspw23n2z02adf5nrxwcjc</sha1>
+    <revision>
+      <id>7645</id>
+      <timestamp>2014-05-13T21:21:37Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Frames related to state |is subfamily of=Схемы связанные со свойством |LinkEnglish=State-related frames }}»</comment>
+      <text bytes="161" xml:space="preserve">{{Frame family
+|Name gloss=Frames related to state
+|is subfamily of=Схемы связанные со свойством
+|LinkEnglish=State-related frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы отвращения</title>
+    <ns>556</ns>
+    <id>3272</id>
+      <sha1>p973fdwni7cs7po9mq0g96gm4jju8n0</sha1>
+    <revision>
+      <id>7600</id>
+      <timestamp>2014-04-03T13:11:04Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Aversion frames |LinkEnglish=Aversion frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Aversion frames
+|LinkEnglish=Aversion frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы местонахождения</title>
+    <ns>556</ns>
+    <id>3159</id>
+      <sha1>4nib8m4amp27uf5a2nvkpumapnvq8xs</sha1>
+    <revision>
+      <id>7361</id>
+      <timestamp>2013-12-03T14:30:31Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Location frames |LinkEnglish=Location frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Location frames
+|LinkEnglish=Location frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Исключенные схемы</title>
+    <ns>556</ns>
+    <id>3385</id>
+      <sha1>dh35t0837jfqekbk2w1y52iimwnqnrm</sha1>
+    <revision>
+      <id>7859</id>
+      <timestamp>2014-06-08T23:04:03Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Excluded frames |LinkEnglish=Excluded frames |LinkPersian=طرح های بلا استفاده }} This is a temporary frame family d…»</comment>
+      <text bytes="203" xml:space="preserve">{{Frame family
+|Name gloss=Excluded frames
+|LinkEnglish=Excluded frames
+|LinkPersian=طرح های بلا استفاده
+}}
+This is a temporary frame family defined to aid June 2014 extraction tests.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Богатство</title>
+    <ns>556</ns>
+    <id>3057</id>
+      <sha1>20704v80pqbzfq7voyljxdi5lajsicl</sha1>
+    <revision>
+      <id>6989</id>
+      <timestamp>2013-10-10T08:12:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=frame wealth |is subfamily of=Схемы Богатство и социальный класс |LinkEnglish=Wealth frames }}»</comment>
+      <text bytes="154" xml:space="preserve">{{Frame family
+|Name gloss=frame wealth
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Wealth frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Деньги</title>
+    <ns>556</ns>
+    <id>3061</id>
+      <sha1>9gtuztmbmkt6izim2rn1xusx29cc467</sha1>
+    <revision>
+      <id>6998</id>
+      <timestamp>2013-10-10T21:24:25Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Money frames |is subfamily of=Схемы Богатство и социальный класс |LinkEnglish=Money frames }}»</comment>
+      <text bytes="153" xml:space="preserve">{{Frame family
+|Name gloss=Money frames
+|is subfamily of=Схемы Богатство и социальный класс
+|LinkEnglish=Money frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cхемы Bлияющие на Движение</title>
+    <ns>556</ns>
+    <id>3134</id>
+      <sha1>0gatktwd336cxu00bpwy2q6j2qybi5g</sha1>
+    <revision>
+      <id>7294</id>
+      <timestamp>2013-11-24T22:11:18Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Motion-Affecting Frames |is subfamily of=Cхемы движения }}»</comment>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=Motion-Affecting Frames
+|is subfamily of=Cхемы движения
+}}</text>
+    </revision>
+    <revision>
+      <id>7295</id>
+      <timestamp>2013-11-24T22:35:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="146" xml:space="preserve">{{Frame family
+|Name gloss=Motion-Affecting Frames
+|is subfamily of=Cхемы движения
+|LinkEnglish=Impediment and enablement frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7298</id>
+      <timestamp>2013-11-24T23:41:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="137" xml:space="preserve">{{Frame family
+|Name gloss=Motion-Affecting Frames
+|is subfamily of=Cхемы движения
+|LinkEnglish=Motion-affecting frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы Налог</title>
+    <ns>556</ns>
+    <id>3071</id>
+      <sha1>sncxes1ejij7o8o1kboaj0pk53zjx4c</sha1>
+    <revision>
+      <id>7021</id>
+      <timestamp>2013-10-11T01:33:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Tax |is subfamily of=Схемы Налогообложение |LinkEnglish=Taxes frames }}»</comment>
+      <text bytes="120" xml:space="preserve">{{Frame family
+|Name gloss=Tax
+|is subfamily of=Схемы Налогообложение
+|LinkEnglish=Taxes frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Вред</title>
+    <ns>556</ns>
+    <id>3109</id>
+      <sha1>hkujf0m7k624v6hyx5hg5sq7olsaxvp</sha1>
+    <revision>
+      <id>7113</id>
+      <timestamp>2013-11-16T22:27:54Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Harm |LinkEnglish=Harm }}»</comment>
+      <text bytes="53" xml:space="preserve">{{Frame family
+|Name gloss=Harm
+|LinkEnglish=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы ресурсов</title>
+    <ns>556</ns>
+    <id>3273</id>
+      <sha1>5jj1kdocr4cg31kl3nkb2r0l9thot6p</sha1>
+    <revision>
+      <id>7602</id>
+      <timestamp>2014-04-03T13:27:41Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Resource Frames |LinkEnglish=Resource Frames }}»</comment>
+      <text bytes="77" xml:space="preserve">{{Frame family
+|Name gloss=Resource Frames
+|LinkEnglish=Resource Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы физического конфликта</title>
+    <ns>556</ns>
+    <id>3260</id>
+      <sha1>so9j93k8zbbm2sgwu0skidzrfwtd5vq</sha1>
+    <revision>
+      <id>7566</id>
+      <timestamp>2014-03-18T11:36:24Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Physical conflict frames |LinkEnglish=Physical conflict frames }}»</comment>
+      <text bytes="95" xml:space="preserve">{{Frame family
+|Name gloss=Physical conflict frames
+|LinkEnglish=Physical conflict frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы познания</title>
+    <ns>556</ns>
+    <id>3153</id>
+      <sha1>ptue1l58hv4d91kxjz9fpotci3ip3kz</sha1>
+    <revision>
+      <id>7354</id>
+      <timestamp>2013-12-02T13:13:48Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Cognition Frames |LinkEnglish=Cognition Frames }}»</comment>
+      <text bytes="79" xml:space="preserve">{{Frame family
+|Name gloss=Cognition Frames
+|LinkEnglish=Cognition Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы восприятия</title>
+    <ns>556</ns>
+    <id>3165</id>
+      <sha1>o22es06oy0e0lwi4ndw4wej01204pno</sha1>
+    <revision>
+      <id>7381</id>
+      <timestamp>2014-01-23T07:50:30Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Perception frames |LinkEnglish=Perception frames }}»</comment>
+      <text bytes="81" xml:space="preserve">{{Frame family
+|Name gloss=Perception frames
+|LinkEnglish=Perception frames
+}}</text>
+    </revision>
+    <revision>
+      <id>7572</id>
+      <timestamp>2014-04-03T08:12:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor />
+      <comment>Kristina Despot переименовал страницу [[Схемы восприятие]] в [[Схемы восприятия]]</comment>
+      <text bytes="81" xml:space="preserve">{{Frame family
+|Name gloss=Perception frames
+|LinkEnglish=Perception frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Схемы политиков</title>
+    <ns>556</ns>
+    <id>3084</id>
+      <sha1>rku2fzcvv628yi5v0p8bx9zyqqd00z5</sha1>
+    <revision>
+      <id>7049</id>
+      <timestamp>2013-10-21T18:33:15Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Frame family |Name gloss=Politicians frames |is subfamily of=Cхемы Управления |LinkEnglish=Politicians frames }}»</comment>
+      <text bytes="131" xml:space="preserve">{{Frame family
+|Name gloss=Politicians frames
+|is subfamily of=Cхемы Управления
+|LinkEnglish=Politicians frames
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

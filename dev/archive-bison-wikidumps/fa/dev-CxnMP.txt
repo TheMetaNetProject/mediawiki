@@ -1,0 +1,3 @@
+CxnMP:S-verb T-dobj
+CxnMP:S-noun ezafe T-noun
+CxnMP:T-subj S-verb

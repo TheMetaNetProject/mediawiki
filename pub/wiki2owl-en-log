@@ -1,0 +1,52 @@
+Aug 29, 2017 7:27:08 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Frame:Government_institution_US
+Aug 29, 2017 7:27:08 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Frame:Competitive_sport
+Aug 29, 2017 7:27:08 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Frame:Motion_away_from_a_bounded_region
+Aug 29, 2017 7:27:08 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: one or both bound roles are null for binding in Frame:Relationship
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:ADDRESSING_SOCIAL_PROBLEMS_IS_WAGING_WAR
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:GREED_IS_HUNGER
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER_IS_A_POSSESSED_OBJECT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER_IS_A_POSSESSED_OBJECT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER_IS_A_POSSESSED_OBJECT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POWER_IS_A_POSSESSED_OBJECT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POSITIVITY_IS_VERTICALITY
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:POSITIVITY_IS_VERTICALITY
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:EVENTS_ARE_OBJECTS
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:SAD_IS_DOWN
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:LAWS_ARE_PLANTS
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:LAWS_ARE_PLANTS
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: source/target roles are null for mapping in Metaphor:MORAL_CORRUPTION_IS_A_DESTRUCTIVE_FORCE
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: source/target roles are null for mapping in Metaphor:MORAL_CORRUPTION_IS_A_DESTRUCTIVE_FORCE
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:CONSUMING_RESOURCES_IS_EATING
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:NOW_IS_HERE
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:NOW_IS_HERE
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:HAPPY_IS_UP
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:CHANGE_IN_MOOD_IS_VERTICAL_MOVEMENT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:CHANGE_IN_MOOD_IS_VERTICAL_MOVEMENT
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:LAWS_ARE_PHYSICAL_STRUCTURES
+Aug 29, 2017 7:27:09 AM edu.berkeley.icsi.metanet.wiki2owl.WikiTemplateParser parseSubtemplate
+SEVERE: Error: skipping null inferences/entailments on Metaphor:RELATEDNESS_IS_PROXIMITY

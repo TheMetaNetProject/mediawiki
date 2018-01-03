@@ -1,0 +1,3297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="fa">
+  <siteinfo>
+    <sitename>Persian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/fa/index.php/Metaphor_Wiki_(Persian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">مدیا</namespace>
+      <namespace case="first-letter" key="-1">ویژه</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">بحث</namespace>
+      <namespace case="first-letter" key="2">کاربر</namespace>
+      <namespace case="first-letter" key="3">بحث کاربر</namespace>
+      <namespace case="first-letter" key="4">Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">بحث Persian Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="6">پرونده</namespace>
+      <namespace case="first-letter" key="7">بحث پرونده</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">بحث MediaWiki</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">بحث Template</namespace>
+      <namespace case="first-letter" key="12">راهنما</namespace>
+      <namespace case="first-letter" key="13">بحث راهنما</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">بحث Category</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">بحث Form</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Property:Binding</title>
+    <ns>102</ns>
+    <id>213</id>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+    <revision>
+      <id>1134</id>
+      <timestamp>2012-05-02T23:35:01Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Boolean]]."</comment>
+      <text bytes="49" xml:space="preserve">This is a property of type [[Has type::Boolean]].</text>
+    </revision>
+    <revision>
+      <id>1843</id>
+      <timestamp>2012-06-28T20:33:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>1844</id>
+      <timestamp>2012-06-28T21:08:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="84" xml:space="preserve">This is a property of type [[Has type::Record]].
+[[Has fields::BoundRoles; Comment]]</text>
+    </revision>
+    <revision>
+      <id>1910</id>
+      <timestamp>2012-06-29T22:39:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>1911</id>
+      <timestamp>2012-06-29T22:59:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="130" xml:space="preserve">This is a property of type [[Has type::Record]].
+This record has the following fields: [[Has fields::Role.Name;Role.Name;Comment]]</text>
+    </revision>
+    <revision>
+      <id>1916</id>
+      <timestamp>2012-06-29T23:24:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="122" xml:space="preserve">This is a property of type [[Has type::Record]].
+This record has the following fields: [[Has fields::Role1;Role2;Comment]]</text>
+    </revision>
+    <revision>
+      <id>1918</id>
+      <timestamp>2012-06-29T23:25:16Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="138" xml:space="preserve">This is a property of type [[Has type::Record]].
+This record has the following fields: [[Has fields::Binding.Role1;Binding.Role2;Comment]]</text>
+    </revision>
+    <revision>
+      <id>2013</id>
+      <timestamp>2012-07-05T22:33:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="140" xml:space="preserve">This is a property of type [[Has type::Record]].
+This record has the following fields: [[Has fields::Binding.Local role;Binding.Bound role]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Binding.Bound role</title>
+    <ns>102</ns>
+    <id>432</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2015</id>
+      <timestamp>2012-07-05T22:34:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Binding.Local role</title>
+    <ns>102</ns>
+    <id>431</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2014</id>
+      <timestamp>2012-07-05T22:34:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Corresponds to English</title>
+    <ns>102</ns>
+    <id>1455</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5653</id>
+      <timestamp>2013-10-08T23:40:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Corresponds to Persian</title>
+    <ns>102</ns>
+    <id>1457</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5655</id>
+      <timestamp>2013-10-08T23:41:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Corresponds to Russian</title>
+    <ns>102</ns>
+    <id>1458</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5656</id>
+      <timestamp>2013-10-08T23:40:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Corresponds to Spanish</title>
+    <ns>102</ns>
+    <id>1456</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5654</id>
+      <timestamp>2013-10-08T23:40:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Alias</title>
+    <ns>102</ns>
+    <id>2175</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8845</id>
+      <timestamp>2012-07-17T00:52:06Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Property:Definitions.Alias]] to [[Property:Definition.Alias]]</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Applies to</title>
+    <ns>102</ns>
+    <id>2176</id>
+      <sha1>opjqppgqvsixjtsuybk1dgwjb98mvub</sha1>
+    <revision>
+      <id>8846</id>
+      <timestamp>2012-07-24T03:41:26Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text bytes="185" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Metaphor &amp; Frame]]
+* [[Allows value::Metaphor]]
+* [[Allows value::Frame]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Description</title>
+    <ns>102</ns>
+    <id>2177</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>8847</id>
+      <timestamp>2012-07-17T00:51:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Entry</title>
+    <ns>102</ns>
+    <id>2178</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8848</id>
+      <timestamp>2012-07-17T01:11:30Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Notation</title>
+    <ns>102</ns>
+    <id>2179</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8849</id>
+      <timestamp>2012-07-17T22:55:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Glossary.Utility</title>
+    <ns>102</ns>
+    <id>2180</id>
+      <sha1>sq4t8uk5u14nz1pu4uxdudqn1u4bkve</sha1>
+    <revision>
+      <id>8850</id>
+      <timestamp>2012-07-16T20:16:21Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::General Theory]] * [[Allows value::Wiki]]"</comment>
+      <text bytes="151" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::General Theory]]
+* [[Allows value::Wiki]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entailment</title>
+    <ns>102</ns>
+    <id>458</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>2106</id>
+      <timestamp>2012-07-06T21:16:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>2107</id>
+      <timestamp>2012-07-06T21:17:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="185" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Entailment.Target entailment;Entailment.Source inference;Entailment.Type;Entailment.Entailed metaphors]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entailment.Entailed metaphors</title>
+    <ns>102</ns>
+    <id>462</id>
+      <sha1>oxe39dkpe7y27eff8vfq94y5ua16dbz</sha1>
+    <revision>
+      <id>2111</id>
+      <timestamp>2012-07-06T21:18:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::List of Page]]"</comment>
+      <text bytes="53" xml:space="preserve">This is a property of type [[Has type::List of Page]]</text>
+    </revision>
+    <revision>
+      <id>2112</id>
+      <timestamp>2012-07-06T21:18:51Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="45" xml:space="preserve">This is a property of type [[Has type::Page]]</text>
+    </revision>
+    <revision>
+      <id>2187</id>
+      <timestamp>2012-07-08T07:28:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="138" xml:space="preserve">This is a property of type [[Has type::Page]]
+Objects of this property are edited by default using the form [[Has default form::Metaphor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entailment.Source inference</title>
+    <ns>102</ns>
+    <id>460</id>
+      <sha1>eql2km7inp3t1fj4wyjox20oiafeejw</sha1>
+    <revision>
+      <id>2109</id>
+      <timestamp>2012-07-06T21:18:14Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]"</comment>
+      <text bytes="47" xml:space="preserve">This is a property of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entailment.Target entailment</title>
+    <ns>102</ns>
+    <id>459</id>
+      <sha1>eql2km7inp3t1fj4wyjox20oiafeejw</sha1>
+    <revision>
+      <id>2108</id>
+      <timestamp>2012-07-06T21:18:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]"</comment>
+      <text bytes="47" xml:space="preserve">This is a property of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entailment.Type</title>
+    <ns>102</ns>
+    <id>461</id>
+      <sha1>eql2km7inp3t1fj4wyjox20oiafeejw</sha1>
+    <revision>
+      <id>2110</id>
+      <timestamp>2012-07-06T21:18:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]"</comment>
+      <text bytes="47" xml:space="preserve">This is a property of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Entered by</title>
+    <ns>102</ns>
+    <id>234</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>1304</id>
+      <timestamp>2012-05-22T17:37:16Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example</title>
+    <ns>102</ns>
+    <id>379</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>1822</id>
+      <timestamp>2012-06-26T00:16:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>2113</id>
+      <timestamp>2012-07-06T21:22:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="195" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Example.Text;Example.Language;Example.English translation;Example.Provenance;Example.Annotation;Example.Comments]]</text>
+    </revision>
+    <revision>
+      <id>3570</id>
+      <timestamp>2012-08-08T22:34:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="209" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Example.Language;Example.Text;Example.Gloss;Example.English translation;Example.Provenance;Example.Annotation;Example.Comments]]</text>
+    </revision>
+    <revision>
+      <id>8669</id>
+      <timestamp>2014-10-10T20:17:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="231" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Example.Language;Example.Text;Example.Gloss;Example.English translation;Example.Provenance;Example.Annotation;Example.Comments;Example.Transcription]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Annotation</title>
+    <ns>102</ns>
+    <id>467</id>
+      <sha1>4o8xuyhxkjhrrjmfmbqfc5pcd7g9ti6</sha1>
+    <revision>
+      <id>2118</id>
+      <timestamp>2012-07-06T21:24:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::Text]]"</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+    <revision>
+      <id>2119</id>
+      <timestamp>2012-07-06T21:24:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+    <revision>
+      <id>3666</id>
+      <timestamp>2012-09-27T21:08:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+    <revision>
+      <id>3667</id>
+      <timestamp>2012-09-27T22:36:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Comments</title>
+    <ns>102</ns>
+    <id>468</id>
+      <sha1>4o8xuyhxkjhrrjmfmbqfc5pcd7g9ti6</sha1>
+    <revision>
+      <id>2120</id>
+      <timestamp>2012-07-06T21:24:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::Text]]"</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.English translation</title>
+    <ns>102</ns>
+    <id>465</id>
+      <sha1>4o8xuyhxkjhrrjmfmbqfc5pcd7g9ti6</sha1>
+    <revision>
+      <id>2116</id>
+      <timestamp>2012-07-06T21:23:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::Text]]"</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Gloss</title>
+    <ns>102</ns>
+    <id>798</id>
+      <sha1>sidzkv4mt3tcd6rezqemnqccehmy4qj</sha1>
+    <revision>
+      <id>3572</id>
+      <timestamp>2012-08-08T22:35:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[has type::String]].</text>
+    </revision>
+    <revision>
+      <id>3574</id>
+      <timestamp>2012-08-08T22:38:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Language</title>
+    <ns>102</ns>
+    <id>464</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2115</id>
+      <timestamp>2012-07-06T21:23:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>2121</id>
+      <timestamp>2012-07-06T21:25:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="172" xml:space="preserve">This is a property of type [[Has type::String]].
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>3032</id>
+      <timestamp>2012-07-25T23:42:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="174" xml:space="preserve">This is a property of type [[Has type::String]].
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Persian]].</text>
+    </revision>
+    <revision>
+      <id>3036</id>
+      <timestamp>2012-07-25T23:47:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="183" xml:space="preserve">This is a property of type [[Has type::String]].
+It allows the values:
+* [[Allows value::English]]
+* [[Allows value::Persian]].
+* [[Allows value::Russian]]
+* [[Allows value::Spanish]]</text>
+    </revision>
+    <revision>
+      <id>3039</id>
+      <timestamp>2012-07-25T23:47:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="182" xml:space="preserve">This is a property of type [[Has type::String]].
+It allows the values:
+* [[Allows value::English]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]
+* [[Allows value::Spanish]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Provenance</title>
+    <ns>102</ns>
+    <id>466</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2117</id>
+      <timestamp>2012-07-06T21:24:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Text</title>
+    <ns>102</ns>
+    <id>463</id>
+      <sha1>q71jhp9mx8q29i78wpqm8au4f64eypy</sha1>
+    <revision>
+      <id>2114</id>
+      <timestamp>2012-07-06T21:23:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]"</comment>
+      <text bytes="45" xml:space="preserve">This is a property of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Example.Transcription</title>
+    <ns>102</ns>
+    <id>2109</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>8670</id>
+      <timestamp>2014-10-10T20:18:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptDefinition</title>
+    <ns>102</ns>
+    <id>1924</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>7330</id>
+      <timestamp>2014-07-01T17:14:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[Property:Has definition]] to [[Property:HasConceptDefinition]] without leaving a redirect</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptGroup</title>
+    <ns>102</ns>
+    <id>2042</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8149</id>
+      <timestamp>2014-07-29T21:01:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptLU</title>
+    <ns>102</ns>
+    <id>1872</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>7050</id>
+      <timestamp>2014-05-30T18:37:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptLUs</title>
+    <ns>102</ns>
+    <id>1792</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>6963</id>
+      <timestamp>2014-05-28T19:58:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptOwner</title>
+    <ns>102</ns>
+    <id>1793</id>
+      <sha1>jl163arbwdft5jq8k441cilruxpf36p</sha1>
+    <revision>
+      <id>6964</id>
+      <timestamp>2014-05-28T19:58:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="140" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::GOV]]
+* [[Allows value::ICSI]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptStatus</title>
+    <ns>102</ns>
+    <id>1794</id>
+      <sha1>cd8j1ui6ao5n4imcy04wk6wojbjfkfc</sha1>
+    <revision>
+      <id>6965</id>
+      <timestamp>2014-05-28T19:58:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="219" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::white]]
+* [[Allows value::pink]]
+* [[Allows value::red]]
+* [[Allows value::magenta]]
+* [[Allows value::cyan]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasConceptType</title>
+    <ns>102</ns>
+    <id>1795</id>
+      <sha1>oke5uc66l040mrpb3b3zpvd2suyk10v</sha1>
+    <revision>
+      <id>6966</id>
+      <timestamp>2014-05-28T19:57:23Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="145" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::source]]
+* [[Allows value::target]]</text>
+    </revision>
+    <revision>
+      <id>8150</id>
+      <timestamp>2014-08-12T18:40:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="144" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::general]]
+* [[Allows value::case]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:HasIARPAId</title>
+    <ns>102</ns>
+    <id>1796</id>
+      <sha1>id8gn0keu2a1u84x5rhv7b3oxwkgls6</sha1>
+    <revision>
+      <id>6967</id>
+      <timestamp>2014-05-28T19:57:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Number]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has CxnMP group</title>
+    <ns>102</ns>
+    <id>2129</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8740</id>
+      <timestamp>2014-11-18T09:18:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>8756</id>
+      <timestamp>2014-11-19T03:10:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong صفحهٔ [[Property:Has CxnNP group]] را بدون برجای‌گذاشتن تغییرمسیر به [[Property:Has CxnMP group]] منتقل کرد: جایگزینی متن - 'Has CxnNP group' به 'Has CxnMP group'</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has CxnMP query</title>
+    <ns>102</ns>
+    <id>2128</id>
+      <sha1>czxcmn12bkxuwt8g2rduqsuxtr5psk8</sha1>
+    <revision>
+      <id>8739</id>
+      <timestamp>2014-11-18T19:25:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Code]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has CxnMP type</title>
+    <ns>102</ns>
+    <id>2130</id>
+      <sha1>3uur8p2w4dnfzo0ajzal7oetl1e27c6</sha1>
+    <revision>
+      <id>8741</id>
+      <timestamp>2014-11-18T09:17:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="145" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::sparql]]
+* [[Allows value::regexp]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has English translation</title>
+    <ns>102</ns>
+    <id>1190</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>5110</id>
+      <timestamp>2013-03-05T21:44:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has MetaRC group</title>
+    <ns>102</ns>
+    <id>2142</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8762</id>
+      <timestamp>2014-11-19T23:49:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has MetaRC query</title>
+    <ns>102</ns>
+    <id>2140</id>
+      <sha1>czxcmn12bkxuwt8g2rduqsuxtr5psk8</sha1>
+    <revision>
+      <id>8760</id>
+      <timestamp>2014-11-19T23:49:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Code]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has MetaRC score</title>
+    <ns>102</ns>
+    <id>2141</id>
+      <sha1>id8gn0keu2a1u84x5rhv7b3oxwkgls6</sha1>
+    <revision>
+      <id>8761</id>
+      <timestamp>2014-11-19T23:49:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Number]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has annotation</title>
+    <ns>102</ns>
+    <id>1191</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>5111</id>
+      <timestamp>2013-03-05T21:42:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has blacklist source LU</title>
+    <ns>102</ns>
+    <id>2119</id>
+      <sha1>knkgg87vj53ua36c34xjmx9z0dpchtc</sha1>
+    <revision>
+      <id>8720</id>
+      <timestamp>2014-11-14T23:41:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="114" xml:space="preserve">This is a property of type [[Has type::String]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has blacklist source frame</title>
+    <ns>102</ns>
+    <id>2120</id>
+      <sha1>nteck8h05f27b2sj2dcgpk6lgdhvghz</sha1>
+    <revision>
+      <id>8721</id>
+      <timestamp>2014-11-14T23:41:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="112" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has blacklist source frame family</title>
+    <ns>102</ns>
+    <id>2121</id>
+      <sha1>kwwz99czym5fs0oqf0248dvjqewlxz2</sha1>
+    <revision>
+      <id>8722</id>
+      <timestamp>2014-11-14T23:41:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame family]]."</comment>
+      <text bytes="119" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has blacklist target LU</title>
+    <ns>102</ns>
+    <id>2123</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8724</id>
+      <timestamp>2014-11-14T23:40:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has comments</title>
+    <ns>102</ns>
+    <id>1192</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>5112</id>
+      <timestamp>2013-03-05T21:44:04Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has default form</title>
+    <ns>102</ns>
+    <id>598</id>
+      <sha1>kpqer0ycxhd3lu8g6bpnntkr1cxcii0</sha1>
+    <revision>
+      <id>2564</id>
+      <timestamp>2012-07-16T20:28:48Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with "[[Glossary has default form::Form:Definition]]"</comment>
+      <text bytes="46" xml:space="preserve">[[Glossary has default form::Form:Definition]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has description</title>
+    <ns>102</ns>
+    <id>1435</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5552</id>
+      <timestamp>2013-09-18T20:56:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has lemma</title>
+    <ns>102</ns>
+    <id>1181</id>
+      <sha1>5yistd65iia39psgow1xgdva1qu7l13</sha1>
+    <revision>
+      <id>5096</id>
+      <timestamp>2013-02-06T01:35:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="129" xml:space="preserve">This is a property of type [[Has type::String]].  It is an internal object field of objects of type [[Property:Lexical unit of]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has lpos</title>
+    <ns>102</ns>
+    <id>1874</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>7065</id>
+      <timestamp>2014-05-31T23:36:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has program alias</title>
+    <ns>102</ns>
+    <id>1364</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5387</id>
+      <timestamp>2013-08-01T18:02:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has provenance</title>
+    <ns>102</ns>
+    <id>1193</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5113</id>
+      <timestamp>2013-03-05T21:42:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has source lemma</title>
+    <ns>102</ns>
+    <id>1199</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5121</id>
+      <timestamp>2013-03-06T19:24:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has source frame</title>
+    <ns>102</ns>
+    <id>1182</id>
+      <sha1>nteck8h05f27b2sj2dcgpk6lgdhvghz</sha1>
+    <revision>
+      <id>5097</id>
+      <timestamp>2013-02-06T01:40:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="112" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has target lemma</title>
+    <ns>102</ns>
+    <id>1200</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>5122</id>
+      <timestamp>2013-03-06T19:25:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has target frame</title>
+    <ns>102</ns>
+    <id>1183</id>
+      <sha1>nteck8h05f27b2sj2dcgpk6lgdhvghz</sha1>
+    <revision>
+      <id>5098</id>
+      <timestamp>2013-02-06T01:39:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="112" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has text</title>
+    <ns>102</ns>
+    <id>1194</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>5114</id>
+      <timestamp>2013-03-05T21:41:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has text gloss</title>
+    <ns>102</ns>
+    <id>1195</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>5115</id>
+      <timestamp>2013-03-05T21:41:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has transcription</title>
+    <ns>102</ns>
+    <id>2110</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>8671</id>
+      <timestamp>2014-10-10T20:18:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has whitelist target LU</title>
+    <ns>102</ns>
+    <id>2122</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8723</id>
+      <timestamp>2014-11-14T23:40:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Incorporates as a role</title>
+    <ns>102</ns>
+    <id>1882</id>
+      <sha1>nteck8h05f27b2sj2dcgpk6lgdhvghz</sha1>
+    <revision>
+      <id>7118</id>
+      <timestamp>2014-06-16T19:09:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="112" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Inference</title>
+    <ns>102</ns>
+    <id>435</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>2050</id>
+      <timestamp>2012-07-06T07:59:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>2051</id>
+      <timestamp>2012-07-06T08:00:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="119" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Inference.Description;Inference.Type]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Inference.Description</title>
+    <ns>102</ns>
+    <id>436</id>
+      <sha1>4o8xuyhxkjhrrjmfmbqfc5pcd7g9ti6</sha1>
+    <revision>
+      <id>2052</id>
+      <timestamp>2012-07-06T08:00:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::Text]]"</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Inference.Type</title>
+    <ns>102</ns>
+    <id>437</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2053</id>
+      <timestamp>2012-07-06T08:00:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is a subcase of</title>
+    <ns>102</ns>
+    <id>1184</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>5099</id>
+      <timestamp>2013-02-12T21:15:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is example of</title>
+    <ns>102</ns>
+    <id>1196</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>5116</id>
+      <timestamp>2013-03-05T21:40:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is from language</title>
+    <ns>102</ns>
+    <id>1197</id>
+      <sha1>qucs3nfihizy9m0ae5a7d1xz39h0ls7</sha1>
+    <revision>
+      <id>5117</id>
+      <timestamp>2013-03-05T21:43:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::English]] * [[Allows value::Spanish]] * [[Allows value::Persian]]..."</comment>
+      <text bytes="203" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::English]]
+* [[Allows value::Spanish]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is instance of CM</title>
+    <ns>102</ns>
+    <id>1189</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>5109</id>
+      <timestamp>2013-03-06T02:23:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is linked to from frame</title>
+    <ns>102</ns>
+    <id>2049</id>
+      <sha1>nteck8h05f27b2sj2dcgpk6lgdhvghz</sha1>
+    <revision>
+      <id>8270</id>
+      <timestamp>2014-08-01T20:28:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]]."</comment>
+      <text bytes="112" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:LUs</title>
+    <ns>102</ns>
+    <id>442</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>2063</id>
+      <timestamp>2012-07-06T19:50:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>2064</id>
+      <timestamp>2012-07-06T19:51:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="106" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::LUs.Language;LUs.Lemmas]]</text>
+    </revision>
+    <revision>
+      <id>8653</id>
+      <timestamp>2014-10-03T18:38:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="117" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::LUs.Language;LUs.Lempos;LUs.Lemmas]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:LUs.Language</title>
+    <ns>102</ns>
+    <id>443</id>
+      <sha1>fxo1o9vegqldgq4uy716c4bghkwgk4f</sha1>
+    <revision>
+      <id>2065</id>
+      <timestamp>2012-07-06T19:52:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]] It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[Allows value::Farsi]]."</comment>
+      <text bytes="170" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>2066</id>
+      <timestamp>2012-07-06T19:52:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="171" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>2087</id>
+      <timestamp>2012-07-06T20:45:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="176" xml:space="preserve">This is a property of type [[Has type::Enumeration]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>2091</id>
+      <timestamp>2012-07-06T20:52:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="171" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>3033</id>
+      <timestamp>2012-07-25T23:42:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="173" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Persian]].</text>
+    </revision>
+    <revision>
+      <id>3037</id>
+      <timestamp>2012-07-25T23:47:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="181" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values:
+* [[Allows value::English]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]
+* [[Allows value::Spanish]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:LUs.Lemmas</title>
+    <ns>102</ns>
+    <id>445</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2069</id>
+      <timestamp>2012-07-06T19:55:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:LUs.Lempos</title>
+    <ns>102</ns>
+    <id>2106</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8654</id>
+      <timestamp>2014-10-03T18:39:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Last reviewed by</title>
+    <ns>102</ns>
+    <id>470</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>2123</id>
+      <timestamp>2012-07-06T21:28:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Lexical unit of</title>
+    <ns>102</ns>
+    <id>1185</id>
+      <sha1>r97xwwu7cln9ysk0fljcux3cjli2p6r</sha1>
+    <revision>
+      <id>5100</id>
+      <timestamp>2013-02-06T01:34:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[Property:Lexical unit]] to [[Property:Lexical unit of]] without leaving a redirect</comment>
+      <text bytes="212" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame]].  This a semantic internal object property that refers from the object to the page that contains it.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Mapping</title>
+    <ns>102</ns>
+    <id>411</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>1961</id>
+      <timestamp>2012-07-03T01:19:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>1962</id>
+      <timestamp>2012-07-03T01:21:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="129" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Mapping.Target;Mapping.Source;Mapping.Comment]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Mapping.Comment</title>
+    <ns>102</ns>
+    <id>414</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>1965</id>
+      <timestamp>2012-07-03T01:22:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Mapping.Source</title>
+    <ns>102</ns>
+    <id>413</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>1964</id>
+      <timestamp>2012-07-03T01:21:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Mapping.Target</title>
+    <ns>102</ns>
+    <id>412</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>1963</id>
+      <timestamp>2012-07-03T01:21:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Alias</title>
+    <ns>102</ns>
+    <id>472</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>2125</id>
+      <timestamp>2012-07-06T21:29:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>2126</id>
+      <timestamp>2012-07-06T21:30:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="128" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Metaphor.Alias.Name;Metaphor.Alias.Provenance]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Alias.Name</title>
+    <ns>102</ns>
+    <id>473</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2127</id>
+      <timestamp>2012-07-06T21:30:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Alias.Provenance</title>
+    <ns>102</ns>
+    <id>474</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2128</id>
+      <timestamp>2012-07-06T21:31:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Comments</title>
+    <ns>102</ns>
+    <id>479</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>2133</id>
+      <timestamp>2012-07-06T21:34:23Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Experiential basis</title>
+    <ns>102</ns>
+    <id>487</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2178</id>
+      <timestamp>2012-07-08T06:52:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Family</title>
+    <ns>102</ns>
+    <id>711</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>3005</id>
+      <timestamp>2012-07-25T23:06:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>3368</id>
+      <timestamp>2012-08-01T01:30:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+    <revision>
+      <id>3397</id>
+      <timestamp>2012-08-01T21:32:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="143" xml:space="preserve">This is a property of type [[Has type::Page]].  The pages linked by this property should be edited using [[Has default form::Metaphor family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Investigated for</title>
+    <ns>102</ns>
+    <id>550</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2324</id>
+      <timestamp>2012-07-10T20:51:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>2325</id>
+      <timestamp>2012-07-10T20:51:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="171" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>3034</id>
+      <timestamp>2012-07-25T23:43:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="173" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Persian]].</text>
+    </revision>
+    <revision>
+      <id>3038</id>
+      <timestamp>2012-07-25T23:47:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="181" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values:
+* [[Allows value::English]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]
+* [[Allows value::Spanish]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Level</title>
+    <ns>102</ns>
+    <id>475</id>
+      <sha1>p68twcabmucdc0bzj0hrmbc3njxqrh6</sha1>
+    <revision>
+      <id>2129</id>
+      <timestamp>2012-07-06T21:32:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::General]] * [[Allows value::Specific]]"</comment>
+      <text bytes="148" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::General]]
+* [[Allows value::Specific]]</text>
+    </revision>
+    <revision>
+      <id>2189</id>
+      <timestamp>2012-07-08T07:31:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="566" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::General]]
+* [[Allows value::Specific]]
+
+&lt;p&gt;
+Specific-level metaphors occupy a low level on a scale of generality on which conceptual metaphors can be placed. They are composed of specifi c-level source and target domains. Specific-level metaphors are instantiations, or special cases, of generic-level ones. Thus, the metaphor ANGER IS A HOT FLUID IN A CONTAINER is an instantiation, or special case, of the generic-level metaphor EMOTIONS ARE FORCES.
+&lt;/p&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Name gloss</title>
+    <ns>102</ns>
+    <id>812</id>
+      <sha1>b89npw7fjibzumyhobgw0sqrfqsg541</sha1>
+    <revision>
+      <id>3686</id>
+      <timestamp>2012-09-28T22:46:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::String]]."</comment>
+      <text bytes="44" xml:space="preserve">This property has type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>3687</id>
+      <timestamp>2012-10-03T00:51:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه: to enable glossing functionality for metaphors, frames, and roles</comment>
+      <text bytes="44" xml:space="preserve">This property has type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Name transcription</title>
+    <ns>102</ns>
+    <id>2108</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8668</id>
+      <timestamp>2014-10-10T20:10:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Source frame</title>
+    <ns>102</ns>
+    <id>477</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>2131</id>
+      <timestamp>2012-07-06T21:33:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+    <revision>
+      <id>2185</id>
+      <timestamp>2012-07-08T07:26:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="152" xml:space="preserve">This is a property of type [[Has type::Page]].
+The objects of this property are edited with the following form by default: [[Has default form::Frame]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Target frame</title>
+    <ns>102</ns>
+    <id>478</id>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+    <revision>
+      <id>2132</id>
+      <timestamp>2012-07-06T21:33:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Page]].</text>
+    </revision>
+    <revision>
+      <id>2186</id>
+      <timestamp>2012-07-08T07:27:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="148" xml:space="preserve">This is a property of type [[Has type::Page]].
+Objects of this property are edited by default using the following form: [[Has default form::Frame]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor.Type</title>
+    <ns>102</ns>
+    <id>476</id>
+      <sha1>mvdy9zpj1lbv5hpd8bjveor9cmfn4dy</sha1>
+    <revision>
+      <id>2130</id>
+      <timestamp>2012-07-06T21:32:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::Primary]] * [[Allows value::Composed/complex]] * [[Allows value::..."</comment>
+      <text bytes="185" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Primary]]
+* [[Allows value::Composed/complex]]
+* [[Allows value::Entailed]]</text>
+    </revision>
+    <revision>
+      <id>2190</id>
+      <timestamp>2012-07-08T07:32:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="632" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Primary]]
+* [[Allows value::Composed/complex]]
+* [[Allows value::Entailed]]
+
+&lt;P&gt;
+A primary metaphor is one that emerges directly from correlations in experience, as in &lt;big&gt;MORE IS UP&lt;/big&gt;, &lt;BIG&gt; PURPOSES ARE DESTINATIONS &lt;/BIG&gt;, (abstract) &lt;BIG&gt;ORGANIZATION IS PHYSICAL STRUCTURE &lt;/BIG&gt;, &lt;BIG&gt; PERSISTENCE IS BEING ERECT &lt;/BIG&gt;, and so on Several primary metaphors can be joined together to form complex metaphors, such as &lt;BIG&gt; THEORIES ARE BUILDINGS &lt;/BIG&gt;, which is constituted by the last two primary metaphors.
+&lt;/P&gt;</text>
+    </revision>
+    <revision>
+      <id>2337</id>
+      <timestamp>2012-07-10T23:35:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="852" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Primary]]: Both source and target are primary experience.  And these experiences are correlated.
+** MORE IS UP, STATES ARE LOCATIONS
+* [[Allows value::Composed/complex]]:
+** LIFE IS A JOURNEY
+* [[Allows value::Entailed]]
+** ENTERING A STATE IS ARRIVING AT A DESTINATION (by STATES ARE LOCATIONS)
+
+&lt;P&gt;
+A primary metaphor is one that emerges directly from correlations in experience, as in &lt;big&gt;MORE IS UP&lt;/big&gt;, &lt;BIG&gt; PURPOSES ARE DESTINATIONS &lt;/BIG&gt;, (abstract) &lt;BIG&gt;ORGANIZATION IS PHYSICAL STRUCTURE &lt;/BIG&gt;, &lt;BIG&gt; PERSISTENCE IS BEING ERECT &lt;/BIG&gt;, and so on Several primary metaphors can be joined together to form complex metaphors, such as &lt;BIG&gt; THEORIES ARE BUILDINGS &lt;/BIG&gt;, which is constituted by the last two primary metaphors.
+&lt;/P&gt;</text>
+    </revision>
+    <revision>
+      <id>2338</id>
+      <timestamp>2012-07-10T23:35:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="854" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Primary]]
+** Both source and target are primary experience.  And these experiences are correlated.
+** MORE IS UP, STATES ARE LOCATIONS
+* [[Allows value::Composed/complex]]:
+** LIFE IS A JOURNEY
+* [[Allows value::Entailed]]
+** ENTERING A STATE IS ARRIVING AT A DESTINATION (by STATES ARE LOCATIONS)
+
+&lt;P&gt;
+A primary metaphor is one that emerges directly from correlations in experience, as in &lt;big&gt;MORE IS UP&lt;/big&gt;, &lt;BIG&gt; PURPOSES ARE DESTINATIONS &lt;/BIG&gt;, (abstract) &lt;BIG&gt;ORGANIZATION IS PHYSICAL STRUCTURE &lt;/BIG&gt;, &lt;BIG&gt; PERSISTENCE IS BEING ERECT &lt;/BIG&gt;, and so on Several primary metaphors can be joined together to form complex metaphors, such as &lt;BIG&gt; THEORIES ARE BUILDINGS &lt;/BIG&gt;, which is constituted by the last two primary metaphors.
+&lt;/P&gt;</text>
+    </revision>
+    <revision>
+      <id>2340</id>
+      <timestamp>2012-07-10T23:46:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="864" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Primary]]
+** Both source and target are primary experiences.  And these experiences are correlated early on.
+** MORE IS UP, STATES ARE LOCATIONS
+* [[Allows value::Composed/complex]]:
+** LIFE IS A JOURNEY
+* [[Allows value::Entailed]]
+** ENTERING A STATE IS ARRIVING AT A DESTINATION (by STATES ARE LOCATIONS)
+
+&lt;P&gt;
+A primary metaphor is one that emerges directly from correlations in experience, as in &lt;big&gt;MORE IS UP&lt;/big&gt;, &lt;BIG&gt; PURPOSES ARE DESTINATIONS &lt;/BIG&gt;, (abstract) &lt;BIG&gt;ORGANIZATION IS PHYSICAL STRUCTURE &lt;/BIG&gt;, &lt;BIG&gt; PERSISTENCE IS BEING ERECT &lt;/BIG&gt;, and so on Several primary metaphors can be joined together to form complex metaphors, such as &lt;BIG&gt; THEORIES ARE BUILDINGS &lt;/BIG&gt;, which is constituted by the last two primary metaphors.
+&lt;/P&gt;</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor family.Description</title>
+    <ns>102</ns>
+    <id>2104</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>8650</id>
+      <timestamp>2014-09-26T18:30:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor family.Name gloss</title>
+    <ns>102</ns>
+    <id>817</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>3725</id>
+      <timestamp>2012-10-08T10:26:24Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>3726</id>
+      <timestamp>2012-10-08T10:30:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor family.Type</title>
+    <ns>102</ns>
+    <id>2105</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8651</id>
+      <timestamp>2014-09-26T18:29:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Metaphor subfamily of</title>
+    <ns>102</ns>
+    <id>766</id>
+      <sha1>1dbjyd4jd0t8eivwzpg2i7d021av3h2</sha1>
+    <revision>
+      <id>3369</id>
+      <timestamp>2012-08-01T01:33:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Metaphor family]]."</comment>
+      <text bytes="121" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Metaphor family]].</text>
+    </revision>
+    <revision>
+      <id>3370</id>
+      <timestamp>2012-08-01T01:34:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Property:Metaphor subfamily]] to [[Property:Metaphor subfamily of]]</comment>
+      <text bytes="121" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Metaphor family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related metaphor</title>
+    <ns>102</ns>
+    <id>455</id>
+      <sha1>mwpiwrnv6dio0ew7cychjc4qwiggpr5</sha1>
+    <revision>
+      <id>2102</id>
+      <timestamp>2012-07-06T21:14:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Record]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::Record]].</text>
+    </revision>
+    <revision>
+      <id>2103</id>
+      <timestamp>2012-07-06T21:15:24Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="165" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Related metaphor.Name;Related metaphor.Relation type;Related metaphor.Description]].</text>
+    </revision>
+    <revision>
+      <id>2447</id>
+      <timestamp>2012-07-13T21:29:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="165" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the fields [[Has fields::Related metaphor.Relation type;Related metaphor.Name;Related metaphor.Description]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related metaphor.Description</title>
+    <ns>102</ns>
+    <id>457</id>
+      <sha1>4o8xuyhxkjhrrjmfmbqfc5pcd7g9ti6</sha1>
+    <revision>
+      <id>2105</id>
+      <timestamp>2012-07-06T21:16:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::Text]]"</comment>
+      <text bytes="43" xml:space="preserve">This property is of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related metaphor.Name</title>
+    <ns>102</ns>
+    <id>490</id>
+      <sha1>dntitidxpq56za9n267dgfst8gfmwyx</sha1>
+    <revision>
+      <id>2191</id>
+      <timestamp>2012-07-08T07:33:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. The objects of this property are edited by default using the form [[Has default form::Metaphor]]"</comment>
+      <text bytes="143" xml:space="preserve">This is a property of type [[Has type::Page]].
+The objects of this property are edited by default using the form [[Has default form::Metaphor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related metaphor.Relation type</title>
+    <ns>102</ns>
+    <id>456</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2104</id>
+      <timestamp>2012-07-06T21:15:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+    <revision>
+      <id>2418</id>
+      <timestamp>2012-07-12T21:27:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="842" xml:space="preserve">This property is of type [[Has type::String]]
+It allows the following values:
+* ANGER IS FIRE [[Allows value::is a source subcase of]] (is source special case of, is source specific case of) ANGER IS HEAT
+* LIFE IS A JOURNEY [[Allows value::makes use of]] ACHIEVING A PURPOSE IS REACHING A DESTINATION
+* ANGER IS A SUBSTANCE [[Allows value::is a target subcase of]] (is target special case of, is target specific case of) EMOTIONS ARE SUBSTANCES
+* RELATIONSHIPS ARE VEHICLES [[Allows value::is a mapping within]] ROMANTIC RELATIONSHIP IS A JOURNEY
+* [[Allows value::has as transitive subpart 1]]
+* [[Allows value::has as transitive subpart 2]]
+* [[Allows value::is in some source relation to]]
+* ROMANTIC RELATIONSHIP IS A JOURNEY [[Allows value::is in some target relation to]] LIFE IS A JOURNEY
+* [[Allows value::is in some way related to]]</text>
+    </revision>
+    <revision>
+      <id>2420</id>
+      <timestamp>2012-07-12T22:08:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="689" xml:space="preserve">This property is of type [[Has type::String]]
+It allows the following values:
+* [[Allows value::is both a source and target subcase of]]
+* [[Allows value::is a source subcase of]] (is source special case of, is source specific case of)
+* [[Allows value::is a target subcase of]] (is target special case of, is target specific case of)
+* [[Allows value::is a mapping within]]
+* [[Allows value::makes use of]]
+* [[Allows value::has as transitive subpart 1]]
+* [[Allows value::has as transitive subpart 2]]
+* [[Allows value::is in some source relation to]]
+* [[Allows value::is in some target relation to]]
+* [[Allows value::is an entailment of]]
+* [[Allows value::is in some way related to]]</text>
+    </revision>
+    <revision>
+      <id>4496</id>
+      <timestamp>2012-12-10T05:31:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>جایگزینی متن - 'is (somehow|in some way) related to' به 'is related to'</comment>
+      <text bytes="677" xml:space="preserve">This property is of type [[Has type::String]]
+It allows the following values:
+* [[Allows value::is both a source and target subcase of]]
+* [[Allows value::is a source subcase of]] (is source special case of, is source specific case of)
+* [[Allows value::is a target subcase of]] (is target special case of, is target specific case of)
+* [[Allows value::is a mapping within]]
+* [[Allows value::makes use of]]
+* [[Allows value::has as transitive subpart 1]]
+* [[Allows value::has as transitive subpart 2]]
+* [[Allows value::is in some source relation to]]
+* [[Allows value::is in some target relation to]]
+* [[Allows value::is an entailment of]]
+* [[Allows value::is related to]]</text>
+    </revision>
+    <revision>
+      <id>5101</id>
+      <timestamp>2012-12-10T05:28:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Text replace - "is (somehow|in some way) related to" to "is related to"</comment>
+      <text bytes="728" xml:space="preserve">This property is of type [[Has type::String]]
+It allows the following values:
+* [[Allows value::is both a source and target subcase of]]
+* [[Allows value::is a source subcase of]] (is source special case of, is source specific case of)
+* [[Allows value::is a target subcase of]] (is target special case of, is target specific case of)
+* [[Allows value::is a mapping within]]
+* [[Allows value::makes use of]]
+* [[Allows value::has as transitive subpart 1]]
+* [[Allows value::has as transitive subpart 2]]
+* [[Allows value::is in some source relation to]]
+* [[Allows value::is in some target relation to]]
+* [[Allows value::is an entailment of]]
+* [[Allows value::is related to]]
+* [[Allows value::is in a dual relationship with]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related frame</title>
+    <ns>102</ns>
+    <id>438</id>
+      <sha1>kgjyjcmx3qsqaiwa8rda0usy2dsh0yb</sha1>
+    <revision>
+      <id>2058</id>
+      <timestamp>2012-07-06T08:06:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::Record]]. It has the fields [[Has fields::Related frame.Name;Related frame.Relation type;Related frame.Description]]."</comment>
+      <text bytes="155" xml:space="preserve">This property has type [[Has type::Record]].
+It has the fields [[Has fields::Related frame.Name;Related frame.Relation type;Related frame.Description]].</text>
+    </revision>
+    <revision>
+      <id>2451</id>
+      <timestamp>2012-07-13T21:35:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="155" xml:space="preserve">This property has type [[Has type::Record]].
+It has the fields [[Has fields::Related frame.Relation type;Related frame.Name;Related frame.Description]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related frame.Description</title>
+    <ns>102</ns>
+    <id>441</id>
+      <sha1>3m0hqvzahr828rl68oqjbh4k2xrd8tu</sha1>
+    <revision>
+      <id>2062</id>
+      <timestamp>2012-07-06T08:08:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::Text]]"</comment>
+      <text bytes="41" xml:space="preserve">This property has type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related frame.Name</title>
+    <ns>102</ns>
+    <id>439</id>
+      <sha1>7z8fcm6z9djqk1obgdijn58zuf2a7vv</sha1>
+    <revision>
+      <id>2059</id>
+      <timestamp>2012-07-06T08:07:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property as type [[Has type::Page]]."</comment>
+      <text bytes="41" xml:space="preserve">This property as type [[Has type::Page]].</text>
+    </revision>
+    <revision>
+      <id>2188</id>
+      <timestamp>2012-07-08T07:29:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="134" xml:space="preserve">This property as type [[Has type::Page]].
+Objects of this property are edited by default using the form [[Has default form::Metaphor]]</text>
+    </revision>
+    <revision>
+      <id>2316</id>
+      <timestamp>2012-07-10T20:19:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="132" xml:space="preserve">This property as type [[Has type::Page]].
+Objects of this property are edited by default using the form [[Has default form::Frame]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Related frame.Relation type</title>
+    <ns>102</ns>
+    <id>440</id>
+      <sha1>lw91yzrmuhn9a5y02mjl6acnwg17rq9</sha1>
+    <revision>
+      <id>2060</id>
+      <timestamp>2012-07-06T08:07:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This frame has type [[Has type::String]]."</comment>
+      <text bytes="42" xml:space="preserve">This frame has type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>2061</id>
+      <timestamp>2012-07-06T08:07:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="44" xml:space="preserve">This property has type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>2429</id>
+      <timestamp>2012-07-12T23:08:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="181" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+* [[Allows value::]]
+* [[Allows value::]]
+* [[Allows value::]]
+* [[Allows value::]]
+* [[Allows value::]]</text>
+    </revision>
+    <revision>
+      <id>2431</id>
+      <timestamp>2012-07-12T23:21:13Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="466" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! value
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| INTO makes use of CONTAINER and SPG
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| BOAT is a subcase of SEAFARING VEHICLE &lt;br/&gt; OBJECT is a subcase of ENTITY
+|-
+! [[Allows value::]]
+|
+|
+|-
+! [[Allows value::]]
+|
+|
+|-
+! [[Allows value::]]
+|
+|
+|}</text>
+    </revision>
+    <revision>
+      <id>2432</id>
+      <timestamp>2012-07-12T23:32:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="505" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| INTO makes use of CONTAINER and SPG
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle &lt;br/&gt; Object is a subcase of Entity
+|-
+! [[Allows value::is somehow related to]]
+| elsewhere bucket
+| Romantic_relationship is somehow related to Life
+|}</text>
+    </revision>
+    <revision>
+      <id>2433</id>
+      <timestamp>2012-07-12T23:33:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="518" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| Into makes use of Container and Source_path_goal
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle &lt;br/&gt; Object is a subcase of Entity
+|-
+! [[Allows value::is somehow related to]]
+| elsewhere bucket
+| Romantic_relationship is somehow related to Life
+|}</text>
+    </revision>
+    <revision>
+      <id>4497</id>
+      <timestamp>2012-12-10T07:41:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="726" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| Into makes use of Container and Source_path_goal
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle &lt;br/&gt; Object is a subcase of Entity
+|-
+! [[Allows value::is a subprocess of]]
+| is spectrally a subprocess of the other frame
+| 
+|-
+! [[Allows value::is related to]]
+| elsewhere bucket
+| Romantic_relationship is related to Life
+|-
+! [[Allows value::is in a scalar opposition to]]
+| opposite ends of a scale
+| Immorality is in a scalar opposition to morality
+|}</text>
+    </revision>
+    <revision>
+      <id>4504</id>
+      <timestamp>2012-12-10T17:58:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="727" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| Into makes use of Container and Source_path_goal
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle &lt;br/&gt; Object is a subcase of Entity
+|-
+! [[Allows value::is a subprocess of]]
+| is aspectually a subprocess of the other frame
+| 
+|-
+! [[Allows value::is related to]]
+| elsewhere bucket
+| Romantic_relationship is related to Life
+|-
+! [[Allows value::is in a scalar opposition to]]
+| opposite ends of a scale
+| Immorality is in a scalar opposition to morality
+|}</text>
+    </revision>
+    <revision>
+      <id>7117</id>
+      <timestamp>2014-06-16T19:03:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1025" xml:space="preserve">This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| Into makes use of Container and Source_path_goal
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle &lt;br/&gt; Object is a subcase of Entity
+|-
+! [[Allows value::is a subprocess of]]
+| is aspectually a subprocess of the other frame
+| 
+|-
+! [[Allows value::incorporates as a role]]
+|  Frame 1 incorporates Frame 2 as a role.  This is a specific kind of "makes use of" relation.
+| Object incorporates as a role Size
+|-
+! [[Allows value::is related to]]
+| elsewhere bucket
+| Romantic_relationship is related to Life
+|-
+! [[Allows value::is in a scalar opposition to]]
+| opposite ends of a scale
+| Immorality is in a scalar opposition to morality
+|-
+! [[Allows value::is a perspective on]]
+| is a perspective on
+| Buying is a perspective on Commercial transaction
+|}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role</title>
+    <ns>102</ns>
+    <id>383</id>
+      <sha1>gvry13e6resr5qsoolb08j25e0amwln</sha1>
+    <revision>
+      <id>1831</id>
+      <timestamp>2012-06-28T00:59:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Role]]."</comment>
+      <text bytes="110" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Role]].</text>
+    </revision>
+    <revision>
+      <id>1897</id>
+      <timestamp>2012-06-29T22:13:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="138" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the following fields:
+[[Has fields::Role.Name;Role.Description;Role.FrameNetRole]]</text>
+    </revision>
+    <revision>
+      <id>2081</id>
+      <timestamp>2012-07-06T20:40:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="148" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the following fields:
+[[Has fields::Role.Name;Role.Type;Role.Definition;Role.FrameNet role]]</text>
+    </revision>
+    <revision>
+      <id>3682</id>
+      <timestamp>2012-10-02T21:34:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="164" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the following fields:
+[[Has fields::Role.Name;Role.Type;Role.Definition;Role.FrameNet role;Role.Name gloss]]</text>
+    </revision>
+    <revision>
+      <id>3683</id>
+      <timestamp>2012-10-03T00:51:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه: to enable glossing functionality for metaphors, frames, and roles</comment>
+      <text bytes="164" xml:space="preserve">This is a property of type [[Has type::Record]].
+It has the following fields:
+[[Has fields::Role.Name;Role.Type;Role.Definition;Role.FrameNet role;Role.Name gloss]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role.Definition</title>
+    <ns>102</ns>
+    <id>450</id>
+      <sha1>3m0hqvzahr828rl68oqjbh4k2xrd8tu</sha1>
+    <revision>
+      <id>2083</id>
+      <timestamp>2012-07-06T20:40:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::Text]]"</comment>
+      <text bytes="41" xml:space="preserve">This property has type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role.FrameNet role</title>
+    <ns>102</ns>
+    <id>451</id>
+      <sha1>sddsr834ynobzxwqm79rmj06lxdxuqy</sha1>
+    <revision>
+      <id>2084</id>
+      <timestamp>2012-07-06T20:41:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::String]]"</comment>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role.Name</title>
+    <ns>102</ns>
+    <id>399</id>
+      <sha1>b89npw7fjibzumyhobgw0sqrfqsg541</sha1>
+    <revision>
+      <id>1898</id>
+      <timestamp>2012-06-29T22:13:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::String]]."</comment>
+      <text bytes="44" xml:space="preserve">This property has type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role.Name gloss</title>
+    <ns>102</ns>
+    <id>811</id>
+      <sha1>sddsr834ynobzxwqm79rmj06lxdxuqy</sha1>
+    <revision>
+      <id>3684</id>
+      <timestamp>2012-10-02T21:34:16Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::String]]"</comment>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+    <revision>
+      <id>3685</id>
+      <timestamp>2012-10-03T00:51:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه: to enable glossing functionality for metaphors, frames, and roles</comment>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Role.Type</title>
+    <ns>102</ns>
+    <id>449</id>
+      <sha1>sddsr834ynobzxwqm79rmj06lxdxuqy</sha1>
+    <revision>
+      <id>2082</id>
+      <timestamp>2012-07-06T20:40:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property has type [[Has type::String]]"</comment>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Alias</title>
+    <ns>102</ns>
+    <id>453</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>2097</id>
+      <timestamp>2012-07-06T21:04:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Applicability</title>
+    <ns>102</ns>
+    <id>446</id>
+      <sha1>exf7jxf8m4xfde974ormto9ladcc4g7</sha1>
+    <revision>
+      <id>2071</id>
+      <timestamp>2012-07-06T20:02:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]] It allows the values [[Allows value::Universal]],[[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],..."</comment>
+      <text bytes="199" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::Universal]],[[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>2319</id>
+      <timestamp>2012-07-10T20:42:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="171" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the values [[Allows value::English]],[[Allows value::Spanish]],[[Allows value::Russian]],[[Allows value::Farsi]].</text>
+    </revision>
+    <revision>
+      <id>3044</id>
+      <timestamp>2012-07-25T23:53:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="191" xml:space="preserve">This is a property of type [[Has type::String]]
+It allows the following values:
+* [[Allows value::English]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]
+* [[Allows value::Spanish]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Comments</title>
+    <ns>102</ns>
+    <id>452</id>
+      <sha1>q71jhp9mx8q29i78wpqm8au4f64eypy</sha1>
+    <revision>
+      <id>2096</id>
+      <timestamp>2012-07-06T21:04:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]"</comment>
+      <text bytes="45" xml:space="preserve">This is a property of type [[Has type::Text]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Cultural information</title>
+    <ns>102</ns>
+    <id>488</id>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+    <revision>
+      <id>2183</id>
+      <timestamp>2012-07-08T07:14:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Text]]."</comment>
+      <text bytes="46" xml:space="preserve">This is a property of type [[Has type::Text]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Family</title>
+    <ns>102</ns>
+    <id>781</id>
+      <sha1>kwwz99czym5fs0oqf0248dvjqewlxz2</sha1>
+    <revision>
+      <id>3468</id>
+      <timestamp>2012-08-02T00:47:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame family]]."</comment>
+      <text bytes="119" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.FrameNet frame</title>
+    <ns>102</ns>
+    <id>717</id>
+      <sha1>606shqlhr6jqyfv863h714tz0a4e4t2</sha1>
+    <revision>
+      <id>3053</id>
+      <timestamp>2012-07-26T00:10:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[has type::String]]."</comment>
+      <text bytes="46" xml:space="preserve">This property is of type [[has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Name gloss</title>
+    <ns>102</ns>
+    <id>813</id>
+      <sha1>sddsr834ynobzxwqm79rmj06lxdxuqy</sha1>
+    <revision>
+      <id>3688</id>
+      <timestamp>2012-10-02T21:33:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+    <revision>
+      <id>3689</id>
+      <timestamp>2012-10-03T00:51:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه: to enable glossing functionality for metaphors, frames, and roles</comment>
+      <text bytes="43" xml:space="preserve">This property has type [[Has type::String]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Name transcription</title>
+    <ns>102</ns>
+    <id>2107</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>8667</id>
+      <timestamp>2014-10-10T20:31:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Jhong moved page [[Property:Frame.Transcription]] to [[Property:Frame.Name transcription]] without leaving a redirect: consistency</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame.Type</title>
+    <ns>102</ns>
+    <id>447</id>
+      <sha1>mlyp1vsct9nhh2zpx90k8brrqwevvs4</sha1>
+    <revision>
+      <id>2072</id>
+      <timestamp>2012-07-06T20:04:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]] It allows the values [[Allows value::Cog]],[[Allows value::Frame]],[[Allows value::Primary]],[[Allows value::Composed]]"</comment>
+      <text bytes="165" xml:space="preserve">This property is of type [[Has type::String]]
+It allows the values [[Allows value::Cog]],[[Allows value::Frame]],[[Allows value::Primary]],[[Allows value::Composed]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame family.Name gloss</title>
+    <ns>102</ns>
+    <id>818</id>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+    <revision>
+      <id>3727</id>
+      <timestamp>2012-10-08T10:25:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]]."</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+    <revision>
+      <id>3728</id>
+      <timestamp>2012-10-08T10:30:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>۱ نسخه</comment>
+      <text bytes="48" xml:space="preserve">This is a property of type [[Has type::String]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Frame subfamily of</title>
+    <ns>102</ns>
+    <id>1465</id>
+      <sha1>kwwz99czym5fs0oqf0248dvjqewlxz2</sha1>
+    <revision>
+      <id>5672</id>
+      <timestamp>2013-10-10T08:32:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="119" xml:space="preserve">This is a property of type [[Has type::Page]]. It links to pages that use the form [[Has default form::Frame family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Status</title>
+    <ns>102</ns>
+    <id>166</id>
+      <sha1>66lcid3fc6okw3kt1zh3pxznynuv06l</sha1>
+    <revision>
+      <id>771</id>
+      <timestamp>2012-04-12T00:50:27Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with "This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::proposed]] * [[Allows value::validated]] * [[Allows value::transcrib..."</comment>
+      <text bytes="212" xml:space="preserve">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::proposed]]
+* [[Allows value::validated]]
+* [[Allows value::transcribed]]
+* [[Allows value::contested]]</text>
+    </revision>
+    <revision>
+      <id>1226</id>
+      <timestamp>2012-05-16T22:32:02Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <text bytes="275" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::proposed]]
+* [[Allows value::validated]]
+* [[Allows value::transcribed]]
+* [[Allows value::contested]]</text>
+    </revision>
+    <revision>
+      <id>2317</id>
+      <timestamp>2012-07-10T20:28:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="258" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::proposed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested]]</text>
+    </revision>
+    <revision>
+      <id>2426</id>
+      <timestamp>2012-07-12T23:02:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="305" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::proposed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested]]
+&lt;noinclude&gt;
+Here is secret stuff.
+&lt;/noinclude&gt;</text>
+    </revision>
+    <revision>
+      <id>2427</id>
+      <timestamp>2012-07-12T23:02:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="310" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::proposed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested]]
+&lt;p style="color:white;"&gt;
+Here is secret stuff.
+&lt;/p&gt;</text>
+    </revision>
+    <revision>
+      <id>2428</id>
+      <timestamp>2012-07-12T23:05:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="322" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::in development]]
+* [[Allows value::proposed]]
+* [[Allows value::reviewed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested]]</text>
+    </revision>
+    <revision>
+      <id>3227</id>
+      <timestamp>2012-07-30T19:52:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="331" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::in development]]
+* [[Allows value::proposed]]
+* [[Allows value::reviewed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested analysis]]</text>
+    </revision>
+    <revision>
+      <id>4284</id>
+      <timestamp>2012-11-30T21:18:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="365" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::in development]]
+* [[Allows value::proposed]]
+* [[Allows value::reviewed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested analysis]]
+* [[Allows value::auto imported]]</text>
+    </revision>
+    <revision>
+      <id>8834</id>
+      <timestamp>2015-03-10T19:41:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="478" xml:space="preserve">&lt;p&gt;
+The status of the metaphor in the MetaNet lifecycle.
+&lt;/p&gt;
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::in development]]
+* [[Allows value::proposed]]
+* [[Allows value::reviewed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested analysis]]
+* [[Allows value::auto imported]]
+* [[Allows value::auto proposed]]
+* [[Allows value::release candidate]]
+* [[Allows value::approved for release]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Tag</title>
+    <ns>102</ns>
+    <id>491</id>
+      <sha1>kkv9asjt9lxzo7hqv0t4qtucjvyyqin</sha1>
+    <revision>
+      <id>2196</id>
+      <timestamp>2012-07-08T07:45:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This property is of type [[Has type::String]]"</comment>
+      <text bytes="45" xml:space="preserve">This property is of type [[Has type::String]]</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,126 @@
+Property:Binding
+Property:Binding.Bound role
+Property:Binding.Local role
+Property:Corresponds to English
+Property:Corresponds to Persian
+Property:Corresponds to Russian
+Property:Corresponds to Spanish
+Property:Definition.Alias
+Property:Definition.Applies to
+Property:Definition.Description
+Property:Definition.Entry
+Property:Definition.Notation
+Property:Definition.Utility
+Property:Entailment
+Property:Entailment.Entailed metaphors
+Property:Entailment.Source inference
+Property:Entailment.Target entailment
+Property:Entailment.Type
+Property:Entered by
+Property:Example
+Property:Example.Annotation
+Property:Example.Comments
+Property:Example.English translation
+Property:Example.Gloss
+Property:Example.Language
+Property:Example.Provenance
+Property:Example.Text
+Property:Example.Transcription
+Property:HasConceptDefinition
+Property:HasConceptGroup
+Property:HasConceptLU
+Property:HasConceptLUs
+Property:HasConceptOwner
+Property:HasConceptStatus
+Property:HasConceptType
+Property:HasIARPAId
+Property:Has CxnMP group
+Property:Has CxnMP query
+Property:Has CxnMP type
+Property:Has English translation
+Property:Has MetaRC group
+Property:Has MetaRC query
+Property:Has MetaRC score
+Property:Has annotation
+Property:Has blacklist source LU
+Property:Has blacklist source schema
+Property:Has blacklist source schema family
+Property:Has blacklist target LU
+Property:Has comments
+Property:Has default form
+Property:Has description
+Property:Has lemma
+Property:Has lpos
+Property:Has program alias
+Property:Has provenance
+Property:Has source lemma
+Property:Has source schema
+Property:Has target lemma
+Property:Has target schema
+Property:Has text
+Property:Has text gloss
+Property:Has transcription
+Property:Has whitelist target LU
+Property:Incorporates as a role
+Property:Inference
+Property:Inference.Description
+Property:Inference.Type
+Property:Is a subcase of
+Property:Is example of
+Property:Is from language
+Property:Is instance of CM
+Property:Is linked to from schema
+Property:LUs
+Property:LUs.Language
+Property:LUs.Lemmas
+Property:LUs.Lempos
+Property:Last reviewed by
+Property:Lexical unit of
+Property:Mapping
+Property:Mapping.Comment
+Property:Mapping.Source
+Property:Mapping.Target
+Property:Metaphor.Alias
+Property:Metaphor.Alias.Name
+Property:Metaphor.Alias.Provenance
+Property:Metaphor.Comments
+Property:Metaphor.Experiential basis
+Property:Metaphor.Family
+Property:Metaphor.Investigated for
+Property:Metaphor.Level
+Property:Metaphor.Name gloss
+Property:Metaphor.Name transcription
+Property:Metaphor.Source schema
+Property:Metaphor.Target schema
+Property:Metaphor.Type
+Property:Metaphor family.Description
+Property:Metaphor family.Name gloss
+Property:Metaphor family.Type
+Property:Metaphor subfamily of
+Property:Related metaphor
+Property:Related metaphor.Description
+Property:Related metaphor.Name
+Property:Related metaphor.Relation type
+Property:Related schema
+Property:Related schema.Description
+Property:Related schema.Name
+Property:Related schema.Relation type
+Property:Role
+Property:Role.Definition
+Property:Role.FrameNet role
+Property:Role.Name
+Property:Role.Name gloss
+Property:Role.Type
+Property:Schema.Alias
+Property:Schema.Applicability
+Property:Schema.Comments
+Property:Schema.Cultural information
+Property:Schema.Family
+Property:Schema.FrameNet frame
+Property:Schema.Name gloss
+Property:Schema.Name transcription
+Property:Schema.Type
+Property:Schema family.Name gloss
+Property:Schema subfamily of
+Property:Status
+Property:Tag

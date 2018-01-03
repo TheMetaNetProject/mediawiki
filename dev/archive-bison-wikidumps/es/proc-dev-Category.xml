@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="es">
+  <siteinfo>
+    <sitename>Spanish Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Medio</namespace>
+      <namespace case="first-letter" key="-1">Especial</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Discusión</namespace>
+      <namespace case="first-letter" key="2">Usuario</namespace>
+      <namespace case="first-letter" key="3">Usuario discusión</namespace>
+      <namespace case="first-letter" key="4">Spanish Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">Spanish Metaphor Wiki discusión</namespace>
+      <namespace case="first-letter" key="6">Archivo</namespace>
+      <namespace case="first-letter" key="7">Archivo discusión</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki discusión</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template discusión</namespace>
+      <namespace case="first-letter" key="12">Ayuda</namespace>
+      <namespace case="first-letter" key="13">Ayuda discusión</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category discusión</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Discusión atributo</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Discusión formulario</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:AutoMetaphor</title>
+    <ns>14</ns>
+    <id>3125</id>
+      <sha1>kp66z93aw3j4syj1glgrcjzdamgymjm</sha1>
+    <revision>
+      <id>6323</id>
+      <timestamp>2012-11-28T19:22:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is the AutoMetaphor category.  [[Category:Metaphor]]"</comment>
+      <text bytes="57" xml:space="preserve">This is the AutoMetaphor category.
+
+[[Category:Metaphor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:AutoFrame</title>
+    <ns>14</ns>
+    <id>3127</id>
+      <sha1>o3n6s540bd1uslko3145s0l2fsf51nh</sha1>
+    <revision>
+      <id>6326</id>
+      <timestamp>2012-12-01T23:29:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is the AutoFrame category.  [[Category:Frame]]"</comment>
+      <text bytes="53" xml:space="preserve">This is the AutoFrame category.
+
+[[Category:Frame]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:CxnMP</title>
+    <ns>14</ns>
+    <id>7172</id>
+      <sha1>tfqza138cxbnp059ia4r2s49atwtdef</sha1>
+    <revision>
+      <id>14950</id>
+      <timestamp>2014-11-18T09:18:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="56" xml:space="preserve">This category uses the form [[Has default form::CxnMP]].</text>
+    </revision>
+    <revision>
+      <id>14969</id>
+      <timestamp>2014-11-19T03:03:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="332" xml:space="preserve">This category uses the form [[Has default form::CxnMP]]:
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=Type
+| ?Has CxnMP group=Group
+| ?Has description=Description
+| ?Has comments=Comments
+| format=table
+| mainlabel=Cxn Matching Pattern
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Definition</title>
+    <ns>14</ns>
+    <id>7232</id>
+      <sha1>c2fy8yuc88vyhojtp9kdm2bkq1craax</sha1>
+    <revision>
+      <id>15299</id>
+      <timestamp>2012-07-25T23:27:07Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text bytes="325" xml:space="preserve">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:IARPASourceConcept</title>
+    <ns>14</ns>
+    <id>7084</id>
+      <sha1>8azp7whwlaqyoyt4x9pnqv1wmvh52iy</sha1>
+    <revision>
+      <id>14565</id>
+      <timestamp>2014-08-12T18:35:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «Create or edit an IARPA Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}} ---- [[MappingSummary|Frame to Conce...»</comment>
+      <text bytes="446" xml:space="preserve">Create or edit an IARPA Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}}
+----
+[[MappingSummary|Frame to Concept mapping summary]]
+----
+{{#ask: [[Category:IARPASourceConcept]] [[:IConcept:+]]
+|?HasConceptOwner=Owner
+|?HasConceptDefinition=Definition
+|?HasConceptLUs=LUs
+|format=table
+|sort=HasConceptOwner,
+}}
+----
+This category uses the form [[Has default form::IARPASourceConcept]].</text>
+    </revision>
+    <revision>
+      <id>14576</id>
+      <timestamp>2014-08-12T18:27:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "Create or edit an IARPA Source Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}} ---- [[MappingSummary|Frame to C..."</comment>
+      <text bytes="453" xml:space="preserve">Create or edit an IARPA Source Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}}
+----
+[[MappingSummary|Frame to Concept mapping summary]]
+----
+{{#ask: [[Category:IARPASourceConcept]] [[:IConcept:+]]
+|?HasConceptOwner=Owner
+|?HasConceptDefinition=Definition
+|?HasConceptLUs=LUs
+|format=table
+|sort=HasConceptOwner,
+}}
+----
+This category uses the form [[Has default form::IARPASourceConcept]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:IARPATargetConcept</title>
+    <ns>14</ns>
+    <id>7085</id>
+      <sha1>40c5wv7xafe0tpfdc00c5xq888w5tcs</sha1>
+    <revision>
+      <id>14568</id>
+      <timestamp>2014-08-12T18:38:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Página creada con «This category uses the form [[Has default form::IARPATargetConcept]].  Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomp...»</comment>
+      <text bytes="454" xml:space="preserve">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?Is linked to from frame=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+    </revision>
+    <revision>
+      <id>14571</id>
+      <timestamp>2014-08-01T21:00:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="454" xml:space="preserve">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?Is linked to from frame=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Linguistic metaphor</title>
+    <ns>14</ns>
+    <id>3114</id>
+      <sha1>g2xa2hgjqnuv3wtj7cln6l1pe6s2z1a</sha1>
+    <revision>
+      <id>6308</id>
+      <timestamp>2012-11-30T20:23:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This is the Linguistic metaphor category."</comment>
+      <text bytes="41" xml:space="preserve">This is the Linguistic metaphor category.</text>
+    </revision>
+    <revision>
+      <id>8178</id>
+      <timestamp>2012-12-10T19:25:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="575" xml:space="preserve">This is the Linguistic metaphor category.  There are 
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]|format=count}} seed metaphors and {{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]
+| format=count}} extracted metaphors.
+
+= Seed Metaphors =
+
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]
+| format=category
+| limit=1000
+}}
+
+= Extracted Metaphors =
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]
+| format=category
+| limit=1000
+}}
+
+ __CATEGORYNOPAGES__</text>
+    </revision>
+    <revision>
+      <id>8509</id>
+      <timestamp>2013-02-21T20:00:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1066" xml:space="preserve">This is the linguistic metaphor category, which includes only the subset of [[Candidate linguistic metaphors|candidate linguistic metaphors]] that are not indicated in by the [[:Property:Verification status|Verification status]] property as non metaphorical (or garbage).  The list thus presently includes any candidate linguistic metaphor that has not been manually excluded. Linguistic metaphors are added automatically, but can be edited manually using the following [[Has default form::Linguistic metaphor|form]].
+
+Numerical summary: 
+* {{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]|format=count}} extracted LMs
+* {{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]|format=count}} seed LMs
+
+= Extracted Linguistic Metaphors =
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]
+| format=category
+| limit=1000
+}}
+
+= Seed Linguistic Metaphors =
+
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]
+| format=category
+| limit=1000
+}}
+ __CATEGORYNOPAGES__</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:MetaRC</title>
+    <ns>14</ns>
+    <id>7187</id>
+      <sha1>k63xsop1xcmdet31smlqbavmtzgj6f5</sha1>
+    <revision>
+      <id>14973</id>
+      <timestamp>2014-11-20T00:13:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="297" xml:space="preserve">This category uses the form [[Has default form::MetaRC]]:
+
+{{#forminput:form=MetaRC|autocomplete on namespace=MetaRC|namespace=MetaRC|class=enformfield}}
+
+{{#ask: [[Category:MetaRC]]
+|?Has MetaRC group=Group
+|?Has MetaRC score=Score
+|?Has description=Description
+|mainlabel=MetaRC
+|format=table
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Metaphor</title>
+    <ns>14</ns>
+    <id>124</id>
+      <sha1>553dea04kymqa5asgmq057xo15k1w03</sha1>
+    <revision>
+      <id>584</id>
+      <timestamp>2012-03-09T01:57:12Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with "This is the metaphor category."</comment>
+      <text bytes="30" xml:space="preserve">This is the metaphor category.</text>
+    </revision>
+    <revision>
+      <id>1559</id>
+      <timestamp>2012-05-29T19:52:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <text bytes="60" xml:space="preserve">This category uses the form [[Has default form::Metaphors]].</text>
+    </revision>
+    <revision>
+      <id>2164</id>
+      <timestamp>2012-07-06T23:11:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="59" xml:space="preserve">This category uses the form [[Has default form::Metaphor]].</text>
+    </revision>
+    <revision>
+      <id>6321</id>
+      <timestamp>2012-12-01T23:40:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="35" xml:space="preserve">This is the Metaphor category page.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Metaphor family</title>
+    <ns>14</ns>
+    <id>769</id>
+      <sha1>gao0s91jpu2316drmpfktg1onsc0jff</sha1>
+    <revision>
+      <id>3375</id>
+      <timestamp>2012-08-01T01:45:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This category uses the form [[Has default form::Metaphor family]]."</comment>
+      <text bytes="66" xml:space="preserve">This category uses the form [[Has default form::Metaphor family]].</text>
+    </revision>
+    <revision>
+      <id>3376</id>
+      <timestamp>2012-08-01T01:46:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="145" xml:space="preserve">This category uses the form [[Has default form::Metaphor family]].  Pages of this type should be edited by [[has default form::Metaphor family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Frame</title>
+    <ns>14</ns>
+    <id>239</id>
+      <sha1>gjusl62l3d36o2e2q09b6x35kolal1g</sha1>
+    <revision>
+      <id>1309</id>
+      <timestamp>2012-05-22T17:38:38Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <text bytes="61" xml:space="preserve">This category uses the form [[Has default form::FrameEntry]].</text>
+    </revision>
+    <revision>
+      <id>1950</id>
+      <timestamp>2012-07-03T01:04:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="57" xml:space="preserve">This category uses the form [[Has default form::Frame]].</text>
+    </revision>
+    <revision>
+      <id>6324</id>
+      <timestamp>2012-12-01T23:46:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Blanked the page</comment>
+      <text bytes="0" xml:space="preserve" />
+    </revision>
+  </page>
+  <page>
+    <title>Category:Frame family</title>
+    <ns>14</ns>
+    <id>790</id>
+      <sha1>a33v5sqsxaf2q1jau2n5ld4qitm98j5</sha1>
+    <revision>
+      <id>3507</id>
+      <timestamp>2012-08-02T03:51:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with "This category should be edited with the form [[Has default form::Frame family]]."</comment>
+      <text bytes="81" xml:space="preserve">This category should be edited with the form [[Has default form::Frame family]].</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:VettedMetaphor</title>
+    <ns>14</ns>
+    <id>3124</id>
+      <sha1>80ftedue5174baoax9mii1adwllgola</sha1>
+    <revision>
+      <id>6322</id>
+      <timestamp>2012-12-01T23:41:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="195" xml:space="preserve">A category to identify the portion of Metaphors that were manually entered or approved by Linguistic analysts.  
+This category uses the form [[Has default form::Metaphor]].
+
+[[Category:Metaphor]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>Category:VettedFrame</title>
+    <ns>14</ns>
+    <id>3126</id>
+      <sha1>gw0eaedcvqqq60wk2je60yyohvdr2rb</sha1>
+    <revision>
+      <id>6325</id>
+      <timestamp>2012-12-01T23:47:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="225" xml:space="preserve">This is the VettedFrame category.  It is used to identify the portion of Frames that were manually entered or approved by Linguistic analysts. 
+This category uses the form [[Has default form::Frame]].
+
+
+[[Category:Frame]]</text>
+    </revision>
+  </page>
+</mediawiki>

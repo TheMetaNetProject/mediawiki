@@ -1,0 +1,1569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="es">
+  <siteinfo>
+    <sitename>Spanish Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Medio</namespace>
+      <namespace case="first-letter" key="-1">Especial</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Discusión</namespace>
+      <namespace case="first-letter" key="2">Usuario</namespace>
+      <namespace case="first-letter" key="3">Usuario discusión</namespace>
+      <namespace case="first-letter" key="4">Spanish Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">Spanish Metaphor Wiki discusión</namespace>
+      <namespace case="first-letter" key="6">Archivo</namespace>
+      <namespace case="first-letter" key="7">Archivo discusión</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki discusión</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template discusión</namespace>
+      <namespace case="first-letter" key="12">Ayuda</namespace>
+      <namespace case="first-letter" key="13">Ayuda discusión</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category discusión</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Discusión atributo</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Discusión formulario</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:MONEY</title>
+    <ns>570</ns>
+    <id>7106</id>
+      <sha1>qn1cr8o0nbebc2tr8et3sn5j2ple697</sha1>
+    <revision>
+      <id>14610</id>
+      <timestamp>2014-08-16T02:15:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Dinero }} }}»</comment>
+      <text bytes="117" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14616</id>
+      <timestamp>2014-08-16T05:43:48Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="151" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14617</id>
+      <timestamp>2014-08-16T05:44:06Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="203" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}{{Linked frame
+|Frame name=Recursos económicos
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14748</id>
+      <timestamp>2014-09-22T21:54:02Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="263" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Recursos económicos
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14769</id>
+      <timestamp>2014-09-23T23:17:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="306" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Recursos económicos
+
+9/23/14 (Jisup): Removing from ECONOMIC INEQUALITY.
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14776</id>
+      <timestamp>2014-09-23T23:20:26Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="307" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Recursos económicos
+
+9/23/14 (Jisup): Removing from ECONOMIC INEQUALITY.
+|ConceptFrames={{Linked frame
+|Frame name=Dinero
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:THE POOR</title>
+    <ns>570</ns>
+    <id>7104</id>
+      <sha1>khrhlzfdznhggt5wju78vx5l39klmtt</sha1>
+    <revision>
+      <id>14608</id>
+      <timestamp>2014-08-16T02:13:16Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Los pobres }} }}»</comment>
+      <text bytes="121" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Los pobres
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14618</id>
+      <timestamp>2014-08-16T05:45:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="155" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Los pobres
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14772</id>
+      <timestamp>2014-09-23T23:19:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="156" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Los pobres
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEBT</title>
+    <ns>570</ns>
+    <id>7105</id>
+      <sha1>0drnce8w9zvgdmjlnxqwfje22rmhrw4</sha1>
+    <revision>
+      <id>14609</id>
+      <timestamp>2014-08-16T02:14:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Deuda }} }}»</comment>
+      <text bytes="116" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Deuda
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14620</id>
+      <timestamp>2014-08-16T05:49:56Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="150" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Deuda
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14771</id>
+      <timestamp>2014-09-23T23:18:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="151" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Deuda
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUREAUCRACY</title>
+    <ns>570</ns>
+    <id>7091</id>
+      <sha1>n9q5o26bf52zykre9l01it6er1eei71</sha1>
+    <revision>
+      <id>14583</id>
+      <timestamp>2014-08-13T05:21:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Burocracia }} }}»</comment>
+      <text bytes="121" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Burocracia
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14585</id>
+      <timestamp>2014-08-13T05:23:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="146" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Burocracia
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICS</title>
+    <ns>570</ns>
+    <id>7103</id>
+      <sha1>t40i2z1e2w0fbo1ez6e4l2nyrhuq1dg</sha1>
+    <revision>
+      <id>14607</id>
+      <timestamp>2014-08-16T02:10:08Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames= }}»</comment>
+      <text bytes="79" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames=
+}}</text>
+    </revision>
+    <revision>
+      <id>14613</id>
+      <timestamp>2014-08-16T05:38:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="226" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Política
+}}{{Linked frame
+|Frame name=Igualdad política
+}}{{Linked frame
+|Frame name=Agrupación geopolítica
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14614</id>
+      <timestamp>2014-08-16T05:41:34Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="251" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Política
+}}{{Linked frame
+|Frame name=Igualdad política
+}}{{Linked frame
+|Frame name=Agrupación geopolítica
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14775</id>
+      <timestamp>2014-09-23T23:20:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="252" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Política
+}}{{Linked frame
+|Frame name=Igualdad política
+}}{{Linked frame
+|Frame name=Agrupación geopolítica
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WEALTH</title>
+    <ns>570</ns>
+    <id>7090</id>
+      <sha1>jojqr7wlzstvhdcb9t0l2z483nnub62</sha1>
+    <revision>
+      <id>14582</id>
+      <timestamp>2014-08-13T05:21:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Riqueza }}{{Linked frame |Frame name=Los ricos }} }}»</comment>
+      <text bytes="159" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Riqueza
+}}{{Linked frame
+|Frame name=Los ricos
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14587</id>
+      <timestamp>2014-08-13T05:24:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="193" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Riqueza
+}}{{Linked frame
+|Frame name=Los ricos
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GOVERNMENT</title>
+    <ns>570</ns>
+    <id>7092</id>
+      <sha1>4209thn42qj6wwcl3in5is2vzer8183</sha1>
+    <revision>
+      <id>14584</id>
+      <timestamp>2014-08-13T05:23:08Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Gobierno }}{{Linked frame |Frame name=Ac...»</comment>
+      <text bytes="374" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14598</id>
+      <timestamp>2014-08-13T19:25:31Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="1235" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}{{Linked frame
+|Frame name=Grupos de naciones
+}}{{Linked frame
+|Frame name=Agrupación geopolítica
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}{{Linked frame
+|Frame name=Nación
+}}{{Linked frame
+|Frame name=Acción inmoral
+}}{{Linked frame
+|Frame name=Acción moral
+}}{{Linked frame
+|Frame name=Ciudadanos
+}}{{Linked frame
+|Frame name=Economía
+}}{{Linked frame
+|Frame name=País
+}}{{Linked frame
+|Frame name=Política laboral
+}}{{Linked frame
+|Frame name=Promulgación de legislación
+}}{{Linked frame
+|Frame name=Subsidio
+}}{{Linked frame
+|Frame name=Votación
+}}{{Linked frame
+|Frame name=Ley
+}}{{Linked frame
+|Frame name=Política
+}}{{Linked frame
+|Frame name=Acción legislativa
+}}{{Linked frame
+|Frame name=Redacción de legislación
+}}{{Linked frame
+|Frame name=Líder
+}}{{Linked frame
+|Frame name=Sanción
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14624</id>
+      <timestamp>2014-08-16T05:59:40Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="1577" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}{{Linked frame
+|Frame name=Grupos de naciones
+}}{{Linked frame
+|Frame name=Agrupación geopolítica
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}{{Linked frame
+|Frame name=Nación
+}}{{Linked frame
+|Frame name=Acción inmoral
+}}{{Linked frame
+|Frame name=Acción moral
+}}{{Linked frame
+|Frame name=Ciudadanos
+}}{{Linked frame
+|Frame name=Economía
+}}{{Linked frame
+|Frame name=País
+}}{{Linked frame
+|Frame name=Política laboral
+}}{{Linked frame
+|Frame name=Promulgación de legislación
+}}{{Linked frame
+|Frame name=Subsidio
+}}{{Linked frame
+|Frame name=Votación
+}}{{Linked frame
+|Frame name=Ley
+}}{{Linked frame
+|Frame name=Política
+}}{{Linked frame
+|Frame name=Acción legislativa
+}}{{Linked frame
+|Frame name=Redacción de legislación
+}}{{Linked frame
+|Frame name=Líder
+}}{{Linked frame
+|Frame name=Sanción
+}}{{Linked frame
+|Frame name=Institución
+}}{{Linked frame
+|Frame name=Organización
+}}{{Linked frame
+|Frame name=Autoridad
+}}{{Linked frame
+|Frame name=País
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Ley
+}}{{Linked frame
+|Frame name=Acción legislativa
+}}{{Linked frame
+|Frame name=Nación
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14752</id>
+      <timestamp>2014-09-22T23:59:26Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="872" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Grupos de naciones; Agrupación geopolítica; Campaña electoral; Nación; Acción inmoral; Ciudadanos; Economía; País; Acción moral; Política laboral; Promulgación de legislación; Subsidio; Votación; Ley; Política; Acción legislativa; Redacción de legislación; Líder; Sanción; Institución; Organización; Autoridad; País; Acción legislativa
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>15045</id>
+      <timestamp>2014-12-10T18:16:42Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="1043" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Grupos de naciones; Agrupación geopolítica; Campaña electoral; Nación; Acción inmoral; Ciudadanos; Economía; País; Acción moral; Política laboral; Promulgación de legislación; Subsidio; Votación; Ley; Política; Acción legislativa; Redacción de legislación; Líder; Sanción; Institución; Organización; Autoridad; País; Acción legislativa
+|ConceptFrames={{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Reglamentos gubernamentales
+}}{{Linked frame
+|Frame name=Acción gobernante
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=casa.n
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TAXATION</title>
+    <ns>570</ns>
+    <id>7094</id>
+      <sha1>qy8o0l6bkjm61q6zor9m7pfeinhvyj9</sha1>
+    <revision>
+      <id>14589</id>
+      <timestamp>2014-08-13T05:26:07Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=ECONOMIC INEQUALITY |ConceptFrames={{Linked frame |Frame name=Tributación }}{{Linked frame |S...»</comment>
+      <text bytes="197" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Tributación
+}}{{Linked frame
+|Frame name=Impuesto
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LAW</title>
+    <ns>570</ns>
+    <id>7109</id>
+      <sha1>dx2wymrokxnjqhnctm5autl86lrrw0e</sha1>
+    <revision>
+      <id>14622</id>
+      <timestamp>2014-08-16T05:52:44Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Ley }}{{Linked frame |Frame name=Reglamento }} }}»</comment>
+      <text bytes="156" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Ley
+}}{{Linked frame
+|Frame name=Reglamento
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POLITICAL CORRUPTION</title>
+    <ns>570</ns>
+    <id>7110</id>
+      <sha1>nzpdtug4fpoz150x8teos11aq4y3kwh</sha1>
+    <revision>
+      <id>14623</id>
+      <timestamp>2014-08-16T05:54:49Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Corrupción }}{{Linked frame |Frame name...»</comment>
+      <text bytes="251" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Corrupción
+}}{{Linked frame
+|Frame name=Corrupción institucional
+}}{{Linked frame
+|Frame name=Acción inmoral
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14625</id>
+      <timestamp>2014-08-16T06:08:27Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="359" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Corrupción
+}}{{Linked frame
+|Frame name=Corrupción institucional
+}}{{Linked frame
+|Frame name=Acción inmoral
+}}{{Linked frame
+|Frame name=Explotación financiera
+}}{{Linked frame
+|Frame name=Personas explotadores
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14753</id>
+      <timestamp>2014-09-23T00:05:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="359" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+
+Acción inmoral; Explotación financiera; Personas explotadores
+|ConceptFrames={{Linked frame
+|Frame name=Corrupción
+}}{{Linked frame
+|Frame name=Corrupción institucional
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14774</id>
+      <timestamp>2014-09-23T23:19:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="360" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+
+Acción inmoral; Explotación financiera; Personas explotadores
+|ConceptFrames={{Linked frame
+|Frame name=Corrupción
+}}{{Linked frame
+|Frame name=Corrupción institucional
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SOCIAL CLASS</title>
+    <ns>570</ns>
+    <id>7102</id>
+      <sha1>9n8kil94cg4ehew4gqn7h62lfz0vq35</sha1>
+    <revision>
+      <id>14606</id>
+      <timestamp>2014-08-16T02:09:04Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Clase social }} }}»</comment>
+      <text bytes="123" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Clase social
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14619</id>
+      <timestamp>2014-08-16T05:47:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="534" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Clase social
+}}{{Linked frame
+|Frame name=Empleo
+}}{{Linked frame
+|Frame name=Desempleo
+}}{{Linked frame
+|Frame name=Estatus Económico
+}}{{Linked frame
+|Frame name=Estatus económico
+}}{{Linked frame
+|Frame name=Estado económico
+}}{{Linked frame
+|Frame name=Recursos económicos
+}}{{Linked frame
+|Frame name=Sueldo
+}}{{Linked frame
+|Frame name=Cambio de estado económico
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14754</id>
+      <timestamp>2014-09-23T00:16:24Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="997" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptDefinition=It is unclear what the definition of the SOCIAL CLASS target concept is, and what facets socioeconomic life it does and does not subsume. Here, we include economic status, income, and economic status as dimensions that are relevant to social class. It is assumed that the main LMs sought out with this concept are those including mention of "middle class", "upper class", "lower class", etc. (definition tentatively provided by Analysis Team).
+|ConceptFrames={{Linked frame
+|Frame name=Clase social
+}}{{Linked frame
+|Frame name=Empleo
+}}{{Linked frame
+|Frame name=Desempleo
+}}{{Linked frame
+|Frame name=Estatus Económico
+}}{{Linked frame
+|Frame name=Estatus económico
+}}{{Linked frame
+|Frame name=Estado económico
+}}{{Linked frame
+|Frame name=Recursos económicos
+}}{{Linked frame
+|Frame name=Sueldo
+}}{{Linked frame
+|Frame name=Cambio de estado económico
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14755</id>
+      <timestamp>2014-09-23T00:20:50Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="979" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptDefinition=It is unclear what the definition of the SOCIAL CLASS target concept is, and what facets socioeconomic life it does and does not subsume. Here, we include income and economic status as dimensions that are relevant to social class. It is assumed that the main LMs sought out with this concept are those including mention of "middle class", "upper class", "lower class", etc. (definition tentatively provided by Analysis Team).
+|ConceptFrames={{Linked frame
+|Frame name=Clase social
+}}{{Linked frame
+|Frame name=Empleo
+}}{{Linked frame
+|Frame name=Desempleo
+}}{{Linked frame
+|Frame name=Estatus Económico
+}}{{Linked frame
+|Frame name=Estatus económico
+}}{{Linked frame
+|Frame name=Estado económico
+}}{{Linked frame
+|Frame name=Recursos económicos
+}}{{Linked frame
+|Frame name=Sueldo
+}}{{Linked frame
+|Frame name=Cambio de estado económico
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14768</id>
+      <timestamp>2014-09-23T23:17:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1061" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptDefinition=It is unclear what the definition of the SOCIAL CLASS target concept is, and what facets socioeconomic life it does and does not subsume. Here, we include income and economic status as dimensions that are relevant to social class. It is assumed that the main LMs sought out with this concept are those including mention of "middle class", "upper class", "lower class", etc. (definition tentatively provided by Analysis Team).
+|ConceptComment=9/23/14 (Jisup): Removing from ECONOMIC INEQUALITY due to ill definition.
+
+|ConceptFrames={{Linked frame
+|Frame name=Clase social
+}}{{Linked frame
+|Frame name=Empleo
+}}{{Linked frame
+|Frame name=Desempleo
+}}{{Linked frame
+|Frame name=Estatus Económico
+}}{{Linked frame
+|Frame name=Estatus económico
+}}{{Linked frame
+|Frame name=Estado económico
+}}{{Linked frame
+|Frame name=Recursos económicos
+}}{{Linked frame
+|Frame name=Sueldo
+}}{{Linked frame
+|Frame name=Cambio de estado económico
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DEMOCRACY</title>
+    <ns>570</ns>
+    <id>7095</id>
+      <sha1>rpm6juyhvnsfz4e3mt4ftqgi4a3zh8h</sha1>
+    <revision>
+      <id>14590</id>
+      <timestamp>2014-08-13T05:26:48Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=DEMOCRACY |ConceptFrames={{Linked frame |Frame name=Democracia }}{{Linked frame |Frame name=I...»</comment>
+      <text bytes="257" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14597</id>
+      <timestamp>2014-08-13T19:18:15Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="582" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}{{Linked frame
+|Frame name=Elección
+}}{{Linked frame
+|Frame name=Expresión en la sociedad
+}}{{Linked frame
+|Frame name=Libertad
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Participación ciudadana
+}}{{Linked frame
+|Frame name=Votar
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14605</id>
+      <timestamp>2014-08-16T01:40:04Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="558" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}{{Linked frame
+|Frame name=Expresión en la sociedad
+}}{{Linked frame
+|Frame name=Libertad
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Participación ciudadana
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14612</id>
+      <timestamp>2014-08-16T05:35:21Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="706" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}{{Linked frame
+|Frame name=Expresión en la sociedad
+}}{{Linked frame
+|Frame name=Libertad
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Participación ciudadana
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Igualdad política
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14710</id>
+      <timestamp>2014-08-27T23:45:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="748" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}{{Linked frame
+|Frame name=Expresión en la sociedad
+}}{{Linked frame
+|Frame name=Libertad
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Participación ciudadana
+}}{{Linked frame
+|Frame name=Medio de comunicación
+}}{{Linked frame
+|Frame name=Gobierno
+}}{{Linked frame
+|Frame name=Institución gubernamental
+}}{{Linked frame
+|Frame name=Igualdad política
+}}{{Linked frame
+|Frame name=Ideología
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14747</id>
+      <timestamp>2014-09-22T21:53:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="515" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Derechos; Expresión en la sociedad; Libertad; Medio de comunicación; Participación ciudadana; Gobierno; Institución gubernamental; Igualdad política; Ideología,
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>15023</id>
+      <timestamp>2014-12-09T08:30:27Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="675" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Derechos; Expresión en la sociedad; Libertad; Medio de comunicación; Participación ciudadana; Gobierno; Institución gubernamental; Igualdad política; Ideología,
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+    <revision>
+      <id>15024</id>
+      <timestamp>2014-12-09T08:31:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="724" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Derechos; Expresión en la sociedad; Libertad; Medio de comunicación; Participación ciudadana; Gobierno; Institución gubernamental; Igualdad política; Ideología,
+
+Dec 2014 (KMM) : added Derechos back in Concept
+|ConceptFrames={{Linked frame
+|Frame name=Democracia
+}}{{Linked frame
+|Frame name=Ideología democrática
+}}{{Linked frame
+|Frame name=Institución democrática
+}}{{Linked frame
+|Frame name=Derechos
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADERSHIP</title>
+    <ns>570</ns>
+    <id>7107</id>
+      <sha1>lz5pj6zm3q6k898odmtpwmbkpdomhfk</sha1>
+    <revision>
+      <id>14611</id>
+      <timestamp>2014-08-16T02:17:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Liderazgo }} }}»</comment>
+      <text bytes="120" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Liderazgo
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14615</id>
+      <timestamp>2014-08-16T05:43:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="145" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Liderazgo
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14770</id>
+      <timestamp>2014-09-23T23:18:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="203" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=9/23/14 (Jisup): Removing from GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Liderazgo
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:POVERTY</title>
+    <ns>570</ns>
+    <id>7089</id>
+      <sha1>hm4u6pq6brecqtkdfpxjgrtg52kh4h6</sha1>
+    <revision>
+      <id>14578</id>
+      <timestamp>2014-08-13T05:17:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptFrames={{Linked frame |Frame name=Pobreza }}{{Linked frame |Frame name=Los pobres }}{{Linked frame...»</comment>
+      <text bytes="210" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Abordar la pobreza
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14579</id>
+      <timestamp>2014-08-13T05:18:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="192" xml:space="preserve">{{IARPATargetConcept
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Abordar la pobreza
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14580</id>
+      <timestamp>2014-08-13T05:19:49Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="226" xml:space="preserve">{{IARPATargetConcept
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Abordar la pobreza
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14581</id>
+      <timestamp>2014-08-13T05:20:13Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="210" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Abordar la pobreza
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14586</id>
+      <timestamp>2014-08-13T05:24:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="244" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Abordar la pobreza
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14594</id>
+      <timestamp>2014-08-13T18:57:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="247" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}{{Linked frame
+|Frame name=Adversidad económica
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14749</id>
+      <timestamp>2014-09-22T21:54:55Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="308" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Adversidad económica.
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}{{Linked frame
+|Frame name=Los pobres
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14750</id>
+      <timestamp>2014-09-22T21:55:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="278" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Adversidad económica; Los pobres.
+|ConceptFrames={{Linked frame
+|Frame name=Pobreza
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ELECTIONS</title>
+    <ns>570</ns>
+    <id>7093</id>
+      <sha1>qw9oizjw9ahuk0dna44x9te5y81maw8</sha1>
+    <revision>
+      <id>14588</id>
+      <timestamp>2014-08-13T05:25:29Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Elección }}{{Linked frame |Frame name=I...»</comment>
+      <text bytes="249" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Elección
+}}{{Linked frame
+|Frame name=Institución electoral
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14604</id>
+      <timestamp>2014-08-16T01:37:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="430" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Elección
+}}{{Linked frame
+|Frame name=Institución electoral
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}{{Linked frame
+|Frame name=Votar
+}}{{Linked frame
+|Frame name=Toma de decisiones del gobierno
+}}{{Linked frame
+|Frame name=Derechos
+}}{{Linked frame
+|Frame name=Votación
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14751</id>
+      <timestamp>2014-09-22T21:56:33Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="460" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Derechos; Toma de decisiones del gobierno.
+|ConceptFrames={{Linked frame
+|Frame name=Elección
+}}{{Linked frame
+|Frame name=Institución electoral
+}}{{Linked frame
+|Frame name=Campaña electoral
+}}{{Linked frame
+|Frame name=Votar
+}}{{Linked frame
+|Frame name=Votación
+}}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEGISLATION</title>
+    <ns>570</ns>
+    <id>7108</id>
+      <sha1>05uvcowbxu17yr05io702kjbbm9wceq</sha1>
+    <revision>
+      <id>14621</id>
+      <timestamp>2014-08-16T05:51:07Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{IARPATargetConcept |ConceptOwner=GOV |ConceptType=general |ConceptGroup=GOVERNANCE |ConceptFrames={{Linked frame |Frame name=Acción legislativa }}{{Linked frame |Sch...»</comment>
+      <text bytes="274" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Acción legislativa
+}}{{Linked frame
+|Frame name=Redacción de legislación
+}}{{Linked frame
+|Frame name=Promulgación de legislación
+}}
+}}</text>
+    </revision>
+    <revision>
+      <id>14773</id>
+      <timestamp>2014-09-23T23:19:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="275" xml:space="preserve">{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptFrames={{Linked frame
+|Frame name=Acción legislativa
+}}{{Linked frame
+|Frame name=Redacción de legislación
+}}{{Linked frame
+|Frame name=Promulgación de legislación
+}}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,113 @@
+Property:Agenda
+Property:Annotator
+Property:Application
+Property:Artist
+Property:Binding
+Property:City
+Property:Comments
+Property:Corresponds to English
+Property:Corresponds to Persian
+Property:Corresponds to Russian
+Property:Corresponds to Spanish
+Property:Date
+Property:Date of Entry
+Property:Definition.Alias
+Property:Definition.Applies to
+Property:Definition.Description
+Property:Definition.Entry
+Property:Definition.Notation
+Property:Definition.Utility
+Property:Definitions.Alias
+Property:Entered by
+Property:Event title
+Property:Example
+Property:Example.Transcription
+Property:Experiential Basis
+Property:HasConceptDefinition
+Property:HasConceptGroup
+Property:HasConceptLU
+Property:HasConceptLUs
+Property:HasConceptOwner
+Property:HasConceptStatus
+Property:HasConceptType
+Property:HasIARPAId
+Property:Has CxnMP query
+Property:Has CxnMP type
+Property:Has CxnNP group
+Property:Has English translation
+Property:Has MetaRC group
+Property:Has MetaRC query
+Property:Has MetaRC score
+Property:Has annotation
+Property:Has blacklist source LU
+Property:Has blacklist source schema
+Property:Has blacklist source schema family
+Property:Has blacklist target LU
+Property:Has comments
+Property:Has default form
+Property:Has description
+Property:Has firstname
+Property:Has lastname
+Property:Has lemma
+Property:Has lpos
+Property:Has program alias
+Property:Has provenance
+Property:Has source lemma
+Property:Has source schema
+Property:Has stagename
+Property:Has target lemma
+Property:Has target schema
+Property:Has text
+Property:Has text gloss
+Property:Has transcription
+Property:Has whitelist target LU
+Property:Incorporates as a role
+Property:Inferences
+Property:Input By
+Property:Is a subcase of
+Property:Is example of
+Property:Is from language
+Property:Is instance of CM
+Property:Is linked to from schema
+Property:LUs
+Property:LUs.Lempos
+Property:Lexical unit of
+Property:Lives in
+Property:Location
+Property:Mappings
+Property:Metaphor.Name transcription
+Property:Metaphor.Type
+Property:Metaphor Inference
+Property:Metaphor System
+Property:Metaphor examples
+Property:Metaphor family.Description
+Property:Metaphor family.Type
+Property:Metaphor subfamily of
+Property:Metaphor system
+Property:Present
+Property:Primary scene
+Property:Provenance
+Property:Related metaphor.Relation type
+Property:Related schema.Relation type
+Property:Schema.Name transcription
+Property:Schema.Type
+Property:Schema subfamily of
+Property:Source
+Property:Source Mappings
+Property:Source Schema
+Property:Status
+Property:Subordinate links
+Property:Superordinate links
+Property:Target
+Property:Target Mappings
+Property:Test domain
+Property:Test example property
+Property:Test name
+Property:Test sentence count
+Property:Test sentence with LM count
+Property:Test sentence with LM percent
+Property:Test sets count
+Property:Test sets with LM count
+Property:Test sets with LM percent
+Property:Test type
+Property:Timestamp

@@ -1,0 +1,960 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="en">
+  <siteinfo>
+    <sitename>English Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">English Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">English Metaphor Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>DEMO metaphors</title>
+    <ns>0</ns>
+    <id>10972</id>
+      <sha1>a8216clh0vrmqiskk416fn8m43og9uf</sha1>
+    <revision>
+      <id>29860</id>
+      <timestamp>2014-12-17T19:41:49Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |Description=For use in December 2014 demo. }}&quot;</comment>
+      <text xml:space="preserve" bytes="64">{{Metaphor family
+|Description=For use in December 2014 demo.
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Social problems metaphors</title>
+    <ns>0</ns>
+    <id>10829</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28968</id>
+      <timestamp>2014-10-08T04:47:13Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Rights metaphors</title>
+    <ns>0</ns>
+    <id>10805</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28730</id>
+      <timestamp>2014-10-03T18:40:16Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Government institution metaphors</title>
+    <ns>0</ns>
+    <id>10531</id>
+      <sha1>j94rrdb4fsare0044ig98gei6941c9u</sha1>
+    <revision>
+      <id>26434</id>
+      <timestamp>2014-04-25T20:50:28Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Governance metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Metaphor family
+|is subfamily of=Governance metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Bureaucracy metaphors</title>
+    <ns>0</ns>
+    <id>10459</id>
+      <sha1>j94rrdb4fsare0044ig98gei6941c9u</sha1>
+    <revision>
+      <id>25823</id>
+      <timestamp>2014-02-12T21:42:58Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Governance metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Metaphor family
+|is subfamily of=Governance metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Election metaphors</title>
+    <ns>0</ns>
+    <id>10495</id>
+      <sha1>f3ditxud2os5ej3fqpd28v6mb8fu821</sha1>
+    <revision>
+      <id>26100</id>
+      <timestamp>2014-03-11T18:09:31Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Democracy metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|is subfamily of=Democracy metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Anger Metaphors</title>
+    <ns>0</ns>
+    <id>770</id>
+      <sha1>01snkwsp7rjtjoxllstnf80y6kmsx7n</sha1>
+    <revision>
+      <id>3378</id>
+      <timestamp>2012-08-01T01:50:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Emotion Metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Metaphor family
+|is subfamily of=Emotion Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Taxation metaphors</title>
+    <ns>0</ns>
+    <id>10167</id>
+      <sha1>hadal5kirrufiiszdy3oa8wl50mi7pi</sha1>
+    <revision>
+      <id>22705</id>
+      <timestamp>2013-08-01T21:52:54Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Economics Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Metaphor family
+|is subfamily of=Economics Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Scalar Metaphors</title>
+    <ns>0</ns>
+    <id>7387</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>17983</id>
+      <timestamp>2013-02-07T00:52:19Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Physical afflictions metaphors</title>
+    <ns>0</ns>
+    <id>10291</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>23693</id>
+      <timestamp>2013-09-11T21:48:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Education metaphors</title>
+    <ns>0</ns>
+    <id>10154</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>22597</id>
+      <timestamp>2013-07-19T20:22:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>22598</id>
+      <timestamp>2013-07-19T20:24:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|is subfamily of=Economics Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Disease metaphors</title>
+    <ns>0</ns>
+    <id>10848</id>
+      <sha1>4cvbyjgjyppkcbtxhi29wlas3cn8oqv</sha1>
+    <revision>
+      <id>29135</id>
+      <timestamp>2014-11-08T22:02:51Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |Description=Metaphors that have Disease or Physical Affliction as their source domain |is subfamily of=Harm metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="139">{{Metaphor family
+|Description=Metaphors that have Disease or Physical Affliction as their source domain
+|is subfamily of=Harm metaphors
+}}</text>
+    </revision>
+    <revision>
+      <id>29140</id>
+      <timestamp>2014-11-08T22:05:37Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="155">{{Metaphor family
+|Description=Metaphors that have Disease or Physical Affliction as their source domain
+|is subfamily of=Physical afflictions metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Conduit Metaphor</title>
+    <ns>0</ns>
+    <id>780</id>
+      <sha1>5vpzmvgfxbpe9balabkt1v4qsnslzfn</sha1>
+    <revision>
+      <id>3459</id>
+      <timestamp>2012-08-02T00:10:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Mind Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|is subfamily of=Mind Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Legislation metaphors</title>
+    <ns>0</ns>
+    <id>10839</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>29024</id>
+      <timestamp>2014-10-13T21:56:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Emotion Metaphors</title>
+    <ns>0</ns>
+    <id>772</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3390</id>
+      <timestamp>2012-08-01T02:09:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Possession metaphors</title>
+    <ns>0</ns>
+    <id>10556</id>
+      <sha1>nubpontk2ecvdfkmzxz0yiplb86gzna</sha1>
+    <revision>
+      <id>26644</id>
+      <timestamp>2014-05-12T20:56:40Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Object Event Structure Metaphor }}&quot;</comment>
+      <text xml:space="preserve" bytes="69">{{Metaphor family
+|is subfamily of=Object Event Structure Metaphor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Morality metaphors</title>
+    <ns>0</ns>
+    <id>933</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>4001</id>
+      <timestamp>2012-09-17T05:40:51Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Event Structure Metaphor</title>
+    <ns>0</ns>
+    <id>776</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3454</id>
+      <timestamp>2012-08-02T00:07:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Poverty as a social problem metaphors</title>
+    <ns>0</ns>
+    <id>10521</id>
+      <sha1>554750ul5s0vagrvj2szm4bgmtz8y6d</sha1>
+    <revision>
+      <id>26255</id>
+      <timestamp>2014-04-18T19:02:38Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Poverty metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Metaphor family
+|is subfamily of=Poverty metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Strict father morality metaphors</title>
+    <ns>0</ns>
+    <id>10225</id>
+      <sha1>qzfo29y3kianz8xxn8udqc1mgy1vvjs</sha1>
+    <revision>
+      <id>23346</id>
+      <timestamp>2013-08-13T05:37:23Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Morality metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="56">{{Metaphor family
+|is subfamily of=Morality metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mathematics Metaphors</title>
+    <ns>0</ns>
+    <id>10828</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28936</id>
+      <timestamp>2014-10-07T18:56:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Location Event Structure Metaphor</title>
+    <ns>0</ns>
+    <id>910</id>
+      <sha1>6rkkkz89mg1b5ksqw2w1nipjspr18ta</sha1>
+    <revision>
+      <id>3916</id>
+      <timestamp>2012-09-11T19:16:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Event Structure Metaphor  }}&quot;</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|is subfamily of=Event Structure Metaphor 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Object Event Structure Metaphor</title>
+    <ns>0</ns>
+    <id>777</id>
+      <sha1>6rkkkz89mg1b5ksqw2w1nipjspr18ta</sha1>
+    <revision>
+      <id>3456</id>
+      <timestamp>2012-08-02T00:09:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Event Structure Metaphor  }}&quot;</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|is subfamily of=Event Structure Metaphor 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Gun debate metaphors</title>
+    <ns>0</ns>
+    <id>10712</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>27947</id>
+      <timestamp>2014-08-06T18:16:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wealth and Social Class metaphors</title>
+    <ns>0</ns>
+    <id>10171</id>
+      <sha1>hadal5kirrufiiszdy3oa8wl50mi7pi</sha1>
+    <revision>
+      <id>22713</id>
+      <timestamp>2013-08-02T15:24:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Economics Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Metaphor family
+|is subfamily of=Economics Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Function of Government metaphors</title>
+    <ns>0</ns>
+    <id>10461</id>
+      <sha1>j94rrdb4fsare0044ig98gei6941c9u</sha1>
+    <revision>
+      <id>25838</id>
+      <timestamp>2014-02-12T22:53:47Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Governance metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Metaphor family
+|is subfamily of=Governance metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Primary Metaphors</title>
+    <ns>0</ns>
+    <id>10772</id>
+      <sha1>ra1cv6p3tk8i4unw7p1hiyyzo6543ob</sha1>
+    <revision>
+      <id>28438</id>
+      <timestamp>2014-09-26T00:28:07Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}} When completed, this will be a list of all primary metaphors in the Wiki.&quot;</comment>
+      <text xml:space="preserve" bytes="93">{{Metaphor family}}
+When completed, this will be a list of all primary metaphors in the Wiki.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Thought as Language Metaphors</title>
+    <ns>0</ns>
+    <id>829</id>
+      <sha1>5vpzmvgfxbpe9balabkt1v4qsnslzfn</sha1>
+    <revision>
+      <id>3694</id>
+      <timestamp>2012-08-28T07:51:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Mind Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|is subfamily of=Mind Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Metaphors slated for deletion</title>
+    <ns>0</ns>
+    <id>10842</id>
+      <sha1>5ryq0w52zz0o6obz1mpiyel2obs590z</sha1>
+    <revision>
+      <id>29042</id>
+      <timestamp>2014-10-13T22:31:45Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |Description=These are some of the metaphors left over from the autoimport days. We need to comb through these and reallocate their examples to other metapho...&quot;</comment>
+      <text xml:space="preserve" bytes="203">{{Metaphor family
+|Description=These are some of the metaphors left over from the autoimport days. We need to comb through these and reallocate their examples to other metaphors before deleting these.
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Economics Metaphors</title>
+    <ns>0</ns>
+    <id>7573</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>18735</id>
+      <timestamp>2013-04-17T23:33:06Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Ontological Metaphors</title>
+    <ns>0</ns>
+    <id>10792</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28556</id>
+      <timestamp>2014-09-29T23:56:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Orientational Metaphors</title>
+    <ns>0</ns>
+    <id>10793</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28559</id>
+      <timestamp>2014-09-30T18:22:30Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Advocacy metaphors</title>
+    <ns>0</ns>
+    <id>10934</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>29486</id>
+      <timestamp>2014-11-20T19:17:33Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>30118</id>
+      <timestamp>2015-05-06T22:26:57Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="59">{{Metaphor family
+|Metaphor family status=in development
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>LOVE IS A JOURNEY Cascade</title>
+    <ns>0</ns>
+    <id>773</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3398</id>
+      <timestamp>2012-08-01T21:33:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>30094</id>
+      <timestamp>2015-04-13T19:54:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[LIFE/LOVE IS A JOURNEY Cascade]] to [[LOVE IS A JOURNEY Cascade]] without leaving a redirect: slashes in page names not allowed</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Governance metaphors</title>
+    <ns>0</ns>
+    <id>929</id>
+      <sha1>hx8kilzy7ydiqxuqb5nelbmizulmg3b</sha1>
+    <revision>
+      <id>3995</id>
+      <timestamp>2012-09-17T05:20:52Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}} This is a collection of metaphors relevant to our analysis of governance. They are also structured according to other families, e.g., morality metaphors.&quot;</comment>
+      <text xml:space="preserve" bytes="173">{{Metaphor family}}
+This is a collection of metaphors relevant to our analysis of governance. They are also structured according to other families, e.g., morality metaphors.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wealth metaphors</title>
+    <ns>0</ns>
+    <id>10155</id>
+      <sha1>knasjxxtoh0xg7dtoiwu0auoga460gz</sha1>
+    <revision>
+      <id>22599</id>
+      <timestamp>2013-07-19T20:26:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Economics Metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|is subfamily of=Economics Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mind Metaphors</title>
+    <ns>0</ns>
+    <id>778</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3457</id>
+      <timestamp>2012-08-02T00:09:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Questionable entailments of metaphors</title>
+    <ns>0</ns>
+    <id>10830</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>28974</id>
+      <timestamp>2014-10-08T04:52:57Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>States are Locations metaphors</title>
+    <ns>0</ns>
+    <id>10484</id>
+      <sha1>b2hik5jgqtvreoodbxw7cbskxouphif</sha1>
+    <revision>
+      <id>25979</id>
+      <timestamp>2014-03-03T18:38:04Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Location Event Structure Metaphor }}&quot;</comment>
+      <text xml:space="preserve" bytes="71">{{Metaphor family
+|is subfamily of=Location Event Structure Metaphor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Harm metaphors</title>
+    <ns>0</ns>
+    <id>10843</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>29052</id>
+      <timestamp>2014-10-13T22:51:25Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Action is Motion metaphors</title>
+    <ns>0</ns>
+    <id>10485</id>
+      <sha1>79cypwkrep7k1tuav5ivfvzblkvujvq</sha1>
+    <revision>
+      <id>25986</id>
+      <timestamp>2014-03-03T18:51:35Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Location Event Location Event Structure Metaphor  }}&quot;</comment>
+      <text xml:space="preserve" bytes="87">{{Metaphor family
+|is subfamily of=Location Event Location Event Structure Metaphor 
+}}</text>
+    </revision>
+    <revision>
+      <id>25987</id>
+      <timestamp>2014-03-03T18:52:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="71">{{Metaphor family
+|is subfamily of=Location Event Structure Metaphor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Time Metaphors</title>
+    <ns>0</ns>
+    <id>1266</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>5447</id>
+      <timestamp>2012-11-23T18:25:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Democracy metaphors</title>
+    <ns>0</ns>
+    <id>10491</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>26076</id>
+      <timestamp>2014-03-05T19:17:21Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Poverty metaphors</title>
+    <ns>0</ns>
+    <id>10166</id>
+      <sha1>knasjxxtoh0xg7dtoiwu0auoga460gz</sha1>
+    <revision>
+      <id>22704</id>
+      <timestamp>2013-08-01T21:49:13Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Economics Metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|is subfamily of=Economics Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Morality as nurturance metaphors</title>
+    <ns>0</ns>
+    <id>1065</id>
+      <sha1>e4f7kc514sbonjren5d63kbsn7jw3dr</sha1>
+    <revision>
+      <id>4402</id>
+      <timestamp>2012-10-06T06:38:07Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Morality metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|is subfamily of=Morality metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Grady Primary Metaphors</title>
+    <ns>0</ns>
+    <id>10771</id>
+      <sha1>gsd4vz93gfp16n7eileg7thd0nnmbkb</sha1>
+    <revision>
+      <id>28437</id>
+      <timestamp>2014-09-26T00:27:33Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Primary Metaphors }} This is the set of primary metaphors presented in Grady 1998.&quot;</comment>
+      <text xml:space="preserve" bytes="117">{{Metaphor family
+|is subfamily of=Primary Metaphors
+}}
+This is the set of primary metaphors presented in Grady 1998.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Action special cases</title>
+    <ns>0</ns>
+    <id>10841</id>
+      <sha1>8t0xrbmxy3i36hw85juqg7ebdhtliw9</sha1>
+    <revision>
+      <id>29037</id>
+      <timestamp>2014-10-13T22:16:09Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Action is Motion metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="64">{{Metaphor family
+|is subfamily of=Action is Motion metaphors
+}}</text>
+    </revision>
+    <revision>
+      <id>29038</id>
+      <timestamp>2014-10-13T22:27:25Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="81">{{Metaphor family
+|is subfamily of=Location Location Event Structure Metaphor 
+}}</text>
+    </revision>
+    <revision>
+      <id>29039</id>
+      <timestamp>2014-10-13T22:27:44Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="71">{{Metaphor family
+|is subfamily of=Location Event Structure Metaphor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Poverty as an individual problem metaphors</title>
+    <ns>0</ns>
+    <id>10522</id>
+      <sha1>554750ul5s0vagrvj2szm4bgmtz8y6d</sha1>
+    <revision>
+      <id>26262</id>
+      <timestamp>2014-04-18T19:09:02Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Poverty metaphors }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Metaphor family
+|is subfamily of=Poverty metaphors
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

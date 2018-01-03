@@ -1,0 +1,2896 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frame family:Force dynamic frames</title>
+    <ns>556</ns>
+    <id>1962</id>
+    <revision>
+      <id>11361</id>
+      <timestamp>2013-08-27T17:13:15Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11362</id>
+      <parentid>11361</parentid>
+      <timestamp>2014-10-02T23:48:14Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="44">{{Frame family
+|is subfamily of=Causation
+}}</text>
+      <sha1>kw68u5pkzglm934fjhsg9s4q8re1usr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11363</id>
+      <parentid>11362</parentid>
+      <timestamp>2014-10-02T23:56:45Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="53">{{Frame family
+|is subfamily of=Causation frames, 
+}}</text>
+      <sha1>pfbc3iow4tbqfz5u1bkkcfb9ypbjixg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Entity frames</title>
+    <ns>556</ns>
+    <id>1943</id>
+    <revision>
+      <id>11333</id>
+      <timestamp>2012-09-05T21:04:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Protecting frames</title>
+    <ns>556</ns>
+    <id>1973</id>
+    <revision>
+      <id>11378</id>
+      <timestamp>2014-11-25T21:23:33Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Wealth and Social Class frames</title>
+    <ns>556</ns>
+    <id>1961</id>
+    <revision>
+      <id>11359</id>
+      <timestamp>2013-08-02T15:26:07Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Economic Frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Economic Frames, 
+}}</text>
+      <sha1>dxhps3azxtcsgoqne936txi65gotcm8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11360</id>
+      <parentid>11359</parentid>
+      <timestamp>2013-09-03T20:40:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62">{{Frame family
+|is subfamily of=Economic Inequality frames,
+}}</text>
+      <sha1>b1rzbtcu0n2x6e6wpdthbe01tn624r5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Guns family</title>
+    <ns>556</ns>
+    <id>1968</id>
+    <revision>
+      <id>11371</id>
+      <timestamp>2014-07-24T17:27:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Gun debate
+}}</text>
+      <sha1>96slkn5wosxq9i4sy4t5mhza9cbk9jz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:The Middle Class frames</title>
+    <ns>556</ns>
+    <id>1983</id>
+    <revision>
+      <id>11390</id>
+      <timestamp>2013-09-03T20:48:24Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Wealth and Social Class frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Damage</title>
+    <ns>556</ns>
+    <id>1916</id>
+    <revision>
+      <id>11294</id>
+      <timestamp>2013-11-14T20:06:55Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Harm }}&quot;</comment>
+      <text xml:space="preserve" bytes="39">{{Frame family
+|is subfamily of=Harm
+}}</text>
+      <sha1>bvwuh2k9xbi7c89mgvvmivg11pwbr92</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Government frames</title>
+    <ns>556</ns>
+    <id>2010</id>
+    <revision>
+      <id>11431</id>
+      <timestamp>2013-10-10T20:47:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance |LinkSpanish=Esquemas de Gobierno }}&quot;</comment>
+      <text xml:space="preserve" bytes="79">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+      <sha1>bh7gwvftwekk59lll0spyx1i88kox2q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11432</id>
+      <parentid>11431</parentid>
+      <timestamp>2013-10-17T21:26:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="86">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+      <sha1>dr5o7x0sqmheu2tu5nzuco7c6u1ls6x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Taxes frames</title>
+    <ns>556</ns>
+    <id>1955</id>
+    <revision>
+      <id>11348</id>
+      <timestamp>2013-09-03T20:44:36Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Taxation frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Frame family
+|is subfamily of=Taxation frames
+}}</text>
+      <sha1>8rkoyytwsnzw9k1pzzqpsclsi8t5tqk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11349</id>
+      <parentid>11348</parentid>
+      <timestamp>2013-11-20T23:23:56Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="85">{{Frame family
+|is subfamily of=Taxation frames
+|LinkSpanish=Esquemas de Impuestos
+}}</text>
+      <sha1>kqw5lg055yp8px16hheiciorefuma3p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11350</id>
+      <parentid>11349</parentid>
+      <timestamp>2014-03-14T22:38:16Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="126">{{Frame family
+|is subfamily of=Taxation frames
+|LinkSpanish=Esquemas de Impuestos
+|LinkPersian=طرحواره مالیات
+}}</text>
+      <sha1>mc1uel3pkeja6iok1w8z6i9d0ax3nj1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Motion impediments frames</title>
+    <ns>556</ns>
+    <id>1948</id>
+    <revision>
+      <id>11338</id>
+      <timestamp>2014-11-25T00:19:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11339</id>
+      <parentid>11338</parentid>
+      <timestamp>2014-11-25T00:30:09Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="135">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}
+Motion impediments frame and Restraints frame are the core.</text>
+      <sha1>660avkahmf7ierw2uxmb1ddk04j9r9a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Magic frames</title>
+    <ns>556</ns>
+    <id>2013</id>
+    <revision>
+      <id>11437</id>
+      <timestamp>2014-11-25T21:53:27Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Action frames</title>
+    <ns>556</ns>
+    <id>1935</id>
+    <revision>
+      <id>11321</id>
+      <timestamp>2013-09-26T16:37:35Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Crime frames</title>
+    <ns>556</ns>
+    <id>1978</id>
+    <revision>
+      <id>11384</id>
+      <timestamp>2014-11-25T21:38:08Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Governance frames</title>
+    <ns>556</ns>
+    <id>1922</id>
+    <revision>
+      <id>11303</id>
+      <timestamp>2012-09-17T05:09:37Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}} This Frame category pulls together all frames pertaining to governance as relevant in this project.&quot;</comment>
+      <text xml:space="preserve" bytes="116">{{Frame family}}
+This Frame category pulls together all frames pertaining to governance as relevant in this project.</text>
+      <sha1>7rh3ry4vru5210gap0dqckenfh9axmk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11304</id>
+      <parentid>11303</parentid>
+      <timestamp>2013-10-17T21:27:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Governance]] to [[Governance frames]] without leaving a redirect: Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="116">{{Frame family}}
+This Frame category pulls together all frames pertaining to governance as relevant in this project.</text>
+      <sha1>7rh3ry4vru5210gap0dqckenfh9axmk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Perception frames</title>
+    <ns>556</ns>
+    <id>2004</id>
+    <revision>
+      <id>11417</id>
+      <timestamp>2013-01-16T02:32:08Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Image Schemas</title>
+    <ns>556</ns>
+    <id>2005</id>
+    <revision>
+      <id>11418</id>
+      <timestamp>2013-07-30T19:26:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11831</id>
+      <parentid>11418</parentid>
+      <timestamp>2015-05-11T18:32:56Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Mnadmin moved page [[Frame family:Image Frames]] to [[Frame family:Image Schemas]] without leaving a redirect: Text replacement - &quot;Image Frames&quot; to &quot;Image Schemas&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Legislation frames</title>
+    <ns>556</ns>
+    <id>1996</id>
+    <revision>
+      <id>11405</id>
+      <timestamp>2013-10-10T19:50:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance |LinkSpanish=Esquemas de legislación }}&quot;</comment>
+      <text xml:space="preserve" bytes="83">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de legislación
+}}</text>
+      <sha1>pfzdf0wcda8yqdsadk25xm4xp4lnu42</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11406</id>
+      <parentid>11405</parentid>
+      <timestamp>2013-10-17T21:26:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="90">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de legislación
+}}</text>
+      <sha1>2buxut6jjcl3j7macgvijoaa3yl97pn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Leaders frames</title>
+    <ns>556</ns>
+    <id>2008</id>
+    <revision>
+      <id>11424</id>
+      <timestamp>2013-10-10T20:39:42Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Governance
+}}</text>
+      <sha1>a0cag0nbjdj0536abvlqdbe9b0bxqjl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11425</id>
+      <parentid>11424</parentid>
+      <timestamp>2013-10-10T20:43:46Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="79">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de líderes
+}}</text>
+      <sha1>8qkuz86yykvfnov0hmqm0dqbuh122ay</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11426</id>
+      <parentid>11425</parentid>
+      <timestamp>2013-10-17T21:26:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="86">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de líderes
+}}</text>
+      <sha1>cw45s4srfo6gm9t5w9wtk8f2vud4w7x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Rights family</title>
+    <ns>556</ns>
+    <id>1970</id>
+    <revision>
+      <id>11373</id>
+      <timestamp>2014-10-03T19:06:48Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11374</id>
+      <parentid>11373</parentid>
+      <timestamp>2014-11-20T19:49:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="38">{{Frame family
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>ndgvjkbpzam8oe30o2ghmhy6c99urwy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11375</id>
+      <parentid>11374</parentid>
+      <timestamp>2014-11-20T19:56:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Forced movement frame family</title>
+    <ns>556</ns>
+    <id>1931</id>
+    <revision>
+      <id>11316</id>
+      <timestamp>2014-11-25T00:37:03Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Regulations frames</title>
+    <ns>556</ns>
+    <id>2009</id>
+    <revision>
+      <id>11427</id>
+      <timestamp>2013-10-10T20:56:14Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Governance
+}}</text>
+      <sha1>a0cag0nbjdj0536abvlqdbe9b0bxqjl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11428</id>
+      <parentid>11427</parentid>
+      <timestamp>2013-10-10T20:56:57Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="83">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+      <sha1>nlupepd3axixtl1hx1jmxskdgz918l3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11429</id>
+      <parentid>11428</parentid>
+      <timestamp>2013-10-17T21:23:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Regulations Frames]] to [[Regulations frames]] without leaving a redirect: Text replace - &quot;Regulations Frames&quot; to &quot;Regulations frames&quot;</comment>
+      <text xml:space="preserve" bytes="83">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+      <sha1>nlupepd3axixtl1hx1jmxskdgz918l3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11430</id>
+      <parentid>11429</parentid>
+      <timestamp>2013-10-17T21:27:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="90">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+      <sha1>qg3qss1ooiqfemvftetumlph0t0k28j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Object Event Structure frames</title>
+    <ns>556</ns>
+    <id>1975</id>
+    <revision>
+      <id>11380</id>
+      <timestamp>2013-08-11T23:03:26Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Event structure frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Frame family
+|is subfamily of=Event structure frames
+}}</text>
+      <sha1>sh7rowwnor2opjpyi2lh99q5lhjmmt9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Harmful encounters frames</title>
+    <ns>556</ns>
+    <id>1932</id>
+    <revision>
+      <id>11317</id>
+      <timestamp>2014-11-25T21:29:14Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Taxation frames</title>
+    <ns>556</ns>
+    <id>1941</id>
+    <revision>
+      <id>11330</id>
+      <timestamp>2013-08-01T22:03:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Economic Frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Economic Frames, 
+}}</text>
+      <sha1>dxhps3azxtcsgoqne936txi65gotcm8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11331</id>
+      <parentid>11330</parentid>
+      <timestamp>2013-09-03T20:39:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62">{{Frame family
+|is subfamily of=Economic Inequality frames,
+}}</text>
+      <sha1>b1rzbtcu0n2x6e6wpdthbe01tn624r5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Vehicle frames</title>
+    <ns>556</ns>
+    <id>1952</id>
+    <revision>
+      <id>11343</id>
+      <timestamp>2014-11-18T20:23:23Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Money frames</title>
+    <ns>556</ns>
+    <id>2016</id>
+    <revision>
+      <id>11440</id>
+      <timestamp>2013-09-03T20:47:11Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Wealth and Social Class frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Concealment-Protection frames</title>
+    <ns>556</ns>
+    <id>1988</id>
+    <revision>
+      <id>11396</id>
+      <timestamp>2014-05-13T19:49:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11397</id>
+      <parentid>11396</parentid>
+      <timestamp>2015-04-13T22:08:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Concealment/Protection frames]] to [[Concealment-Protection frames]] without leaving a redirect: Should not have slashes in page names</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Democratic institutions frames</title>
+    <ns>556</ns>
+    <id>1980</id>
+    <revision>
+      <id>11386</id>
+      <timestamp>2014-05-09T05:04:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Democracy frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Frame family
+|is subfamily of=Democracy frames, 
+}}</text>
+      <sha1>2gfn0h4ctuelrhhrp52kb4cxd5uat0b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Force frames</title>
+    <ns>556</ns>
+    <id>1993</id>
+    <revision>
+      <id>11402</id>
+      <timestamp>2014-11-25T21:25:51Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Location frames</title>
+    <ns>556</ns>
+    <id>1944</id>
+    <revision>
+      <id>11334</id>
+      <timestamp>2013-09-26T22:43:31Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Physical properties frame family</title>
+    <ns>556</ns>
+    <id>1950</id>
+    <revision>
+      <id>11341</id>
+      <timestamp>2014-11-20T21:11:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Food frame family</title>
+    <ns>556</ns>
+    <id>1957</id>
+    <revision>
+      <id>11352</id>
+      <timestamp>2014-11-25T01:05:52Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Motion Frames</title>
+    <ns>556</ns>
+    <id>1936</id>
+    <revision>
+      <id>11322</id>
+      <timestamp>2012-09-14T00:15:33Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Politicians frames</title>
+    <ns>556</ns>
+    <id>1967</id>
+    <revision>
+      <id>11368</id>
+      <timestamp>2013-10-10T20:23:43Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Esquemas de político }}&quot;</comment>
+      <text xml:space="preserve" bytes="56">{{Frame family
+|is subfamily of=Esquemas de político
+}}</text>
+      <sha1>doevfqyp9fe0s9y7f0s072w3l5ggmbx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11369</id>
+      <parentid>11368</parentid>
+      <timestamp>2013-10-10T20:25:03Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="80">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de político
+}}</text>
+      <sha1>r6s10r58sswcgtngvjhhezo0h01y4ba</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11370</id>
+      <parentid>11369</parentid>
+      <timestamp>2013-10-17T21:27:04Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="87">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de político
+}}</text>
+      <sha1>cm5q2b1w6q2oxee5zyp3dap18fq9tnv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Aversion frames</title>
+    <ns>556</ns>
+    <id>1928</id>
+    <revision>
+      <id>11313</id>
+      <timestamp>2013-10-17T21:04:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Mover-specific movement frames</title>
+    <ns>556</ns>
+    <id>1930</id>
+    <revision>
+      <id>11315</id>
+      <timestamp>2013-09-18T22:48:06Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Movement frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Movement frames, 
+}}</text>
+      <sha1>p1dnbparwy5knqesc6jgq8nldan1s6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Democracy frames</title>
+    <ns>556</ns>
+    <id>1917</id>
+    <revision>
+      <id>11295</id>
+      <timestamp>2014-03-05T19:00:00Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11296</id>
+      <parentid>11295</parentid>
+      <timestamp>2014-05-12T22:50:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="54">{{Frame family
+|LinkPersian=طرح دموکراسی
+}}</text>
+      <sha1>23vjkhodx3dhm8f1s5qp6coqzoby0t3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11297</id>
+      <parentid>11296</parentid>
+      <timestamp>2014-05-20T23:09:44Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|LinkPersian=مردم سالاری
+}}</text>
+      <sha1>atytig8fjh4tae5trzoq0doa7975hcn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11298</id>
+      <parentid>11297</parentid>
+      <timestamp>2014-05-20T23:11:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="88">{{Frame family
+|LinkSpanish=Esquemas de Democracia
+|LinkPersian=مردم سالاری
+}}</text>
+      <sha1>leunffublf134zzynpoknok177pog3d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Event Structure frames</title>
+    <ns>556</ns>
+    <id>1933</id>
+    <revision>
+      <id>11318</id>
+      <timestamp>2013-08-13T03:58:49Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11319</id>
+      <parentid>11318</parentid>
+      <timestamp>2013-10-08T23:46:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="56">{{Frame family
+|LinkPersian=ساختار رویداد
+}}</text>
+      <sha1>j2lfnlnaq765brf4fm4kbtyjn64h7ku</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Directional movement frames</title>
+    <ns>556</ns>
+    <id>1989</id>
+    <revision>
+      <id>11398</id>
+      <timestamp>2013-09-18T22:45:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Movement frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Movement frames, 
+}}</text>
+      <sha1>p1dnbparwy5knqesc6jgq8nldan1s6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Morality frames</title>
+    <ns>556</ns>
+    <id>1972</id>
+    <revision>
+      <id>11377</id>
+      <timestamp>2013-07-15T21:27:15Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Bureaucracy frames</title>
+    <ns>556</ns>
+    <id>1926</id>
+    <revision>
+      <id>11310</id>
+      <timestamp>2013-10-10T21:05:14Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance |LinkSpanish=Esquemas de burocracia }}&quot;</comment>
+      <text xml:space="preserve" bytes="81">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de burocracia
+}}</text>
+      <sha1>gl213cb7bfg7k8x0mmr01yg31ic8dy6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11311</id>
+      <parentid>11310</parentid>
+      <timestamp>2013-10-17T21:26:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="88">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de burocracia
+}}</text>
+      <sha1>qqqjqsk0mghwmusbwg58e9t13v1p9yq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Bounding</title>
+    <ns>556</ns>
+    <id>1947</id>
+    <revision>
+      <id>11337</id>
+      <timestamp>2013-07-30T20:07:55Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Image Frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="49">{{Frame family
+|is subfamily of=Image Frames, 
+}}</text>
+      <sha1>5j109597cwxwty6ansv0qqobornctd8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11834</id>
+      <parentid>11337</parentid>
+      <timestamp>2015-05-11T18:32:56Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Text replacement - &quot;Image Frames&quot; to &quot;Image Schemas&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Frame family
+|is subfamily of=Image Schemas, 
+}}</text>
+      <sha1>pc7p6nqrvb7jpwe84xxsodzzxkrgji2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Change-related frames</title>
+    <ns>556</ns>
+    <id>1915</id>
+    <revision>
+      <id>11293</id>
+      <timestamp>2014-10-03T22:13:36Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Water confinement frames</title>
+    <ns>556</ns>
+    <id>2015</id>
+    <revision>
+      <id>11439</id>
+      <timestamp>2014-11-25T21:22:17Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Machine frames</title>
+    <ns>556</ns>
+    <id>1918</id>
+    <revision>
+      <id>11299</id>
+      <timestamp>2014-11-25T21:19:03Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Access to Education frames</title>
+    <ns>556</ns>
+    <id>1914</id>
+    <revision>
+      <id>11292</id>
+      <timestamp>2013-09-03T20:37:12Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Economic Inequality frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="61">{{Frame family
+|is subfamily of=Economic Inequality frames
+}}</text>
+      <sha1>eplfpcxzixtlaqgmafgozoyf3fagfdd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Poverty frames</title>
+    <ns>556</ns>
+    <id>1960</id>
+    <revision>
+      <id>11355</id>
+      <timestamp>2013-08-01T22:00:52Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Economic Frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Economic Frames, 
+}}</text>
+      <sha1>dxhps3azxtcsgoqne936txi65gotcm8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11356</id>
+      <parentid>11355</parentid>
+      <timestamp>2013-09-03T20:38:45Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62">{{Frame family
+|is subfamily of=Economic Inequality frames,
+}}</text>
+      <sha1>b1rzbtcu0n2x6e6wpdthbe01tn624r5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11357</id>
+      <parentid>11356</parentid>
+      <timestamp>2013-11-20T23:56:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="95">{{Frame family
+|is subfamily of=Economic Inequality frames,
+|LinkSpanish=Esquemas de Pobreza
+}}</text>
+      <sha1>5uu0w15lovd2vv571kk4r03x0sosaqn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11358</id>
+      <parentid>11357</parentid>
+      <timestamp>2014-10-03T19:24:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="119">{{Frame family
+|is subfamily of=Economic Inequality frames, Social problem frames, 
+|LinkSpanish=Esquemas de Pobreza
+}}</text>
+      <sha1>rweivaw8mlqllazdz5bzioli0nis2ob</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Economic Frames</title>
+    <ns>556</ns>
+    <id>1946</id>
+    <revision>
+      <id>11336</id>
+      <timestamp>2013-04-17T23:18:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Resource Frames</title>
+    <ns>556</ns>
+    <id>1987</id>
+    <revision>
+      <id>11395</id>
+      <timestamp>2013-07-30T19:06:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Control of guns family</title>
+    <ns>556</ns>
+    <id>1966</id>
+    <revision>
+      <id>11367</id>
+      <timestamp>2014-07-28T19:40:51Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Gun debate
+}}</text>
+      <sha1>96slkn5wosxq9i4sy4t5mhza9cbk9jz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Moving entity frames</title>
+    <ns>556</ns>
+    <id>1971</id>
+    <revision>
+      <id>11376</id>
+      <timestamp>2015-02-20T23:14:57Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Motion Frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Motion Frames
+}}</text>
+      <sha1>97cqarp6wz69w1mbegro11f2e90jjxb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Spatial relations</title>
+    <ns>556</ns>
+    <id>1920</id>
+    <revision>
+      <id>11301</id>
+      <timestamp>2013-07-30T19:24:40Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Image Frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="47">{{Frame family
+|is subfamily of=Image Frames
+}}</text>
+      <sha1>aekprvlkco0j18q9nru6r5d9m7ju0ku</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11835</id>
+      <parentid>11301</parentid>
+      <timestamp>2015-05-11T18:32:56Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>Text replacement - &quot;Image Frames&quot; to &quot;Image Schemas&quot;</comment>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Image Schemas
+}}</text>
+      <sha1>5hismre2mcq1bbzztlb6lvz2izk3pll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:X-schema family</title>
+    <ns>556</ns>
+    <id>1953</id>
+    <revision>
+      <id>11344</id>
+      <timestamp>2014-10-03T21:54:04Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11345</id>
+      <parentid>11344</parentid>
+      <timestamp>2014-10-16T20:33:20Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="364">{{Frame family}}
+Note that the frames included here are both x-schema frames (relating to stages of x-schemas), and ALSO process frames, with the corresponding stages. All the individual process frames should be seen as special cases of the respective x-schema stages. 
+
+What distinguishes x-schema from process is that process additionally has a protagonist role.</text>
+      <sha1>a1xrhatdp0s3fqux7e6fsijaty23qhb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Politics frames</title>
+    <ns>556</ns>
+    <id>2007</id>
+    <revision>
+      <id>11420</id>
+      <timestamp>2013-10-10T20:07:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Governance
+}}</text>
+      <sha1>a0cag0nbjdj0536abvlqdbe9b0bxqjl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11421</id>
+      <parentid>11420</parentid>
+      <timestamp>2013-10-10T20:10:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="80">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de política
+}}</text>
+      <sha1>l5guigwdpov58p8qg248ijxqreajfiw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11422</id>
+      <parentid>11421</parentid>
+      <timestamp>2013-10-10T20:14:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="83">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de la política
+}}</text>
+      <sha1>enkv9p2bgrpgul1w593hvzqr4za1crd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11423</id>
+      <parentid>11422</parentid>
+      <timestamp>2013-10-17T21:27:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="90">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de la política
+}}</text>
+      <sha1>cglh76ssvdns22qp02v3jijmvz6m0fg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Causation frames</title>
+    <ns>556</ns>
+    <id>1977</id>
+    <revision>
+      <id>11383</id>
+      <timestamp>2013-11-16T01:09:22Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Evaluation Frames</title>
+    <ns>556</ns>
+    <id>2000</id>
+    <revision>
+      <id>11411</id>
+      <timestamp>2013-07-31T00:27:57Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Debt frames</title>
+    <ns>556</ns>
+    <id>2001</id>
+    <revision>
+      <id>11412</id>
+      <timestamp>2013-09-03T20:41:26Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Wealth and Social Class frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Social frames</title>
+    <ns>556</ns>
+    <id>1927</id>
+    <revision>
+      <id>11312</id>
+      <timestamp>2013-02-13T20:27:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Demo frame families</title>
+    <ns>556</ns>
+    <id>1990</id>
+    <revision>
+      <id>11399</id>
+      <timestamp>2014-11-20T20:10:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="38">{{Frame family
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>ndgvjkbpzam8oe30o2ghmhy6c99urwy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Disease frame family</title>
+    <ns>556</ns>
+    <id>2002</id>
+    <revision>
+      <id>11413</id>
+      <timestamp>2014-11-20T21:19:37Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Zealotry Insanity Worship frame family</title>
+    <ns>556</ns>
+    <id>1938</id>
+    <revision>
+      <id>11325</id>
+      <timestamp>2014-11-25T00:31:45Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }} Zealotry frame is the core.&quot;</comment>
+      <text xml:space="preserve" bytes="103">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}
+Zealotry frame is the core.</text>
+      <sha1>9teqkircr257xmkwo0iqvmn30gj53qo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Affected movement frames</title>
+    <ns>556</ns>
+    <id>1919</id>
+    <revision>
+      <id>11300</id>
+      <timestamp>2013-09-18T22:41:15Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Movement frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Movement frames, 
+}}</text>
+      <sha1>p1dnbparwy5knqesc6jgq8nldan1s6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Social Class frames</title>
+    <ns>556</ns>
+    <id>1984</id>
+    <revision>
+      <id>11391</id>
+      <timestamp>2013-09-03T20:43:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Wealth and Social Class frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Physical combat frame family</title>
+    <ns>556</ns>
+    <id>1956</id>
+    <revision>
+      <id>11351</id>
+      <timestamp>2014-11-25T01:02:27Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Social problem frames</title>
+    <ns>556</ns>
+    <id>1951</id>
+    <revision>
+      <id>11342</id>
+      <timestamp>2014-10-01T19:21:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Scale Frames</title>
+    <ns>556</ns>
+    <id>2011</id>
+    <revision>
+      <id>11433</id>
+      <timestamp>2013-01-31T19:30:27Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11434</id>
+      <parentid>11433</parentid>
+      <timestamp>2013-04-22T17:46:13Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="55">{{Frame family
+|is subfamily of=State-related frames
+}}</text>
+      <sha1>98wgih6nut4g54xd4lfcuef2eqcys0h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11435</id>
+      <parentid>11434</parentid>
+      <timestamp>2013-04-22T17:48:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="58">{{Frame family
+|is subfamily of=Property-related frames
+}}</text>
+      <sha1>bevco95rhcz4g2zi7xe4g127fwvtx7v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Endangerment frames</title>
+    <ns>556</ns>
+    <id>1991</id>
+    <revision>
+      <id>11400</id>
+      <timestamp>2014-11-25T21:33:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Unclassified</title>
+    <ns>556</ns>
+    <id>2012</id>
+    <revision>
+      <id>11436</id>
+      <timestamp>2014-10-03T19:16:19Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Natural process frames</title>
+    <ns>556</ns>
+    <id>1934</id>
+    <revision>
+      <id>11320</id>
+      <timestamp>2014-11-25T21:43:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Body frames</title>
+    <ns>556</ns>
+    <id>1982</id>
+    <revision>
+      <id>11389</id>
+      <timestamp>2014-11-25T21:48:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Eating Frames</title>
+    <ns>556</ns>
+    <id>1998</id>
+    <revision>
+      <id>11409</id>
+      <timestamp>2013-07-30T18:12:47Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Physical conflict frames</title>
+    <ns>556</ns>
+    <id>1954</id>
+    <revision>
+      <id>11346</id>
+      <timestamp>2013-10-17T21:25:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Conflict frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Frame family
+|is subfamily of=Conflict frames
+}}</text>
+      <sha1>kodan8wrdby6b81ma3hb9it6fzb9hu7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11347</id>
+      <parentid>11346</parentid>
+      <timestamp>2014-03-11T22:07:13Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Election frames</title>
+    <ns>556</ns>
+    <id>1965</id>
+    <revision>
+      <id>11366</id>
+      <timestamp>2014-03-05T21:00:48Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Democracy frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Frame family
+|is subfamily of=Democracy frames, 
+}}</text>
+      <sha1>2gfn0h4ctuelrhhrp52kb4cxd5uat0b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Internal motion frames</title>
+    <ns>556</ns>
+    <id>1964</id>
+    <revision>
+      <id>11365</id>
+      <timestamp>2014-11-25T21:11:38Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Harm</title>
+    <ns>556</ns>
+    <id>1958</id>
+    <revision>
+      <id>11353</id>
+      <timestamp>2013-10-02T19:05:53Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Competition frames</title>
+    <ns>556</ns>
+    <id>1986</id>
+    <revision>
+      <id>11394</id>
+      <timestamp>2014-03-11T21:06:52Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Object frames</title>
+    <ns>556</ns>
+    <id>1981</id>
+    <revision>
+      <id>11387</id>
+      <timestamp>2014-11-25T21:14:21Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=De }}&quot;</comment>
+      <text xml:space="preserve" bytes="73">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=De
+}}</text>
+      <sha1>7iassn0lryf6zb2hqipmxk1jtahxte7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11388</id>
+      <parentid>11387</parentid>
+      <timestamp>2014-11-25T21:14:33Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:The Law frames</title>
+    <ns>556</ns>
+    <id>1924</id>
+    <revision>
+      <id>11306</id>
+      <timestamp>2013-10-10T19:44:55Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance |LinkSpanish=Esquemas de Gobierno }}&quot;</comment>
+      <text xml:space="preserve" bytes="79">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+      <sha1>bh7gwvftwekk59lll0spyx1i88kox2q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11307</id>
+      <parentid>11306</parentid>
+      <timestamp>2013-10-10T19:45:39Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="77">{{Frame family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de la ley
+}}</text>
+      <sha1>0c7qnb02qx188zc1gv9181kuz504g32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11308</id>
+      <parentid>11307</parentid>
+      <timestamp>2013-10-17T21:27:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance frames&quot;</comment>
+      <text xml:space="preserve" bytes="84">{{Frame family
+|is subfamily of=Governance frames
+|LinkSpanish=Esquemas de la ley
+}}</text>
+      <sha1>kumtc43ji5s9fj7kesjbtv1i0nyya3p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Cognition Frames</title>
+    <ns>556</ns>
+    <id>1994</id>
+    <revision>
+      <id>11403</id>
+      <timestamp>2013-01-16T02:51:36Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Harm to living entity</title>
+    <ns>556</ns>
+    <id>1969</id>
+    <revision>
+      <id>11372</id>
+      <timestamp>2013-11-14T20:17:04Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Harm }}&quot;</comment>
+      <text xml:space="preserve" bytes="39">{{Frame family
+|is subfamily of=Harm
+}}</text>
+      <sha1>bvwuh2k9xbi7c89mgvvmivg11pwbr92</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Translational motion frames</title>
+    <ns>556</ns>
+    <id>1979</id>
+    <revision>
+      <id>11385</id>
+      <timestamp>2014-11-25T21:06:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Economic Inequality frames</title>
+    <ns>556</ns>
+    <id>2017</id>
+    <revision>
+      <id>11441</id>
+      <timestamp>2013-09-03T20:35:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11442</id>
+      <parentid>11441</parentid>
+      <timestamp>2014-05-13T01:11:07Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|LinkSpanish=Esquemas de Desigualdad Económica
+}}</text>
+      <sha1>7d4gkli2u5bdhxteeye1733nwlf8tiv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Movement frames</title>
+    <ns>556</ns>
+    <id>1992</id>
+    <revision>
+      <id>11401</id>
+      <timestamp>2013-09-18T22:27:10Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Motion Frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Motion Frames
+}}</text>
+      <sha1>97cqarp6wz69w1mbegro11f2e90jjxb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Leadership frames</title>
+    <ns>556</ns>
+    <id>1925</id>
+    <revision>
+      <id>11309</id>
+      <timestamp>2014-11-25T21:24:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Excluded frames</title>
+    <ns>556</ns>
+    <id>1976</id>
+    <revision>
+      <id>11381</id>
+      <timestamp>2013-11-18T05:52:19Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}} This is a temporary frame family that was defined to aid November 2013 metaphor extraction tests&quot;</comment>
+      <text xml:space="preserve" bytes="113">{{Frame family}}
+This is a temporary frame family that was defined to aid November 2013 metaphor extraction tests</text>
+      <sha1>d7e6t1bxhe9drvw03uyzyb6khhv7cfi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11382</id>
+      <parentid>11381</parentid>
+      <timestamp>2014-06-04T21:54:14Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>81</id>
+      </contributor>
+      <text xml:space="preserve" bytes="163">{{Frame family
+|LinkPersian=طرح های بلا استفاده
+}}
+This is a temporary frame family that was defined to aid November 2013 metaphor extraction tests</text>
+      <sha1>9xfn40rx6s9ir0yu9gr2g9xsdozuaj9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Motion-affecting frames</title>
+    <ns>556</ns>
+    <id>1937</id>
+    <revision>
+      <id>11323</id>
+      <timestamp>2013-09-18T00:12:19Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Motion frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Motion frames
+}}</text>
+      <sha1>qohafg9wvpr6i02mpt1vr0zo6joqbi3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11324</id>
+      <parentid>11323</parentid>
+      <timestamp>2013-09-18T00:13:04Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Motion Frames
+}}</text>
+      <sha1>97cqarp6wz69w1mbegro11f2e90jjxb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Separation frames</title>
+    <ns>556</ns>
+    <id>2014</id>
+    <revision>
+      <id>11438</id>
+      <timestamp>2013-08-27T17:04:27Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Change of state frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Frame family
+|is subfamily of=Change of state frames
+}}</text>
+      <sha1>fxdyufzl6fcc4epek37rvjjexdjhqv2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Communication Frames</title>
+    <ns>556</ns>
+    <id>1945</id>
+    <revision>
+      <id>11335</id>
+      <timestamp>2013-01-16T03:08:36Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Fluid frame family</title>
+    <ns>556</ns>
+    <id>1974</id>
+    <revision>
+      <id>11379</id>
+      <timestamp>2014-11-20T20:08:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Impediment and enablement frames</title>
+    <ns>556</ns>
+    <id>2006</id>
+    <revision>
+      <id>11419</id>
+      <timestamp>2013-09-18T20:50:23Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Motion-affecting frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="58">{{Frame family
+|is subfamily of=Motion-affecting frames
+}}</text>
+      <sha1>erkn13819k2n2h2jhwtriwydbaaffly</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Poverty-related frame network</title>
+    <ns>556</ns>
+    <id>1929</id>
+    <revision>
+      <id>11314</id>
+      <timestamp>2015-02-15T18:28:41Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}} created 2/15/15 for purposes of refining networks of poverty-related frames and metaphors&quot;</comment>
+      <text xml:space="preserve" bytes="106">{{Frame family}}
+created 2/15/15 for purposes of refining networks of poverty-related frames and metaphors</text>
+      <sha1>2i8jd742jf8yhn7fpjl9ywh6xth2o0w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:State-related frames</title>
+    <ns>556</ns>
+    <id>1940</id>
+    <revision>
+      <id>11328</id>
+      <timestamp>2013-03-05T22:02:04Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11329</id>
+      <parentid>11328</parentid>
+      <timestamp>2013-04-22T17:54:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="60">{{Frame family
+|is subfamily of=Property-related frames, 
+}}</text>
+      <sha1>lov1nuoy0n9u74bea6twela2s7dfi2g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Property-related frames</title>
+    <ns>556</ns>
+    <id>1959</id>
+    <revision>
+      <id>11354</id>
+      <timestamp>2013-04-22T17:51:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Function of Government frames</title>
+    <ns>556</ns>
+    <id>1949</id>
+    <revision>
+      <id>11340</id>
+      <timestamp>2014-02-12T22:29:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Governance frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Governance frames
+}}</text>
+      <sha1>ijk9h4mrcw4uirpk18agjfrbi1deh4d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Guided motion frame family</title>
+    <ns>556</ns>
+    <id>1963</id>
+    <revision>
+      <id>11364</id>
+      <timestamp>2014-11-25T00:59:29Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:The Poor frames</title>
+    <ns>556</ns>
+    <id>1997</id>
+    <revision>
+      <id>11407</id>
+      <timestamp>2013-10-17T21:28:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Poverty frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="49">{{Frame family
+|is subfamily of=Poverty frames
+}}</text>
+      <sha1>0onm0ahvcp2rucefq6amhee1v0icbi7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11408</id>
+      <parentid>11407</parentid>
+      <timestamp>2013-11-21T00:09:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="85">{{Frame family
+|is subfamily of=Poverty frames
+|LinkSpanish=Esquemas de los pobres
+}}</text>
+      <sha1>l1gaz83e1033zelhdef2gfsru3baxdn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Gun rights family</title>
+    <ns>556</ns>
+    <id>1999</id>
+    <revision>
+      <id>11410</id>
+      <timestamp>2014-07-23T19:50:50Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="45">{{Frame family
+|is subfamily of=Gun debate
+}}</text>
+      <sha1>96slkn5wosxq9i4sy4t5mhza9cbk9jz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Act on Object frames</title>
+    <ns>556</ns>
+    <id>1923</id>
+    <revision>
+      <id>11305</id>
+      <timestamp>2014-05-30T18:25:00Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Action frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="48">{{Frame family
+|is subfamily of=Action frames
+}}</text>
+      <sha1>thostxxq74fecf1w4zchwdhxue1gtpe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Possession Frames</title>
+    <ns>556</ns>
+    <id>1942</id>
+    <revision>
+      <id>11332</id>
+      <timestamp>2013-01-16T02:31:14Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:The Rich frames</title>
+    <ns>556</ns>
+    <id>1985</id>
+    <revision>
+      <id>11392</id>
+      <timestamp>2013-09-03T20:46:01Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Wealth and Social Class frames }}&quot;</comment>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11393</id>
+      <parentid>11392</parentid>
+      <timestamp>2013-11-21T00:16:54Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="100">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+|LinkSpanish=Esquemas de los ricos
+}}</text>
+      <sha1>45rxpcopjs6zks788m7gjr2vv02mbjv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Position frames</title>
+    <ns>556</ns>
+    <id>1921</id>
+    <revision>
+      <id>11302</id>
+      <timestamp>2014-11-25T21:02:22Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Demo frame families |FrameFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="75">{{Frame family
+|is subfamily of=Demo frame families
+|FrameFamilyTag=Demo
+}}</text>
+      <sha1>c3i1hu7razxgplppo1fqh8h9fd2kh7t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Gun debate</title>
+    <ns>556</ns>
+    <id>1995</id>
+    <revision>
+      <id>11404</id>
+      <timestamp>2014-07-10T19:06:33Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Education frames</title>
+    <ns>556</ns>
+    <id>2003</id>
+    <revision>
+      <id>11414</id>
+      <timestamp>2013-07-30T18:29:42Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family}}&quot;</comment>
+      <text xml:space="preserve" bytes="16">{{Frame family}}</text>
+      <sha1>ibbfdfzt68bd8edljli5zxytkxadhp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11415</id>
+      <parentid>11414</parentid>
+      <timestamp>2013-09-03T20:31:51Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="61">{{Frame family
+|is subfamily of=Access To Education frames
+}}</text>
+      <sha1>sj7jcfeyba7dj5fblmchtecz8le6dyh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11416</id>
+      <parentid>11415</parentid>
+      <timestamp>2013-09-03T20:55:09Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="63">{{Frame family
+|is subfamily of=Access to Education frames, 
+}}</text>
+      <sha1>fl4qesj9d9ld8ifm7v1pth027wd8s3s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Wealth frames</title>
+    <ns>556</ns>
+    <id>1939</id>
+    <revision>
+      <id>11326</id>
+      <timestamp>2013-08-01T22:04:30Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Frame family |is subfamily of=Economic Frames,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Frame family
+|is subfamily of=Economic Frames, 
+}}</text>
+      <sha1>dxhps3azxtcsgoqne936txi65gotcm8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11327</id>
+      <parentid>11326</parentid>
+      <timestamp>2013-09-03T20:29:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="65">{{Frame family
+|is subfamily of=Wealth and Social Class frames
+}}</text>
+      <sha1>6m8ekx6fdpyr6nidzbzkjo10rl622re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

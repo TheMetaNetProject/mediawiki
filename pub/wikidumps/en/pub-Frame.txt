@@ -1,0 +1,576 @@
+Frame:Cognizing
+Frame:Aids to motion
+Frame:Trust emotion
+Frame:Wealth
+Frame:Physical path
+Frame:Discard
+Frame:Health treatment
+Frame:Motion along a path
+Frame:Motion
+Frame:Destructive natural process
+Frame:Diagnosis of affliction
+Frame:Insurmountable differences in distance
+Frame:Burden
+Frame:Educational opportunities
+Frame:Lightness
+Frame:Factory
+Frame:Bully
+Frame:Environmental restraints
+Frame:Education
+Frame:Disorderly group
+Frame:Substance
+Frame:Communication means
+Frame:Psychological attributes
+Frame:Money
+Frame:Gun-control advocate
+Frame:Hunger
+Frame:Anger
+Frame:Awakening
+Frame:Category
+Frame:Wilderness
+Frame:Textile
+Frame:Legitimacy
+Frame:Avoiding obstacles
+Frame:Gain possession
+Frame:Part whole
+Frame:Fluid containment
+Frame:Democracy
+Frame:Resource container
+Frame:Pest
+Frame:Heat
+Frame:Guided motion
+Frame:Impeding downward motion
+Frame:Geographic feature
+Frame:Blood-sucking creature
+Frame:Forward motion
+Frame:Physical affliction
+Frame:Proximal
+Frame:Territory
+Frame:Natural disaster
+Frame:Vertical position
+Frame:Force-Dynamic Interaction
+Frame:Bird
+Frame:Motion-affecting actors
+Frame:Insanity
+Frame:Moral corruption
+Frame:Idea
+Frame:Surgery
+Frame:Punishment
+Frame:Fixing
+Frame:Being low on a scale
+Frame:Back
+Frame:Length
+Frame:Hearing
+Frame:Recreational competition
+Frame:Disgusting
+Frame:Intimacy
+Frame:Access to an object
+Frame:Barrier to accessing a location
+Frame:Firmness
+Frame:Event
+Frame:Liquid
+Frame:Unemployment
+Frame:Communication
+Frame:Inability to access a location
+Frame:Self-defense
+Frame:Possession
+Frame:Losing
+Frame:Force transfer
+Frame:Corruption
+Frame:Decrease size
+Frame:Non-translational motion
+Frame:Opportunities
+Frame:Violence
+Frame:Physical competition
+Frame:Constitution
+Frame:Ticket
+Frame:Affection
+Frame:Topological scale
+Frame:Gun debate
+Frame:Access to education
+Frame:Parent
+Frame:Understanding
+Frame:Object propulsion
+Frame:Motion-affecting properties of the landscape
+Frame:Being in a Bounded Region
+Frame:Positivity scale
+Frame:Organizational leadership
+Frame:Caused downward motion
+Frame:Consciousness
+Frame:Seafaring vehicle
+Frame:Improving a state
+Frame:Legality
+Frame:Increase ease of motion
+Frame:Being stable
+Frame:Visual evaluation
+Frame:Trajector landmark
+Frame:Membership
+Frame:Improving economic status
+Frame:Addiction
+Frame:Leftover Food
+Frame:Motion to a bounded region
+Frame:Overeating
+Frame:Judicial action
+Frame:Vehicular motion
+Frame:Affected motion
+Frame:Dissect
+Frame:State leadership
+Frame:Purity
+Frame:Obscenity
+Frame:Bureaucracy
+Frame:Across
+Frame:Group membership
+Frame:Freedom of action
+Frame:Vehicle
+Frame:Straightness
+Frame:Energy
+Frame:Quality of landscape
+Frame:Being in the middle of a scale
+Frame:Income
+Frame:Motion back and forth
+Frame:Robot
+Frame:Restraints
+Frame:Unstable
+Frame:Government
+Frame:International Relations
+Frame:Building
+Frame:Trust relationship
+Frame:Moving object
+Frame:Hiding
+Frame:Enable ability to access locations
+Frame:Market
+Frame:Concentration
+Frame:Government institution
+Frame:Separation
+Frame:Protect against contact
+Frame:Gap in path
+Frame:Adoption
+Frame:Accompany
+Frame:Drugs
+Frame:Vehicular accident
+Frame:Detach
+Frame:Upward motion
+Frame:Magic
+Frame:Placing in a protected location
+Frame:Taxes
+Frame:Geographic void
+Frame:Confinement
+Frame:Liberal market
+Frame:Survival
+Frame:Constructed Restraints
+Frame:Axis
+Frame:Transfer scenario
+Frame:Right to self-defense
+Frame:Team names
+Frame:Trespassing
+Frame:Ideology
+Frame:Zealotry
+Frame:Social status
+Frame:Sunken confinement
+Frame:Reciprocation
+Frame:Card game
+Frame:Water Confinement
+Frame:Marriage
+Frame:Change of location
+Frame:Condition of physical object
+Frame:Caused change of state
+Frame:Causation
+Frame:Experiencing an economic status
+Frame:Spatial relation
+Frame:Voting
+Frame:Weed
+Frame:Group
+Frame:Person
+Frame:Pride
+Frame:Gun possession
+Frame:Problem
+Frame:Enablement
+Frame:Psychological harm
+Frame:Moral goodness
+Frame:Complex structure
+Frame:Biological entity
+Frame:Taxation
+Frame:Measuring
+Frame:Mode of transportation
+Frame:Duration
+Frame:Change of state
+Frame:Nuclear family
+Frame:Destroying
+Frame:Perception
+Frame:Moral evaluation
+Frame:Payment
+Frame:Consume
+Frame:Pressure
+Frame:Political competition
+Frame:Regulation
+Frame:Moral authority
+Frame:Bounded region
+Frame:Motion away from a bounded region
+Frame:Being at a location
+Frame:Motion away from an undesirable location
+Frame:Ingestion
+Frame:Object insertion
+Frame:Legislative branch
+Frame:Poverty
+Frame:Being at a Low Location
+Frame:Gun-rights advocacy interest group
+Frame:Wealth redistribution
+Frame:Tyranny
+Frame:Access to knowledge
+Frame:Land vehicle
+Frame:Natural resource
+Frame:Strict father family
+Frame:Ownership
+Frame:Seeing
+Frame:Moral order
+Frame:Crime
+Frame:Cancer treatment
+Frame:Business
+Frame:Human life cycle
+Frame:Nutritious food
+Frame:Aids to downward motion
+Frame:Equality
+Frame:Injurious gun use
+Frame:Subsidy
+Frame:Starvation
+Frame:Negotiation
+Frame:Impoverished
+Frame:Extinguish
+Frame:Deforming
+Frame:Treating a physical affliction
+Frame:Into
+Frame:Directed vision
+Frame:Access
+Frame:Impact
+Frame:Company
+Frame:Trust
+Frame:Social class
+Frame:Gun rights legislation
+Frame:Immorality
+Frame:Government executive action
+Frame:Create object
+Frame:Protecting
+Frame:Citizen participation
+Frame:Machine
+Frame:Reasoning
+Frame:Grasp
+Frame:Decision making
+Frame:Sequence of actions
+Frame:Motion with respect to an undesirable entity
+Frame:Government decision making
+Frame:Judicial decision-making
+Frame:Parasite
+Frame:Cultivation
+Frame:Restore to life
+Frame:Temperature
+Frame:Burial
+Frame:Morality
+Frame:Fit
+Frame:Life cycle
+Frame:Containing
+Frame:Election
+Frame:Investment
+Frame:Verticality
+Frame:Quantity
+Frame:Increase size
+Frame:Rich food
+Frame:Aid to upward motion
+Frame:Word
+Frame:Commercial transaction
+Frame:Evaluation
+Frame:Shepherding
+Frame:Barrier
+Frame:Position
+Frame:Firm
+Frame:Fire
+Frame:Differences in distance
+Frame:Darkness
+Frame:Backward motion
+Frame:Economic competition
+Frame:Possessable object
+Frame:Excess body weight
+Frame:Physical weakness
+Frame:Crafting
+Frame:Complex physical object
+Frame:Agentive causation
+Frame:Eating
+Frame:Servant
+Frame:Existence
+Frame:Emotional intensity
+Frame:Chewing
+Frame:Tight fit
+Frame:Educational institution
+Frame:Body
+Frame:School
+Frame:Cycle
+Frame:Work scenario
+Frame:Blood flow
+Frame:Nurturant parent family
+Frame:Discussing
+Frame:Race
+Frame:Speaking
+Frame:Decay
+Frame:Antagonistic force
+Frame:Harm
+Frame:Motion impediments
+Frame:Gun legislation
+Frame:Restaurant
+Frame:Force-application
+Frame:Advocacy
+Frame:Judicial branch
+Frame:Health
+Frame:Governing action
+Frame:Physical strength
+Frame:Goodness
+Frame:Being unstable
+Frame:Gun-rights advocate
+Frame:Stop flow of substance
+Frame:Relationship
+Frame:Public trust
+Frame:Plants
+Frame:Center periphery
+Frame:Mass
+Frame:Nation
+Frame:Region
+Frame:Debt
+Frame:Citizens
+Frame:Lose possession
+Frame:Food
+Frame:Touching
+Frame:Sentient entity
+Frame:Selection
+Frame:Bounded entity
+Frame:Economic status
+Frame:Immoral action
+Frame:Misfortune
+Frame:Competitive sport
+Frame:Attacking
+Frame:Stop airflow
+Frame:Directed emotion
+Frame:Tending to plants
+Frame:Caused upward motion
+Frame:Thinking about
+Frame:Responsibility
+Frame:Servitude
+Frame:Heating fluid
+Frame:Figure ground
+Frame:Instrument
+Frame:Dwelling place
+Frame:Cleanliness
+Frame:Body of water
+Frame:Rotation
+Frame:Source path goal
+Frame:Financial transaction
+Frame:Personal weapon
+Frame:Amassing
+Frame:Pressure in a container
+Frame:Closing a portal
+Frame:Gun industry
+Frame:Quality
+Frame:Impurity
+Frame:Dispersal
+Frame:Disease treatment
+Frame:Social problems
+Frame:Being high on a scale
+Frame:Absorption
+Frame:Democratic institution
+Frame:Cause contact
+Frame:Physical entity
+Frame:Network
+Frame:Self propelled motion
+Frame:Stability
+Frame:Competition
+Frame:Leadership
+Frame:Air motion
+Frame:Legislation drafting
+Frame:Proximal distal
+Frame:Harm to living entity
+Frame:Financial resource
+Frame:Social group
+Frame:Computer
+Frame:Status
+Frame:Scale
+Frame:Location
+Frame:Wet
+Frame:Difficulties in action
+Frame:Time
+Frame:Release liquid
+Frame:Political equality
+Frame:Theft
+Frame:Group of related ideas
+Frame:Voting rights
+Frame:Physical strength scale
+Frame:Maze
+Frame:Control
+Frame:Society
+Frame:Employment
+Frame:Paths out of a location
+Frame:Physical combat
+Frame:Citizen evaluation of government
+Frame:Disease
+Frame:Badness
+Frame:Attach
+Frame:Light source
+Frame:Military leadership
+Frame:Commodity
+Frame:Legislation enactment
+Frame:Distant
+Frame:Self propelled motion to a destination
+Frame:Loose fit
+Frame:Functionality
+Frame:Argument
+Frame:Open
+Frame:Activity
+Frame:Essence
+Frame:Physical harm
+Frame:Body weight
+Frame:Economic difficulty
+Frame:Plant life cycle
+Frame:Animal
+Frame:Using
+Frame:Monetary evaluation
+Frame:Force
+Frame:Access to a location
+Frame:Experiencing a negative state
+Frame:Motion-affecting objects
+Frame:Stable
+Frame:Action
+Frame:Process continue
+Frame:Animate entity
+Frame:Citizen rights
+Frame:Motion away from a location
+Frame:Front
+Frame:Safety
+Frame:Portals
+Frame:Fluid motion
+Frame:Knowledge
+Frame:Branches of government
+Frame:Family
+Frame:Economy
+Frame:Death
+Frame:Birth
+Frame:Cut
+Frame:Circular path
+Frame:Natural process
+Frame:Fierce animal
+Frame:Contact
+Frame:Size
+Frame:Debating
+Frame:Wearable disguises
+Frame:Gambling
+Frame:Resource consumption
+Frame:System
+Frame:War
+Frame:Addressing social problems
+Frame:Second Amendment
+Frame:Weapons handling
+Frame:Lack of enablement
+Frame:Relation
+Frame:Motion to a location
+Frame:Pursue
+Frame:Silencing
+Frame:Government institution US
+Frame:Curriculum
+Frame:Value
+Frame:Increase ease of action
+Frame:Negatively evaluated condition
+Frame:Politics
+Frame:Danger
+Frame:Attribute
+Frame:Political region
+Frame:Physical connection
+Frame:Animal life cycle
+Frame:Constructed Confinement
+Frame:Purposeful action
+Frame:Cause to see
+Frame:Democratic ideology
+Frame:Community
+Frame:Gun rights
+Frame:Resource
+Frame:Weight
+Frame:Economic resource
+Frame:Government legitimacy
+Frame:Power
+Frame:Weather
+Frame:Cancer patient
+Frame:Gun use
+Frame:Disease spread
+Frame:Environmental harm
+Frame:Erosion
+Frame:Knowing
+Frame:Nurturance
+Frame:Criticizing
+Frame:Destructive force
+Frame:Plurality
+Frame:Being at a High Location
+Frame:Motion-affecting external factors
+Frame:Resource transfer
+Frame:Impediment to motion
+Frame:Large geographic features
+Frame:Mass motion
+Frame:Self-initiated state change
+Frame:Finance
+Frame:Judgment
+Frame:Freedom
+Frame:Operating a machine
+Frame:Proximity
+Frame:Wealthy people
+Frame:Analysis
+Frame:Aids to action
+Frame:Process
+Frame:Cancer
+Frame:Clear paths to accessing a location
+Frame:Sadness
+Frame:Remove burden
+Frame:Experience pain
+Frame:Agriculture
+Frame:Authority
+Frame:Killing
+Frame:Forced motion
+Frame:Possession change
+Frame:Edge
+Frame:Artifact
+Frame:Organization
+Frame:Happiness
+Frame:Lax
+Frame:Career
+Frame:Servitude authority
+Frame:Object
+Frame:Physical structure
+Frame:Living
+Frame:Criminal gun violence
+Frame:Emotion
+Frame:Diplomacy
+Frame:Romantic love
+Frame:Upright posture
+Frame:Corporation
+Frame:Bodily functioning
+Frame:Evil
+Frame:Educational evaluation
+Frame:Learning
+Frame:Steering a boat
+Frame:Gun control
+Frame:Evil creature
+Frame:Support
+Frame:Component of building
+Frame:Game
+Frame:Mind
+Frame:Democratic government
+Frame:Belief
+Frame:Gun control legislation
+Frame:Legislative action
+Frame:Well-being
+Frame:Linguistic activity
+Frame:Downward motion
+Frame:Greed
+Frame:Institution
+Frame:Luminosity
+Frame:Visual obstruction
+Frame:Entity
+Frame:Boat
+Frame:Addressing poverty
+Frame:Gun-control advocacy
+Frame:Rights
+Frame:Smell
+Frame:Physical attributes
+Frame:Taste

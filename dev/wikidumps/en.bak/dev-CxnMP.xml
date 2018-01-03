@@ -1,0 +1,1661 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>CxnMP:S-verb T-dobj</title>
+    <ns>562</ns>
+    <id>338</id>
+    <revision>
+      <id>1505</id>
+      <timestamp>2014-11-19T01:45:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_T-dobj |CxnMPDescription=Verb-Object construction |Comments=... escape poverty |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?ti...&quot;</comment>
+      <text xml:space="preserve" bytes="884">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+    ?target doc:dobj ?source .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>388ob5efylysisf4spjqyx3u4qbk39o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun cop S-noun.POSseq</title>
+    <ns>562</ns>
+    <id>339</id>
+    <revision>
+      <id>1506</id>
+      <timestamp>2014-12-16T08:44:16Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=regexp |CxnMPGroup=T-noun_cop_S-noun |CxnMPDescription=backup for N is a N |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=NN&amp;#91;^=&amp;#93;*=(?P&lt;tid...&quot;</comment>
+      <text xml:space="preserve" bytes="283">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-noun_cop_S-noun
+|CxnMPDescription=backup for N is a N
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=NN&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+) is=be=VBZ=\d+ a=a=DT=\d\
++ &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=NN&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+      <sha1>qpc39bu1c9yalck6ki6zcgdhx9dnn9u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1507</id>
+      <parentid>1506</parentid>
+      <timestamp>2014-12-16T08:45:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="282">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-noun_cop_S-noun
+|CxnMPDescription=backup for N is a N
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=NN&amp;#91;^=&amp;#93;*=(?P&lt;tidx&gt;\d+) is=be=VBZ=\d+ a=a=DT=\d\+ &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=NN&amp;#91;^=&amp;#93;*=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+      <sha1>45584d2mak8oe1bcggsrlp6ii9umknm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun prep T-noun</title>
+    <ns>562</ns>
+    <id>340</id>
+    <revision>
+      <id>1508</id>
+      <timestamp>2014-11-19T01:49:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_prep_T-noun |CxnMPDescription=N prep N constructions |Comments=path to poverty / the leap into politics |CxnMPQueryCode=SELECT ?tl...&quot;</comment>
+      <text xml:space="preserve" bytes="1320">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_prep_T-noun
+|CxnMPDescription=N prep N constructions
+|Comments=path to poverty / the leap into politics
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:hasPOS ?tpos .
+    ?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?prepword rdf:type doc:Word .
+    ?prepword doc:inSentence ?sent .
+    ?prepword doc:hasPOS ?prepPOS .
+    ?prepword (doc:iobj&amp;#124;doc:ncmod) ?source .
+    FILTER (regex(?prepPOS, &quot;^(TO&amp;#124;IN&amp;#124;PREP)&quot;)) .
+    {
+        ?target doc:dobj ?prepword .
+    } UNION {
+        ?andword rdf:type doc:Word .
+        ?andword doc:inSentence ?sent .
+        ?andword doc:hasLemma ?andLemma .
+        FILTER (regex(?andLemma, &quot;^(and&amp;#124;or)$&quot;, &quot;i&quot;)) .
+        ?andword doc:dobj ?prepword .
+        ?target doc:conj ?andword .
+    }
+    FILTER (!regex(?slemma, &quot;^(percent&amp;#124;fraction&amp;#124;amount&amp;#124;quantity)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>9vdq1kkrtvf42yh31nclwcj2s3lnquw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun mod S-noun</title>
+    <ns>562</ns>
+    <id>341</id>
+    <revision>
+      <id>1509</id>
+      <timestamp>2014-11-19T01:50:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-noun_mod_S-noun |CxnMPDescription=Noun noun modification compounds |Comments=poverty trap |CxnMPQueryCode=SELECT ?tlemma ?slemma ?senti...&quot;</comment>
+      <text xml:space="preserve" bytes="696">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_mod_S-noun
+|CxnMPDescription=Noun noun modification compounds
+|Comments=poverty trap
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?target doc:ncmod ?source .    
+}
+}}</text>
+      <sha1>flvat1gkqhfad2utvo7ruafzb3rtlnx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb Prep T-noun-conj</title>
+    <ns>562</ns>
+    <id>342</id>
+    <revision>
+      <id>1510</id>
+      <timestamp>2014-12-16T07:51:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb Prep T-noun |CxnMPDescription=Verb Prep Noun |Comments=pull up out of poverty and unemployment |CxnMPQueryCode=SELECT ?tlemma ?sle...&quot;</comment>
+      <text xml:space="preserve" bytes="953">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb Prep T-noun
+|CxnMPDescription=Verb Prep Noun
+|Comments=pull up out of poverty and unemployment
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:hasPOS ?prepPOS .
+    ?conj rdf:type doc:Word .
+    ?conj doc:inSentence ?sent .
+    ?conj doc:hasPOS ?conjPOS .
+    FILTER regex(?conjPOS, &quot;^C&quot;) .
+    ?target doc:conj ?conj .
+    ?conj doc:dobj ?prep .
+    FILTER regex(?prepPOS, &quot;^I&quot;) .
+    ?prep doc:iobj ?source .
+}
+
+}}</text>
+      <sha1>cb496mozfq4o98hfrdb13oljmfu23rt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-adj mod T-noun</title>
+    <ns>562</ns>
+    <id>343</id>
+    <revision>
+      <id>1511</id>
+      <timestamp>2014-11-19T01:51:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-adj_mod_T-noun |CxnMPDescription=adjective noun modification |Comments=forcible taxation |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentid...&quot;</comment>
+      <text xml:space="preserve" bytes="707">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-adj_mod_T-noun
+|CxnMPDescription=adjective noun modification
+|Comments=forcible taxation
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(JJ&amp;#124;VBG)&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?source doc:ncmod ?target .    
+}
+}}</text>
+      <sha1>9nobw6f9zw594juyvii94wpr3y7y5x3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1512</id>
+      <parentid>1511</parentid>
+      <timestamp>2014-12-16T02:52:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="898">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-adj_mod_T-noun
+|CxnMPDescription=adjective noun modification
+|Comments=forcible taxation
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(JJ&amp;#124;VBG)&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    {
+      ?source doc:ncmod ?target .
+    } UNION {
+      ?conj rdf:type doc:Word .
+      ?conj doc:hasPOS ?conjpos .
+      FILTER regex(?conjpos, &quot;^C&quot;) .
+      ?target doc:conj ?conj .
+      ?source doc:ncmod ?conj . 
+    }
+}
+}}</text>
+      <sha1>57q2caa7ca1q43h09u8opbl2irrmbyz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj-conj S-verb</title>
+    <ns>562</ns>
+    <id>344</id>
+    <revision>
+      <id>1513</id>
+      <timestamp>2014-11-19T01:41:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |CxnMPDescription=Subject-Verb construction |Comments=poverty infects ... |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?...&quot;</comment>
+      <text xml:space="preserve" bytes="1037">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-Verb construction
+|Comments=poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+	?andword rdf:type doc:Word .
+	?andword doc:inSentence ?sent .
+	?andword doc:hasLemma ?andLemma .
+	FILTER (regex(?andLemma, &quot;^(and&amp;#124;or)$&quot;, &quot;i&quot;)) .
+	?andword doc:ncsubj ?source .
+	?target doc:conj ?andword .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;stop&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>t05yju9p180gu97y4tgjrtchewh7wm6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun to be S-noun-adj</title>
+    <ns>562</ns>
+    <id>345</id>
+    <revision>
+      <id>1514</id>
+      <timestamp>2014-11-19T01:52:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-noun_to_be_S-noun-adj |CxnMPDescription=copula modification |Comments=democracy to be stillborn |CxnMPQueryCode=SELECT ?tlemma ?slemma ...&quot;</comment>
+      <text xml:space="preserve" bytes="801">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_to_be_S-noun-adj
+|CxnMPDescription=copula modification
+|Comments=democracy to be stillborn
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(N&amp;#124;A&amp;#124;J)&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?cop doc:xmod ?target .
+    ?source doc:xcomp+ ?cop .
+}
+}}</text>
+      <sha1>i0z5yohxwyue3393wvgksdzu09ayr2o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun cop S-noun-adj</title>
+    <ns>562</ns>
+    <id>346</id>
+    <revision>
+      <id>1515</id>
+      <timestamp>2014-11-19T01:51:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-noun_cop_S-noun-adj |CxnMPDescription=copula noun |Comments=poverty is a disease / poverty is burdenson / poverty seems to be a disease...&quot;</comment>
+      <text xml:space="preserve" bytes="843">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_cop_S-noun-adj
+|CxnMPDescription=copula noun
+|Comments=poverty is a disease / poverty is burdenson / poverty seems to be a disease
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(N&amp;#124;A&amp;#124;J)&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?target doc:ncsubj ?cop .
+    ?source doc:xcomp+ ?cop .
+}
+}}</text>
+      <sha1>jq0gtl7nvz8zwyd04bkcqrv44my2ylm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1516</id>
+      <parentid>1515</parentid>
+      <timestamp>2014-12-16T08:43:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="852">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_cop_S-noun-adj
+|CxnMPDescription=copula noun
+|Comments=poverty is a disease / poverty is burdenson / poverty seems to be a disease
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^(N&amp;#124;A&amp;#124;J)&quot;) .
+    FILTER regex(?tpos, &quot;^(N&amp;#124;A)&quot;) .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?target doc:ncsubj ?cop .
+    ?source doc:xcomp+ ?cop .
+}
+}}</text>
+      <sha1>llxlehg57p02ha6g7hiysyndeig7vky</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb-conj</title>
+    <ns>562</ns>
+    <id>347</id>
+    <revision>
+      <id>1517</id>
+      <timestamp>2014-11-19T01:40:37Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |CxnMPDescription=Subject-Verb construction |Comments=poverty infects ... |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?...&quot;</comment>
+      <text xml:space="preserve" bytes="1037">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-Verb construction
+|Comments=poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+	?andword rdf:type doc:Word .
+	?andword doc:inSentence ?sent .
+	?andword doc:hasLemma ?andLemma .
+	FILTER (regex(?andLemma, &quot;^(and&amp;#124;or)$&quot;, &quot;i&quot;)) .
+	?target doc:ncsubj ?andword .
+	?source doc:conj ?andword .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;stop&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>9yk6woctn0sh1dimkih7xnteozmuv22</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun poss S-noun.POSseq</title>
+    <ns>562</ns>
+    <id>348</id>
+    <revision>
+      <id>1518</id>
+      <timestamp>2014-11-19T01:47:57Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=regexp |CxnMPGroup=T-noun_poss_S-noun |CxnMPDescription='s Posessives: reg exp backup |Comments=poverty's morass |CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;...&quot;</comment>
+      <text xml:space="preserve" bytes="304">{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-noun_poss_S-noun
+|CxnMPDescription='s Posessives: reg exp backup
+|Comments=poverty's morass
+|CxnMPQueryCode=\b&amp;#91;^=&amp;#93;+=(?P&lt;tlemma&gt;&amp;#91;^=&amp;#93;+)=&amp;#91;^=&amp;#93;+=(?P&lt;tidx&gt;\d+) 's='s=POS=\d+ &amp;#91;^=&amp;#93;+=(?P&lt;slemma&gt;&amp;#91;^=&amp;#93;+)=&amp;#91;^=&amp;#93;+=(?P&lt;sidx&gt;\d+)\b
+}}</text>
+      <sha1>ok04le8js9tsssue3ic4mhgju9swr26</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-adj mod S-noun</title>
+    <ns>562</ns>
+    <id>349</id>
+    <revision>
+      <id>1519</id>
+      <timestamp>2014-12-15T09:35:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-adj_mod_S-noun |CxnMPDescription=adjective noun modification |Comments=bureaucratic machine |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sen...&quot;</comment>
+      <text xml:space="preserve" bytes="710">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-adj_mod_S-noun
+|CxnMPDescription=adjective noun modification
+|Comments=bureaucratic machine
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?tpos, &quot;^(JJ&amp;#124;VBG)&quot;) .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    ?target doc:ncmod ?source .    
+}
+}}</text>
+      <sha1>gou32slkgo1pqfq9bfnczvd6z73cygx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb Prep T-noun</title>
+    <ns>562</ns>
+    <id>350</id>
+    <revision>
+      <id>1520</id>
+      <timestamp>2014-11-19T01:49:50Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_Prep_T-noun |CxnMPDescription=Verb Prep Noun |Comments=slide into poverty OR pull up out of poverty
+ will also match passives: cru...&quot;</comment>
+      <text xml:space="preserve" bytes="1099">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_Prep_T-noun
+|CxnMPDescription=Verb Prep Noun
+|Comments=slide into poverty OR pull up out of poverty
+will also match passives: crushed by poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:hasPOS ?prepPOS .
+    ?target doc:dobj ?prep .
+    FILTER regex(?prepPOS, &quot;^I&quot;) .
+    {
+      ?prep doc:iobj ?source .
+    } UNION {
+      ?particle rdf:type doc:Word .
+      ?particle doc:inSentence ?sent .
+      ?particle doc:hasPOS ?partPOS .
+      FILTER regex(?partPOS, &quot;^RP&quot;) .
+      ?particle doc:ncmod ?source .
+      ?prep doc:iobj ?particle .
+    }      
+}
+}}</text>
+      <sha1>0mx8cxdnljqtwb6j768cu7jzsz3x6mp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun poss S-noun</title>
+    <ns>562</ns>
+    <id>351</id>
+    <revision>
+      <id>1521</id>
+      <timestamp>2014-11-19T01:47:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-noun_poss_S-noun |CxnMPDescription='s Posessives |Comments=poverty's undertow |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?si...&quot;</comment>
+      <text xml:space="preserve" bytes="553">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_poss_S-noun
+|CxnMPDescription='s Posessives
+|Comments=poverty's undertow
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:poss ?source .
+}
+}}</text>
+      <sha1>auqvgc1kchx702pyobde2iacy5ndi8v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj aspV S-verb</title>
+    <ns>562</ns>
+    <id>352</id>
+    <revision>
+      <id>1522</id>
+      <timestamp>2014-11-19T01:44:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj_S-verb |CxnMPDescription=Subject-AspectV-Verb construction |Comments=poverty continues to infect . |CxnMPQueryCode=SELECT ?tlemma ...&quot;</comment>
+      <text xml:space="preserve" bytes="957">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-AspectV-Verb construction
+|Comments=poverty continues to infect .
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?aspv rdf:type doc:Word .
+	?aspv doc:inSentence ?sent .
+	?target doc:ncsubj ?aspv .
+	?source doc:xcomp+ ?aspv .
+	?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+	?aspv doc:hasLemma ?avlemma .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER regex(?avlemma, &quot;^(be&amp;#124;continue&amp;#124;become&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;stop&amp;#124;begin)$&quot;, &quot;i&quot;) .
+}
+}}</text>
+      <sha1>kyc0wawhn1nv8irop1yca20esd5cn19</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-noun of T-noun</title>
+    <ns>562</ns>
+    <id>353</id>
+    <revision>
+      <id>1523</id>
+      <timestamp>2014-11-19T01:48:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-noun_of_T-noun |CxnMPDescription=N of N constructions |Comments=trap of poverty |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?...&quot;</comment>
+      <text xml:space="preserve" bytes="1549">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions
+|Comments=trap of poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?target doc:hasPOS ?tpos .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?ofword rdf:type doc:Word .
+    ?ofword doc:inSentence ?sent .
+    ?ofword doc:hasLemma ?ofLemma .
+    ?ofword doc:iobj ?source .
+    FILTER (regex(?ofLemma, &quot;^of$&quot;, &quot;i&quot;)) .
+    {
+        ?target doc:dobj ?ofword .
+    } UNION {
+        ?andword rdf:type doc:Word .
+        ?andword doc:inSentence ?sent .
+        ?andword doc:hasLemma ?andLemma .
+        FILTER (regex(?andLemma, &quot;^(and&amp;#124;or)$&quot;, &quot;i&quot;)) .
+        ?andword doc:dobj ?ofword .
+        ?target doc:conj ?andword .
+    }
+    FILTER (!regex(?slemma, &quot;^(percent&amp;#124;fraction&amp;#124;amount&amp;#124;quantity&amp;#124;out)$&quot;, &quot;i&quot;)) .
+    OPTIONAL {
+        ?outpart rdf:type doc:Word .
+        ?outpart doc:inSentence ?sent .
+        ?outpart doc:hasLemma ?outLemma .
+        ?outpart doc:ncmod ?ofword .
+        FILTER (regex(?outLemma, &quot;^out$&quot;, &quot;i&quot;)) .
+    }
+    FILTER (!BOUND(?outpart)) .
+}
+}}</text>
+      <sha1>tfwu57dhmynjwlavhluahgibdwpkmls</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-subj S-verb</title>
+    <ns>562</ns>
+    <id>354</id>
+    <revision>
+      <id>1524</id>
+      <timestamp>2014-11-18T09:21:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=T-subj S-verb |CxnMPQuery=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+ WHERE {
+ ?sent rdf:type doc:Sentence .
+ ?sent doc:hasIdx ?sentidx ...&quot;</comment>
+      <text xml:space="preserve" bytes="666">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQuery=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS|doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be|make|become|have|get|continue|use|go|finish|fail|help|manage|proceed|try|wa
+nt|endeavor|attempt|start|stop|begin)$&quot;, &quot;i&quot;)) .
+}
+
+}}</text>
+      <sha1>5q8zxhrid27br8mzbs8rih0t9ixm3r8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1525</id>
+      <parentid>1524</parentid>
+      <timestamp>2014-11-18T18:55:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Replaced content with &quot;{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+}}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+}}</text>
+      <sha1>mwz3ngi92phkmp7h23zg9681d7d4d9h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1526</id>
+      <parentid>1525</parentid>
+      <timestamp>2014-11-18T18:56:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="675">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode={{#!:SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS|doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be|make|become|have|get|continue|use|go|finish|fail|help|manage|proceed|try|want|endeavor|attempt|start|stop|begin)$&quot;, &quot;i&quot;)) .
+}}}
+}}</text>
+      <sha1>ri4e9mip63yxbikwdftpagxsxpmtjvw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1527</id>
+      <parentid>1526</parentid>
+      <timestamp>2014-11-18T19:04:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="685">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=&lt;nowiki&gt;SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS|doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be|make|become|have|get|continue|use|go|finish|fail|help|manage|proceed|try|want|endeavor|attempt|start|stop|begin)$&quot;, &quot;i&quot;)) .
+}&lt;nowiki/&gt;
+}}</text>
+      <sha1>jj0991qc47b5uslswi9y5kuvjh225il</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1528</id>
+      <parentid>1527</parentid>
+      <timestamp>2014-11-18T19:08:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="744">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS|doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be{{!}}make{{!}}become{{!}}have{{!}}get{{!}}continue{{!}}use{{!}}go{{!}}finish{{!}}fail{{!}}help{{!}}manage{{!}}proceed{{!}}try{{!}}want{{!}}endeavor{{!}}attempt{{!}}start{{!}}stop{{!}}begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>fbopp9psetujs7j3ev5iwh5d10sayb8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1529</id>
+      <parentid>1528</parentid>
+      <timestamp>2014-11-18T19:11:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="748">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS{{!}}doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be{{!}}make{{!}}become{{!}}have{{!}}get{{!}}continue{{!}}use{{!}}go{{!}}finish{{!}}fail{{!}}help{{!}}manage{{!}}proceed{{!}}try{{!}}want{{!}}endeavor{{!}}attempt{{!}}start{{!}}stop{{!}}begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>8tvhnklj3ad2xx80hhyocwqnon1u9nk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1530</id>
+      <parentid>1529</parentid>
+      <timestamp>2014-11-18T19:11:51Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="746">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE 
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS{{!}}doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be{{!}}make{{!}}become{{!}}have{{!}}get{{!}}continue{{!}}use{{!}}go{{!}}finish{{!}}fail{{!}}help{{!}}manage{{!}}proceed{{!}}try{{!}}want{{!}}endeavor{{!}}attempt{{!}}start{{!}}stop{{!}}begin)$&quot;, &quot;i&quot;)) .
+
+}}</text>
+      <sha1>i4sja6sjk74booqhn88dmewyx84zv09</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1531</id>
+      <parentid>1530</parentid>
+      <timestamp>2014-11-18T19:13:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="742">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE 
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS{{!}}doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;V&quot;) .
+FILTER (!regex(?slemma, &quot;(be{{!}}make{{!}}become{{!}}have{{!}}get{{!}}continue{{!}}use{{!}}go{{!}}finish{{!}}fail{{!}}help{{!}}manage{{!}}proceed{{!}}try{{!}}want{{!}}endeavor{{!}}attempt{{!}}start{{!}}stop{{!}}begin)&quot;, &quot;i&quot;)) .
+}}</text>
+      <sha1>rzown8bfao1gzel6iv4mthd6izu3nrb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1532</id>
+      <parentid>1531</parentid>
+      <timestamp>2014-11-18T19:15:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="662">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE 
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;V&quot;) .
+FILTER (!regex(?slemma, &quot;(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)&quot;, &quot;i&quot;)) .
+}}</text>
+      <sha1>t18mvp5kymhmxdl99yvm4v9zz1ylj4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1533</id>
+      <parentid>1532</parentid>
+      <timestamp>2014-11-18T19:27:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="665">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;V&quot;) .
+FILTER (!regex(?slemma, &quot;(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>23r0fkl5fxb0rjntfro91lkz0k60tuo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1534</id>
+      <parentid>1533</parentid>
+      <timestamp>2014-11-18T19:27:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="668">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>fr1f0zheqcxcw0edr9c6jzo2f5gw2bv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1535</id>
+      <parentid>1534</parentid>
+      <timestamp>2014-11-18T19:27:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="668">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS|doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>9qo3b5cycoo623eo1f75u6kpz3sncnz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1536</id>
+      <parentid>1535</parentid>
+      <timestamp>2014-11-18T19:28:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="672">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS{{!}}doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>7cd6ao6y9aryi8mkhqdj8rkv3jlfn3z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1537</id>
+      <parentid>1536</parentid>
+      <timestamp>2014-11-18T19:28:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="668">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>fr1f0zheqcxcw0edr9c6jzo2f5gw2bv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1538</id>
+      <parentid>1537</parentid>
+      <timestamp>2014-11-18T19:35:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="672">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be{{!}}make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>qi7b6m5u5rdf0owsce90de37awu9wt3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1539</id>
+      <parentid>1538</parentid>
+      <timestamp>2014-11-18T19:35:47Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="668">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be|make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>554s8rnpgrzflqaqmitru752noo8zda</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1540</id>
+      <parentid>1539</parentid>
+      <timestamp>2014-11-18T19:36:24Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="673">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be&amp;#124;make become have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>rfoc0xqr90big9fnajoqxk3wn897jna</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1541</id>
+      <parentid>1540</parentid>
+      <timestamp>2014-11-18T19:46:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="683">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have get continue use go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>biki2t262vvsbd7h45a0oz16eutq68h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1542</id>
+      <parentid>1541</parentid>
+      <timestamp>2014-11-18T19:59:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="708">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+?sent rdf:type doc:Sentence .
+?sent doc:hasIdx ?sentidx .
+?target rdf:type doc:Word .
+?target doc:hasIdx ?tidx .
+?target doc:hasLemma ?tlemma .
+?source rdf:type doc:Word .
+?source doc:hasIdx ?sidx .
+?source doc:hasLemma ?slemma .
+?target doc:inSentence ?sent .
+?source doc:inSentence ?sent .
+?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+?target doc:ncsubj ?source .
+FILTER regex(?spos, &quot;^V&quot;) .
+FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go finish fail help manage proceed try want endeavor attempt start stop begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>3dm8cz9as9vnyo54ozo2x0272yzqenf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1543</id>
+      <parentid>1542</parentid>
+      <timestamp>2014-11-18T20:37:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="837">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPDescription=The first one in the wiki!
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+    ?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+    ?target doc:ncsubj ?source .
+	FILTER regex(?spos, &quot;^V&quot;) .
+    FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;stop&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+
+}}</text>
+      <sha1>d95v7zx62sdm4ztr0clolaxxwc1bjup</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1544</id>
+      <parentid>1543</parentid>
+      <timestamp>2014-11-18T20:38:34Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="827">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj S-verb
+|CxnMPDescription=The first one in the wiki!
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+	?target doc:ncsubj ?source .
+	FILTER regex(?spos, &quot;^V&quot;) .
+	FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;stop&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>6uayouqw4jpanggpcxgu51tuo573n1z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:T-noun cop Prep S-noun</title>
+    <ns>562</ns>
+    <id>2097</id>
+    <revision>
+      <id>11906</id>
+      <timestamp>2015-06-26T18:52:37Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPGroup=T-noun_cop_S-noun-adj |CxnMPDescription=copula noun in prepositional phrase |Comments=the country was on a rollercoaster }}&quot;</comment>
+      <text xml:space="preserve" bytes="143">{{CxnMP
+|CxnMPGroup=T-noun_cop_S-noun-adj
+|CxnMPDescription=copula noun in prepositional phrase
+|Comments=the country was on a rollercoaster
+}}</text>
+      <sha1>s23ronwsz80rcfyu80w8dq1643itsui</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11977</id>
+      <parentid>11906</parentid>
+      <timestamp>2015-06-30T17:16:57Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>added sparql query to new cxnpattern</comment>
+      <text xml:space="preserve" bytes="899">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_cop_S-noun-adj
+|CxnMPDescription=copula noun in prepositional phrase
+|Comments=the country was on a rollercoaster
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, &quot;^N&quot;) .
+    FILTER regex(?tpos, &quot;^N&quot;) .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?target doc:ncsubj ?cop .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:pcomp ?cop .
+    ?source doc:dobj ?prep .
+}
+}}</text>
+      <sha1>rw7saf2e9bcxdiit5q12wp3yfz0x70l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>CxnMP:S-verb T-dobj-conj</title>
+    <ns>562</ns>
+    <id>355</id>
+    <revision>
+      <id>1545</id>
+      <timestamp>2014-11-19T01:46:32Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{CxnMP |CxnMPType=sparql |CxnMPGroup=S-verb_T-dobj |CxnMPDescription=Verb-Object construction |Comments=... escape poverty |CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?ti...&quot;</comment>
+      <text xml:space="preserve" bytes="1080">{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb_T-dobj
+|CxnMPDescription=Verb-Object construction
+|Comments=... escape poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source (doc:hasPOS&amp;#124;doc:hasRPOS) ?spos .
+    ?andword rdf:type doc:Word .
+    ?andword doc:inSentence ?sent .
+    ?andword doc:hasLemma ?andLemma .
+    FILTER (regex(?andLemma, &quot;^(and&amp;#124;or)$&quot;, &quot;i&quot;)) .
+    ?andword doc:dobj ?source .
+    ?target doc:conj ?andword .
+    FILTER regex(?spos, &quot;^V&quot;) .
+    FILTER (!regex(?slemma, &quot;^(be&amp;#124;make&amp;#124;become&amp;#124;have&amp;#124;get&amp;#124;continue&amp;#124;use&amp;#124;go&amp;#124;finish&amp;#124;fail&amp;#124;help&amp;#124;manage&amp;#124;proceed&amp;#124;try&amp;#124;want&amp;#124;endeavor&amp;#124;attempt&amp;#124;start&amp;#124;begin)$&quot;, &quot;i&quot;)) .
+}
+}}</text>
+      <sha1>j7hh822skijchvopwr3a9y4cqa8quis</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

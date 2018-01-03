@@ -1,0 +1,15 @@
+CxnMP:S-verb T-dobj
+CxnMP:S-adj T-noun
+CxnMP:T-subj S-verb
+CxnMP:S-verb pp T-noun
+CxnMP:S-adj T-noun.POSseq
+CxnMP:S-noun pp T-noun.POSseq
+CxnMP:T-adj S-noun.POSseq
+CxnMP:T-subj cop S-adj
+CxnMP:T-subj cop S-verb.POSseq
+CxnMP:T-adj S-noun
+CxnMP:T-subj cop S-noun
+CxnMP:T-subj S-verb.POSseq
+CxnMP:S-noun of T-noun
+CxnMP:S-noun pp T-noun
+CxnMP:S-noun of T-noun.POSseq

@@ -1,0 +1,10 @@
+Форма:CxnMP
+Форма:Definition
+Форма:IARPASourceConcept
+Форма:IARPATargetConcept
+Форма:Linguistic metaphor
+Форма:MetaRC
+Форма:Metaphor
+Форма:Metaphor family
+Форма:Schema
+Форма:Schema family

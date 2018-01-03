@@ -1,0 +1,2448 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="en">
+  <siteinfo>
+    <sitename>English Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">English Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">English Metaphor Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Access to Education schemas</title>
+    <ns>0</ns>
+    <id>10263</id>
+      <sha1>7qf053gym6dwocjs2njprowh6y8gx4a</sha1>
+    <revision>
+      <id>23585</id>
+      <timestamp>2013-09-03T20:37:12Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Economic Inequality schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="63">{{Schema family
+|is subfamily of=Economic Inequality schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Change-related schemas</title>
+    <ns>0</ns>
+    <id>10817</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>28783</id>
+      <timestamp>2014-10-03T22:13:36Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Damage</title>
+    <ns>0</ns>
+    <id>10426</id>
+      <sha1>o3h01klcwtx27ti0pm3ddtw0s28ywmj</sha1>
+    <revision>
+      <id>25261</id>
+      <timestamp>2013-11-14T20:06:55Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Harm }}&quot;</comment>
+      <text xml:space="preserve" bytes="40">{{Schema family
+|is subfamily of=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Democracy schemas</title>
+    <ns>0</ns>
+    <id>10489</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>26070</id>
+      <timestamp>2014-03-05T19:00:00Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>26660</id>
+      <timestamp>2014-05-12T22:50:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="55">{{Schema family
+|LinkPersian=طرح دموکراسی
+}}</text>
+    </revision>
+    <revision>
+      <id>26770</id>
+      <timestamp>2014-05-20T23:09:44Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="53">{{Schema family
+|LinkPersian=مردم سالاری
+}}</text>
+    </revision>
+    <revision>
+      <id>26771</id>
+      <timestamp>2014-05-20T23:11:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="89">{{Schema family
+|LinkSpanish=Esquemas de Democracia
+|LinkPersian=مردم سالاری
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Machine schemas</title>
+    <ns>0</ns>
+    <id>10955</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29671</id>
+      <timestamp>2014-11-25T21:19:03Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Affected movement schemas</title>
+    <ns>0</ns>
+    <id>10344</id>
+      <sha1>ehixt2vs61oooc1is53rhp0s3pvbt44</sha1>
+    <revision>
+      <id>24040</id>
+      <timestamp>2013-09-18T22:41:15Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Movement schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Movement schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Spatial relations</title>
+    <ns>0</ns>
+    <id>10159</id>
+      <sha1>m83jkxsdhvlolo4ynuj7ao16gcyrn1c</sha1>
+    <revision>
+      <id>22665</id>
+      <timestamp>2013-07-30T19:24:40Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Image Schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="49">{{Schema family
+|is subfamily of=Image Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Position schemas</title>
+    <ns>0</ns>
+    <id>10951</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29637</id>
+      <timestamp>2014-11-25T21:02:22Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Governance schemas</title>
+    <ns>0</ns>
+    <id>926</id>
+      <sha1>7bp4v8x8vk75g2oknac4wpo09asjelp</sha1>
+    <revision>
+      <id>3992</id>
+      <timestamp>2012-09-17T05:09:37Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}} This Schema category pulls together all schemas pertaining to governance as relevant in this project.&quot;</comment>
+      <text xml:space="preserve" bytes="119">{{Schema family}}
+This Schema category pulls together all schemas pertaining to governance as relevant in this project.</text>
+    </revision>
+    <revision>
+      <id>24943</id>
+      <timestamp>2013-10-17T21:27:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Governance]] to [[Governance schemas]] without leaving a redirect: Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="119">{{Schema family}}
+This Schema category pulls together all schemas pertaining to governance as relevant in this project.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Act on Object schemas</title>
+    <ns>0</ns>
+    <id>10643</id>
+      <sha1>gpfordsegiv2jcpjrf66svc41ptvro6</sha1>
+    <revision>
+      <id>26933</id>
+      <timestamp>2014-05-30T18:25:00Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Action schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|is subfamily of=Action schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>The Law schemas</title>
+    <ns>0</ns>
+    <id>10384</id>
+      <sha1>gsz8a130jwoctfpkblt7nmwy47g6947</sha1>
+    <revision>
+      <id>24647</id>
+      <timestamp>2013-10-10T19:44:55Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance |LinkSpanish=Esquemas de Gobierno }}&quot;</comment>
+      <text xml:space="preserve" bytes="80">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+    </revision>
+    <revision>
+      <id>24648</id>
+      <timestamp>2013-10-10T19:45:39Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de la ley
+}}</text>
+    </revision>
+    <revision>
+      <id>24899</id>
+      <timestamp>2013-10-17T21:27:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="86">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de la ley
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Leadership schemas</title>
+    <ns>0</ns>
+    <id>10958</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29685</id>
+      <timestamp>2014-11-25T21:24:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Bureaucracy schemas</title>
+    <ns>0</ns>
+    <id>10395</id>
+      <sha1>r2vmcfts75brc8tyhfgkcia806zs8pr</sha1>
+    <revision>
+      <id>24680</id>
+      <timestamp>2013-10-10T21:05:14Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance |LinkSpanish=Esquemas de burocracia }}&quot;</comment>
+      <text xml:space="preserve" bytes="82">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de burocracia
+}}</text>
+    </revision>
+    <revision>
+      <id>24892</id>
+      <timestamp>2013-10-17T21:26:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="90">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de burocracia
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Social schemas</title>
+    <ns>0</ns>
+    <id>7402</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>18110</id>
+      <timestamp>2013-02-13T20:27:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Aversion schemas</title>
+    <ns>0</ns>
+    <id>10409</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>24876</id>
+      <timestamp>2013-10-17T21:04:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Poverty-related schema network</title>
+    <ns>0</ns>
+    <id>10977</id>
+      <sha1>7ptyuljwhipwm1a4fg4k8qeorkg3k7o</sha1>
+    <revision>
+      <id>29923</id>
+      <timestamp>2015-02-15T18:28:41Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}} created 2/15/15 for purposes of refining networks of poverty-related schemas and metaphors&quot;</comment>
+      <text xml:space="preserve" bytes="108">{{Schema family}}
+created 2/15/15 for purposes of refining networks of poverty-related schemas and metaphors</text>
+    </revision>
+  </page>
+  <page>
+    <title>Mover-specific movement schemas</title>
+    <ns>0</ns>
+    <id>10346</id>
+      <sha1>ehixt2vs61oooc1is53rhp0s3pvbt44</sha1>
+    <revision>
+      <id>24054</id>
+      <timestamp>2013-09-18T22:48:06Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Movement schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Movement schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Forced movement schema family</title>
+    <ns>0</ns>
+    <id>10947</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29617</id>
+      <timestamp>2014-11-25T00:37:03Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Harmful encounters schemas</title>
+    <ns>0</ns>
+    <id>10960</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29691</id>
+      <timestamp>2014-11-25T21:29:14Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Event Structure schemas</title>
+    <ns>0</ns>
+    <id>10222</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>23313</id>
+      <timestamp>2013-08-13T03:58:49Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>24493</id>
+      <timestamp>2013-10-08T23:46:30Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">{{Schema family
+|LinkPersian=ساختار رویداد
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Natural process schemas</title>
+    <ns>0</ns>
+    <id>10963</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29721</id>
+      <timestamp>2014-11-25T21:43:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Action schemas</title>
+    <ns>0</ns>
+    <id>10351</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>24216</id>
+      <timestamp>2013-09-26T16:37:35Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Motion Schemas</title>
+    <ns>0</ns>
+    <id>919</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3967</id>
+      <timestamp>2012-09-14T00:15:33Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Motion-affecting schemas</title>
+    <ns>0</ns>
+    <id>10335</id>
+      <sha1>k3kzyz2f6fqrcm1pgrchkxyd0sfk77x</sha1>
+    <revision>
+      <id>23965</id>
+      <timestamp>2013-09-18T00:12:19Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Motion schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|is subfamily of=Motion schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>23966</id>
+      <timestamp>2013-09-18T00:13:04Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|is subfamily of=Motion Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Zealotry Insanity Worship schema family</title>
+    <ns>0</ns>
+    <id>10946</id>
+      <sha1>jpdtmsbvyb8nh9486uiqhr3qrxqqotg</sha1>
+    <revision>
+      <id>29613</id>
+      <timestamp>2014-11-25T00:31:45Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }} Zealotry schema is the core.&quot;</comment>
+      <text xml:space="preserve" bytes="107">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}
+Zealotry schema is the core.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wealth schemas</title>
+    <ns>0</ns>
+    <id>10170</id>
+      <sha1>nzkkqhc8v1p4wrwmoqjpa0vr6hs8pob</sha1>
+    <revision>
+      <id>22709</id>
+      <timestamp>2013-08-01T22:04:30Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Economic Schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Economic Schemas, 
+}}</text>
+    </revision>
+    <revision>
+      <id>23580</id>
+      <timestamp>2013-09-03T20:29:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>State-related schemas</title>
+    <ns>0</ns>
+    <id>7437</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>18551</id>
+      <timestamp>2013-03-05T22:02:04Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>21338</id>
+      <timestamp>2013-04-22T17:54:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62">{{Schema family
+|is subfamily of=Property-related schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Taxation schemas</title>
+    <ns>0</ns>
+    <id>10169</id>
+      <sha1>nzkkqhc8v1p4wrwmoqjpa0vr6hs8pob</sha1>
+    <revision>
+      <id>22708</id>
+      <timestamp>2013-08-01T22:03:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Economic Schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Economic Schemas, 
+}}</text>
+    </revision>
+    <revision>
+      <id>23589</id>
+      <timestamp>2013-09-03T20:39:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="64">{{Schema family
+|is subfamily of=Economic Inequality schemas,
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Possession Schemas</title>
+    <ns>0</ns>
+    <id>7373</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>17866</id>
+      <timestamp>2013-01-16T02:31:14Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Entity schemas</title>
+    <ns>0</ns>
+    <id>876</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>3814</id>
+      <timestamp>2012-09-05T21:04:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Location schemas</title>
+    <ns>0</ns>
+    <id>10356</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>24261</id>
+      <timestamp>2013-09-26T22:43:31Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Communication Schemas</title>
+    <ns>0</ns>
+    <id>7376</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>17884</id>
+      <timestamp>2013-01-16T03:08:36Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Economic Schemas</title>
+    <ns>0</ns>
+    <id>7569</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>18727</id>
+      <timestamp>2013-04-17T23:18:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Bounding</title>
+    <ns>0</ns>
+    <id>10161</id>
+      <sha1>ae9hh850prbo9syue6vx3g4ubaotjw4</sha1>
+    <revision>
+      <id>22672</id>
+      <timestamp>2013-07-30T20:07:55Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Image Schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="51">{{Schema family
+|is subfamily of=Image Schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Motion impediments schemas</title>
+    <ns>0</ns>
+    <id>10945</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29599</id>
+      <timestamp>2014-11-25T00:19:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+    <revision>
+      <id>29611</id>
+      <timestamp>2014-11-25T00:30:09Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="140">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}
+Motion impediments schema and Restraints schema are the core.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Function of Government schemas</title>
+    <ns>0</ns>
+    <id>10460</id>
+      <sha1>rg9xi89mogcziijz6mg8qv0xv21c1e5</sha1>
+    <revision>
+      <id>25830</id>
+      <timestamp>2014-02-12T22:29:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Governance schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Physical properties schema family</title>
+    <ns>0</ns>
+    <id>10938</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29508</id>
+      <timestamp>2014-11-20T21:11:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Social problem schemas</title>
+    <ns>0</ns>
+    <id>10794</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>28565</id>
+      <timestamp>2014-10-01T19:21:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Vehicle schemas</title>
+    <ns>0</ns>
+    <id>10870</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>29310</id>
+      <timestamp>2014-11-18T20:23:23Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>X-schema family</title>
+    <ns>0</ns>
+    <id>10811</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>28771</id>
+      <timestamp>2014-10-03T21:54:04Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>29088</id>
+      <timestamp>2014-10-16T20:33:20Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="365">{{Schema family}}
+Note that the frames included here are both x-schema frames (relating to stages of x-schemas), and ALSO process frames, with the corresponding stages. All the individual process frames should be seen as special cases of the respective x-schema stages. 
+
+What distinguishes x-schema from process is that process additionally has a protagonist role.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Physical conflict schemas</title>
+    <ns>0</ns>
+    <id>10411</id>
+      <sha1>my5gxv2p1cry1sudaum5p6rt1qf1zog</sha1>
+    <revision>
+      <id>24889</id>
+      <timestamp>2013-10-17T21:25:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Conflict schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Schema family
+|is subfamily of=Conflict schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>26141</id>
+      <timestamp>2014-03-11T22:07:13Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Taxes schemas</title>
+    <ns>0</ns>
+    <id>10266</id>
+      <sha1>jsbxf7nl6n04mxvey24x73qv0zqwzwm</sha1>
+    <revision>
+      <id>23597</id>
+      <timestamp>2013-09-03T20:44:36Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Taxation schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="52">{{Schema family
+|is subfamily of=Taxation schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>25567</id>
+      <timestamp>2013-11-20T23:23:56Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|is subfamily of=Taxation schemas
+|LinkSpanish=Esquemas de Impuestos
+}}</text>
+    </revision>
+    <revision>
+      <id>26186</id>
+      <timestamp>2014-03-14T22:38:16Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="128">{{Schema family
+|is subfamily of=Taxation schemas
+|LinkSpanish=Esquemas de Impuestos
+|LinkPersian=طرحواره مالیات
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Physical combat schema family</title>
+    <ns>0</ns>
+    <id>10949</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29628</id>
+      <timestamp>2014-11-25T01:02:27Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Food schema family</title>
+    <ns>0</ns>
+    <id>10950</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29634</id>
+      <timestamp>2014-11-25T01:05:52Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Harm</title>
+    <ns>0</ns>
+    <id>10371</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>24404</id>
+      <timestamp>2013-10-02T19:05:53Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Property-related schemas</title>
+    <ns>0</ns>
+    <id>9424</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>21337</id>
+      <timestamp>2013-04-22T17:51:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Poverty schemas</title>
+    <ns>0</ns>
+    <id>10168</id>
+      <sha1>nzkkqhc8v1p4wrwmoqjpa0vr6hs8pob</sha1>
+    <revision>
+      <id>22707</id>
+      <timestamp>2013-08-01T22:00:52Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Economic Schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Economic Schemas, 
+}}</text>
+    </revision>
+    <revision>
+      <id>23588</id>
+      <timestamp>2013-09-03T20:38:45Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="64">{{Schema family
+|is subfamily of=Economic Inequality schemas,
+}}</text>
+    </revision>
+    <revision>
+      <id>25577</id>
+      <timestamp>2013-11-20T23:56:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="97">{{Schema family
+|is subfamily of=Economic Inequality schemas,
+|LinkSpanish=Esquemas de Pobreza
+}}</text>
+    </revision>
+    <revision>
+      <id>28761</id>
+      <timestamp>2014-10-03T19:24:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="122">{{Schema family
+|is subfamily of=Economic Inequality schemas, Social problem schemas, 
+|LinkSpanish=Esquemas de Pobreza
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Wealth and Social Class schemas</title>
+    <ns>0</ns>
+    <id>10172</id>
+      <sha1>nzkkqhc8v1p4wrwmoqjpa0vr6hs8pob</sha1>
+    <revision>
+      <id>22714</id>
+      <timestamp>2013-08-02T15:26:07Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Economic Schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Economic Schemas, 
+}}</text>
+    </revision>
+    <revision>
+      <id>23590</id>
+      <timestamp>2013-09-03T20:40:02Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="64">{{Schema family
+|is subfamily of=Economic Inequality schemas,
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Force dynamic schemas</title>
+    <ns>0</ns>
+    <id>10261</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>23572</id>
+      <timestamp>2013-08-27T17:13:15Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>28707</id>
+      <timestamp>2014-10-02T23:48:14Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="45">{{Schema family
+|is subfamily of=Causation
+}}</text>
+    </revision>
+    <revision>
+      <id>28714</id>
+      <timestamp>2014-10-02T23:56:45Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="55">{{Schema family
+|is subfamily of=Causation schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Guided motion schema family</title>
+    <ns>0</ns>
+    <id>10948</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29625</id>
+      <timestamp>2014-11-25T00:59:29Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Internal motion schemas</title>
+    <ns>0</ns>
+    <id>10953</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29656</id>
+      <timestamp>2014-11-25T21:11:38Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Election schemas</title>
+    <ns>0</ns>
+    <id>10493</id>
+      <sha1>65ylvslegx5pm8dtj6du870i8t1b4rt</sha1>
+    <revision>
+      <id>26082</id>
+      <timestamp>2014-03-05T21:00:48Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Democracy schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Schema family
+|is subfamily of=Democracy schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Control of guns family</title>
+    <ns>0</ns>
+    <id>10687</id>
+      <sha1>qi5bvzs9xzsrg8m1h6wyfpv1kvu2b80</sha1>
+    <revision>
+      <id>27774</id>
+      <timestamp>2014-07-28T19:40:51Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Gun debate
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Politicians schemas</title>
+    <ns>0</ns>
+    <id>10389</id>
+      <sha1>ar7rffzc7sgpaezxq59e9ag1897gg6r</sha1>
+    <revision>
+      <id>24664</id>
+      <timestamp>2013-10-10T20:23:43Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Esquemas de político }}&quot;</comment>
+      <text xml:space="preserve" bytes="57">{{Schema family
+|is subfamily of=Esquemas de político
+}}</text>
+    </revision>
+    <revision>
+      <id>24665</id>
+      <timestamp>2013-10-10T20:25:03Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="81">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de político
+}}</text>
+    </revision>
+    <revision>
+      <id>24896</id>
+      <timestamp>2013-10-17T21:27:04Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="89">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de político
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Guns family</title>
+    <ns>0</ns>
+    <id>10678</id>
+      <sha1>qi5bvzs9xzsrg8m1h6wyfpv1kvu2b80</sha1>
+    <revision>
+      <id>27707</id>
+      <timestamp>2014-07-24T17:27:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Gun debate
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Harm to living entity</title>
+    <ns>0</ns>
+    <id>10427</id>
+      <sha1>o3h01klcwtx27ti0pm3ddtw0s28ywmj</sha1>
+    <revision>
+      <id>25274</id>
+      <timestamp>2013-11-14T20:17:04Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Harm }}&quot;</comment>
+      <text xml:space="preserve" bytes="40">{{Schema family
+|is subfamily of=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Rights family</title>
+    <ns>0</ns>
+    <id>10808</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>28748</id>
+      <timestamp>2014-10-03T19:06:48Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>29492</id>
+      <timestamp>2014-11-20T19:49:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="40">{{Schema family
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+    <revision>
+      <id>29496</id>
+      <timestamp>2014-11-20T19:56:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Moving entity schemas</title>
+    <ns>0</ns>
+    <id>10978</id>
+      <sha1>o82kjjgeaval7wqypc5cq5gt6gz6m0g</sha1>
+    <revision>
+      <id>29959</id>
+      <timestamp>2015-02-20T23:14:57Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Motion Schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|is subfamily of=Motion Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Morality schemas</title>
+    <ns>0</ns>
+    <id>10153</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22589</id>
+      <timestamp>2013-07-15T21:27:15Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Protecting schemas</title>
+    <ns>0</ns>
+    <id>10957</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29681</id>
+      <timestamp>2014-11-25T21:23:33Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Fluid schema family</title>
+    <ns>0</ns>
+    <id>10936</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29498</id>
+      <timestamp>2014-11-20T20:08:32Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Object Event Structure schemas</title>
+    <ns>0</ns>
+    <id>10206</id>
+      <sha1>c76wbl83m1uvv8u50ajy3nzeso6j2id</sha1>
+    <revision>
+      <id>23184</id>
+      <timestamp>2013-08-11T23:03:26Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Event structure schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="59">{{Schema family
+|is subfamily of=Event structure schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Excluded schemas</title>
+    <ns>0</ns>
+    <id>10436</id>
+      <sha1>rlt8sibp2lft1ssk5eyovufnl3eipt2</sha1>
+    <revision>
+      <id>25456</id>
+      <timestamp>2013-11-18T05:52:19Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}} This is a temporary schema family that was defined to aid November 2013 metaphor extraction tests&quot;</comment>
+      <text xml:space="preserve" bytes="115">{{Schema family}}
+This is a temporary schema family that was defined to aid November 2013 metaphor extraction tests</text>
+    </revision>
+    <revision>
+      <id>27183</id>
+      <timestamp>2014-06-04T21:54:14Z</timestamp>
+      <contributor>
+        <username>Ariafani</username>
+        <id>81</id>
+      </contributor>
+      <text xml:space="preserve" bytes="165">{{Schema family
+|LinkPersian=طرح های بلا استفاده
+}}
+This is a temporary schema family that was defined to aid November 2013 metaphor extraction tests</text>
+    </revision>
+  </page>
+  <page>
+    <title>Causation schemas</title>
+    <ns>0</ns>
+    <id>10434</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>25386</id>
+      <timestamp>2013-11-16T01:09:22Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Crime schemas</title>
+    <ns>0</ns>
+    <id>10962</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29712</id>
+      <timestamp>2014-11-25T21:38:08Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Translational motion schemas</title>
+    <ns>0</ns>
+    <id>10952</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29643</id>
+      <timestamp>2014-11-25T21:06:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Democratic institutions schemas</title>
+    <ns>0</ns>
+    <id>10544</id>
+      <sha1>65ylvslegx5pm8dtj6du870i8t1b4rt</sha1>
+    <revision>
+      <id>26544</id>
+      <timestamp>2014-05-09T05:04:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Democracy schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="55">{{Schema family
+|is subfamily of=Democracy schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Object schemas</title>
+    <ns>0</ns>
+    <id>10954</id>
+      <sha1>18wj9ymgb192prguge2izjb2cmbpf36</sha1>
+    <revision>
+      <id>29663</id>
+      <timestamp>2014-11-25T21:14:21Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=De }}&quot;</comment>
+      <text xml:space="preserve" bytes="76">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=De
+}}</text>
+    </revision>
+    <revision>
+      <id>29664</id>
+      <timestamp>2014-11-25T21:14:33Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Body schemas</title>
+    <ns>0</ns>
+    <id>10965</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29729</id>
+      <timestamp>2014-11-25T21:48:09Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>The Middle Class schemas</title>
+    <ns>0</ns>
+    <id>10269</id>
+      <sha1>li0rvjpel8bwr43r0d02n4mu43ntp0r</sha1>
+    <revision>
+      <id>23603</id>
+      <timestamp>2013-09-03T20:48:24Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Wealth and Social Class schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Social Class schemas</title>
+    <ns>0</ns>
+    <id>10265</id>
+      <sha1>li0rvjpel8bwr43r0d02n4mu43ntp0r</sha1>
+    <revision>
+      <id>23595</id>
+      <timestamp>2013-09-03T20:43:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Wealth and Social Class schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>The Rich schemas</title>
+    <ns>0</ns>
+    <id>10267</id>
+      <sha1>li0rvjpel8bwr43r0d02n4mu43ntp0r</sha1>
+    <revision>
+      <id>23599</id>
+      <timestamp>2013-09-03T20:46:01Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Wealth and Social Class schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>25579</id>
+      <timestamp>2013-11-21T00:16:54Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="102">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+|LinkSpanish=Esquemas de los ricos
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Competition schemas</title>
+    <ns>0</ns>
+    <id>10498</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>26115</id>
+      <timestamp>2014-03-11T21:06:52Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Resource Schemas</title>
+    <ns>0</ns>
+    <id>10158</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22657</id>
+      <timestamp>2013-07-30T19:06:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Concealment-Protection schemas</title>
+    <ns>0</ns>
+    <id>10558</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>26724</id>
+      <timestamp>2014-05-13T19:49:24Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>30095</id>
+      <timestamp>2015-04-13T22:08:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Concealment/Protection schemas]] to [[Concealment-Protection schemas]] without leaving a redirect: Should not have slashes in page names</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Directional movement schemas</title>
+    <ns>0</ns>
+    <id>10345</id>
+      <sha1>ehixt2vs61oooc1is53rhp0s3pvbt44</sha1>
+    <revision>
+      <id>24050</id>
+      <timestamp>2013-09-18T22:45:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Movement schemas,  }}&quot;</comment>
+      <text xml:space="preserve" bytes="54">{{Schema family
+|is subfamily of=Movement schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Demo schema families</title>
+    <ns>0</ns>
+    <id>10937</id>
+      <sha1>d64mbcni4zlxkkhmdclxxgls40uw3mr</sha1>
+    <revision>
+      <id>29502</id>
+      <timestamp>2014-11-20T20:10:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="40">{{Schema family
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Endangerment schemas</title>
+    <ns>0</ns>
+    <id>10961</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29702</id>
+      <timestamp>2014-11-25T21:33:52Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Movement schemas</title>
+    <ns>0</ns>
+    <id>10343</id>
+      <sha1>o82kjjgeaval7wqypc5cq5gt6gz6m0g</sha1>
+    <revision>
+      <id>24038</id>
+      <timestamp>2013-09-18T22:27:10Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Motion Schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="50">{{Schema family
+|is subfamily of=Motion Schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Force schemas</title>
+    <ns>0</ns>
+    <id>10959</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29689</id>
+      <timestamp>2014-11-25T21:25:51Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Cognition Schemas</title>
+    <ns>0</ns>
+    <id>7375</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>17874</id>
+      <timestamp>2013-01-16T02:51:36Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Gun debate</title>
+    <ns>0</ns>
+    <id>10662</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>27566</id>
+      <timestamp>2014-07-10T19:06:33Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Legislation schemas</title>
+    <ns>0</ns>
+    <id>10385</id>
+      <sha1>pwkogajyv0nhcwh637x59z3nptj0wj5</sha1>
+    <revision>
+      <id>24652</id>
+      <timestamp>2013-10-10T19:50:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance |LinkSpanish=Esquemas de legislación }}&quot;</comment>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de legislación
+}}</text>
+    </revision>
+    <revision>
+      <id>24895</id>
+      <timestamp>2013-10-17T21:26:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="92">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de legislación
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>The Poor schemas</title>
+    <ns>0</ns>
+    <id>10412</id>
+      <sha1>h6cpb4p769iqxzhzvj8afj423ts6j8x</sha1>
+    <revision>
+      <id>24947</id>
+      <timestamp>2013-10-17T21:28:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Poverty schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="51">{{Schema family
+|is subfamily of=Poverty schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>25578</id>
+      <timestamp>2013-11-21T00:09:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="87">{{Schema family
+|is subfamily of=Poverty schemas
+|LinkSpanish=Esquemas de los pobres
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Eating Schemas</title>
+    <ns>0</ns>
+    <id>10156</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22633</id>
+      <timestamp>2013-07-30T18:12:47Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Gun rights family</title>
+    <ns>0</ns>
+    <id>10668</id>
+      <sha1>qi5bvzs9xzsrg8m1h6wyfpv1kvu2b80</sha1>
+    <revision>
+      <id>27662</id>
+      <timestamp>2014-07-23T19:50:50Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Gun debate }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Gun debate
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Evaluation Schemas</title>
+    <ns>0</ns>
+    <id>10164</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22689</id>
+      <timestamp>2013-07-31T00:27:57Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Debt schemas</title>
+    <ns>0</ns>
+    <id>10264</id>
+      <sha1>li0rvjpel8bwr43r0d02n4mu43ntp0r</sha1>
+    <revision>
+      <id>23592</id>
+      <timestamp>2013-09-03T20:41:26Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Wealth and Social Class schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Disease schema family</title>
+    <ns>0</ns>
+    <id>10939</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29515</id>
+      <timestamp>2014-11-20T21:19:37Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Education schemas</title>
+    <ns>0</ns>
+    <id>10157</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22643</id>
+      <timestamp>2013-07-30T18:29:42Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>23581</id>
+      <timestamp>2013-09-03T20:31:51Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="63">{{Schema family
+|is subfamily of=Access To Education schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>23606</id>
+      <timestamp>2013-09-03T20:55:09Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="65">{{Schema family
+|is subfamily of=Access to Education schemas, 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Perception schemas</title>
+    <ns>0</ns>
+    <id>7374</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>17868</id>
+      <timestamp>2013-01-16T02:32:08Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Image Schemas</title>
+    <ns>0</ns>
+    <id>10160</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>22668</id>
+      <timestamp>2013-07-30T19:26:44Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Impediment and enablement schemas</title>
+    <ns>0</ns>
+    <id>10341</id>
+      <sha1>7royu35qn4iyzqozks21ifzt8zfqq8i</sha1>
+    <revision>
+      <id>23991</id>
+      <timestamp>2013-09-18T20:50:23Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Motion-affecting schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="60">{{Schema family
+|is subfamily of=Motion-affecting schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Politics schemas</title>
+    <ns>0</ns>
+    <id>10387</id>
+      <sha1>lmg2aobkembetlff0od3tfegd6jt5ao</sha1>
+    <revision>
+      <id>24655</id>
+      <timestamp>2013-10-10T20:07:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>24656</id>
+      <timestamp>2013-10-10T20:10:58Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="81">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de política
+}}</text>
+    </revision>
+    <revision>
+      <id>24659</id>
+      <timestamp>2013-10-10T20:14:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de la política
+}}</text>
+    </revision>
+    <revision>
+      <id>24897</id>
+      <timestamp>2013-10-17T21:27:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="92">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de la política
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Leaders schemas</title>
+    <ns>0</ns>
+    <id>10391</id>
+      <sha1>lmg2aobkembetlff0od3tfegd6jt5ao</sha1>
+    <revision>
+      <id>24667</id>
+      <timestamp>2013-10-10T20:39:42Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>24668</id>
+      <timestamp>2013-10-10T20:43:46Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="80">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de líderes
+}}</text>
+    </revision>
+    <revision>
+      <id>24894</id>
+      <timestamp>2013-10-17T21:26:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="88">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de líderes
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Regulations schemas</title>
+    <ns>0</ns>
+    <id>10394</id>
+      <sha1>lmg2aobkembetlff0od3tfegd6jt5ao</sha1>
+    <revision>
+      <id>24672</id>
+      <timestamp>2013-10-10T20:56:14Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance }}&quot;</comment>
+      <text xml:space="preserve" bytes="46">{{Schema family
+|is subfamily of=Governance
+}}</text>
+    </revision>
+    <revision>
+      <id>24673</id>
+      <timestamp>2013-10-10T20:56:57Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+    </revision>
+    <revision>
+      <id>24884</id>
+      <timestamp>2013-10-17T21:23:33Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[Regulations Schemas]] to [[Regulations schemas]] without leaving a redirect: Text replace - &quot;Regulations Schemas&quot; to &quot;Regulations schemas&quot;</comment>
+      <text xml:space="preserve" bytes="84">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+    </revision>
+    <revision>
+      <id>24898</id>
+      <timestamp>2013-10-17T21:27:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="92">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de regulaciones
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Government schemas</title>
+    <ns>0</ns>
+    <id>10392</id>
+      <sha1>gsz8a130jwoctfpkblt7nmwy47g6947</sha1>
+    <revision>
+      <id>24670</id>
+      <timestamp>2013-10-10T20:47:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Governance |LinkSpanish=Esquemas de Gobierno }}&quot;</comment>
+      <text xml:space="preserve" bytes="80">{{Schema family
+|is subfamily of=Governance
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+    </revision>
+    <revision>
+      <id>24893</id>
+      <timestamp>2013-10-17T21:26:49Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;Governance&quot; to &quot;Governance schemas&quot;</comment>
+      <text xml:space="preserve" bytes="88">{{Schema family
+|is subfamily of=Governance schemas
+|LinkSpanish=Esquemas de Gobierno
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Scale Schemas</title>
+    <ns>0</ns>
+    <id>7379</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>17898</id>
+      <timestamp>2013-01-31T19:30:27Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>21334</id>
+      <timestamp>2013-04-22T17:46:13Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">{{Schema family
+|is subfamily of=State-related schemas
+}}</text>
+    </revision>
+    <revision>
+      <id>21335</id>
+      <timestamp>2013-04-22T17:48:49Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="60">{{Schema family
+|is subfamily of=Property-related schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Unclassified</title>
+    <ns>0</ns>
+    <id>10809</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>28753</id>
+      <timestamp>2014-10-03T19:16:19Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Magic schemas</title>
+    <ns>0</ns>
+    <id>10966</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29731</id>
+      <timestamp>2014-11-25T21:53:27Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Separation schemas</title>
+    <ns>0</ns>
+    <id>10260</id>
+      <sha1>7y8oddtf9pme9ldzkjjeymxyrgg8ebc</sha1>
+    <revision>
+      <id>23569</id>
+      <timestamp>2013-08-27T17:04:27Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Change of state schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="59">{{Schema family
+|is subfamily of=Change of state schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Water confinement schemas</title>
+    <ns>0</ns>
+    <id>10956</id>
+      <sha1>rsjjfga2l54u4lm329gu5m6zp6my64g</sha1>
+    <revision>
+      <id>29678</id>
+      <timestamp>2014-11-25T21:22:17Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Demo schema families |SchemaFamilyTag=Demo }}&quot;</comment>
+      <text xml:space="preserve" bytes="78">{{Schema family
+|is subfamily of=Demo schema families
+|SchemaFamilyTag=Demo
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Money schemas</title>
+    <ns>0</ns>
+    <id>10268</id>
+      <sha1>li0rvjpel8bwr43r0d02n4mu43ntp0r</sha1>
+    <revision>
+      <id>23601</id>
+      <timestamp>2013-09-03T20:47:11Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family |is subfamily of=Wealth and Social Class schemas }}&quot;</comment>
+      <text xml:space="preserve" bytes="67">{{Schema family
+|is subfamily of=Wealth and Social Class schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Economic Inequality schemas</title>
+    <ns>0</ns>
+    <id>10262</id>
+      <sha1>o4r9kw9lgz2qxzwxacrr87vjzbcpygl</sha1>
+    <revision>
+      <id>23584</id>
+      <timestamp>2013-09-03T20:35:39Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Schema family}}&quot;</comment>
+      <text xml:space="preserve" bytes="17">{{Schema family}}</text>
+    </revision>
+    <revision>
+      <id>26672</id>
+      <timestamp>2014-05-13T01:11:07Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="66">{{Schema family
+|LinkSpanish=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

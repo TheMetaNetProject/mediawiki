@@ -1,0 +1,10 @@
+فرم:CxnMP
+فرم:Definition
+فرم:IARPASourceConcept
+فرم:IARPATargetConcept
+فرم:Linguistic metaphor
+فرم:MetaRC
+فرم:Metaphor
+فرم:Metaphor family
+فرم:Schema
+فرم:Schema family

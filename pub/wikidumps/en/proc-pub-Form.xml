@@ -1,0 +1,1118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.9" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Media</namespace>
+      <namespace case="first-letter" key="-1">Special</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Talk</namespace>
+      <namespace case="first-letter" key="2">User</namespace>
+      <namespace case="first-letter" key="3">User talk</namespace>
+      <namespace case="first-letter" key="4">Enmnwiki dev</namespace>
+      <namespace case="first-letter" key="5">Enmnwiki dev talk</namespace>
+      <namespace case="first-letter" key="6">File</namespace>
+      <namespace case="first-letter" key="7">File talk</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki talk</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template talk</namespace>
+      <namespace case="first-letter" key="12">Help</namespace>
+      <namespace case="first-letter" key="13">Help talk</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category talk</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Property talk</namespace>
+      <namespace case="first-letter" key="104">Type</namespace>
+      <namespace case="first-letter" key="105">Type talk</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Form talk</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">Metaphor family</namespace>
+      <namespace case="first-letter" key="555">Metaphor family talk</namespace>
+      <namespace case="first-letter" key="556">Frame family</namespace>
+      <namespace case="first-letter" key="557">Frame family talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Form:Construct analysis</title>
+    <ns>106</ns>
+    <id>279</id>
+    <revision>
+      <id>1163</id>
+      <parentid>1162</parentid>
+      <timestamp>2014-02-21T23:17:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="4348" xml:space="preserve">&lt;noinclude&gt;
+This is the "Construct analysis" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Construct analysis|autocomplete on namespace=Construct analysis|namespace=Construct analysis}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|Construct analysis}}}
+{| class="formtable"
+! Text:
+| {{{field|text|property=Has text}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Text Gloss:
+| {{{field|text gloss|property=Has text gloss|class=enformfield}}}
+|-
+! Informal analysis:
+| {{{field|informalanalysis|property=Has informal analysis}}}
+|-
+! Comment:
+| {{{field|comment}}}
+|-
+! Tags:
+| {{{field|tags|property=Has tags|input type=text with autocomplete}}}
+|-
+! Entered by:
+| {{{field|Entered by|property=Entered by|input type=text with autocomplete|mandatory}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by|property=Last reviewed by|input type=text with autocomplete}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list|mandatory}}}
+|}
+
+'''Constructional information:'''
+{| class="formtable"
+! Construction:
+| {{{field|construction|property=Instantiates construction}}}
+|-
+! Frames:
+| {{{field|frames|property=Evokes frame}}}
+|-
+! Comments:
+| {{{field|cxncomments}}}
+|}
+'''Constituent constructional information:'''
+{| class="formtable"
+! Informal analysis:
+| {{{field|informalconstituentanalysis|property=Has informal analysis}}}
+|-
+! Constituents:
+| {{{field|constituents|holds template|mandatory}}}
+|}
+
+'''Bindings:'''
+{{{field|bindings|holds template}}}
+
+'''Metaphors:'''
+{{{field|metaphors|holds template|mandatory}}}
+
+'''Metonymy:'''
+{{{field|metonymy|Property=Has metonymy description}}}
+
+'''Examples:'''
+{{{field|examples|holds template|mandatory}}}
+{{{end template}}}
+
+{{{for template|CA constituent|multiple|label=Constituent constructional information|embed in field=Construct analysis[constituents]}}}
+
+'''String:''' {{{field|constituent.string|property=Has string|class=metaex}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|constituent.gloss|property=Has string gloss|class=metagl}}}
+}}
+'''Cx Analysis link:''' {{{field|constituent.construct|property=Has cx analysis}}}
+
+'''Cxn:''' {{{field|constituent.cxn|property=Instantiates construction}}}
+
+'''Frames:''' {{{field|constituent.frames|property=Evokes frame}}}
+
+{{{end template}}}
+
+{{{for template|CA binding|multiple|label=Construction-frame Bindings|embed in field=Construct analysis[bindings]}}}
+'''Node 1:''' {{{field|binding.node1}}}
+
+'''Node 2:''' {{{field|binding.node2}}}
+
+'''Comment:''' {{{field|binding.comment}}}
+
+{{{end template}}}
+
+{{{for template|CA metaphor|multiple|label=Metaphor Information|embed in field=Construct analysis[metaphors]}}}
+
+'''Metaphor:''' {{{field|metaphor.metaphor|property=Involves metaphor}}}
+
+'''Evoking elements:''' 
+{| class="formtable"
+! Source:
+| {{{field|metaphor.evokingsourceelements|property=Has source evoking element}}}
+|-
+! Target:
+| {{{field|metaphor.evokingtargetelements|property=Has target evoking element}}}
+|}
+
+'''Comments:'''
+{{{field|metaphor.comment|property=Has comment}}}
+
+{{{end template}}}
+
+{{{for template|CA example|multiple|label=Example sentences|embed in field=Construct analysis[examples]}}}
+
+{{{field|example.language|property=Is language|input type=text|default={{Lang|en}}|hidden}}}
+
+'''Text:''' {{{field|example.text|property=Has text|class=metaex|rows=3}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|example.gloss|property=Has text gloss|class=metagl|rows=3}}}
+
+'''English translation:''' {{{field|example.english translation|property=Has English translation|class=metatr|rows=3}}}
+
+}}
+'''Provenance:''' {{{field|example.provenance|property=Has provenance}}}
+
+'''Annotation:''' {{{field|example.annotation|property=Has annotation|rows=3|class=enformfield}}}
+
+'''Comments:''' {{{field|example.comment|property=Has comment|rows=3|class=enformfield}}}
+
+{{{end template}}}
+
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>cdohi5fnoiim6nn6sqe80my844affvs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:CxnMP</title>
+    <ns>106</ns>
+    <id>280</id>
+    <revision>
+      <id>1168</id>
+      <parentid>1167</parentid>
+      <timestamp>2014-11-19T02:07:23Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1068" xml:space="preserve">&lt;noinclude&gt;
+This is the "CxnMP" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|CxnMP}}}
+{| class="formtable"
+! CxnMPType:
+| {{{field|CxnMPType}}}
+|-
+! CxnMPGroup:
+| {{{field|CxnMPGroup|class=enformfield}}}
+|-
+! CxnMPDescription:
+| {{{field|CxnMPDescription|class=enformfield}}}
+|-
+! Comments:
+| {{{field|Comments|class=enformfield}}}
+|-
+! CxnMPQuery:
+| {{{field|CxnMPQueryCode|class=enformfield}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>kliv8tgp82136si0dwx19y2vh4d3825</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Frame</title>
+    <ns>106</ns>
+    <id>288</id>
+    <revision>
+      <id>1305</id>
+      <parentid>1304</parentid>
+      <timestamp>2014-10-10T20:21:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="4476" xml:space="preserve">&lt;noinclude&gt;
+This is the "Frame" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|Frame}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Frame.Name gloss|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}{{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Transcription:
+| {{{field|Transcription|property=Frame.Transcription|class=enformfield}}}
+|-
+! Description:
+| {{{field|Description|property=Has description}}}
+|-
+! Closest FrameNet frame(s):
+| {{{field|FrameNet frame|property=Frame.FrameNet frame}}}
+|-
+! Metaphor Program Alias:
+| {{{field|Program alias|property=Has program alias}}}
+|-
+! Other Aliases:
+| {{{field|Other aliases|property=Frame.Alias}}}
+|-
+! Comments:
+| {{{field|Comments|property=Frame.Comments|class=enformfield}}}
+|-
+! Family(s):
+| {{{field|Family|property=Frame.Family}}}
+|-
+! Tags:
+| {{{field|Tags}}}
+|-
+! Type:
+| {{{field|Type|property=Frame.Type}}}
+|-
+! Cultural Scope:
+| {{{field|Cultural scope|property=Has cultural scope}}}
+|-
+! Cultural Information:
+| {{{field|Cultural information|property=Frame.Cultural information}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list}}}
+|-
+! Entered by:
+| {{{field|Entered by}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by}}}
+|-
+! Roles:
+| {{{field|Roles|holds template}}}
+|-
+! Related frames:
+| {{{field|Related frames|holds template}}}
+|-
+!
+| &lt;div id="RelatedFrameRoles"&gt;&lt;/div&gt;
+|-
+! Bindings:
+| {{{field|Bindings|holds template}}}
+|-
+! Inferences:
+| {{{field|Inferences|holds template}}}
+|-
+! Relevant LUs:
+| {{{field|Relevant LUs|holds template}}}
+|}
+
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Frame:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Frame:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Frame:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Frame:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{field|Applicability|property=Frame.Applicability|default={{Lang|en}}|hidden}}}
+
+{{{end template}}}
+
+{{{for template|Role|multiple|label=Roles|embed in field=Frame[Roles]}}}
+{| class="formtable"
+! Name:
+| {{{field|Role.Name|class=LocalFrameRoleName}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Gloss:
+| {{{field|Role.Name gloss|property=Role.Name gloss|class=enformfield}}}
+|-
+! Type:
+| {{{field|Role.Type}}}
+|-
+! Definition:
+| {{{field|Role.Definition}}}
+|-
+! FrameNet Role:
+| {{{field|Role.FrameNet role}}}
+|}
+{{{end template}}}
+
+{{{for template|Related frame|multiple|label=Related Frames|embed in field=Frame[Related frames]}}}
+'''Current Frame:''' {{PAGENAME}}
+
+'''Relation Type:''' {{{field|Related frame.Relation type|property=Related frame.Relation type}}}
+
+'''Related Frame:''' {{{field|Related frame.Name|property=Frame|values from namespace=Frame|class=RelatedFrameField}}}
+
+'''Description:''' {{{field|Related frame.Description}}}
+
+{{{end template}}}
+
+{{{for template|Binding|multiple|label=Bindings|embed in field=Frame[Bindings]}}}
+'''Local Role:''' {{{field|Binding.Local role}}}
+
+'''Bound Role:''' {{{field|Binding.Bound role}}}
+
+{{{end template}}}
+
+{{{for template|Inference|multiple|label=Inferences|embed in field=Frame[Inferences]}}}
+'''Description of Inference:''' {{{field|Inference.Description|property=Inference.Description}}}
+
+'''Type of Inference:''' {{{field|Inference.Type|property=Inference.Type}}}
+
+{{{end template}}}
+
+{{{for template|LUs|label=Relevant LUs|multiple|embed in field=Frame[Relevant LUs]}}}
+
+{{{field|LUs.Language|property=LUs.Language|input type=text|default={{Lang|en}}|hidden}}}
+
+{| class="formtable"
+! Lemma:
+| {{{field|LUs.Lemmas|property=LUs.Lemmas}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>ronuvf8e6a0xoan45f5stf4a5kcdhqa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Frame family</title>
+    <ns>106</ns>
+    <id>289</id>
+    <revision>
+      <id>1319</id>
+      <parentid>1318</parentid>
+      <timestamp>2015-05-06T22:25:27Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1784" xml:space="preserve">&lt;noinclude&gt;
+This is the "Frame family" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Frame family|autocomplete on category=Frame family}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;{{#css:
+   .enformfield {
+       direction: ltr;
+       text-align: left;
+   }
+}}&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|Frame family}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Frame family.Name gloss|class=enformfield}}}
+|-
+! Is subfamily of:
+| {{{field|is subfamily of|property=Frame subfamily of|values from category=Frame family}}}
+|-
+! Tag:
+| {{{field|FrameFamilyTag|property=Tag|values from property=Tag}}}
+|-
+! Status:
+| {{{field|FrameFamilyStatus|property=Status|list|mandatory}}}
+|}
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Frame family:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Frame family:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Frame family:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Frame family:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>m2nsziur4mnrztcsn4zujkrz5vo7usi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Glossary</title>
+    <ns>106</ns>
+    <id>281</id>
+    <revision>
+      <id>1169</id>
+      <timestamp>2012-07-25T23:26:41Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text bytes="1005" xml:space="preserve">&lt;noinclude&gt;
+
+{{#forminput:form=Glossary}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+
+{{{for template|Glossary}}}
+
+'''Entry:''' {{{field|Entry|property=Glossary.Entry}}}
+
+'''Other Aliases:''' {{{field|Other Aliases|property=Glossary.Alias}}}
+
+'''Description:''' {{{field|Description|property=Glossary.Description}}}
+
+'''Pertinent Form(s):''' {{{field|Applies to|property=Glossary.Applies to}}}
+'''Utility:''' {{{field|Utility|property=Glossary.Utility}}}
+
+'''Notation:''' {{{field|Notation|property=Glossary.Notation}}}
+
+'''Entered By:''' {{{field|Entered by|property=Entered by}}}
+
+'''Edited By:''' {{{field|Last reviewed by|property=Last reviewed by}}}
+{{{end template}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>5ril15eeysxxrl5zd48wl5aljwn5zds</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:IARPASourceConcept</title>
+    <ns>106</ns>
+    <id>282</id>
+    <revision>
+      <id>1176</id>
+      <parentid>1175</parentid>
+      <timestamp>2014-08-12T19:59:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1126" xml:space="preserve">&lt;noinclude&gt;
+This is the "IARPASourceConcept" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=IARPASourceConcept}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|IARPASourceConcept}}}
+{| class="formtable"
+! SourceID:
+| {{{field|SourceID|property=HasIARPAId}}}
+|-
+! Government Definition:
+| {{{field|Definition|property=HasConceptDefinition}}}
+|-
+! Comments (internal):
+| {{{field|Comments|property=Has comments}}}
+|-
+! Status:
+| {{{field|Status|property=HasConceptStatus}}}
+|-
+! Owner:
+| {{{field|Owner|property=HasConceptOwner}}}
+|-
+! LUs:
+| {{{field|LUs|input type=textarea}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>210yr6lr0rgirqsn9lhgssuqhvb3yz3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:IARPATargetConcept</title>
+    <ns>106</ns>
+    <id>283</id>
+    <revision>
+      <id>1198</id>
+      <parentid>1197</parentid>
+      <timestamp>2014-11-17T08:46:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor />
+      <comment>Text replace - "Whitelist target LU" to "Whitelist target LUs"</comment>
+      <text bytes="3421" xml:space="preserve">&lt;noinclude&gt;
+This is the "IARPATargetConcept" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|IARPATargetConcept}}}
+{| class="formtable"
+! ConceptOwner:
+| {{{field|ConceptOwner}}}
+|-
+! ConceptType:
+| {{{field|ConceptType}}}
+|-
+! ConceptGroup:
+| {{{field|ConceptGroup|input type=text with autocomplete|values from property=HasConceptGroup}}}
+|-
+! ConceptDefinition:
+| {{{field|ConceptDefinition}}}
+|-
+! ConceptComment:
+| {{{field|ConceptComment}}}
+|-
+! ConceptStatus:
+| {{{field|ConceptStatus}}}
+|}
+&lt;br&gt;
+
+==Target Concept Specification==
+
+{| class="formtable"
+! Concept Frames:
+| {{{field|ConceptFrames|holds template}}}
+|-
+! Whitelist LUs:
+| {{{field|WhitelistTargetLUs|holds template}}}
+|-
+! Blacklist LUs:
+| {{{field|BlacklistTargetLUs|holds template}}}
+|-
+|}
+&lt;br&gt;
+
+==Source Domain Constraints==
+
+{| class="formtable"
+! Blacklist Frame Families:
+| {{{field|BlacklistSourceFrameFamilies|holds template}}}
+|-
+! Blacklist Frames:
+| {{{field|BlacklistSourceFrames|holds template}}}
+|-
+! Blacklist LUs:
+| {{{field|BlacklistSourceLUs|holds template}}}
+|-
+|}
+{{{end template}}}
+
+{{{for template|Linked frame|label=Linked frames|multiple|embed in field=IARPATargetConcept[ConceptFrames]}}}
+
+{| class="formtable"
+! Frame:
+| {{{field|Frame name|property=Is linked to from frame|values from namespace=Frame}}}
+|}
+{{{end template}}}
+
+{{{for template|Whitelist target LUs|label=Whitelist Target LUs|multiple|embed in field=IARPATargetConcept[WhitelistTargetLUs]}}}
+
+{| class="formtable"
+! Whitelist LU:
+| {{{field|WhitelistTargetLU|property=Has whitelist target LU}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist target LUs|label=Blacklist Target LUs|multiple|embed in field=IARPATargetConcept[BlacklistTargetLUs]}}}
+
+{| class="formtable"
+! Blacklist LU:
+| {{{field|BlacklistTargetLU|property=Has blacklist target LU}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source frame families|label=Blacklist Source Frame Families|multiple|embed in field=IARPATargetConcept[BlacklistSourceFrameFamilies]}}}
+
+{| class="formtable"
+! Blacklist source frame family:
+| {{{field|BlacklistSourceFrameFamily|property=Has blacklist source frame family|values from category=Frame family}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source frames|label=Blacklist Source Frames|multiple|embed in field=IARPATargetConcept[BlacklistSourceFrames]}}}
+
+{| class="formtable"
+! Blacklist source frame:
+| {{{field|BlacklistSourceFrame|property=Has blacklist source frame|values from namespace=Frame}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source LUs|label=Blacklist Source LUs|multiple|embed in field=IARPATargetConcept[BlacklistSourceLUs]}}}
+
+{| class="formtable"
+! Blacklist source LU:
+| {{{field|BlacklistSourceLU|property=Has blacklist source LU}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>q1ol1g73k8l1jikf6b2gzmdavi3k755</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:MetaRC</title>
+    <ns>106</ns>
+    <id>284</id>
+    <revision>
+      <id>1200</id>
+      <parentid>1199</parentid>
+      <timestamp>2014-11-19T23:50:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1122" xml:space="preserve">&lt;noinclude&gt;
+This is the "MetaRC" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=MetaRC|autocomplete on namespace=MetaRC|namespace=MetaRC|class=enformfield}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;
+&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|MetaRC}}}
+{| class="formtable"
+! MetaRC Group:
+| {{{field|MetaRCGroup|class=enformfield}}}
+|-
+! MetaRC Description:
+| {{{field|MetaRCDescription|class=enformfield}}}
+|-
+! MetaRC Comments:
+| {{{field|MetaRCComments|class=enformfield}}}
+|-
+! MetaRC Score:
+| {{{field|MetaRCScore|class=enformfield}}}
+|-
+! MetaRC QueryCode:
+| {{{field|MetaRCQueryCode|class=enformfield}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>99g34cjnqrww9mvk158hjop5hjbzb1b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Metaphor</title>
+    <ns>106</ns>
+    <id>285</id>
+    <revision>
+      <id>12605</id>
+      <parentid>1250</parentid>
+      <timestamp>2016-07-29T23:31:04Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text bytes="6253" xml:space="preserve">&lt;noinclude&gt;
+This is the "Metaphor" form, used to create and edit members of the VettedMetaphor category, which live in the Metaphor namespace.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|Metaphor}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Metaphor.Name gloss|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}{{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Name Transcription:
+| {{{field|Name transcription|property=Metaphor.Name transcription|class=enformfield}}}
+|-
+! Aliases: {{#info: Note: the name of the metaphor should be entered as an alias.}}
+| {{{field|Aliases|holds template}}}
+|-
+! Description:
+| {{{field|Description|property=Has description}}}
+|-
+! Comments:
+| {{{field|Comments|property=Metaphor.Comments|class=enformfield}}}
+|-
+! Tags:
+| {{{field|Tags|property=Tag|input type=text with autocomplete}}}
+|-
+! Family(s):
+| {{{field|Family|property=Metaphor.Family|values from property=Metaphor.Family|input type=text with autocomplete}}}
+|-
+! Metaphor Level:
+| {{{field|Metaphor Level|property=Metaphor.Level}}}
+|-
+! Metaphor Type:
+| {{{field|Metaphor Type|property=Metaphor.Type|list}}}
+|-
+! Experiential Basis:
+| {{{field|Experiential basis|property=Metaphor.Experiential basis}}}
+|-
+! Cultural Scope:
+| {{{field|Cultural scope|property=Has cultural scope}}}
+|-
+! Source Frame:
+| {{{field|Source frame|property=Metaphor.Source frame|values from namespace=Frame|class=RoleLookupField}}}
+|-
+! Target Frame:
+| {{{field|Target frame|property=Metaphor.Target frame|values from namespace=Frame|class=RoleLookupField}}}
+|-
+! 
+| &lt;div class="RoleLookupResults"&gt;&lt;table&gt;&lt;tr&gt;&lt;td id='TargetRoleResults'&gt;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td id='SourceRoleResults'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+|-
+! Mappings:
+| {{{field|Mappings|holds template}}}
+|-
+! Related metaphors:
+| {{{field|Related metaphors|holds template}}}
+|-
+! Entailments:
+| {{{field|Entailments|holds template}}}
+|-
+! Examples:
+| {{{field|Examples|holds template}}}
+|-
+! Entered by:
+| {{{field|Entered by|property=Entered by|input type=text with autocomplete}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by|property=Last reviewed by|input type=text with autocomplete}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list}}}
+|-
+! Metaphor Program Alias:
+| {{{field|Program alias|property=Has program alias}}}
+|}
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Metaphor:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Metaphor:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Metaphor:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Metaphor:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{field|Investigated for|property=Metaphor.Investigated for|default={{Lang|en}}|hidden}}}
+
+{{{end template}}}
+{{{for template|Metaphor.Alias|multiple|label=Aliases|embed in field=Metaphor[Aliases]}}}
+'''Alias:''' {{{field|Metaphor.Alias.Name}}}
+
+'''Provenance:''' {{{field|Metaphor.Alias.Provenance|property=Metaphor.Alias.Provenance|values from property=Metaphor.Alias.Provenance|input type=text with autocomplete}}}
+
+'''Page number:''' {{{field|Metaphor.Alias.Page no}}}
+
+{{{end template}}}
+
+{{{for template|Mapping|multiple|label=Mappings|embed in field=Metaphor[Mappings]}}}
+'''Target Role:''' {{{field|Target|property=Mapping.Target}}}
+
+'''Source Role:''' {{{field|Source|property=Mapping.Source}}}
+
+'''Comment:''' {{{field|Comment|property=Mapping.Comment|class=enformfield}}}
+
+{{{end template}}}
+
+{{{for template|Related metaphor|multiple|label=Related Metaphors|embed in field=Metaphor[Related metaphors]}}}
+
+'''Current Metaphor:''' {{PAGENAME}}
+
+'''Type of Relation:''' {{{field|Related metaphor.Relation type|property=Related metaphor.Relation type|mandatory}}}
+
+'''Related Metaphor:''' {{{field|Related metaphor.Name|property=Related metaphor.Name|values from namespace=Metaphor|mandatory}}}
+
+'''Description of Relation:''' {{{field|Related metaphor.Description}}}
+
+{{{end template}}}
+
+{{{for template|Entailment|multiple|label=Entailments|embed in field=Metaphor[Entailments]}}}
+'''Target Entailment:''' {{{field|Entailment.Target entailment|property=Entailment.Target entailment}}}
+
+'''Source Inference:''' {{{field|Entailment.Source inference}}}
+
+'''Type of Inferential Structure:''' {{{field|Entailment.Type|property=Entailment.Type}}}
+
+'''Entailed metaphor(s):''' {{{field|Entailment.Entailed metaphors|input type=text with autocomplete|values from namespace=Metaphor}}}
+
+{{{end template}}}
+
+{{{for template|Example|multiple|label=Examples|embed in field=Metaphor[Examples]}}}
+
+{{{field|Example.Language|property=Example.Language|input type=text|default={{Lang|en}}|hidden}}}
+
+'''Text:''' {{{field|Example.Text|property=Example.Text|class=metaex|rows=3}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|Example.Gloss|property=Example.Gloss|class=metagl|rows=3}}}
+
+{{#ifeq:{{Lang|}}|es||
+'''Transcription:''' {{{field|Example.Transcription|property=Example.Transcription|class=metagl|rows=3}}}
+}}
+
+'''English translation:''' {{{field|Example.English translation|property=Example.English translation|class=metatr|rows=3}}}
+
+}}
+'''Provenance:''' {{{field|Example.Provenance|property=Example.Provenance}}}
+
+'''Annotation:''' {{{field|Example.Annotation|property=Example.Annotation|rows=3|class=enformfield}}}
+
+'''Comments:''' {{{field|Example.Comments|property=Example.Comments|rows=3|class=enformfield}}}
+
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>a8d5451n6s1cedxf2iw0eradr126hcr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Metaphor Search Query</title>
+    <ns>106</ns>
+    <id>286</id>
+    <revision>
+      <id>1254</id>
+      <parentid>1253</parentid>
+      <timestamp>2012-09-11T00:46:17Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="316" xml:space="preserve">&lt;noinclude&gt;
+This is the "Metaphor Search Query" form. It should be used via the [[Special:RunQuery/Metaphor Search Query|special 'run query']] page.
+&lt;/noinclude&gt;&lt;includeonly&gt;
+{{{for template|Metaphor Search}}}
+
+{| class="formtable"
+! Search Metaphors:
+| {{{field|searchstring}}}
+|}
+{{{end template}}}
+
+&lt;/includeonly&gt;</text>
+      <sha1>c8g7dehtdpjn88h4sxjouixjoaafily</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Form:Metaphor family</title>
+    <ns>106</ns>
+    <id>287</id>
+    <revision>
+      <id>1263</id>
+      <parentid>1262</parentid>
+      <timestamp>2015-05-06T22:24:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="1368" xml:space="preserve">&lt;noinclude&gt;
+This is the "Metaphor family" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Metaphor family}}
+
+&lt;/noinclude&gt;&lt;includeonly&gt;{{#css:
+   .enformfield {
+       direction: ltr;
+       text-align: left;
+   }
+}}&lt;div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"&gt;&lt;/div&gt;
+{{{for template|Metaphor family}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Metaphor family.Name gloss|class=enformfield}}}
+|-
+! Type:
+| {{{field|Metaphor family type|property=Metaphor family.Type|class=enformfield}}}
+|-
+! Description:
+| {{{field|Description|property=Metaphor family.Description|class=enformfield}}}
+|-
+! Status:
+| {{{field|Metaphor family status|property=Status|list|mandatory}}}
+|-
+! Is subfamily of:
+| {{{field|is subfamily of|property=Metaphor family of|values from property=Metaphor.Family|delimiter=,}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+&lt;/includeonly&gt;</text>
+      <sha1>lxl4doy3ecjwvq91buxdvqapjv6kwg9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

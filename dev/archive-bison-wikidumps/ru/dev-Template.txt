@@ -1,0 +1,116 @@
+Шаблон:!
+Шаблон:Advert
+Шаблон:Ambox
+Шаблон:Ambox/category
+Шаблон:Ambox/core
+Шаблон:Ambox/doc
+Шаблон:Ambox/small
+Шаблон:Article issues
+Шаблон:AutoMetaphor
+Шаблон:AutoSchema
+Шаблон:Binding
+Шаблон:Blacklist source LUs
+Шаблон:Blacklist source schema families
+Шаблон:Blacklist source schemas
+Шаблон:Blacklist target LUs
+Шаблон:CMs with LMs intro
+Шаблон:CMs with LMs outro
+Шаблон:CMs with LMs row
+Шаблон:Category handler
+Шаблон:Category handler/blacklist
+Шаблон:Category handler/numbered
+Шаблон:Citation style
+Шаблон:CxnMP
+Шаблон:Definition
+Шаблон:DefinitionLink
+Шаблон:DefinitionListing
+Шаблон:Detailed schema family tree
+Шаблон:Documentation
+Шаблон:Documentation/docspace
+Шаблон:Documentation/end box
+Шаблон:Documentation/end box2
+Шаблон:Documentation/start box
+Шаблон:Documentation/start box2
+Шаблон:Documentation/template page
+Шаблон:Documentation subpage
+Шаблон:Entailment
+Шаблон:Example
+Шаблон:ExamplesOfLM
+Шаблон:ExamplesOfLM as li
+Шаблон:FULLROOTPAGENAME
+Шаблон:Fmbox
+Шаблон:FrameNetLUs
+Шаблон:GetSchemaRelationsForMetaphor
+Шаблон:GetSchemaRelationsForMetaphorFamily
+Шаблон:GetSchemaRels
+Шаблон:Glossed category item
+Шаблон:Hidden
+Шаблон:High-risk
+Шаблон:IARPASourceConcept
+Шаблон:IARPATargetConcept
+Шаблон:If pagename
+Шаблон:Inference
+Шаблон:LM Examples
+Шаблон:LUs
+Шаблон:Lang
+Шаблон:LinguisticMetaphorSummary
+Шаблон:LinguisticMetaphorSummaryIntro
+Шаблон:LinguisticMetaphorSummaryOutro
+Шаблон:Linguistic metaphor
+Шаблон:Linked schema
+Шаблон:Main other
+Шаблон:Main other/doc
+Шаблон:Mapping
+Шаблон:MappingTableBody
+Шаблон:MappingTableIntro
+Шаблон:MappingTableOutro
+Шаблон:Mbox
+Шаблон:Mbox/doc
+Шаблон:Mbox templates
+Шаблон:Mbox templates see also
+Шаблон:MetaRC
+Шаблон:Metaphor
+Шаблон:Metaphor.Alias
+Шаблон:Metaphor Search
+Шаблон:Metaphor family
+Шаблон:Metaphor family tree
+Шаблон:Metaphor subfamilies of
+Шаблон:Metaphors in family
+Шаблон:Missing relation type
+Шаблон:Multiple issues
+Шаблон:Multiple issues/message
+Шаблон:Namespace detect
+Шаблон:Namespace detect see also
+Шаблон:Navbar
+Шаблон:Ns has subpages
+Шаблон:Ombox
+Шаблон:Ombox/core
+Шаблон:POV
+Шаблон:Para
+Шаблон:Pp-meta
+Шаблон:Pp-template
+Шаблон:Printgloss
+Шаблон:Purge
+Шаблон:Related metaphor
+Шаблон:Related schema
+Шаблон:Role
+Шаблон:Schema
+Шаблон:Schema family
+Шаблон:Schema family tree
+Шаблон:Schema subfamilies of
+Шаблон:Schemas in family
+Шаблон:SearchFrameNetForLemma
+Шаблон:SearchSchemasForLemma
+Шаблон:Sidebar
+Шаблон:TOC
+Шаблон:Template other
+Шаблон:Template shortcut
+Шаблон:Tl
+Шаблон:Tlx
+Шаблон:Transclude
+Шаблон:Unsetprop
+Шаблон:Unsetpropnns
+Шаблон:Whitelist target LUs
+Шаблон:Wikify
+Шаблон:Wikify/tutorial
+Шаблон:Xs in family

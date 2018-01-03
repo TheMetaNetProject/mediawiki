@@ -1,0 +1,12 @@
+MetaRC:SubcaseOfSameSchema
+MetaRC:TSchemaIsRoleInSSchema
+MetaRC:SchemasRelatedAtHigherLevelByCM.2
+MetaRC:SchemasRelatedAtHigherLevelByCM.3
+MetaRC:TSchemaUsesSSchema.1-2
+MetaRC:SchemasMakeUseOfCM
+MetaRC:SchemasDirectlyRelatedByCM
+MetaRC:SchemasRelatedAtHigherLevelByCM
+MetaRC:TSchemaUsesSSchema.3-4
+MetaRC:SubcaseOfSchemasRelatedByCM
+MetaRC:UsedByOtherSchema
+MetaRC:SchemasMakeUseOfCM.2

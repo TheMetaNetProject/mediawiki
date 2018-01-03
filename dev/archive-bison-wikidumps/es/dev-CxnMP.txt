@@ -1,0 +1,13 @@
+CxnMP:S-verb T-dobj
+CxnMP:S-noun prep T-noun
+CxnMP:T-subj S-verb
+CxnMP:S-adj mod T-noun
+CxnMP:S-verb la T-noun.POS
+CxnMP:T-subj es S-noun
+CxnMP:S-noun of T-noun.POSdel
+CxnMP:T-adj mod S-noun
+CxnMP:S-noun of T-noun.POSdeART
+CxnMP:S-verb Prep T-noun
+CxnMP:S-noun T-adj
+CxnMP:S-verb a la T-dobj
+CxnMP:S-noun of T-noun

@@ -1,0 +1,11 @@
+Category:AutoFrame
+Category:CxnMP
+Category:Definition
+Category:Frame
+Category:Frame family
+Category:IARPASourceConcept
+Category:IARPATargetConcept
+Category:MetaRC
+Category:Metaphor
+Category:Metaphor family
+Category:VettedFrame

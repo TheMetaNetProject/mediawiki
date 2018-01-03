@@ -1,0 +1,10 @@
+Category:Construct analysis
+Category:CxnMP
+Category:Definition
+Category:IARPASourceConcept
+Category:IARPATargetConcept
+Category:MetaRC
+Category:Metaphor
+Category:Metaphor family
+Category:Schema
+Category:Schema family

@@ -1,0 +1,1366 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Construct analysis:In poverty</title>
+    <ns>560</ns>
+    <id>333</id>
+    <revision>
+      <id>1469</id>
+      <timestamp>2014-02-21T23:53:05Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Construct analysis |text=in poverty |Entered by=Oana |Status=in development |constituents={{CA constituent |constituent.string=in |constituent.cxn=In |constituent.frames=In...&quot;</comment>
+      <text xml:space="preserve" bytes="214">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Status=in development
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>nfedsojllenvhoynr0a4u6y0izmajp4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1470</id>
+      <parentid>1469</parentid>
+      <timestamp>2014-02-21T23:57:27Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="225">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Status=in development
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>diuexorejz4m805mv9il06l5c1qg3yj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1471</id>
+      <parentid>1470</parentid>
+      <timestamp>2014-02-21T23:58:22Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="251">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>btp9zz93djf4520i81hfhvxww1ltm1h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1472</id>
+      <parentid>1471</parentid>
+      <timestamp>2014-02-21T23:59:35Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="875">{{Construct analysis
+|text=in poverty
+|informalanalysis=What are the metaphors and framings surrounding poverty?
+Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>o9bkx1b597ehd6ofa8s261cm37cg1di</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1473</id>
+      <parentid>1472</parentid>
+      <timestamp>2014-02-22T00:00:49Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="895">{{Construct analysis
+|text=in poverty
+|informalanalysis=Notes on &quot;poverty&quot;:
+
+What are the metaphors and framings surrounding poverty?
+Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>nd4tfop3rkqg3qngwuzpvpqtml861m0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1474</id>
+      <parentid>1473</parentid>
+      <timestamp>2014-02-22T00:08:28Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1524">{{Construct analysis
+|text=in poverty
+|informalanalysis=Notes on &quot;poverty&quot; (will be moved to the appropriate location(s) when they become available):
+
+Needs notion of Resources (which is inherently purpose-driven). Money is about Resources. Money is a resource for resources. Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+
+What are the metaphors and framings surrounding poverty?
+Well-being frame: The goal of getting out of poverty is flourishing. Types of well-being include: wealth, health, education, happiness, respect (positive social status), self-esteem, etc. Frames and metaphors pick out different ones of the latter.
+
+E.g.: Access to education is a special case of having a path with no impediments to education as a form of well-being and a resource for other forms of well-being.
+
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors={{CA metaphor}}
+|examples=
+}}</text>
+      <sha1>qrkbg1v9ygilhws2mquik8ju91pu8wf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1475</id>
+      <parentid>1474</parentid>
+      <timestamp>2014-02-22T00:18:38Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1784">{{Construct analysis
+|text=in poverty
+|informalanalysis=Notes on &quot;poverty&quot; (will be moved to the appropriate location(s) when they become available):
+
+Needs notion of Resources (which is inherently purpose-driven). Money is about Resources. Money is a resource for resources. Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+
+What are the metaphors and framings surrounding poverty?
+Well-being frame: The goal of getting out of poverty is flourishing. Types of well-being include: wealth, health, education, happiness, respect (positive social status), self-esteem, etc. Frames and metaphors pick out different ones of the latter.
+
+E.g.: Access to education is a special case of having a path with no impediments to education as a form of well-being and a resource for other forms of well-being.
+
+Inferences about being in poverty:
+1. Have difficulty getting the forms of well-being
+2. There are forces acting on you / lead you to forms of ill-being, e.g., gang membership, depression. (But gang-membership is a way to get social status/resources/wealth.)
+
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors={{CA metaphor}}
+|examples=
+}}</text>
+      <sha1>tkqo9kqr2o5wvbyqydp9up3wcnkiigt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1476</id>
+      <parentid>1475</parentid>
+      <timestamp>2014-02-22T00:19:55Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1907">{{Construct analysis
+|text=in poverty
+|informalanalysis=Notes on &quot;poverty&quot; (will be moved to the appropriate location(s) when they become available):
+
+Needs notion of Resources (which is inherently purpose-driven). Money is about Resources. Money is a resource for resources. Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+
+What are the metaphors and framings surrounding poverty?
+Well-being frame: The goal of getting out of poverty is flourishing. Types of well-being include: wealth, health, education, happiness, respect (positive social status), self-esteem, etc. Frames and metaphors pick out different ones of the latter.
+
+E.g.: Access to education is a special case of having a path with no impediments to education as a form of well-being and a resource for other forms of well-being.
+
+Inferences about being in poverty:
+1. Have difficulty getting the forms of well-being
+2. There are forces acting on you / lead you to forms of ill-being, e.g., gang membership, depression. (But gang-membership is a way to get social status/resources/wealth.)
+
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=POVERTY IS A BOUNDED REGION
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>rdh5dzkqq3hg0qr0m58ylx00uzi23tl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1477</id>
+      <parentid>1476</parentid>
+      <timestamp>2014-02-22T00:21:40Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1934">{{Construct analysis
+|text=in poverty
+|informalanalysis=Notes on &quot;poverty&quot; (will be moved to the appropriate location(s) when they become available):
+
+Needs notion of Resources (which is inherently purpose-driven). Money is about Resources. Money is a resource for resources. Poverty is a lack of resources, by being a lack of a resource (money) for those resources.
+
+What are the metaphors and framings surrounding poverty?
+Well-being frame: The goal of getting out of poverty is flourishing. Types of well-being include: wealth, health, education, happiness, respect (positive social status), self-esteem, etc. Frames and metaphors pick out different ones of the latter.
+
+E.g.: Access to education is a special case of having a path with no impediments to education as a form of well-being and a resource for other forms of well-being.
+
+Inferences about being in poverty:
+1. Have difficulty getting the forms of well-being
+2. There are forces acting on you / lead you to forms of ill-being, e.g., gang membership, depression. (But gang-membership is a way to get social status/resources/wealth.)
+
+What are the facets of ‘poverty’ that are likely to be picked out by different constructions?
+•	Scalar nature of poverty/wealth (“climbing out of poverty”)
+•	Static vs. dynamic nature of states (“being in poverty” vs. “getting out of poverty”)
+o	STATES ARE LOCATIONS (BOUNDED REGIONS); Therefore, POVERTY IS A BOUNDED REGION.
+•	Poverty as a causal force (“poverty attacks”)
+•	Poverty is a circumstance (CIRCUMSTANCES ARE STATES)
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=EXPERIENCING AN ECONOMIC STATUS IS BEING AT A LOCATION
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>4ypgr1iuihru7wv91u40ym2z8q10k5k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1478</id>
+      <parentid>1477</parentid>
+      <timestamp>2014-02-22T00:29:17Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Status=in development
+|construction=Locative-PP
+|frames=In
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=EXPERIENCING AN ECONOMIC STATUS IS BEING AT A LOCATION
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>aya240r5dl56t598e5g3tf8rzu57yob</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1479</id>
+      <parentid>1478</parentid>
+      <timestamp>2014-02-25T22:44:27Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="899">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Status=in development
+|construction=Locative-PP
+|frames=Trajector landmark, BoundedRegion
+|cxncomments=Locative-PP cxn meaning is Trajector landmark.  In addition, since it binds its meaning to that of its preposition constituent, the construct 'in poverty' also utilizes the Bounded Region frame (which is part of the meaning of 'in').  
+
+Locative-PP also binds the meaning of its NP constituent to the landmark role of Trajector landmark.  
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}{{CA constituent
+|constituent.string=poverty
+|constituent.cxn=NP
+|constituent.frames=Poverty
+}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor
+|metaphor.metaphor=STATES ARE LOCATIONS
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>p3msnyzbqf4qy00rpjo4jn021qdednb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1480</id>
+      <parentid>1479</parentid>
+      <timestamp>2014-02-25T22:45:16Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="898">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Status=in development
+|construction=Locative-PP
+|frames=Trajector landmark, Bounded region
+|cxncomments=Locative-PP cxn meaning is Trajector landmark.  In addition, since it binds its meaning to that of its preposition constituent, the construct 'in poverty' also utilizes the Bounded region frame (which is part of the meaning of 'in').  
+
+Locative-PP also binds the meaning of its NP constituent to the landmark role of Trajector landmark.
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In
+}}{{CA constituent
+|constituent.string=poverty
+|constituent.cxn=NP
+|constituent.frames=Poverty
+}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor
+|metaphor.metaphor=STATES ARE LOCATIONS
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>lb5p3fzkb5mff4i1mu83ifr1ru6r1l7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1481</id>
+      <parentid>1480</parentid>
+      <timestamp>2014-03-06T20:03:13Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="934">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Status=in development
+|construction=Locative-PP
+|frames=Trajector landmark, Bounded region
+|cxncomments=Locative-PP cxn meaning is Trajector landmark.  In addition, since it binds its meaning to that of its preposition constituent, the construct 'in poverty' also utilizes the Bounded region frame (which is part of the meaning of 'in').  
+
+Locative-PP also binds the meaning of its NP constituent to the landmark role of Trajector landmark.
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In; Trajector landmark, Bounded region
+}}{{CA constituent
+|constituent.string=poverty
+|constituent.cxn=NP
+|constituent.frames=Poverty
+}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor
+|metaphor.metaphor=STATES ARE LOCATIONS
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>t9f5w9oy0bvldr1z3fwus8n1fum3boq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1482</id>
+      <parentid>1481</parentid>
+      <timestamp>2014-03-06T20:04:10Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="934">{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Status=in development
+|construction=Locative-PP
+|frames=Trajector landmark, Bounded region
+|cxncomments=Locative-PP cxn meaning is Trajector landmark.  In addition, since it binds its meaning to that of its preposition constituent, the construct 'in poverty' also utilizes the Bounded region frame (which is part of the meaning of 'in').  
+
+Locative-PP also binds the meaning of its NP constituent to the landmark role of Trajector landmark.
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In, Trajector landmark, Bounded region
+}}{{CA constituent
+|constituent.string=poverty
+|constituent.cxn=NP
+|constituent.frames=Poverty
+}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor
+|metaphor.metaphor=STATES ARE LOCATIONS
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}</text>
+      <sha1>fj7rih33zq5wo4qjvuebm3l5qnmop1j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Construct analysis:Taxes burden everyone</title>
+    <ns>560</ns>
+    <id>334</id>
+    <revision>
+      <id>1483</id>
+      <timestamp>2014-04-01T00:44:12Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Construct analysis |Entered by=Ellen |Status=in development |construction=Declarative  |informalconstituentanalysis=Subj (NP)  |constituents={{CA constituent |constituent.st...&quot;</comment>
+      <text xml:space="preserve" bytes="328">{{Construct analysis
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative 
+|informalconstituentanalysis=Subj (NP) 
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=V(S)-DO(T)
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>re40pbzjdptqdu1dhb1xqcpyoaggrp3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1484</id>
+      <parentid>1483</parentid>
+      <timestamp>2014-04-01T21:58:31Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="355">{{Construct analysis
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative
+|informalconstituentanalysis=Subj (NP)
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+|constituent.frames=Taxation
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=V(S)-DO(T)
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>dxxk0afz7ixl1xkdsjntp5mtg4wna85</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1485</id>
+      <parentid>1484</parentid>
+      <timestamp>2014-09-29T17:53:12Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="693">{{Construct analysis
+|informalanalysis=This is an instance of a T-subj_S-verb metaphor cxn.  In this case, the profiledParticipant role associated with the verb 'burden' is the Burden role in the Burden frame.   
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative
+|informalconstituentanalysis=Subj (NP)
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+|constituent.frames=Taxation
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=Transitive V(S)-DO(T)
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=tax.n
+}}
+|examples=
+}}</text>
+      <sha1>5g3hjpq69jtw9j99dt8mmhxmt65yma1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1486</id>
+      <parentid>1485</parentid>
+      <timestamp>2014-09-29T18:35:40Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="688">{{Construct analysis
+|informalanalysis=This is an instance of a T-subj_S-verb metaphor cxn.  In this case, the profiledParticipant role associated with the verb 'burden' is the Burden role in the Burden frame.
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative
+|informalconstituentanalysis=Subj (NP)
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+|constituent.frames=Taxation
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=Transitive V(S)-DO(T)
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=BURDEN
+|metaphor.evokingtargetelements=tax.n
+}}
+|examples=
+}}</text>
+      <sha1>iq5x0907czowfifpv8n5qsh27xjqfq2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1487</id>
+      <parentid>1486</parentid>
+      <timestamp>2014-09-29T18:36:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="717">{{Construct analysis
+|informalanalysis=This is an instance of a T-subj_S-verb metaphor cxn.  In this case, the profiledParticipant role associated with the verb 'burden' is the Burden role in the Burden frame.
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative
+|informalconstituentanalysis=Subj (NP)
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+|constituent.frames=Taxation
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=Transitive V(S)-DO(T)
+|constituent.frames=Burden
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=tax.n
+}}
+|examples=
+}}</text>
+      <sha1>ab9ap0123ryzuufsrwdj4ofmpf8m14e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Construct analysis:Living in poverty</title>
+    <ns>560</ns>
+    <id>335</id>
+    <revision>
+      <id>1488</id>
+      <timestamp>2014-02-21T23:51:21Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Construct analysis |text=living in poverty |Entered by=Oana |Status=in development |construction=VP |frames=Trajector landmark, State |constituents={{CA constituent |consti...&quot;</comment>
+      <text xml:space="preserve" bytes="300">{{Construct analysis
+|text=living in poverty
+|Entered by=Oana
+|Status=in development
+|construction=VP
+|frames=Trajector landmark, State
+|constituents={{CA constituent
+|constituent.string=in poverty
+|constituent.construct=in poverty
+|constituent.cxn=Locative-PP
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>90k6zx9h25w9ak8u7qytcgb5l8c6sfk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1489</id>
+      <parentid>1488</parentid>
+      <timestamp>2014-04-18T17:48:29Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="425">{{Construct analysis
+|text=living in poverty
+|Entered by=Oana
+|Status=in development
+|construction=VP
+|frames=Trajector landmark, State
+|constituents={{CA constituent
+|constituent.string=in poverty
+|constituent.construct=in poverty
+|constituent.cxn=Locative-PP
+}}{{CA constituent
+|constituent.string=living
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|examples=
+}}</text>
+      <sha1>qln2rweuj2xh416ja2q0y4h50x1nm38</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1490</id>
+      <parentid>1489</parentid>
+      <timestamp>2014-04-18T17:50:00Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="462">{{Construct analysis
+|text=living in poverty
+|Entered by=Oana
+|Status=in development
+|construction=VP
+|frames=Trajector landmark, State
+|constituents={{CA constituent
+|constituent.string=in poverty
+|constituent.construct=in poverty
+|constituent.cxn=Locative-PP
+|constituent.frames=Source path goal
+}}{{CA constituent
+|constituent.string=living
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|examples=
+}}</text>
+      <sha1>31p1wd8308z02ehd1yoqkfkl2c3xhfg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Construct analysis:Veneer of democracy</title>
+    <ns>560</ns>
+    <id>336</id>
+    <revision>
+      <id>1491</id>
+      <timestamp>2014-04-16T19:14:06Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Construct analysis |text=veneer of democracy |Entered by=Ellen Elise Oana |Status=in development |constituents= |bindings= |metaphors= |examples={{CA example |example.langua...&quot;</comment>
+      <text xml:space="preserve" bytes="465">{{Construct analysis
+|text=veneer of democracy
+|Entered by=Ellen Elise Oana
+|Status=in development
+|constituents=
+|bindings=
+|metaphors=
+|examples={{CA example
+|example.language=English
+|example.text=as little more than political theater, an orchestrated show with a veneer of democracy overlaying the regime's fiercely autocratic core.
+|example.provenance=content.time.com/time/world/article/0,8599,2114140,00.html‎
+}}{{CA example
+|example.language=English
+}}
+}}</text>
+      <sha1>eatz0xa7zb0j6vyhprdvx14xzdr60l2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1492</id>
+      <parentid>1491</parentid>
+      <timestamp>2014-04-16T19:47:22Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="690">{{Construct analysis
+|text=veneer of democracy
+|Entered by=Ellen Elise Oana
+|Status=in development
+|constituents=
+|bindings=
+|metaphors=
+|examples={{CA example
+|example.language=English
+|example.text=as little more than political theater, an orchestrated show with a veneer of democracy overlaying the regime's fiercely autocratic core.
+|example.provenance=content.time.com/time/world/article/0,8599,2114140,00.html‎
+}}{{CA example
+|example.language=English
+|example.text=Ordinarily, political scientists think of elections in authoritarian nations as charades aimed at giving a veneer of democracy to undemocratic systems.
+|example.provenance=books.google.com/books?isbn=041517208X
+}}
+}}</text>
+      <sha1>8x1bc321qs9s4vxm58hqpm7pt3eo5xd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Construct analysis:Burden of taxation</title>
+    <ns>560</ns>
+    <id>337</id>
+    <revision>
+      <id>1493</id>
+      <timestamp>2014-03-31T23:37:57Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <comment>Created page with &quot;{{Construct analysis |text=burden of taxation |informalanalysis=This N(S)of N(T) construct expresses a role mapping within the TAXATION IS A BURDEN metaphor, namely that betwe...&quot;</comment>
+      <text xml:space="preserve" bytes="472">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses a role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.  
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|constituents=
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>fuuuqmvtgh857y0b1kcxapsqfxz15uo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1494</id>
+      <parentid>1493</parentid>
+      <timestamp>2014-03-31T23:38:35Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="488">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|constituents=
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>bfqriszsly7cu8btpv6knxajsnbfmyg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1495</id>
+      <parentid>1494</parentid>
+      <timestamp>2014-03-31T23:46:21Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="893">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).  
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|cxncomments=We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). 
+|constituents=
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>rnolox9gt4p6k7c8fgss9iycchcuiui</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1496</id>
+      <parentid>1495</parentid>
+      <timestamp>2014-03-31T23:49:50Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1177">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).
+
+Note that both of the 'N' constituents can be modified, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|cxncomments=We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns).
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors=
+|examples=
+}}</text>
+      <sha1>grm5d4qi8hdwq2lerlssiq2v732caoo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1497</id>
+      <parentid>1496</parentid>
+      <timestamp>2014-03-31T23:53:25Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1313">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).
+
+Note that both of the 'N' constituents can be modified, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|cxncomments=We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns).
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=Burden
+|metaphor.evokingtargetelements=Taxation
+}}
+|examples=
+}}</text>
+      <sha1>as4kzkqomdjo8cdinq6ftfd18a4snd8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1498</id>
+      <parentid>1497</parentid>
+      <timestamp>2014-03-31T23:54:33Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1319">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden)
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|cxncomments=We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns).
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=Burden
+|metaphor.evokingtargetelements=Taxation
+}}
+|examples=
+}}</text>
+      <sha1>1yhw59syuftiwn7t16zy7o6y23tbq7j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1499</id>
+      <parentid>1498</parentid>
+      <timestamp>2014-04-01T19:56:45Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1596">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to something like 'the elected position of president', which seems to be similar to 'president is an elected position'.  This in turn is similar to 'president is a instance/type of elected position'.  So we might characterize this N_of_N as 'Category of Instance'??
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=Burden
+|metaphor.evokingtargetelements=Taxation
+}}
+|examples=
+}}</text>
+      <sha1>7h90gl5qckcyomfmth12ppo3mg2ivo5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1500</id>
+      <parentid>1499</parentid>
+      <timestamp>2014-04-02T22:43:20Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1592">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the role-filler relations involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to 'burden' role of Burden frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to something like 'the elected office of president', which seems to be similar to 'president is an elected office'.  This in turn is similar to 'president is a instance/type of elected position'.  So we might characterize this N_of_N as 'Category of Instance'??
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=Burden
+|metaphor.evokingtargetelements=Taxation
+}}
+|examples=
+}}</text>
+      <sha1>qu8gnddmr26s4tq7kmo7pjk06i4tnik</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1501</id>
+      <parentid>1500</parentid>
+      <timestamp>2014-10-01T18:41:54Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1754">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the relevant source and target roles involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to the  'burden' role of Burden frame, and taxation.n and tax.n would be linked to the 'tax' role of the Taxation frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to examples such as 'the burden of heavy backpacks', which might also be expressed as 'heavy backpacks are a burden'.  Similarly, we have patterns like 'the elected office of president', and president is an elected office'.  It is unclear how exactly to characterize the semantic relations expressed in these examples.   
+|Entered by=Ellen
+|Status=in development
+|construction=N_of_N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=taxation.n
+}}
+|examples=
+}}</text>
+      <sha1>d54yucliqdp0mgpp9ce452uuagvqvmc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1502</id>
+      <parentid>1501</parentid>
+      <timestamp>2014-10-01T18:45:05Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1751">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the relevant source and target roles involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to the  'burden' role of Burden frame, and taxation.n and tax.n would be linked to the 'tax' role of the Taxation frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to examples such as 'the burden of heavy backpacks', which might also be expressed as 'heavy backpacks are a burden'.  Similarly, we have patterns like 'the elected office of president', and president is an elected office'.  It is unclear how exactly to characterize the semantic relations expressed in these examples.
+|Entered by=Ellen
+|Status=in development
+|construction=N of N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=taxation.n
+}}
+|examples=
+}}</text>
+      <sha1>hcxj3afh157jgeq506b0o7ko53lpz8r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1503</id>
+      <parentid>1502</parentid>
+      <timestamp>2014-10-01T18:46:56Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1764">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the relevant source and target roles involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to the  'burden' role of Burden frame, and taxation.n and tax.n would be linked to the 'tax' role of the Taxation frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to examples such as 'the burden of heavy backpacks', which might also be expressed as 'heavy backpacks are a burden'.  Similarly, we have patterns like 'the elected office of president', and president is an elected office'.  It is unclear how exactly to characterize the semantic relations expressed in these examples.
+|Entered by=Ellen
+|Status=in development
+|construction=Veneer of democracy
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=taxation.n
+}}
+|examples=
+}}</text>
+      <sha1>52q07mh956t77gl753dgikrajry2l2v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1504</id>
+      <parentid>1503</parentid>
+      <timestamp>2014-10-01T18:50:30Z</timestamp>
+      <contributor>
+        <username>EllenDodge</username>
+        <id>26</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1751">{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the relevant source and target roles involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to the  'burden' role of Burden frame, and taxation.n and tax.n would be linked to the 'tax' role of the Taxation frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to examples such as 'the burden of heavy backpacks', which might also be expressed as 'heavy backpacks are a burden'.  Similarly, we have patterns like 'the elected office of president', and president is an elected office'.  It is unclear how exactly to characterize the semantic relations expressed in these examples.
+|Entered by=Ellen
+|Status=in development
+|construction=N of N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=taxation.n
+}}
+|examples=
+}}</text>
+      <sha1>hcxj3afh157jgeq506b0o7ko53lpz8r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

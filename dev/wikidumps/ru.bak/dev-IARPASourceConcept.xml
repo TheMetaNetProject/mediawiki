@@ -1,0 +1,5256 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>RU MetaNet Wiki</sitename>
+    <dbname>rumnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Rumnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Rumnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IConcept:GAME</title>
+    <ns>570</ns>
+    <id>361</id>
+    <revision>
+      <id>1252</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="471">{{IARPAConcept
+|SourceID=21
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=играть, ворота, вратарь, конь, король, ладья, матч, мяч, пешка, слон, турнир, ферзь, шайба, шахматные, шахматные фигур, игрок, выиграть, обыграть, победы, проигрывать, разгромить, игра, футбол, хоккей, шахматы, покер, рулетка
+}}</text>
+      <sha1>4e78mrxw3voj5xaz6n05kef1yebn1sj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1253</id>
+      <parentid>1252</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="477">{{IARPASourceConcept
+|SourceID=21
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=играть, ворота, вратарь, конь, король, ладья, матч, мяч, пешка, слон, турнир, ферзь, шайба, шахматные, шахматные фигур, игрок, выиграть, обыграть, победы, проигрывать, разгромить, игра, футбол, хоккей, шахматы, покер, рулетка
+}}</text>
+      <sha1>bi5hhtico60qh43oi8ipivvjq20qeal</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:HAZARDOUS GEOGRAPHIC FEATURE</title>
+    <ns>570</ns>
+    <id>362</id>
+    <revision>
+      <id>1254</id>
+      <timestamp>2014-07-25T06:34:45Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=22 |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="41">{{IARPAConcept
+|SourceID=22
+|Owner=GOV
+}}</text>
+      <sha1>oja6m93gsyhaigu098uq0zan5bcj2ap</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1255</id>
+      <parentid>1254</parentid>
+      <timestamp>2014-07-31T05:59:40Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="89">{{IARPAConcept
+|SourceID=22
+|Owner=GOV
+|LUs=тундра, пустыня, болото
+}}</text>
+      <sha1>0eqlqs2rfqhdxw69g2q5ecpi6sopkfe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1256</id>
+      <parentid>1255</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="95">{{IARPASourceConcept
+|SourceID=22
+|Owner=GOV
+|LUs=тундра, пустыня, болото
+}}</text>
+      <sha1>o2k3jba1tbmqvsxpy2tuvi8jk94b3s8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ABYSS</title>
+    <ns>570</ns>
+    <id>363</id>
+    <revision>
+      <id>1257</id>
+      <timestamp>2014-05-28T20:11:51Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="1111">{{IARPAConcept
+|SourceID=3
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=глубокая, глубоко, углубить, глубина, безопасность, сеть безопасности, мелкой, ввергать, впасть, грань, край, отбрасывать, порог, скатиться, тянуть, черта, перетащить, перетащить вниз, вытащили, замедлен, при нагрузке, края, попадать  в, бросать, , парящий, окунуться, окунуться в, тянуть, толкать, толкать в, продвигаться к, скатиться в, скольжение, скольжение в, бросать, бросать в, впасть в,  скатиться в, выбраться, выйти, вылезти, вытащить, тянуть, подняться, выбраться из, ползать, выползти, прыгать, выскочить, лифт, вынуть, тянуть, тянуть, спасение, спасение от, пропасть, яма
+}}</text>
+      <sha1>druc0mxr2jdxe86b92ix4nqe26og2t2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1258</id>
+      <parentid>1257</parentid>
+      <timestamp>2014-08-12T20:01:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="1117">{{IARPASourceConcept
+|SourceID=3
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=глубокая, глубоко, углубить, глубина, безопасность, сеть безопасности, мелкой, ввергать, впасть, грань, край, отбрасывать, порог, скатиться, тянуть, черта, перетащить, перетащить вниз, вытащили, замедлен, при нагрузке, края, попадать  в, бросать, , парящий, окунуться, окунуться в, тянуть, толкать, толкать в, продвигаться к, скатиться в, скольжение, скольжение в, бросать, бросать в, впасть в,  скатиться в, выбраться, выйти, вылезти, вытащить, тянуть, подняться, выбраться из, ползать, выползти, прыгать, выскочить, лифт, вынуть, тянуть, тянуть, спасение, спасение от, пропасть, яма
+}}</text>
+      <sha1>1aka7d8rl2f9m5cznu36mq77rzi2ed0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SERVANT</title>
+    <ns>570</ns>
+    <id>364</id>
+    <revision>
+      <id>1259</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="159">{{IARPAConcept
+|SourceID=61
+|Type=source
+|Status=magenta
+|Owner=ICSI
+|LUs=служить, угодить, горничная, дворецкий, слуга
+}}</text>
+      <sha1>9z27qvy94xh56rck3lgs0r9r6pzlk04</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1260</id>
+      <parentid>1259</parentid>
+      <timestamp>2014-07-25T07:11:11Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="142">{{IARPAConcept
+|SourceID=61
+|Type=source
+|Owner=GOV
+|LUs=служить, угодить, горничная, дворецкий, слуга
+}}</text>
+      <sha1>qtao5drtvo2izlgje11xp7smyjxdkzp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1261</id>
+      <parentid>1260</parentid>
+      <timestamp>2014-07-31T06:08:59Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="144">{{IARPAConcept
+|SourceID=46,1
+|Type=source
+|Owner=GOV
+|LUs=служить, угодить, горничная, дворецкий, слуга
+}}</text>
+      <sha1>jsprw2egt378no6jwnc2g7xqb8xzw1j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1262</id>
+      <parentid>1261</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="150">{{IARPASourceConcept
+|SourceID=46,1
+|Type=source
+|Owner=GOV
+|LUs=служить, угодить, горничная, дворецкий, слуга
+}}</text>
+      <sha1>bqxapmcs42tz7bzn967wduteqqnw1ia</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:RULE ENFORCER</title>
+    <ns>570</ns>
+    <id>365</id>
+    <revision>
+      <id>1263</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="153">{{IARPAConcept
+|SourceID=60
+|Type=source
+|Status=red
+|Owner=ICSI
+|LUs=Полиция, патруль, полицейский, рефери, судья
+}}</text>
+      <sha1>k1gnmox8og5h818d99f5hwhqs1ay8h3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1264</id>
+      <parentid>1263</parentid>
+      <timestamp>2014-07-25T07:07:55Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="142">{{IARPAConcept
+|SourceID=45.1
+|Type=source
+|Owner=GOV
+|LUs=полиция, патруль, полицейский, рефери, судья
+}}</text>
+      <sha1>62vj5xznm7a83y9vwvinwt2zat7pioz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1265</id>
+      <parentid>1264</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="148">{{IARPASourceConcept
+|SourceID=45.1
+|Type=source
+|Owner=GOV
+|LUs=полиция, патруль, полицейский, рефери, судья
+}}</text>
+      <sha1>bcstyrui6nigk9aukexc5x2u634e8hp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PHYSICAL BURDEN</title>
+    <ns>570</ns>
+    <id>366</id>
+    <revision>
+      <id>1266</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="398">{{IARPAConcept
+|SourceID=38
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=жёсткость, изнурять, истощать, сломлен, облегчение, послабление, бремя, давить, нагружать, нагрузка, тяжесть, бремя, давить, давление, нагружать, нагрузка, тащить, тяжелый, тяжесть
+}}</text>
+      <sha1>0setgohenss85gqtf5hu7hnxoods07g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1267</id>
+      <parentid>1266</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="404">{{IARPASourceConcept
+|SourceID=38
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=жёсткость, изнурять, истощать, сломлен, облегчение, послабление, бремя, давить, нагружать, нагрузка, тяжесть, бремя, давить, давление, нагружать, нагрузка, тащить, тяжелый, тяжесть
+}}</text>
+      <sha1>stw4bgd9u2687dcd7webv9k08x8tcdc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1268</id>
+      <parentid>1267</parentid>
+      <timestamp>2014-12-14T22:21:02Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="423">{{IARPASourceConcept
+|SourceID=38
+|Status=white
+|Owner=GOV
+|LUs=жёсткость, изнурять, истощать, сломлен, облегчение, послабление, бремя, давить, нагружать, нагрузка, тяжесть, бремя, давить, давление, нагружать, нагрузка, тащить, тяжелый, тяжесть, обременительный
+}}</text>
+      <sha1>9h6umtjcnr5l7kqo24p3i24z0d9597h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1269</id>
+      <parentid>1268</parentid>
+      <timestamp>2014-12-15T09:50:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="437">{{IARPASourceConcept
+|SourceID=38
+|Status=white
+|Owner=GOV
+|LUs=жёсткость, изнурять, истощать, сломлен, облегчение, послабление, бремя, давить, нагружать, нагрузка, тяжесть, бремя, давить, давление, нагружать, нагрузка, тащить, тяжелый, тяжесть, обременительный, кошмар
+}}</text>
+      <sha1>8brkyvja1yuln0iesv4rq6slubbh8vb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GAP</title>
+    <ns>570</ns>
+    <id>367</id>
+    <revision>
+      <id>1270</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="376">{{IARPAConcept
+|SourceID=22
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=даль, километр, метр, отдаленность, расстояние, залив, разрыв, каньон, пропасть, расщелина, трещина, раскол, разделение, овраг, пропасть, ров, раскол, расстояние, далеко
+}}</text>
+      <sha1>93h1ri6n2gsf7x6pkmvinth3ys2k2bo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1271</id>
+      <parentid>1270</parentid>
+      <timestamp>2014-07-25T06:36:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="363">{{IARPAConcept
+|SourceID=22
+|Type=source
+|Owner=ICSI
+|LUs=даль, километр, метр, отдаленность, расстояние, залив, разрыв, каньон, пропасть, расщелина, трещина, раскол, разделение, овраг, пропасть, ров, раскол, расстояние, далеко
+}}</text>
+      <sha1>ip6734d0mngwl97c3kccc308odsvygi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1272</id>
+      <parentid>1271</parentid>
+      <timestamp>2014-08-08T22:56:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="468">{{IARPAConcept
+|SourceID=22
+|Type=source
+|Definition=An unfilled space or interval between two things; an opening in a solid structure or surface
+|Owner=ICSI
+|LUs=даль, километр, метр, отдаленность, расстояние, залив, разрыв, каньон, пропасть, расщелина, трещина, раскол, разделение, овраг, пропасть, ров, раскол, расстояние, далеко
+}}</text>
+      <sha1>ijhxd31flrlteluoak8v73axf4dfb4c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1273</id>
+      <parentid>1272</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="474">{{IARPASourceConcept
+|SourceID=22
+|Type=source
+|Definition=An unfilled space or interval between two things; an opening in a solid structure or surface
+|Owner=ICSI
+|LUs=даль, километр, метр, отдаленность, расстояние, залив, разрыв, каньон, пропасть, расщелина, трещина, раскол, разделение, овраг, пропасть, ров, раскол, расстояние, далеко
+}}</text>
+      <sha1>0uv4k7o1rni70idletyafpik8g2klv1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:NATURAL PHYSICAL FORCE</title>
+    <ns>570</ns>
+    <id>368</id>
+    <revision>
+      <id>1274</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="280">{{IARPAConcept
+|SourceID=34
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=голодание, опустошать, разрухнуть, свалиться, смерть, хоронить, засуха, лавина, наводнение, оползень, потоп, шторм
+}}</text>
+      <sha1>mldr43nis9s39ok6c8bo551t0a4mcxp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1275</id>
+      <parentid>1274</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="286">{{IARPASourceConcept
+|SourceID=34
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=голодание, опустошать, разрухнуть, свалиться, смерть, хоронить, засуха, лавина, наводнение, оползень, потоп, шторм
+}}</text>
+      <sha1>r6xq6556i6c1t3k2k2du5p1yjpgtd6i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PROTECTION</title>
+    <ns>570</ns>
+    <id>369</id>
+    <revision>
+      <id>1276</id>
+      <timestamp>2014-07-25T07:05:45Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=43 |Type=source |Owner=GOV |LUs=пристанище, защищать }}»</comment>
+      <text xml:space="preserve" bytes="98">{{IARPAConcept
+|SourceID=43
+|Type=source
+|Owner=GOV
+|LUs=пристанище, защищать
+}}</text>
+      <sha1>sjca2zvlyzlj62mcix9ji02ymwharlb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1277</id>
+      <parentid>1276</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="104">{{IARPASourceConcept
+|SourceID=43
+|Type=source
+|Owner=GOV
+|LUs=пристанище, защищать
+}}</text>
+      <sha1>8k62h9gjpmzowb0ogy81biqchy1fq5y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CHILDCARE</title>
+    <ns>570</ns>
+    <id>370</id>
+    <revision>
+      <id>1278</id>
+      <timestamp>2014-07-31T06:28:07Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=72 |Type=source |Status=white |Owner=ICSI |LUs=детский, детский сад, няня, воспитывать, заботить…»</comment>
+      <text xml:space="preserve" bytes="322">{{IARPAConcept
+|SourceID=72
+|Type=source
+|Status=white
+|Owner=ICSI
+|LUs=детский, детский сад, няня, воспитывать, заботиться, защищать, кормить, любовь, обеспечить, ребенок, уход, мама, мать, отец, папа, родитель
+}}</text>
+      <sha1>ozitl94x5xnon5wddn8m817ltfv82q8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1279</id>
+      <parentid>1278</parentid>
+      <timestamp>2014-08-08T22:55:25Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="411">{{IARPAConcept
+|SourceID=72
+|Type=source
+|Definition=the act of taking care of and providing for a child's well-being; nurturing 
+|Status=white
+|Owner=ICSI
+|LUs=детский, детский сад, няня, воспитывать, заботиться, защищать, кормить, любовь, обеспечить, ребенок, уход, мама, мать, отец, папа, родитель
+}}</text>
+      <sha1>41i6v0qicq1yb6537x6oy7hln93age3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1280</id>
+      <parentid>1279</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="417">{{IARPASourceConcept
+|SourceID=72
+|Type=source
+|Definition=the act of taking care of and providing for a child's well-being; nurturing 
+|Status=white
+|Owner=ICSI
+|LUs=детский, детский сад, няня, воспитывать, заботиться, защищать, кормить, любовь, обеспечить, ребенок, уход, мама, мать, отец, папа, родитель
+}}</text>
+      <sha1>829ftat96ck5lf2hvs09mowb09trzli</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:SCIENCE</title>
+    <ns>570</ns>
+    <id>371</id>
+    <revision>
+      <id>1281</id>
+      <timestamp>2014-07-25T07:09:12Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=46 |Type=source |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="54">{{IARPAConcept
+|SourceID=46
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>pr6lecdmtuztl0xi9qdedy52r3skoav</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1282</id>
+      <parentid>1281</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="60">{{IARPASourceConcept
+|SourceID=46
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>pvdvlbg753opn0l0zkzcvbtqlz07f1l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BARRIER</title>
+    <ns>570</ns>
+    <id>372</id>
+    <revision>
+      <id>1283</id>
+      <timestamp>2014-07-25T06:02:47Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=6.2 |Type=source |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="55">{{IARPAConcept
+|SourceID=6.2
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>l8s4k1w746b76rp79n2ft8yu11wjzaw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1284</id>
+      <parentid>1283</parentid>
+      <timestamp>2014-07-31T04:54:47Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="150">{{IARPAConcept
+|SourceID=6,2
+|Type=source
+|Owner=GOV
+|LUs=барьер, препятствие, дорожный блок, затрудненный
+}}</text>
+      <sha1>7r0ophzisy5ov65kjcioedhjqlr46e6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1285</id>
+      <parentid>1284</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="156">{{IARPASourceConcept
+|SourceID=6,2
+|Type=source
+|Owner=GOV
+|LUs=барьер, препятствие, дорожный блок, затрудненный
+}}</text>
+      <sha1>t99qtyyy9ajvli88fk7fww8zw3cx93e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:JOURNEY</title>
+    <ns>570</ns>
+    <id>373</id>
+    <revision>
+      <id>1286</id>
+      <timestamp>2014-07-25T06:43:03Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=25.1 |Type=source |Owner=GOV |LUs=путешествие, поездка, маршрут }}»</comment>
+      <text xml:space="preserve" bytes="116">{{IARPAConcept
+|SourceID=25.1
+|Type=source
+|Owner=GOV
+|LUs=путешествие, поездка, маршрут
+}}</text>
+      <sha1>1hkxgx2nu2ger63ouoefjqli6txs5u8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1287</id>
+      <parentid>1286</parentid>
+      <timestamp>2014-07-31T06:02:29Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="116">{{IARPAConcept
+|SourceID=25,1
+|Type=source
+|Owner=GOV
+|LUs=путешествие, поездка, маршрут
+}}</text>
+      <sha1>rxu4chv1ly5r7g5pn984lbao4356gwc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1288</id>
+      <parentid>1287</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="122">{{IARPASourceConcept
+|SourceID=25,1
+|Type=source
+|Owner=GOV
+|LUs=путешествие, поездка, маршрут
+}}</text>
+      <sha1>41cgi19a0ow4nxdvyk3q41vfx7q0t4n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:THEFT</title>
+    <ns>570</ns>
+    <id>374</id>
+    <revision>
+      <id>1289</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="261">{{IARPAConcept
+|SourceID=48
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=кража, вор, грабить, грабитель, украсть, воровство, покража, украденные вещи, ограбление, грабеж, разбой
+}}</text>
+      <sha1>45bnxigtmissm9lz0ao8izlnfm4q0cl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1290</id>
+      <parentid>1289</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="267">{{IARPASourceConcept
+|SourceID=48
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=кража, вор, грабить, грабитель, украсть, воровство, покража, украденные вещи, ограбление, грабеж, разбой
+}}</text>
+      <sha1>nw39q1o922yy6gmkyaahk0uzs1gddxj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:HIGH LOCATION</title>
+    <ns>570</ns>
+    <id>375</id>
+    <revision>
+      <id>1291</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="145">{{IARPAConcept
+|SourceID=65
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=верх, вершина, вершина пирамиды, высший
+}}</text>
+      <sha1>nhzfkn2jee0da4l00qoj2gd86mpszwk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1292</id>
+      <parentid>1291</parentid>
+      <timestamp>2014-07-25T06:37:17Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="131">{{IARPAConcept
+|SourceID=23
+|Type=source
+|Owner=GOV
+|LUs=верх, вершина, вершина пирамиды, высший
+}}</text>
+      <sha1>if4yjkknqvxamzne43cjwkrmr2pf06s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1293</id>
+      <parentid>1292</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="137">{{IARPASourceConcept
+|SourceID=23
+|Type=source
+|Owner=GOV
+|LUs=верх, вершина, вершина пирамиды, высший
+}}</text>
+      <sha1>56vbqivsr3814ud8ihlfo6lyb6kz9oj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ENERGY</title>
+    <ns>570</ns>
+    <id>376</id>
+    <revision>
+      <id>1294</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="202">{{IARPAConcept
+|SourceID=17
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=греет, перегреть, подогревают, бензин, горючее, нефть, топливо, энергия
+}}</text>
+      <sha1>h7lw7g5qnbl2kbgqrdjsuyginhc9b23</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1295</id>
+      <parentid>1294</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="208">{{IARPASourceConcept
+|SourceID=17
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=греет, перегреть, подогревают, бензин, горючее, нефть, топливо, энергия
+}}</text>
+      <sha1>ac34rxp4bd9bxd372phg9s51x4b8fkj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:COMPETITION</title>
+    <ns>570</ns>
+    <id>377</id>
+    <revision>
+      <id>1296</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="73">{{IARPAConcept
+|SourceID=10
+|Type=source
+|Status=pink
+|Owner=GOV
+|LUs=
+}}</text>
+      <sha1>flkvdscp1zla28y6mc7rbihgqip4l8s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1297</id>
+      <parentid>1296</parentid>
+      <timestamp>2014-07-31T05:08:05Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="171">{{IARPAConcept
+|SourceID=10
+|Type=source
+|Status=pink
+|Owner=GOV
+|LUs=выиграть, гонка, соревнование, скачка, бега, забег, бег
+}}</text>
+      <sha1>mhnhc9960s9l9s044jv1gzqrt4b5qn1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1298</id>
+      <parentid>1297</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="177">{{IARPASourceConcept
+|SourceID=10
+|Type=source
+|Status=pink
+|Owner=GOV
+|LUs=выиграть, гонка, соревнование, скачка, бега, забег, бег
+}}</text>
+      <sha1>ddgqy05i0565xww1epdh696nm49zoti</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1299</id>
+      <parentid>1298</parentid>
+      <timestamp>2014-12-15T14:13:52Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="202">{{IARPASourceConcept
+|SourceID=10
+|Status=pink
+|Owner=GOV
+|LUs=выиграть, гонка, соревнование, скачка, бега, забег, бег, состязание, триумф, 
+}}</text>
+      <sha1>qee1uccvnran3hne1oyek9lv7463d8y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:UPWARD MOVEMENT</title>
+    <ns>570</ns>
+    <id>378</id>
+    <revision>
+      <id>1300</id>
+      <timestamp>2014-07-25T07:18:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=48.1 |Type=source |Owner=GOV |LUs=взобраться, достигнуть, достигнуть вершины, подниматься…»</comment>
+      <text xml:space="preserve" bytes="242">{{IARPAConcept
+|SourceID=48.1
+|Type=source
+|Owner=GOV
+|LUs=взобраться, достигнуть, достигнуть вершины, подниматься, продвигаться, двигаться, двигаться вверх
+}}</text>
+      <sha1>elgy897w55foz5a1opk8lifby5bdpk4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1301</id>
+      <parentid>1300</parentid>
+      <timestamp>2014-07-31T06:10:08Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="242">{{IARPAConcept
+|SourceID=48,1
+|Type=source
+|Owner=GOV
+|LUs=взобраться, достигнуть, достигнуть вершины, подниматься, продвигаться, двигаться, двигаться вверх
+}}</text>
+      <sha1>tax8bzdk4z2vgb6sfn6do7gafcbfvuq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1302</id>
+      <parentid>1301</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="248">{{IARPASourceConcept
+|SourceID=48,1
+|Type=source
+|Owner=GOV
+|LUs=взобраться, достигнуть, достигнуть вершины, подниматься, продвигаться, двигаться, двигаться вверх
+}}</text>
+      <sha1>d2aueb4z20zza20oy2jqhog23u7yqj6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:GEOGRAPHIC FEATURE</title>
+    <ns>570</ns>
+    <id>379</id>
+    <revision>
+      <id>1303</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="198">{{IARPAConcept
+|SourceID=23
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=гора, море, река, степь, тайга, тундра, холм, Альпы, Гималаи, океан, луг
+}}</text>
+      <sha1>f9jv72uyx52fbzvjr5ar5y9je7esx5x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1304</id>
+      <parentid>1303</parentid>
+      <timestamp>2014-07-31T06:00:51Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="201">{{IARPAConcept
+|SourceID=63,5
+|Type=source
+|Status=white
+|Owner=ICSI
+|LUs=гора, море, река, степь, тайга, тундра, холм, Альпы, Гималаи, океан, луг
+}}</text>
+      <sha1>no4z301wgdim1yvaj1anm7e3in08g3e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1305</id>
+      <parentid>1304</parentid>
+      <timestamp>2014-08-08T22:57:20Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="230">{{IARPAConcept
+|SourceID=63,5
+|Type=source
+|Definition=natural landform
+|Status=white
+|Owner=ICSI
+|LUs=гора, море, река, степь, тайга, тундра, холм, Альпы, Гималаи, океан, луг
+}}</text>
+      <sha1>cv9114r2lku3k67h3uap2mi0bgrids0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1306</id>
+      <parentid>1305</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="236">{{IARPASourceConcept
+|SourceID=63,5
+|Type=source
+|Definition=natural landform
+|Status=white
+|Owner=ICSI
+|LUs=гора, море, река, степь, тайга, тундра, холм, Альпы, Гималаи, океан, луг
+}}</text>
+      <sha1>6unwigbr2tobkb625bcawqe1htpuv8b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1307</id>
+      <parentid>1306</parentid>
+      <timestamp>2014-11-21T21:20:31Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="242">{{IARPASourceConcept
+|SourceID=63,5
+|Definition=natural landform
+|Status=white
+|Owner=ICSI
+|LUs=гора, море, река, степь, тайга, тундра, холм, Альпы, Гималаи, океан, луг, пирамида 
+}}</text>
+      <sha1>o1sqz8jybvzpew9lpj4gzkhxpet9fmm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ANIMAL</title>
+    <ns>570</ns>
+    <id>380</id>
+    <revision>
+      <id>1308</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="677">{{IARPAConcept
+|SourceID=5
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=кусаться, налетать, пожирать, съедать, лаять, коготь, коготь на, ползать,  корма, толстеть, рычание, рев, валяться, когти, лапа, пасть, коготь, клык, клыки, зияющие, челюсти, грызть, изъесть, поглотить, сглодать, съедать, атака, жевать, коготь, пожрать, голодное, голодное животное, хищная, хищная птица, зверь, существо, тварь, свинья, шалун
+}}</text>
+      <sha1>c8piq1f8hdxufpz4bifzlrdg2qvjyec</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1309</id>
+      <parentid>1308</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="683">{{IARPASourceConcept
+|SourceID=5
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=кусаться, налетать, пожирать, съедать, лаять, коготь, коготь на, ползать,  корма, толстеть, рычание, рев, валяться, когти, лапа, пасть, коготь, клык, клыки, зияющие, челюсти, грызть, изъесть, поглотить, сглодать, съедать, атака, жевать, коготь, пожрать, голодное, голодное животное, хищная, хищная птица, зверь, существо, тварь, свинья, шалун
+}}</text>
+      <sha1>pu6czzcgvz52e7r0jsyotsudynneb7a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1310</id>
+      <parentid>1309</parentid>
+      <timestamp>2014-12-14T20:43:55Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="684">{{IARPASourceConcept
+|SourceID=5
+|Status=white
+|Owner=GOV
+|LUs=кусаться, налетать, пожирать, съедать, лаять, коготь, коготь на, ползать,  корма, толстеть, рычание, рев, валяться, когти, лапа, пасть, коготь, клык, клыки, зияющие, челюсти, грызть, изъесть, поглотить, сглодать, съедать, атака, жевать, коготь, пожрать, голодное, голодное животное, хищная, хищная птица, зверь, существо, тварь, свинья, шалун, зверьё
+}}</text>
+      <sha1>qi23i5yqbfsxmyuvbm3yd3n8hrhv67w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1311</id>
+      <parentid>1310</parentid>
+      <timestamp>2014-12-15T09:59:10Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="708">{{IARPASourceConcept
+|SourceID=5
+|Status=white
+|Owner=GOV
+|LUs=кусаться, налетать, пожирать, съедать, лаять, коготь, коготь на, ползать,  корма, толстеть, рычание, рев, валяться, когти, лапа, пасть, коготь, клык, клыки, зияющие, челюсти, грызть, изъесть, поглотить, сглодать, съедать, атака, жевать, коготь, пожрать, голодное, голодное животное, хищная, хищная птица, зверь, существо, тварь, свинья, шалун, зверьё, 	крыло, 	пес, 
+}}</text>
+      <sha1>e25qkf2chyorb9a1ebj6cifzlkxpl83</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:EMOTION EXPERIENCER</title>
+    <ns>570</ns>
+    <id>381</id>
+    <revision>
+      <id>1312</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="192">{{IARPAConcept
+|SourceID=58
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=верить, гнев, желание, надежда, расстроенный, хотите, чувствовать
+}}</text>
+      <sha1>alemwv3v0rd3z05upjksyek4knilgsd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1313</id>
+      <parentid>1312</parentid>
+      <timestamp>2014-07-25T06:17:58Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=16.2
+|Type=source
+|Status=cyan
+|Owner=GOV
+|LUs=верить, гнев, желание, надежда, расстроенный, хотите, чувствовать
+}}</text>
+      <sha1>dnn74r56iiccyx724pe661jjetpvx3e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1314</id>
+      <parentid>1313</parentid>
+      <timestamp>2014-07-31T05:39:28Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=16,2
+|Type=source
+|Status=cyan
+|Owner=GOV
+|LUs=верить, гнев, желание, надежда, расстроенный, хотите, чувствовать
+}}</text>
+      <sha1>9qhlxotznf8izda4u9xv3qdvpxcwdvy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1315</id>
+      <parentid>1314</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="199">{{IARPASourceConcept
+|SourceID=16,2
+|Type=source
+|Status=cyan
+|Owner=GOV
+|LUs=верить, гнев, желание, надежда, расстроенный, хотите, чувствовать
+}}</text>
+      <sha1>06let2klyz3bg11l7bo6b0ylu7q9d01</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1316</id>
+      <parentid>1315</parentid>
+      <timestamp>2014-12-13T03:59:11Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="252">{{IARPASourceConcept
+|SourceID=16,2
+|Status=cyan
+|Owner=GOV
+|LUs=верить, гнев, желание, надежда, расстроенный, хотите, чувствовать, боязнь, страх, испуг, смятение, ужас
+}}</text>
+      <sha1>nm2khg0jvtwbve23cpecgbnlgj87bvu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1317</id>
+      <parentid>1316</parentid>
+      <timestamp>2014-12-13T04:30:11Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="266">{{IARPASourceConcept
+|SourceID=16,2
+|Status=cyan
+|Owner=GOV
+|LUs=эмоция, верить, гнев, желание, надежда, расстроенный, хотите, чувствовать, боязнь, страх, испуг, смятение, ужас
+}}</text>
+      <sha1>fcvhkvl0ov5cqze62ntyuxy1a4288g5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1318</id>
+      <parentid>1317</parentid>
+      <timestamp>2014-12-13T04:35:14Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="214">{{IARPASourceConcept
+|SourceID=16,2
+|Status=cyan
+|Owner=GOV
+|LUs=эмоция, верить, гнев, желание, надежда, расстроенный, хотите, чувствовать, боязнь
+}}</text>
+      <sha1>43iirzwfm14vwk2bbuw2zxmtp9af2ws</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1319</id>
+      <parentid>1318</parentid>
+      <timestamp>2014-12-13T04:51:45Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="232">{{IARPASourceConcept
+|SourceID=16,2
+|Status=cyan
+|Owner=GOV
+|LUs=эмоция, верить, гнев, желание, надежда, расстроенный, хотите, чувствовать, боязнь, жадность
+}}</text>
+      <sha1>4v9afhfxmnk9jbtlni3ip4p2oxl01dq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PORTAL</title>
+    <ns>570</ns>
+    <id>382</id>
+    <revision>
+      <id>1320</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="233">{{IARPAConcept
+|SourceID=42
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=
+дверь, порог, прихожая, 
+запирать, запирать, замыкать, замыкаться,  заключать, закрывать
+}}</text>
+      <sha1>b1qkjbm2t8agrovp125gqv47tced64r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1321</id>
+      <parentid>1320</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="239">{{IARPASourceConcept
+|SourceID=42
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=
+дверь, порог, прихожая, 
+запирать, запирать, замыкать, замыкаться,  заключать, закрывать
+}}</text>
+      <sha1>fyownc7xueh35qy7ejpn4yithm6xsqz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:COGNIZER</title>
+    <ns>570</ns>
+    <id>383</id>
+    <revision>
+      <id>1322</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="282">{{IARPAConcept
+|SourceID=59
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=думать, верить, вера, понимать, постигать, представить, думать, считать, мыслить, полагать, размышлять, придумывать
+}}</text>
+      <sha1>h3mujag3wso83bjjuklnh00qr97t058</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1323</id>
+      <parentid>1322</parentid>
+      <timestamp>2014-08-08T22:55:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="349">{{IARPAConcept
+|SourceID=59
+|Type=source
+|Definition=one who perceives, believes, or understands a concept 
+|Status=cyan
+|Owner=ICSI
+|LUs=думать, верить, вера, понимать, постигать, представить, думать, считать, мыслить, полагать, размышлять, придумывать
+}}</text>
+      <sha1>gbqmrb2dy13btbs3ere4gpr4xusqtxp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1324</id>
+      <parentid>1323</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="355">{{IARPASourceConcept
+|SourceID=59
+|Type=source
+|Definition=one who perceives, believes, or understands a concept 
+|Status=cyan
+|Owner=ICSI
+|LUs=думать, верить, вера, понимать, постигать, представить, думать, считать, мыслить, полагать, размышлять, придумывать
+}}</text>
+      <sha1>tuoqmr3zia7t4sgwkzvmsuad67x9obj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FAMILY</title>
+    <ns>570</ns>
+    <id>384</id>
+    <revision>
+      <id>1325</id>
+      <timestamp>2014-07-25T06:26:06Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=18.3 |Type=source |Owner=GOV |LUs=семья }}»</comment>
+      <text xml:space="preserve" bytes="72">{{IARPAConcept
+|SourceID=18.3
+|Type=source
+|Owner=GOV
+|LUs=семья
+}}</text>
+      <sha1>ofsq7wkplrk1dozslhb8t1zh5j4hjxs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1326</id>
+      <parentid>1325</parentid>
+      <timestamp>2014-07-31T05:47:23Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="180">{{IARPAConcept
+|SourceID=18,3
+|Type=source
+|Owner=GOV
+|LUs=семья, брат, сестра, брак, мать, отец, ребёнок, усыновить, родитель
+}}</text>
+      <sha1>bomyskx207h02vxj7cnkhm9v1kipx4u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1327</id>
+      <parentid>1326</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="186">{{IARPASourceConcept
+|SourceID=18,3
+|Type=source
+|Owner=GOV
+|LUs=семья, брат, сестра, брак, мать, отец, ребёнок, усыновить, родитель
+}}</text>
+      <sha1>do4afnczxk7dfpezfzw0xd5en0ztstf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CONTAINER</title>
+    <ns>570</ns>
+    <id>385</id>
+    <revision>
+      <id>1328</id>
+      <timestamp>2014-07-25T06:04:30Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=11.1 |Type=source |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="56">{{IARPAConcept
+|SourceID=11.1
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>qrkk52srsnmr7zfkdhyebmj6aequ0b1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1329</id>
+      <parentid>1328</parentid>
+      <timestamp>2014-07-31T05:12:30Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="96">{{IARPAConcept
+|SourceID=11,1
+|Type=source
+|Owner=GOV
+|LUs=ведро, чашка, мешок
+}}</text>
+      <sha1>hsyu19wyxnbhe2h5qi3t89lrx70fb7q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1330</id>
+      <parentid>1329</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="102">{{IARPASourceConcept
+|SourceID=11,1
+|Type=source
+|Owner=GOV
+|LUs=ведро, чашка, мешок
+}}</text>
+      <sha1>r1tf6orqyu7e7gmnivqyze2237vh33k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ZEALOTRY</title>
+    <ns>570</ns>
+    <id>386</id>
+    <revision>
+      <id>1331</id>
+      <timestamp>2014-07-31T06:37:51Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=80 |Owner=ICSI |LUs=фанатик, экстремист, джихад, культ, секта }}»</comment>
+      <text xml:space="preserve" bytes="122">{{IARPAConcept
+|SourceID=80
+|Owner=ICSI
+|LUs=фанатик, экстремист, джихад, культ, секта
+}}</text>
+      <sha1>kyo62oly6cumobhekm23i8xje6okykm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1332</id>
+      <parentid>1331</parentid>
+      <timestamp>2014-08-08T22:58:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="214">{{IARPAConcept
+|SourceID=80
+|Type=source
+|Definition=wildly excessive or irrational devotion, dedication, or enthusiasm
+|Owner=ICSI
+|LUs=фанатик, экстремист, джихад, культ, секта
+}}</text>
+      <sha1>0sidxy6xjq7db5f7e0pto62z5wl35na</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1333</id>
+      <parentid>1332</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="220">{{IARPASourceConcept
+|SourceID=80
+|Type=source
+|Definition=wildly excessive or irrational devotion, dedication, or enthusiasm
+|Owner=ICSI
+|LUs=фанатик, экстремист, джихад, культ, секта
+}}</text>
+      <sha1>qjfop67io3epczcsmndnck5lojo5od8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PEST</title>
+    <ns>570</ns>
+    <id>387</id>
+    <revision>
+      <id>1334</id>
+      <timestamp>2014-07-31T06:21:38Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=65 |Type=source |Owner=ICSI |LUs=вредитель, паразит, насекомое, кишеть, роиться, термит, пл…»</comment>
+      <text xml:space="preserve" bytes="175">{{IARPAConcept
+|SourceID=65
+|Type=source
+|Owner=ICSI
+|LUs=вредитель, паразит, насекомое, кишеть, роиться, термит, плесень
+}}</text>
+      <sha1>ci27jvf6s1j9ecc3qln85xvcabmyu0x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1335</id>
+      <parentid>1334</parentid>
+      <timestamp>2014-08-08T22:57:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="263">{{IARPAConcept
+|SourceID=65
+|Type=source
+|Definition=insect, small animal, or fungus that is annoying or harmful and destructive
+|Owner=ICSI
+|LUs=вредитель, паразит, насекомое, кишеть, роиться, термит, плесень
+}}</text>
+      <sha1>jvvix80km4kgciiogahmsn4vdwljg42</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1336</id>
+      <parentid>1335</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="269">{{IARPASourceConcept
+|SourceID=65
+|Type=source
+|Definition=insect, small animal, or fungus that is annoying or harmful and destructive
+|Owner=ICSI
+|LUs=вредитель, паразит, насекомое, кишеть, роиться, термит, плесень
+}}</text>
+      <sha1>40uzgro3w826tbwtefagbbimepqlhuq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:VEHICLE</title>
+    <ns>570</ns>
+    <id>388</id>
+    <revision>
+      <id>1337</id>
+      <timestamp>2014-07-25T07:25:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=48.2 |Type=source |Owner=GOV |LUs=автомобиль, машина, грузовик, поезд, лодка, корабль }}»</comment>
+      <text xml:space="preserve" bytes="154">{{IARPAConcept
+|SourceID=48.2
+|Type=source
+|Owner=GOV
+|LUs=автомобиль, машина, грузовик, поезд, лодка, корабль
+}}</text>
+      <sha1>20hft7j3yyn22mj1q7lkglzh0uyjot8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1338</id>
+      <parentid>1337</parentid>
+      <timestamp>2014-07-31T06:10:44Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="154">{{IARPAConcept
+|SourceID=48,2
+|Type=source
+|Owner=GOV
+|LUs=автомобиль, машина, грузовик, поезд, лодка, корабль
+}}</text>
+      <sha1>30c5xb09uwdgqd2qn9td4n2pl55qv2i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1339</id>
+      <parentid>1338</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="160">{{IARPASourceConcept
+|SourceID=48,2
+|Type=source
+|Owner=GOV
+|LUs=автомобиль, машина, грузовик, поезд, лодка, корабль
+}}</text>
+      <sha1>348d5m0s9j31e5uu207sttbx7d82ztj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PARASITE</title>
+    <ns>570</ns>
+    <id>389</id>
+    <revision>
+      <id>1340</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="367">{{IARPAConcept
+|SourceID=36
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=обрез, обескровить, сосать, сосать сухой, сосет, сосет, кровосос, кровососущих, пиявка, искоренение, паразит, пиявка, тунеядец, кровосос, кровопийца, вампир, комар
+}}</text>
+      <sha1>rn6gy1i60mhmyfzyhijzulzuqia3m6p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1341</id>
+      <parentid>1340</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="373">{{IARPASourceConcept
+|SourceID=36
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=обрез, обескровить, сосать, сосать сухой, сосет, сосет, кровосос, кровососущих, пиявка, искоренение, паразит, пиявка, тунеядец, кровосос, кровопийца, вампир, комар
+}}</text>
+      <sha1>71kwjseq1lcru1hsn7lgfqv6j9fet74</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1342</id>
+      <parentid>1341</parentid>
+      <timestamp>2014-12-14T22:26:56Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="390">{{IARPASourceConcept
+|SourceID=36
+|Status=white
+|Owner=GOV
+|LUs=обрез, обескровить, сосать, сосать сухой, сосет, сосет, кровосос, кровососущих, пиявка, искоренение, паразит, пиявка, тунеядец, кровосос, кровопийца, вампир, комар, паразитический
+}}</text>
+      <sha1>qqvql6q2q8nhvlpfmgzvgddpt1n6lzh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1343</id>
+      <parentid>1342</parentid>
+      <timestamp>2014-12-15T09:15:57Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">{{IARPASourceConcept
+|SourceID=36
+|Status=white
+|Owner=GOV
+|LUs=обрез, обескровить, сосать, сосать сухой, сосет, сосет, кровосос, кровососущих, пиявка, искоренение, паразит, пиявка, тунеядец, кровосос, кровопийца, вампир, комар, паразитический, паразитарный
+}}</text>
+      <sha1>ofanon21445gvvfperacx7599rizwi8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1344</id>
+      <parentid>1343</parentid>
+      <timestamp>2014-12-15T09:21:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="510">{{IARPASourceConcept
+|SourceID=36
+|Status=white
+|Owner=GOV
+|LUs=обрез, обескровить, сосать, сосать сухой, сосет, сосет, кровосос, кровососущих, пиявка, искоренение, паразит, пиявка, тунеядец, кровосос, кровопийца, вампир, комар, паразитический, паразитарный, высасывать, червь, паразитирующий, паразитировать
+}}</text>
+      <sha1>4uo56az2brm0wjernclbqcn6u3oaweu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BLOOD STREAM</title>
+    <ns>570</ns>
+    <id>390</id>
+    <revision>
+      <id>1345</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="312">{{IARPAConcept
+|SourceID=7
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=кровь, кровь из артерий, сердечко, сердечко организации, сердечно-сосудистая система, кровообращение, текут, текут у людей по венам
+}}</text>
+      <sha1>svtcmbv69nxfbn7ul8d5tn5nplklxku</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1346</id>
+      <parentid>1345</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="318">{{IARPASourceConcept
+|SourceID=7
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=кровь, кровь из артерий, сердечко, сердечко организации, сердечно-сосудистая система, кровообращение, текут, текут у людей по венам
+}}</text>
+      <sha1>4qdlzzv4uczpoibgqfirnvz7xy3hrdb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PHYSICAL LOCATION</title>
+    <ns>570</ns>
+    <id>391</id>
+    <revision>
+      <id>1347</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="477">{{IARPAConcept
+|SourceID=40
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=жить, жить в, планка, родиться, родиться впроживать в, существовать, существовать  в, быть в, выйти, выйти из, выход, выходить, вводить, вводить в, вступать, вступать в, вталкиваться, гнать, гнать в, перейти, перейти в, подовить
+}}</text>
+      <sha1>kktg0hwtcw9hxrs41dh3duw74edyfuf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1348</id>
+      <parentid>1347</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="483">{{IARPASourceConcept
+|SourceID=40
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=жить, жить в, планка, родиться, родиться впроживать в, существовать, существовать  в, быть в, выйти, выйти из, выход, выходить, вводить, вводить в, вступать, вступать в, вталкиваться, гнать, гнать в, перейти, перейти в, подовить
+}}</text>
+      <sha1>tl3vxw2d6xrihusgghqva7aeuww9oxo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FORCEFUL EXTRACTION</title>
+    <ns>570</ns>
+    <id>392</id>
+    <revision>
+      <id>1349</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="329">{{IARPAConcept
+|SourceID=20
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=выжимать, вырывать, вытаскивать,  кровосос, процедить, последней каплей, утечка, пиявка, паразит, сифон, отжимают, сосать, высасывать , отжать
+}}</text>
+      <sha1>le01ujb6qod9pqoo9hqwxk9upvxv0ch</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1350</id>
+      <parentid>1349</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="335">{{IARPASourceConcept
+|SourceID=20
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=выжимать, вырывать, вытаскивать,  кровосос, процедить, последней каплей, утечка, пиявка, паразит, сифон, отжимают, сосать, высасывать , отжать
+}}</text>
+      <sha1>5dknq72h1n6rbfg8j7ufjeiueo262re</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MOVEMENT</title>
+    <ns>570</ns>
+    <id>393</id>
+    <revision>
+      <id>1351</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="170">{{IARPAConcept
+|SourceID=33
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=движение, круговорот, прилив, прилив и отлив, течение
+}}</text>
+      <sha1>5fedanpaqgt3iyq6c4me2opwkvw7cgq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1352</id>
+      <parentid>1351</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="176">{{IARPASourceConcept
+|SourceID=33
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=движение, круговорот, прилив, прилив и отлив, течение
+}}</text>
+      <sha1>2n3x1b38r1urfg763w7okep3pngk4j1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1353</id>
+      <parentid>1352</parentid>
+      <timestamp>2014-12-13T05:03:58Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="211">{{IARPASourceConcept
+|SourceID=33
+|Status=white
+|Owner=GOV
+|LUs=движение, круговорот, прилив, прилив и отлив, течение, спотыкаться, споткнуться
+}}</text>
+      <sha1>fwmpqb93p9ltcx3f4pfpw8sugnojmwh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LIFE STAGE</title>
+    <ns>570</ns>
+    <id>394</id>
+    <revision>
+      <id>1354</id>
+      <timestamp>2014-07-25T06:48:53Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=25.3 |Owner=GOV |LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, …»</comment>
+      <text xml:space="preserve" bytes="386">{{IARPAConcept
+|SourceID=25.3
+|Owner=GOV
+|LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, живое существо, организм, вянуть, ребенок, подросток, взрослый, пожилой, зрелый, незрелый, младенец, гериатрический, малыш
+}}</text>
+      <sha1>q6vlxhovh55kmn2oty93dvm106kolk6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1355</id>
+      <parentid>1354</parentid>
+      <timestamp>2014-07-31T06:03:22Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="386">{{IARPAConcept
+|SourceID=25,3
+|Owner=GOV
+|LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, живое существо, организм, вянуть, ребенок, подросток, взрослый, пожилой, зрелый, незрелый, младенец, гериатрический, малыш
+}}</text>
+      <sha1>kmrd38sb53ba294rz3kiklmkif56dpd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1356</id>
+      <parentid>1355</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="392">{{IARPASourceConcept
+|SourceID=25,3
+|Owner=GOV
+|LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, живое существо, организм, вянуть, ребенок, подросток, взрослый, пожилой, зрелый, незрелый, младенец, гериатрический, малыш
+}}</text>
+      <sha1>48yldp5wa0l5h25eugj5pp0ffwarrs2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1357</id>
+      <parentid>1356</parentid>
+      <timestamp>2014-12-13T04:08:49Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="442">{{IARPASourceConcept
+|SourceID=25,3
+|Owner=GOV
+|LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, живое существо, организм, вянуть, ребенок, подросток, взрослый, пожилой, зрелый, незрелый, младенец, гериатрический, малыш, рождаться, рождать, родить
+}}</text>
+      <sha1>kmqxjohrjxppqvprfd17yisa59lavu7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1358</id>
+      <parentid>1357</parentid>
+      <timestamp>2014-12-13T04:12:10Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="460">{{IARPASourceConcept
+|SourceID=25,3
+|Owner=GOV
+|LUs=жив, мертв, процветать, увядшие, засыхать, расти, умирать, живое, живое существо, организм, вянуть, ребенок, подросток, взрослый, пожилой, зрелый, незрелый, младенец, гериатрический, малыш, рождаться, рождать, родить, рождение
+}}</text>
+      <sha1>kyoc1pfxqc1wnjqewgcai648dfe5xda</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MACHINE</title>
+    <ns>570</ns>
+    <id>395</id>
+    <revision>
+      <id>1359</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="486">{{IARPAConcept
+|SourceID=28
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=запустите, работать, ремонт, сломаться, срабатывать, тормозить, утрамбовки, смазать, смазки, смазки колес, болты, гайки, двигатель, кривошипно-шатунный, шестерёнка, шкив, валец, двигатель, колесо, аппарат, каток, машина, механизм
+}}</text>
+      <sha1>dhl12rsjivxpfqy40k7x9krr9xqwwkq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1360</id>
+      <parentid>1359</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="492">{{IARPASourceConcept
+|SourceID=28
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=запустите, работать, ремонт, сломаться, срабатывать, тормозить, утрамбовки, смазать, смазки, смазки колес, болты, гайки, двигатель, кривошипно-шатунный, шестерёнка, шкив, валец, двигатель, колесо, аппарат, каток, машина, механизм
+}}</text>
+      <sha1>96ogk6pz1j6kysn8fdb4p57gf73fcpg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1361</id>
+      <parentid>1360</parentid>
+      <timestamp>2014-12-15T09:38:57Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="527">{{IARPASourceConcept
+|SourceID=28
+|Status=white
+|Owner=GOV
+|LUs=запустите, работать, ремонт, сломаться, срабатывать, тормозить, утрамбовки, смазать, смазки, смазки колес, болты, гайки, двигатель, кривошипно-шатунный, шестерёнка, шкив, валец, двигатель, колесо, аппарат, каток, машина, механизм, инструмент, мотор, ремонт
+}}</text>
+      <sha1>jecc33ts434215j7a7602joa7t2c1fn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1362</id>
+      <parentid>1361</parentid>
+      <timestamp>2014-12-15T14:41:25Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="547">{{IARPASourceConcept
+|SourceID=28
+|Status=white
+|Owner=GOV
+|LUs=запустите, работать, ремонт, сломаться, срабатывать, тормозить, утрамбовки, смазать, смазки, смазки колес, болты, гайки, двигатель, кривошипно-шатунный, шестерёнка, шкив, валец, двигатель, колесо, аппарат, каток, машина, механизм, инструмент, мотор, ремонт, смазывать
+}}</text>
+      <sha1>4iksnnua3bvzppfzmjfyz7yxgjhwt6c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PATHWAY</title>
+    <ns>570</ns>
+    <id>396</id>
+    <revision>
+      <id>1363</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="305">{{IARPAConcept
+|SourceID=37
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=барьеры, барьеры на пути, дорожное, дорожное заграждение, препятствие, препятствие на пути, открытый, дорога, путь, улица, шоссе
+}}</text>
+      <sha1>ma822srrh4opgdhnn3ibu8h1lrqsg76</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1364</id>
+      <parentid>1363</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="311">{{IARPASourceConcept
+|SourceID=37
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=барьеры, барьеры на пути, дорожное, дорожное заграждение, препятствие, препятствие на пути, открытый, дорога, путь, улица, шоссе
+}}</text>
+      <sha1>5yvbbam3bimq8srfm748t63crzm0bvc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CLOTHING</title>
+    <ns>570</ns>
+    <id>397</id>
+    <revision>
+      <id>1365</id>
+      <timestamp>2014-07-25T07:29:25Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=9.2 |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="42">{{IARPAConcept
+|SourceID=9.2
+|Owner=GOV
+}}</text>
+      <sha1>f5rr51hz1xipliywpwmdz6ha10jxl9o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1366</id>
+      <parentid>1365</parentid>
+      <timestamp>2014-07-31T04:59:56Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="110">{{IARPAConcept
+|SourceID=9,2
+|Owner=GOV
+|LUs=одежда, платье, одевать, одеваться
+}}</text>
+      <sha1>apzz65w1tbgr5b3ckgzhnfys8763yr1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1367</id>
+      <parentid>1366</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="116">{{IARPASourceConcept
+|SourceID=9,2
+|Owner=GOV
+|LUs=одежда, платье, одевать, одеваться
+}}</text>
+      <sha1>mxqk0vhrf8p831ddud09oukdnvrye7s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CONTAMINATION</title>
+    <ns>570</ns>
+    <id>398</id>
+    <revision>
+      <id>1368</id>
+      <timestamp>2014-07-25T06:10:16Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=11.2 |Type=source |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="56">{{IARPAConcept
+|SourceID=11.2
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>iuzkstxfweo9fymd28jw4xxbnw7ry15</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1369</id>
+      <parentid>1368</parentid>
+      <timestamp>2014-07-31T05:38:03Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="358">{{IARPAConcept
+|SourceID=11,2
+|Type=source
+|Owner=GOV
+|LUs=загрязнать, загрязнить, контаминировать, запятнять, нечистый, отвратительный, грязный, неприятный, непристойный, склизкий, вонять, мерзкий, мусор, чистота, чистый
+}}</text>
+      <sha1>59t74p9ojz44nstw1r0pyl729unnw1z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1370</id>
+      <parentid>1369</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="364">{{IARPASourceConcept
+|SourceID=11,2
+|Type=source
+|Owner=GOV
+|LUs=загрязнать, загрязнить, контаминировать, запятнять, нечистый, отвратительный, грязный, неприятный, непристойный, склизкий, вонять, мерзкий, мусор, чистота, чистый
+}}</text>
+      <sha1>jt7pvehc1wedymm6guqppymgg63w74q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1371</id>
+      <parentid>1370</parentid>
+      <timestamp>2014-12-15T09:11:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="375">{{IARPASourceConcept
+|SourceID=11,2
+|Owner=GOV
+|LUs=загрязнать, загрязнить, контаминировать, запятнять, нечистый, отвратительный, грязный, неприятный, непристойный, склизкий, вонять, мерзкий, мусор, чистота, чистый, неприличный
+}}</text>
+      <sha1>hdezojrzwd6fw2i9mjvrjns19xfbm1g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1372</id>
+      <parentid>1371</parentid>
+      <timestamp>2014-12-15T09:51:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="393">{{IARPASourceConcept
+|SourceID=11,2
+|Owner=GOV
+|LUs=загрязнать, загрязнить, контаминировать, запятнять, нечистый, отвратительный, грязный, неприятный, непристойный, склизкий, вонять, мерзкий, мусор, чистота, чистый, неприличный, зловоние
+}}</text>
+      <sha1>frrsxaw5gk58o3l5mf985g0yn4n94o2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MONSTER</title>
+    <ns>570</ns>
+    <id>399</id>
+    <revision>
+      <id>1373</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="144">{{IARPAConcept
+|SourceID=31
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=высосать, призрак, чудовище, осьминог, 
+}}</text>
+      <sha1>t2sodlo9eg15pukigfy0cfh1w7xoemh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1374</id>
+      <parentid>1373</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="150">{{IARPASourceConcept
+|SourceID=31
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=высосать, призрак, чудовище, осьминог, 
+}}</text>
+      <sha1>a5jpnupfsr101shio09l9y3xmyw0dwz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1375</id>
+      <parentid>1374</parentid>
+      <timestamp>2014-12-12T23:16:53Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="157">{{IARPASourceConcept
+|SourceID=31
+|Status=white
+|Owner=GOV
+|LUs=высосать, призрак, чудовище, осьминог, чудовищный
+}}</text>
+      <sha1>djx2bgyy0e5yw16qffcnu5q2rqe8z4c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1376</id>
+      <parentid>1375</parentid>
+      <timestamp>2014-12-15T09:24:25Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="189">{{IARPASourceConcept
+|SourceID=31
+|Status=white
+|Owner=GOV
+|LUs=высосать, призрак, чудовище, осьминог, чудовищный, щупальца, гидра, 
+}}</text>
+      <sha1>ekfh47a7fgm93v0oheqmsg5051gzl6z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:OBESITY</title>
+    <ns>570</ns>
+    <id>400</id>
+    <revision>
+      <id>1377</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="187">{{IARPAConcept
+|SourceID=35
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=тучный, упитанный, упитанный (well-fed), жадный, обжора, объедаться
+}}</text>
+      <sha1>1q9uzvvosogoohi06brbr71pw0ao9tv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1378</id>
+      <parentid>1377</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="193">{{IARPASourceConcept
+|SourceID=35
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=тучный, упитанный, упитанный (well-fed), жадный, обжора, объедаться
+}}</text>
+      <sha1>ilkzi47qkd4yfh9gc28p60jd4yph26j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1379</id>
+      <parentid>1378</parentid>
+      <timestamp>2014-12-15T14:10:46Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="218">{{IARPASourceConcept
+|SourceID=35
+|Status=white
+|Owner=GOV
+|LUs=тучный, упитанный, упитанный (well-fed), жадный, обжора, объедаться, обжорство, раздутый
+}}</text>
+      <sha1>h8azqt6l8c0v3uy4k9tu6le1tw8osm3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:HUMAN BODY</title>
+    <ns>570</ns>
+    <id>401</id>
+    <revision>
+      <id>1380</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="110">{{IARPAConcept
+|SourceID=25
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=кровь, орган, сердце
+}}</text>
+      <sha1>o9c3zepffr02ip6rsxzyml9ty3z02cl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1381</id>
+      <parentid>1380</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="116">{{IARPASourceConcept
+|SourceID=25
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=кровь, орган, сердце
+}}</text>
+      <sha1>smmrui41l2m2lgvxmsulx8nbl7oj7o4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:STRUGGLE</title>
+    <ns>570</ns>
+    <id>402</id>
+    <revision>
+      <id>1382</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="180">{{IARPAConcept
+|SourceID=47
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=враг, неприятель, противник, угрожать, битва, борьба, война
+}}</text>
+      <sha1>e4enz6obw4wcje6y99cgyyv5qyjis5g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1383</id>
+      <parentid>1382</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="186">{{IARPASourceConcept
+|SourceID=47
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=враг, неприятель, противник, угрожать, битва, борьба, война
+}}</text>
+      <sha1>o02vclyu8m85x4bsbxmdz0bm53vn22h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1384</id>
+      <parentid>1383</parentid>
+      <timestamp>2014-12-14T13:20:15Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPASourceConcept
+|SourceID=47
+|Status=white
+|Owner=GOV
+|LUs=враг, неприятель, противник, угрожать, битва, борьба, война, захватить
+}}</text>
+      <sha1>81qp8w6eqtfj939rpuzfxn3bq9frt9m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1385</id>
+      <parentid>1384</parentid>
+      <timestamp>2014-12-15T09:33:12Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="300">{{IARPASourceConcept
+|SourceID=47
+|Status=white
+|Owner=GOV
+|LUs=враг, неприятель, противник, угрожать, битва, борьба, война, захватить, грозить, конфликт, поражение, бороться, спарринг-партнер, 
+}}</text>
+      <sha1>8li448cp8fy3xs5a4h81iyea0lpc58f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ADDICTION</title>
+    <ns>570</ns>
+    <id>403</id>
+    <revision>
+      <id>1386</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="520">{{IARPAConcept
+|SourceID=4
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=под кайфом, порок, предающийся, принимающий, пристрастить, пробежал, пробежал по венам, пробежать, наркоман, наркомания, привычка, oпьяненный, депрессия, нездоровья, нездоровья (ill-health), передозировка, алкоголизм, зависимость, наркомания, пьянство
+}}</text>
+      <sha1>pcnd2vlbk68gg0mk8z3q8e1nbogdl69</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1387</id>
+      <parentid>1386</parentid>
+      <timestamp>2014-06-04T01:03:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="507">{{IARPAConcept
+|SourceID=4
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=под кайфом, порок, предающийся, принимающий, пристрастить, пробежал, пробежал по венам, пробежать, наркоман, наркомания, привычка, oпьяненный, депрессия, нездоровья, нездоровья, передозировка, алкоголизм, зависимость, наркомания, пьянство
+}}</text>
+      <sha1>4bnauxwxfo1dsf1wcrqkee879qash2i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1388</id>
+      <parentid>1387</parentid>
+      <timestamp>2014-08-12T20:01:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="513">{{IARPASourceConcept
+|SourceID=4
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=под кайфом, порок, предающийся, принимающий, пристрастить, пробежал, пробежал по венам, пробежать, наркоман, наркомания, привычка, oпьяненный, депрессия, нездоровья, нездоровья, передозировка, алкоголизм, зависимость, наркомания, пьянство
+}}</text>
+      <sha1>om2z9qn8szajkdn5flg5650ffpndpuq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CRIME</title>
+    <ns>570</ns>
+    <id>404</id>
+    <revision>
+      <id>1389</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="938">{{IARPAConcept
+|SourceID=12
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вор, жулик, убийца, жлоб, угонщик, грабитель, преступник, наказание, осуждать, пожизненное, пожизненное заключение, приговорен, тюремного, тюремного заключения, узаконить, грабёж, грех, душить, злодеяние, коррупция, кража, мучить, преступление, убийство, преступность, незаконное, незаконность, беззаконие, должностные преступления, проступок, арест, конфискация имущества, грех, правонарушение, вытерпеть, жертва, обирать, страдать, виновный, виноватый, повинный, преступный
+}}</text>
+      <sha1>ri7dketl9444298hqcvhx7gz4do6azh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1390</id>
+      <parentid>1389</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="944">{{IARPASourceConcept
+|SourceID=12
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вор, жулик, убийца, жлоб, угонщик, грабитель, преступник, наказание, осуждать, пожизненное, пожизненное заключение, приговорен, тюремного, тюремного заключения, узаконить, грабёж, грех, душить, злодеяние, коррупция, кража, мучить, преступление, убийство, преступность, незаконное, незаконность, беззаконие, должностные преступления, проступок, арест, конфискация имущества, грех, правонарушение, вытерпеть, жертва, обирать, страдать, виновный, виноватый, повинный, преступный
+}}</text>
+      <sha1>ah0f5uxnddpttgdvdyj1mkbqalszjsw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1391</id>
+      <parentid>1390</parentid>
+      <timestamp>2014-12-13T04:39:46Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="947">{{IARPASourceConcept
+|SourceID=12
+|Status=white
+|Owner=GOV
+|LUs=вор, жулик, убийца, жлоб, угонщик, грабитель, преступник, наказание, осуждать, пожизненное, пожизненное заключение, приговорен, тюремного, тюремного заключения, узаконить, грабёж, грех, душить, злодеяние, коррупция, кража, мучить, преступление, убийство, преступность, незаконное, незаконность, беззаконие, должностные преступления, проступок, арест, конфискация имущества, грех, правонарушение, вытерпеть, жертва, обирать, страдать, виновный, виноватый, повинный, преступный, грабить
+}}</text>
+      <sha1>hhog4ay26dthv20jfew368n878eozao</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1392</id>
+      <parentid>1391</parentid>
+      <timestamp>2014-12-15T09:41:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="965">{{IARPASourceConcept
+|SourceID=12
+|Status=white
+|Owner=GOV
+|LUs=вор, жулик, убийца, жлоб, угонщик, грабитель, преступник, наказание, осуждать, пожизненное, пожизненное заключение, приговорен, тюремного, тюремного заключения, узаконить, грабёж, грех, душить, злодеяние, коррупция, кража, мучить, преступление, убийство, преступность, незаконное, незаконность, беззаконие, должностные преступления, проступок, арест, конфискация имущества, грех, правонарушение, убивать, вытерпеть, жертва, обирать, страдать, виновный, виноватый, повинный, преступный, грабить, 
+}}</text>
+      <sha1>kpju3202m5kd2rvfmj3x13zv1z9xg7k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LIGHT</title>
+    <ns>570</ns>
+    <id>405</id>
+    <revision>
+      <id>1393</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="277">{{IARPAConcept
+|SourceID=27
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=освещать, свет, светлеть, блестящий, светлый, яркий, яркой, яркой лампочкой, яркость, освещать, светлеть, темнеть
+}}</text>
+      <sha1>0tjxhsebhia2x7w4sovu3zzz5iw49ud</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1394</id>
+      <parentid>1393</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="283">{{IARPASourceConcept
+|SourceID=27
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=освещать, свет, светлеть, блестящий, светлый, яркий, яркой, яркой лампочкой, яркость, освещать, светлеть, темнеть
+}}</text>
+      <sha1>8hti4tx5mntxldeh5g6kb9npmdqy541</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1395</id>
+      <parentid>1394</parentid>
+      <timestamp>2014-12-15T09:56:25Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="306">{{IARPASourceConcept
+|SourceID=27
+|Status=white
+|Owner=GOV
+|LUs=освещать, свет, светлеть, блестящий, светлый, яркий, яркой, яркой лампочкой, яркость, освещать, светлеть, темнеть, блеск, сияние, лоск
+}}</text>
+      <sha1>fjyy4ggzcxtwtrc2thxnu2hdhqbid0w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BODY OF WATER</title>
+    <ns>570</ns>
+    <id>406</id>
+    <revision>
+      <id>1396</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="1220">{{IARPAConcept
+|SourceID=8
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=завязнуть, завязнуть в грязи, погружаться, погружаться в, погружен, погружен в, утопление, окунуть, мочить, утопить, поглотить, камбала, погрузить, залить, переполнение, подавлять, окунуться, болото, вода, откат, под водой, поглощать, крупнейший, крупнейший водный объект, ледяная, ледяная гора, приливные, приливные волны, отплывать, плавать, поток, прилив, прилив и отлив, течение, нырять, плавать, скольжение, фонтанировать, весла, парус, плыть через, раковина, плавание, плавание в, приливная волна, волна, вброд, волна, волны, болота, лужа, море, океан, река, трясина, канал, вода, озеро, пруд, бассейн, морской путь, болото, прилив, волны
+}}</text>
+      <sha1>cq9hiaj7pwpzbiyb4rp2syq2exqjde0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1397</id>
+      <parentid>1396</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="1226">{{IARPASourceConcept
+|SourceID=8
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=завязнуть, завязнуть в грязи, погружаться, погружаться в, погружен, погружен в, утопление, окунуть, мочить, утопить, поглотить, камбала, погрузить, залить, переполнение, подавлять, окунуться, болото, вода, откат, под водой, поглощать, крупнейший, крупнейший водный объект, ледяная, ледяная гора, приливные, приливные волны, отплывать, плавать, поток, прилив, прилив и отлив, течение, нырять, плавать, скольжение, фонтанировать, весла, парус, плыть через, раковина, плавание, плавание в, приливная волна, волна, вброд, волна, волны, болота, лужа, море, океан, река, трясина, канал, вода, озеро, пруд, бассейн, морской путь, болото, прилив, волны
+}}</text>
+      <sha1>66a0tul5w2p5x2vg0o823k4pp3tmeyl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1398</id>
+      <parentid>1397</parentid>
+      <timestamp>2014-12-16T03:34:14Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1243">{{IARPASourceConcept
+|SourceID=8
+|Status=white
+|Owner=GOV
+|LUs=завязнуть, завязнуть в грязи, погружаться, погружаться в, погружен, погружен в, утопление, окунуть, мочить, утопить, поглотить, камбала, погрузить, залить, переполнение, подавлять, окунуться, болото, вода, откат, под водой, поглощать, крупнейший, крупнейший водный объект, ледяная, ледяная гора, приливные, приливные волны, отплывать, плавать, поток, прилив, прилив и отлив, течение, нырять, плавать, скольжение, фонтанировать, весла, парус, плыть через, раковина, плавание, плавание в, приливная волна, волна, вброд, волна, волны, болота, лужа, море, океан, река, трясина, канал, вода, озеро, пруд, бассейн, морской путь, болото, прилив, волны, утонуть, тонуть
+}}</text>
+      <sha1>obhljrker86p03jnvj2amuqoyk8w6hu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MEDICINE</title>
+    <ns>570</ns>
+    <id>407</id>
+    <revision>
+      <id>1399</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="176">{{IARPAConcept
+|SourceID=30
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=прописывать, возрождать, лечить, оздоровление, пластырь
+}}</text>
+      <sha1>d7px1cxur3b2nktx7877kmxgviyso6x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1400</id>
+      <parentid>1399</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="182">{{IARPASourceConcept
+|SourceID=30
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=прописывать, возрождать, лечить, оздоровление, пластырь
+}}</text>
+      <sha1>1brfu6b5bras49g17ow1xpq7125t7ra</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PHYSICAL HARM</title>
+    <ns>570</ns>
+    <id>408</id>
+    <revision>
+      <id>1401</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="305">{{IARPAConcept
+|SourceID=39
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=страховочной, страховочной сетки, припереть, припереть к стенке, путы, удерживать, вредить, калечить, мучить, рубцеваться, шрам
+}}</text>
+      <sha1>eoutccz8312ds0fzdlqinz6ks1bpeiv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1402</id>
+      <parentid>1401</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="311">{{IARPASourceConcept
+|SourceID=39
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=страховочной, страховочной сетки, припереть, припереть к стенке, путы, удерживать, вредить, калечить, мучить, рубцеваться, шрам
+}}</text>
+      <sha1>ta2hpskem2twupxxmee5mxgw8oi970f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1403</id>
+      <parentid>1402</parentid>
+      <timestamp>2014-12-15T09:30:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="368">{{IARPASourceConcept
+|SourceID=39
+|Status=white
+|Owner=GOV
+|LUs=страховочной, страховочной сетки, припереть, припереть к стенке, путы, удерживать, вредить, калечить, мучить, рубцеваться, шрам, ударить, вредный, защищать, калечить, 
+}}</text>
+      <sha1>6l8yy2xqknxix8spzi4qv5lqtfgmjbg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1404</id>
+      <parentid>1403</parentid>
+      <timestamp>2014-12-16T04:04:43Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="400">{{IARPASourceConcept
+|SourceID=39
+|Status=white
+|Owner=GOV
+|LUs=страховочной, страховочной сетки, припереть, припереть к стенке, путы, удерживать, вредить, калечить, мучить, рубцеваться, шрам, ударить, вредный, защищать, калечить, спасать, избегать
+}}</text>
+      <sha1>9bzg4gq66118f4bj9y342n5daf8fz7w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1405</id>
+      <parentid>1404</parentid>
+      <timestamp>2014-12-16T04:08:12Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="472">{{IARPASourceConcept
+|SourceID=39
+|Status=white
+|Owner=GOV
+|LUs=страховочной, страховочной сетки, припереть, припереть к стенке, путы, удерживать, вредить, калечить, мучить, рубцеваться, шрам, ударить, вредный, защищать, калечить, спасать, избегать, опасность, угроза, опасаться, избегать
+}}</text>
+      <sha1>0bvarsg8wtusnnkw7a6cgwbbc4nlkhi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BACKWARD MOVEMENT</title>
+    <ns>570</ns>
+    <id>409</id>
+    <revision>
+      <id>1406</id>
+      <timestamp>2014-07-25T05:57:49Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=6.1 |Type=source |Owner=GOV }}»</comment>
+      <text xml:space="preserve" bytes="55">{{IARPAConcept
+|SourceID=6.1
+|Type=source
+|Owner=GOV
+}}</text>
+      <sha1>6ix7a4hwpo4znoswj5bj9vrby1kat91</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1407</id>
+      <parentid>1406</parentid>
+      <timestamp>2014-07-31T04:47:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="99">{{IARPAConcept
+|SourceID=6,1
+|Type=source
+|Owner=GOV
+|LUs=отступать, отступить
+}}</text>
+      <sha1>ff6uhfxxkx9ck3vtzn2rsycdt1h94ze</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1408</id>
+      <parentid>1407</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="105">{{IARPASourceConcept
+|SourceID=6,1
+|Type=source
+|Owner=GOV
+|LUs=отступать, отступить
+}}</text>
+      <sha1>pcwn2glkdcr2jcc3dyqkifwl4ijd8na</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:PLANT</title>
+    <ns>570</ns>
+    <id>410</id>
+    <revision>
+      <id>1409</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="206">{{IARPAConcept
+|SourceID=41
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вырвать, разрабатывать, расти, корни, листья, плод, семена, дерево, сорняк
+}}</text>
+      <sha1>ahks1xmj7rcrlkz1zocaseokufgpnj9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1410</id>
+      <parentid>1409</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="212">{{IARPASourceConcept
+|SourceID=41
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вырвать, разрабатывать, расти, корни, листья, плод, семена, дерево, сорняк
+}}</text>
+      <sha1>rt6b22crxafw8prkf86my91jtq5cc7b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1411</id>
+      <parentid>1410</parentid>
+      <timestamp>2014-11-21T20:32:59Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="235">{{IARPASourceConcept
+|SourceID=41
+|Status=white
+|Owner=GOV
+|LUs=вырвать, разрабатывать, расти, корни, листья, плод, семена, дерево, сорняк, цвести, процветать
+}}</text>
+      <sha1>p8l2nrcakw20x1eer44gf4gcgvrk4qx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1412</id>
+      <parentid>1411</parentid>
+      <timestamp>2014-12-15T09:53:24Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="283">{{IARPASourceConcept
+|SourceID=41
+|Status=white
+|Owner=GOV
+|LUs=вырвать, разрабатывать, расти, корни, листья, плод, семена, дерево, сорняк, цвести, процветать, зерно, процветание, семя, 
+}}</text>
+      <sha1>3pmfogknekseut88ru0aodyxvvndpwt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:TEMPERATURE</title>
+    <ns>570</ns>
+    <id>411</id>
+    <revision>
+      <id>1413</id>
+      <timestamp>2014-07-25T07:15:32Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=47.1 |Type=source |Owner=GOV |LUs=холод, тепло, жара, температура }}»</comment>
+      <text xml:space="preserve" bytes="118">{{IARPAConcept
+|SourceID=47.1
+|Type=source
+|Owner=GOV
+|LUs=холод, тепло, жара, температура
+}}</text>
+      <sha1>tlutujdo4nyedix4gicokvhc25ycj5f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1414</id>
+      <parentid>1413</parentid>
+      <timestamp>2014-07-31T06:09:38Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="118">{{IARPAConcept
+|SourceID=47,1
+|Type=source
+|Owner=GOV
+|LUs=холод, тепло, жара, температура
+}}</text>
+      <sha1>1p45fdg57sgv1cx4r1z20umxcls59t7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1415</id>
+      <parentid>1414</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="124">{{IARPASourceConcept
+|SourceID=47,1
+|Type=source
+|Owner=GOV
+|LUs=холод, тепло, жара, температура
+}}</text>
+      <sha1>755cgmg1p1kp2sl9cmi30u7pf4v5q3x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MORAL DUTY</title>
+    <ns>570</ns>
+    <id>412</id>
+    <revision>
+      <id>1416</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="104">{{IARPAConcept
+|SourceID=32
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=ответственность
+}}</text>
+      <sha1>2upwtopzgs8i7ajr78o1lp78jba3h8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1417</id>
+      <parentid>1416</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="110">{{IARPASourceConcept
+|SourceID=32
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=ответственность
+}}</text>
+      <sha1>lsbl816fd57r1883kccqxgolbyq431c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1418</id>
+      <parentid>1417</parentid>
+      <timestamp>2014-12-14T02:53:40Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="161">{{IARPASourceConcept
+|SourceID=32
+|Status=white
+|Owner=GOV
+|LUs=ответственность, мораль, нравственность, моральный
+}}</text>
+      <sha1>lwraywnlups7mldo3ojxig11iunv96t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:A GOD</title>
+    <ns>570</ns>
+    <id>413</id>
+    <revision>
+      <id>1419</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="235">{{IARPAConcept
+|SourceID=1
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=божество, кумир, обожествления, идол, бог, молиться, поклоняться, поклониться, боготворят
+}}</text>
+      <sha1>g189lydd9huqvtt45a2oq3ipm7gtxcp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1420</id>
+      <parentid>1419</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="241">{{IARPASourceConcept
+|SourceID=1
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=божество, кумир, обожествления, идол, бог, молиться, поклоняться, поклониться, боготворят
+}}</text>
+      <sha1>djgyyvvxzxkdsw3agxxx96x3jd5oroi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LOW LOCATION</title>
+    <ns>570</ns>
+    <id>414</id>
+    <revision>
+      <id>1421</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="125">{{IARPAConcept
+|SourceID=66
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=внизу, дно, на, на дне, низкий
+}}</text>
+      <sha1>9ttvlc883nntrj5ldeko9nca2vbll61</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1422</id>
+      <parentid>1421</parentid>
+      <timestamp>2014-07-25T06:53:01Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="113">{{IARPAConcept
+|SourceID=27.1
+|Type=source
+|Owner=GOV
+|LUs=внизу, дно, на, на дне, низкий
+}}</text>
+      <sha1>39mzrk2bpsclazw74x10fjjsdavp2f4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1423</id>
+      <parentid>1422</parentid>
+      <timestamp>2014-07-31T06:04:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="113">{{IARPAConcept
+|SourceID=27,1
+|Type=source
+|Owner=GOV
+|LUs=внизу, дно, на, на дне, низкий
+}}</text>
+      <sha1>cv5epz8ff7ntisfa8zad50itm57d8f5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1424</id>
+      <parentid>1423</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="119">{{IARPASourceConcept
+|SourceID=27,1
+|Type=source
+|Owner=GOV
+|LUs=внизу, дно, на, на дне, низкий
+}}</text>
+      <sha1>khf1pm8xxgo04uti3lkuam8tono31gw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FABRIC</title>
+    <ns>570</ns>
+    <id>415</id>
+    <revision>
+      <id>1425</id>
+      <timestamp>2014-07-25T06:21:27Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=18.1 |Type=source |Owner=GOV |LUs=ткань, сплетение, паутина, текстиль, текстильное изделие…»</comment>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=18.1
+|Type=source
+|Owner=GOV
+|LUs=ткань, сплетение, паутина, текстиль, текстильное изделие, полотно, сукно
+}}</text>
+      <sha1>ku54k13zvpia8k059haku2kzt4x4unz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1426</id>
+      <parentid>1425</parentid>
+      <timestamp>2014-07-31T05:40:03Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=18,1
+|Type=source
+|Owner=GOV
+|LUs=ткань, сплетение, паутина, текстиль, текстильное изделие, полотно, сукно
+}}</text>
+      <sha1>549ouk5tkehhwd799xzcjtsk5vmp2m3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1427</id>
+      <parentid>1426</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="199">{{IARPASourceConcept
+|SourceID=18,1
+|Type=source
+|Owner=GOV
+|LUs=ткань, сплетение, паутина, текстиль, текстильное изделие, полотно, сукно
+}}</text>
+      <sha1>axmsavc533pk8kc211lizji62ygfhll</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FOOD</title>
+    <ns>570</ns>
+    <id>416</id>
+    <revision>
+      <id>1428</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="373">{{IARPAConcept
+|SourceID=19
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вкусить, есть, закусить, съедать, пожирать, поглощать, глотать, сосать, варенье, картофель, мясо, сливки, хлеб, аромат, торт, сыр, продукты питания, соус, печенье, пирог
+}}</text>
+      <sha1>ti7wlgy8en3faecp03medab8kckm8zp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1429</id>
+      <parentid>1428</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="379">{{IARPASourceConcept
+|SourceID=19
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вкусить, есть, закусить, съедать, пожирать, поглощать, глотать, сосать, варенье, картофель, мясо, сливки, хлеб, аромат, торт, сыр, продукты питания, соус, печенье, пирог
+}}</text>
+      <sha1>gmrxd6ut8tr8q2d2j5098xomrjpdv3m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DARKNESS</title>
+    <ns>570</ns>
+    <id>417</id>
+    <revision>
+      <id>1430</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="259">{{IARPAConcept
+|SourceID=14
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=мрачные, мрачные дни, темнота, темные, темные облака, осветление, проясняться;, проясняться; отключать
+}}</text>
+      <sha1>0r1qkdqkwa3o4pwcn8zw1blh43l3ha1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1431</id>
+      <parentid>1430</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="265">{{IARPASourceConcept
+|SourceID=14
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=мрачные, мрачные дни, темнота, темные, темные облака, осветление, проясняться;, проясняться; отключать
+}}</text>
+      <sha1>8drkqwpzbs3u7deymbqyrgt6vyylz5p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1432</id>
+      <parentid>1431</parentid>
+      <timestamp>2014-12-15T09:54:53Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="263">{{IARPASourceConcept
+|SourceID=14
+|Status=white
+|Owner=GOV
+|LUs=мрачные, мрачные дни, темнота, темные, темные облака, осветление, проясняться, проясняться, отключать, мрак, 
+}}</text>
+      <sha1>5qyb5dripuh1kwfh39q12w2c5ow8t3e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:WAR</title>
+    <ns>570</ns>
+    <id>418</id>
+    <revision>
+      <id>1433</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="152">{{IARPAConcept
+|SourceID=50
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=война, битва, бой, сражение, борьба, баталия
+}}</text>
+      <sha1>l9oul3nbjwvctm88lcemeuz8wne9sja</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1434</id>
+      <parentid>1433</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="158">{{IARPASourceConcept
+|SourceID=50
+|Type=source
+|Status=green
+|Owner=GOV
+|LUs=война, битва, бой, сражение, борьба, баталия
+}}</text>
+      <sha1>coorn7s1gx7nwd133kkkgn69ufl2kf4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:VERTICAL LOCATION</title>
+    <ns>570</ns>
+    <id>419</id>
+    <revision>
+      <id>1435</id>
+      <timestamp>2014-05-28T20:13:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="100">{{IARPAConcept
+|SourceID=71
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=уровень, точка
+}}</text>
+      <sha1>k22ke2nfx45uassgn6z9copkrjd3xco</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1436</id>
+      <parentid>1435</parentid>
+      <timestamp>2014-08-08T22:58:22Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="220">{{IARPAConcept
+|SourceID=71
+|Type=source
+|Definition=location of entity or object with vertically-orientated spatial relations to other objects of the same kind
+|Status=cyan
+|Owner=ICSI
+|LUs=уровень, точка
+}}</text>
+      <sha1>4jk2wkam91yoa9huh94tga3dq69pcfd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1437</id>
+      <parentid>1436</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="226">{{IARPASourceConcept
+|SourceID=71
+|Type=source
+|Definition=location of entity or object with vertically-orientated spatial relations to other objects of the same kind
+|Status=cyan
+|Owner=ICSI
+|LUs=уровень, точка
+}}</text>
+      <sha1>rhel16u3mox0nbvmshm4oxwfparxdz9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:RESOURCE</title>
+    <ns>570</ns>
+    <id>420</id>
+    <revision>
+      <id>1438</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="513">{{IARPAConcept
+|SourceID=45
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=обрабатывать, развивать, ассигновать, перемещать, перераспределение, перераспределять, поставлять, дефицитный, истощать, недостаточный, поставка, скудный, размер, вода, предмет, предмет потребления, продукт, ресурс, товар, топливо, удобство
+}}</text>
+      <sha1>f2lipyncecorcc3coipzfpjd2ere62e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1439</id>
+      <parentid>1438</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="519">{{IARPASourceConcept
+|SourceID=45
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=обрабатывать, развивать, ассигновать, перемещать, перераспределение, перераспределять, поставлять, дефицитный, истощать, недостаточный, поставка, скудный, размер, вода, предмет, предмет потребления, продукт, ресурс, товар, топливо, удобство
+}}</text>
+      <sha1>3bm9gs7qfxhhexsnxw5hvlow0s9herx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1440</id>
+      <parentid>1439</parentid>
+      <timestamp>2014-12-14T20:19:08Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="526">{{IARPASourceConcept
+|SourceID=45
+|Status=white
+|Owner=GOV
+|LUs=обрабатывать, развивать, ассигновать, перемещать, перераспределение, перераспределять, поставлять, дефицитный, истощать, недостаточный, поставка, скудный, размер, вода, предмет, предмет потребления, продукт, ресурс, товар, топливо, удобство, сократить
+}}</text>
+      <sha1>31oaptw7lszp4eg2zst8l6ckly1bwc5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1441</id>
+      <parentid>1440</parentid>
+      <timestamp>2014-12-15T10:40:13Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="596">{{IARPASourceConcept
+|SourceID=45
+|Status=white
+|Owner=GOV
+|LUs=обрабатывать, развивать, ассигновать, перемещать, перераспределение, перераспределять, поставлять, дефицитный, истощать, недостаточный, поставка, скудный, размер, вода, предмет, предмет потребления, продукт, ресурс, товар, топливо, удобство, сократить, резерв, отдавать, концентрироваться, 
+}}</text>
+      <sha1>oc8zgj23wlzb3uumy6n967x0hze1oon</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUILDING</title>
+    <ns>570</ns>
+    <id>421</id>
+    <revision>
+      <id>1442</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="1093">{{IARPAConcept
+|SourceID=9
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вход, выход, дверь, окно, порог, стена, укрепления, фундамент, база, кирпичный, стройка, строительный блок, краеугольный камень, двери, cтроить, затеять, ослаблять, сносить, трясти, укреплять, усилить, архитектура, собрать, построить, создать, сравнять с землей, строительство, создание, снести, снос, уничтожить, разрушение, разваливаться, прямостоячие, сделать, производить, распылить, поднять, снести, разбить, структура, здание, крепость, краеугольный, строительство, полы, фундамент, база, дом, инфраструктура, структура, 
+мост, здание, форт, небоскреб, структура
+}}</text>
+      <sha1>n93fqshllounv1b16c5ufd80aojawph</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1443</id>
+      <parentid>1442</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="1099">{{IARPASourceConcept
+|SourceID=9
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вход, выход, дверь, окно, порог, стена, укрепления, фундамент, база, кирпичный, стройка, строительный блок, краеугольный камень, двери, cтроить, затеять, ослаблять, сносить, трясти, укреплять, усилить, архитектура, собрать, построить, создать, сравнять с землей, строительство, создание, снести, снос, уничтожить, разрушение, разваливаться, прямостоячие, сделать, производить, распылить, поднять, снести, разбить, структура, здание, крепость, краеугольный, строительство, полы, фундамент, база, дом, инфраструктура, структура, 
+мост, здание, форт, небоскреб, структура
+}}</text>
+      <sha1>b7s1z555950f0d769xv0jp9ltxktsmh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1444</id>
+      <parentid>1443</parentid>
+      <timestamp>2014-12-13T04:12:56Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1104">{{IARPASourceConcept
+|SourceID=9
+|Status=white
+|Owner=GOV
+|LUs=вход, выход, дверь, окно, порог, стена, укрепления, фундамент, база, кирпичный, стройка, строительный блок, краеугольный камень, двери, cтроить, затеять, ослаблять, сносить, трясти, укреплять, усилить, архитектура, собрать, построить, создать, сравнять с землей, строительство, создание, снести, снос, уничтожить, разрушение, разваливаться, прямостоячие, сделать, производить, распылить, поднять, снести, разбить, структура, здание, крепость, краеугольный, строительство, полы, фундамент, база, дом, инфраструктура, структура, 
+мост, здание, форт, небоскреб, структура, цитадель
+}}</text>
+      <sha1>snp8e1b1m53ynohewzyki7yrxzifi1j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1445</id>
+      <parentid>1444</parentid>
+      <timestamp>2014-12-14T20:22:36Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1124">{{IARPASourceConcept
+|SourceID=9
+|Status=white
+|Owner=GOV
+|LUs=вход, выход, дверь, окно, порог, стена, укрепления, фундамент, база, кирпичный, стройка, строительный блок, краеугольный камень, двери, cтроить, затеять, ослаблять, сносить, трясти, укреплять, усилить, архитектура, собрать, построить, создать, сравнять с землей, строительство, создание, снести, снос, уничтожить, разрушение, разваливаться, прямостоячие, сделать, производить, распылить, поднять, снести, создавать, разбить, структура, здание, крепость, краеугольный, строительство, полы, фундамент, база, дом, инфраструктура, структура, 
+мост, здание, форт, небоскреб, структура, цитадель
+}}</text>
+      <sha1>o836es2penzlale8lmdwedtxxrzapex</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1446</id>
+      <parentid>1445</parentid>
+      <timestamp>2014-12-15T14:39:29Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1175">{{IARPASourceConcept
+|SourceID=9
+|Status=white
+|Owner=GOV
+|LUs=вход, выход, дверь, окно, порог, стена, укрепления, фундамент, база, кирпичный, стройка, строительный блок, краеугольный камень, двери, cтроить, затеять, ослаблять, сносить, трясти, укреплять, усилить, архитектура, собрать, построить, создать, сравнять с землей, строительство, создание, снести, снос, уничтожить, разрушение, разваливаться, прямостоячие, сделать, производить, распылить, поднять, снести, создавать, разбить, структура, крепость, краеугольный, строительство, полы, фундамент, база, дом, инфраструктура, структура, мост, здание, форт, небоскреб, структура, цитадель, надолба, надстройка, строить, очаг, 
+}}</text>
+      <sha1>chn00sn6to9d1ls4qajz3iaa2zxtwy9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CONFINEMENT</title>
+    <ns>570</ns>
+    <id>422</id>
+    <revision>
+      <id>1447</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="459">{{IARPAConcept
+|SourceID=11
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=безысходный, тюрьма, клетка, подземелье, стена, выбиться, выбиться из, избежать, дверь, выйти из, лестница, спасательный круг, веревка, батут, капкан, кольцо, ловушка, наручники, цепи, шар, цепь, кабала, придавленный
+}}</text>
+      <sha1>84gsi70rn5s8aajlyvtl7hcwwsqqv71</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1448</id>
+      <parentid>1447</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="465">{{IARPASourceConcept
+|SourceID=11
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=безысходный, тюрьма, клетка, подземелье, стена, выбиться, выбиться из, избежать, дверь, выйти из, лестница, спасательный круг, веревка, батут, капкан, кольцо, ловушка, наручники, цепи, шар, цепь, кабала, придавленный
+}}</text>
+      <sha1>tmlg2ifiy3zknv6l86oxg5y2c2o89i0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1449</id>
+      <parentid>1448</parentid>
+      <timestamp>2014-11-21T20:14:09Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="489">{{IARPASourceConcept
+|SourceID=11
+|Status=white
+|Owner=GOV
+|LUs=безысходный, тюрьма, клетка, подземелье, стена, выбиться, выбиться из, избежать, дверь, выйти из, лестница, спасательный круг, веревка, батут, капкан, кольцо, ловушка, наручники, цепи, шар, цепь, кабала, придавленный, влезать в, влезть в,
+}}</text>
+      <sha1>meuvkucsvvewzzyy93crdlcpovd49gr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1450</id>
+      <parentid>1449</parentid>
+      <timestamp>2014-12-15T09:48:32Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="624">{{IARPASourceConcept
+|SourceID=11
+|Status=white
+|Owner=GOV
+|LUs=безысходный, тюрьма, клетка, подземелье, стена, выбиться, выбиться из, избежать, дверь, выйти из, лестница, спасательный круг, веревка, батут, капкан, кольцо, ловушка, наручники, цепи, шар, цепь, кабала, придавленный, влезать в, влезть в, оковы, путы, сеть, выбираться, цепочка, пленник, свободный, трясина, болото
+}}</text>
+      <sha1>ls2rqyx4ei2eeneajr264ijv1niplq7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:BUSINESS</title>
+    <ns>570</ns>
+    <id>423</id>
+    <revision>
+      <id>1451</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="185">{{IARPAConcept
+|SourceID=51
+|Type=source
+|Status=white
+|Owner=ICSI
+|LUs=бизнес, компания, корпорация, магазин, промышленность, фирма
+}}</text>
+      <sha1>cf3pvjk2tpvvv4upzoupsbe67kertr5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1452</id>
+      <parentid>1451</parentid>
+      <timestamp>2014-07-25T07:28:05Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="185">{{IARPAConcept
+|SourceID=9.1
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=бизнес, компания, корпорация, магазин, промышленность, фирма
+}}</text>
+      <sha1>l0o8nrf4fin5dul0ar0mfv180zk4sdy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1453</id>
+      <parentid>1452</parentid>
+      <timestamp>2014-07-31T04:55:25Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="185">{{IARPAConcept
+|SourceID=9,1
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=бизнес, компания, корпорация, магазин, промышленность, фирма
+}}</text>
+      <sha1>3sj07vmaq0upwrumx34rz5kbdlkjkm9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1454</id>
+      <parentid>1453</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="191">{{IARPASourceConcept
+|SourceID=9,1
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=бизнес, компания, корпорация, магазин, промышленность, фирма
+}}</text>
+      <sha1>39hvi9rpd8tvvgt71mwqfn9frs8gzpe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FORWARD MOVEMENT</title>
+    <ns>570</ns>
+    <id>424</id>
+    <revision>
+      <id>1455</id>
+      <timestamp>2014-07-25T06:30:15Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=20.1 |Owner=GOV |LUs=продвижение, идти вперед, продвигать, наступать, развиваться }}»</comment>
+      <text xml:space="preserve" bytes="160">{{IARPAConcept
+|SourceID=20.1
+|Owner=GOV
+|LUs=продвижение, идти вперед, продвигать, наступать, развиваться
+}}</text>
+      <sha1>3mo0i01s6rs5aw1jgntep5gi4jureu9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1456</id>
+      <parentid>1455</parentid>
+      <timestamp>2014-07-31T05:48:34Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="160">{{IARPAConcept
+|SourceID=20,1
+|Owner=GOV
+|LUs=продвижение, идти вперед, продвигать, наступать, развиваться
+}}</text>
+      <sha1>3m3ggxkmcl6tibztq60bzsibk8jynur</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1457</id>
+      <parentid>1456</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="166">{{IARPASourceConcept
+|SourceID=20,1
+|Owner=GOV
+|LUs=продвижение, идти вперед, продвигать, наступать, развиваться
+}}</text>
+      <sha1>cw05wtoglthusmvh5tn2542x5f4ap23</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:A RIGHT</title>
+    <ns>570</ns>
+    <id>425</id>
+    <revision>
+      <id>1458</id>
+      <timestamp>2014-05-28T20:13:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="72">{{IARPAConcept
+|SourceID=2
+|Type=source
+|Status=pink
+|Owner=GOV
+|LUs=
+}}</text>
+      <sha1>1zan0hyyxdmajn4ez77oi53xn51usrz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1459</id>
+      <parentid>1458</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="78">{{IARPASourceConcept
+|SourceID=2
+|Type=source
+|Status=pink
+|Owner=GOV
+|LUs=
+}}</text>
+      <sha1>hsv3q5ukj6o1rusubbk88f9ky8k3mw6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DISEASE</title>
+    <ns>570</ns>
+    <id>426</id>
+    <revision>
+      <id>1460</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="562">{{IARPAConcept
+|SourceID=16
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вылечивать, искоренить, исцелять, ликвидация, лечение, лечить, задыхаться, симптомы, синдром, хронически, больной, заражённый, инфицированный, нездоровый, хворый, диагностировать, лекарство, боль, депрессия, заражать, инфекция, пандемия, рак, эпидемия, пациент, больной
+}}</text>
+      <sha1>okd7vijt2g86tsk13gylcub4bphvche</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1461</id>
+      <parentid>1460</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="568">{{IARPASourceConcept
+|SourceID=16
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=вылечивать, искоренить, исцелять, ликвидация, лечение, лечить, задыхаться, симптомы, синдром, хронически, больной, заражённый, инфицированный, нездоровый, хворый, диагностировать, лекарство, боль, депрессия, заражать, инфекция, пандемия, рак, эпидемия, пациент, больной
+}}</text>
+      <sha1>dgoqrkb5gm0rqac6umzkkz1keuxmmzc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1462</id>
+      <parentid>1461</parentid>
+      <timestamp>2014-12-13T04:10:32Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="603">{{IARPASourceConcept
+|SourceID=16
+|Status=white
+|Owner=GOV
+|LUs=вылечивать, искоренить, исцелять, ликвидация, лечение, лечить, задыхаться, симптомы, синдром, хронически, больной, заражённый, инфицированный, нездоровый, хворый, диагностировать, лекарство, боль, депрессия, заражать, инфекция, пандемия, рак, эпидемия, пациент, больной, передаваться, передавать
+}}</text>
+      <sha1>9jncclvdoumbx8tlg52dvpkure1ptdv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1463</id>
+      <parentid>1462</parentid>
+      <timestamp>2014-12-15T09:43:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="645">{{IARPASourceConcept
+|SourceID=16
+|Status=white
+|Owner=GOV
+|LUs=вылечивать, искоренить, исцелять, ликвидация, лечение, лечить, задыхаться, симптом, синдром, хронически, больной, заражённый, инфицированный, нездоровый, хворый, диагностировать, лекарство, боль, депрессия, заражать, инфекция, пандемия, рак, эпидемия, пациент, больной, передаваться, передавать, хронический, метастаз, 
+}}</text>
+      <sha1>j38kz1pno6secq23ypg53kzi762hthe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1464</id>
+      <parentid>1463</parentid>
+      <timestamp>2014-12-16T03:46:55Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="661">{{IARPASourceConcept
+|SourceID=16
+|Status=white
+|Owner=GOV
+|LUs=вылечивать, искоренить, исцелять, ликвидация, лечение, лечить, задыхаться, симптом, синдром, хронически, больной, заражённый, инфицированный, нездоровый, хворый, диагностировать, лекарство, боль, депрессия, заражать, инфекция, пандемия, рак, эпидемия, пациент, больной, передаваться, передавать, хронический, метастаз, высыпать
+}}</text>
+      <sha1>kd5jd5yim0xtm6z0g8u050yhppafvi8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:VISION</title>
+    <ns>570</ns>
+    <id>427</id>
+    <revision>
+      <id>1465</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="192">{{IARPAConcept
+|SourceID=49
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=ослепленная, слепой, видать, видеть, зрелище, посмотреть, увидеть
+}}</text>
+      <sha1>chlm3uln5mue1ldadmj64go05u5xjt8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1466</id>
+      <parentid>1465</parentid>
+      <timestamp>2014-07-25T07:26:20Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=49
+|Type=source
+|Status=white
+|Owner=ICSI
+|LUs=ослепленная, слепой, видать, видеть, зрелище, посмотреть, увидеть
+}}</text>
+      <sha1>80j11wwhw88dzsi2p14fwxrr89hulge</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1467</id>
+      <parentid>1466</parentid>
+      <timestamp>2014-07-31T06:11:14Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="193">{{IARPAConcept
+|SourceID=69
+|Type=source
+|Status=white
+|Owner=ICSI
+|LUs=ослепленная, слепой, видать, видеть, зрелище, посмотреть, увидеть
+}}</text>
+      <sha1>bngxj19duse7nz8n0zjmaiafovd0u5o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1468</id>
+      <parentid>1467</parentid>
+      <timestamp>2014-08-08T22:58:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="273">{{IARPAConcept
+|SourceID=69
+|Type=source
+|Definition=perception and ability to perceive via optical means (such as eyes)
+|Status=white
+|Owner=ICSI
+|LUs=ослепленная, слепой, видать, видеть, зрелище, посмотреть, увидеть
+}}</text>
+      <sha1>qumf67tx3drml1wjrlepdmybk4oxuwn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1469</id>
+      <parentid>1468</parentid>
+      <timestamp>2014-08-12T20:01:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="279">{{IARPASourceConcept
+|SourceID=69
+|Type=source
+|Definition=perception and ability to perceive via optical means (such as eyes)
+|Status=white
+|Owner=ICSI
+|LUs=ослепленная, слепой, видать, видеть, зрелище, посмотреть, увидеть
+}}</text>
+      <sha1>3y6vcsbunqad80hd69nxkbi415xmdcx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:CROP</title>
+    <ns>570</ns>
+    <id>428</id>
+    <revision>
+      <id>1470</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="420">{{IARPAConcept
+|SourceID=13
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=расти, культивировать, развивать, выращивать, возделывать, обрабатывать, взрастить, собирать, пожинать, пожинать плоды, урожай, жать, снимать урожай, обжинать, обжать, засевать, пахать, сеять
+}}</text>
+      <sha1>ac4b9plqcojkg6bfl5gdkvlissbkkr8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1471</id>
+      <parentid>1470</parentid>
+      <timestamp>2014-08-12T20:01:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="426">{{IARPASourceConcept
+|SourceID=13
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=расти, культивировать, развивать, выращивать, возделывать, обрабатывать, взрастить, собирать, пожинать, пожинать плоды, урожай, жать, снимать урожай, обжинать, обжать, засевать, пахать, сеять
+}}</text>
+      <sha1>fya7iqijuc416hg8hntaw1yjo6gyoax</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:LEADER</title>
+    <ns>570</ns>
+    <id>429</id>
+    <revision>
+      <id>1472</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="397">{{IARPAConcept
+|SourceID=55
+|Type=source
+|Status=cyan
+|Owner=ICSI
+|LUs=вести, следовать, повернуть, разворот, тормозить, управлять, пастух, лидер, водитель, пилот, капитан, шкипер, командир, главный исполнительный, главный, глава, босс, привод, мессия
+}}</text>
+      <sha1>jxcaxdo6d434s6x1a9w8mo30cwp7kzf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1473</id>
+      <parentid>1472</parentid>
+      <timestamp>2014-07-25T06:44:24Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="385">{{IARPAConcept
+|SourceID=25.2
+|Type=source
+|Owner=GOV
+|LUs=вести, следовать, повернуть, разворот, тормозить, управлять, пастух, лидер, водитель, пилот, капитан, шкипер, командир, главный исполнительный, главный, глава, босс, привод, мессия
+}}</text>
+      <sha1>jw5omydg1nss6gvocykied43nn2raa7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1474</id>
+      <parentid>1473</parentid>
+      <timestamp>2014-07-31T06:02:54Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="385">{{IARPAConcept
+|SourceID=25,2
+|Type=source
+|Owner=GOV
+|LUs=вести, следовать, повернуть, разворот, тормозить, управлять, пастух, лидер, водитель, пилот, капитан, шкипер, командир, главный исполнительный, главный, глава, босс, привод, мессия
+}}</text>
+      <sha1>737xc5n2ik9pw4bycnaqj2valo3rn3l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1475</id>
+      <parentid>1474</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="391">{{IARPASourceConcept
+|SourceID=25,2
+|Type=source
+|Owner=GOV
+|LUs=вести, следовать, повернуть, разворот, тормозить, управлять, пастух, лидер, водитель, пилот, капитан, шкипер, командир, главный исполнительный, главный, глава, босс, привод, мессия
+}}</text>
+      <sha1>ict5te009xfldmrr33csexu9ddv0g3f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:DOWNWARD MOVEMENT</title>
+    <ns>570</ns>
+    <id>430</id>
+    <revision>
+      <id>1476</id>
+      <timestamp>2014-07-25T06:16:21Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <comment>Новая страница: «{{IARPAConcept |SourceID=16.1 |Type=source |Owner=GOV |LUs=впасть, впасть в, погружаться, погружаться в, погружен, п…»</comment>
+      <text xml:space="preserve" bytes="267">{{IARPAConcept
+|SourceID=16.1
+|Type=source
+|Owner=GOV
+|LUs=впасть, впасть в, погружаться, погружаться в, погружен, погружен в, провалиться, пятиться, скатиться, скатиться в
+
+}}</text>
+      <sha1>6iu1ndaq371fqaioyhhhqhyheq9su52</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1477</id>
+      <parentid>1476</parentid>
+      <timestamp>2014-07-31T05:38:59Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="266">{{IARPAConcept
+|SourceID=16,1
+|Type=source
+|Owner=GOV
+|LUs=впасть, впасть в, погружаться, погружаться в, погружен, погружен в, провалиться, пятиться, скатиться, скатиться в
+}}</text>
+      <sha1>603lav7o9nuc015uae5fa8jha07uccg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1478</id>
+      <parentid>1477</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="272">{{IARPASourceConcept
+|SourceID=16,1
+|Type=source
+|Owner=GOV
+|LUs=впасть, впасть в, погружаться, погружаться в, погружен, погружен в, провалиться, пятиться, скатиться, скатиться в
+}}</text>
+      <sha1>oqdylddy8vl8hekqshyv4rhsui4cxap</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1479</id>
+      <parentid>1478</parentid>
+      <timestamp>2014-12-13T04:37:08Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="307">{{IARPASourceConcept
+|SourceID=16,1
+|Owner=GOV
+|LUs=впасть, впасть в, погружаться, погружаться в, погружен, погружен в, провалиться, пятиться, скатиться, скатиться в, спотыкаться, споткнуться
+}}</text>
+      <sha1>9na8kjp5ws4qfp5h27p4up1ktwmzeha</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1480</id>
+      <parentid>1479</parentid>
+      <timestamp>2014-12-13T05:02:52Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <text xml:space="preserve" bytes="259">{{IARPASourceConcept
+|SourceID=16,1
+|Owner=GOV
+|LUs=впасть, впасть в, погружаться, погружаться в, погружен, погружен в, провалиться, пятиться, скатиться, скатиться в
+}}</text>
+      <sha1>1xogaiirdc11d9np518xabp2c6g4pdl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ENSLAVEMENT</title>
+    <ns>570</ns>
+    <id>431</id>
+    <revision>
+      <id>1481</id>
+      <timestamp>2014-05-28T20:13:08Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="285">{{IARPAConcept
+|SourceID=18
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=хозяин, ведущий-ведомый, рабовладелец, давить, кабала, облагать, плен, поработить, порабощать, рабство, угнетать, раб
+}}</text>
+      <sha1>kyk153hhe6qn83vz8y14yzkwqwlqc0j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1482</id>
+      <parentid>1481</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="291">{{IARPASourceConcept
+|SourceID=18
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=хозяин, ведущий-ведомый, рабовладелец, давить, кабала, облагать, плен, поработить, порабощать, рабство, угнетать, раб
+}}</text>
+      <sha1>qlffw2z1fpja58abmv57i20hbi7c53d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1483</id>
+      <parentid>1482</parentid>
+      <timestamp>2014-12-14T22:02:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="332">{{IARPASourceConcept
+|SourceID=18
+|Status=white
+|Owner=GOV
+|LUs=хозяин, ведущий-ведомый, рабовладелец, давить, кабала, облагать, плен, поработить, порабощать, рабство, угнетать, раб, власть, освобождать, рабство
+}}</text>
+      <sha1>d6rkkdd1kybt4230xxrbandqahfj6kd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:MAZE</title>
+    <ns>570</ns>
+    <id>432</id>
+    <revision>
+      <id>1484</id>
+      <timestamp>2014-05-28T20:13:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="142">{{IARPAConcept
+|SourceID=29
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=лабиринт, застрять, потеряться, сучок
+}}</text>
+      <sha1>go8hhcgvy14qo3g7z62x3nhb859t905</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1485</id>
+      <parentid>1484</parentid>
+      <timestamp>2014-08-12T20:01:55Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="148">{{IARPASourceConcept
+|SourceID=29
+|Type=source
+|Status=white
+|Owner=GOV
+|LUs=лабиринт, застрять, потеряться, сучок
+}}</text>
+      <sha1>kkrycb96x4yh2h8z7q8i7m12rrybi4j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1486</id>
+      <parentid>1485</parentid>
+      <timestamp>2014-12-15T14:12:19Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="161">{{IARPASourceConcept
+|SourceID=29
+|Status=white
+|Owner=GOV
+|LUs=лабиринт, застрять, потеряться, сучок, лабиринтный, 
+}}</text>
+      <sha1>bxdiptxgzois2l61aevmy13vuk2aot6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FOLLOWER</title>
+    <ns>570</ns>
+    <id>433</id>
+    <revision>
+      <id>1487</id>
+      <timestamp>2014-05-28T20:13:11Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="207">{{IARPAConcept
+|SourceID=56
+|Type=source
+|Status=red
+|Owner=ICSI
+|LUs=последователь, овца, стадо, следить, ученик, псаломщик, фанатик, поклонник
+}}</text>
+      <sha1>c6cbm70tsclmj3skpgph1rsim0bhh57</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1488</id>
+      <parentid>1487</parentid>
+      <timestamp>2014-08-08T22:56:36Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="268">{{IARPAConcept
+|SourceID=56
+|Type=source
+|Definition=someone who is guided by another person or group
+|Status=red
+|Owner=ICSI
+|LUs=последователь, овца, стадо, следить, ученик, псаломщик, фанатик, поклонник
+}}</text>
+      <sha1>7nir3d1y6wepxv44o9djx62htf7pkhx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1489</id>
+      <parentid>1488</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="274">{{IARPASourceConcept
+|SourceID=56
+|Type=source
+|Definition=someone who is guided by another person or group
+|Status=red
+|Owner=ICSI
+|LUs=последователь, овца, стадо, следить, ученик, псаломщик, фанатик, поклонник
+}}</text>
+      <sha1>k09ljg032mh626a9wz2wbjhrk3odamd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:ACCIDENT</title>
+    <ns>570</ns>
+    <id>434</id>
+    <revision>
+      <id>1490</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="220">{{IARPAConcept
+|SourceID=52
+|Type=source
+|Status=magenta
+|Owner=ICSI
+|LUs=авария, катастрофа, несчастье, неудача, поезд, крушение поезда, автокатастрофа
+}}</text>
+      <sha1>s9zxx18euw1f1pvwiqncuzz2p54i52c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1491</id>
+      <parentid>1490</parentid>
+      <timestamp>2014-07-25T05:42:56Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="220">{{IARPAConcept
+|SourceID=3.1
+|Type=source
+|Status=magenta
+|Owner=GOV
+|LUs=авария, катастрофа, несчастье, неудача, поезд, крушение поезда, автокатастрофа
+}}</text>
+      <sha1>msp2fbkh2wqz7orstj4362yvx8bmm52</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1492</id>
+      <parentid>1491</parentid>
+      <timestamp>2014-07-25T05:46:24Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="244">{{IARPAConcept
+|SourceID=3.1
+|Type=source
+|Status=magenta
+|Owner=GOV
+|LUs=авария, катастрофа, несчастье, неудача, поезд, крушение поезда, автокатастрофа, случайность
+}}</text>
+      <sha1>6ti05czc6i4o0t9o4gvpvvirz77e353</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1493</id>
+      <parentid>1492</parentid>
+      <timestamp>2014-07-30T19:58:46Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="244">{{IARPAConcept
+|SourceID=3,1
+|Type=source
+|Status=magenta
+|Owner=GOV
+|LUs=авария, катастрофа, несчастье, неудача, поезд, крушение поезда, автокатастрофа, случайность
+}}</text>
+      <sha1>fx29hfitzz5woyd88b6618sqrhv0ula</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1494</id>
+      <parentid>1493</parentid>
+      <timestamp>2014-08-12T20:01:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="250">{{IARPASourceConcept
+|SourceID=3,1
+|Type=source
+|Status=magenta
+|Owner=GOV
+|LUs=авария, катастрофа, несчастье, неудача, поезд, крушение поезда, автокатастрофа, случайность
+}}</text>
+      <sha1>bhsnruztsa8xqk5fgpvnm9w39teuqc6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FIRE</title>
+    <ns>570</ns>
+    <id>435</id>
+    <revision>
+      <id>1495</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="351">{{IARPAConcept
+|SourceID=54
+|Type=source
+|Status=magenta
+|Owner=ICSI
+|LUs=сжигать, гореть, жечь, жечься, обжечь, спалить, воспламеняться, гореть, вентилятор пламя, воспламенения, искра, топить, сжечь, опалить,, костер, пожар, ад
+}}</text>
+      <sha1>k5zwbtm4ut5k061hrw73vi94bahawvf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1496</id>
+      <parentid>1495</parentid>
+      <timestamp>2014-07-25T06:27:52Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="336">{{IARPAConcept
+|SourceID=18.4
+|Type=source
+|Owner=GOV
+|LUs=сжигать, гореть, жечь, жечься, обжечь, спалить, воспламеняться, гореть, вентилятор пламя, воспламенения, искра, топить, сжечь, опалить,, костер, пожар, ад
+}}</text>
+      <sha1>jzb2eypb8tueuvtun3o174bzhk0a2ch</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1497</id>
+      <parentid>1496</parentid>
+      <timestamp>2014-07-31T05:47:46Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="336">{{IARPAConcept
+|SourceID=18,4
+|Type=source
+|Owner=GOV
+|LUs=сжигать, гореть, жечь, жечься, обжечь, спалить, воспламеняться, гореть, вентилятор пламя, воспламенения, искра, топить, сжечь, опалить,, костер, пожар, ад
+}}</text>
+      <sha1>moswzl636p5qynlge0zfqelvh8oo6rm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1498</id>
+      <parentid>1497</parentid>
+      <timestamp>2014-07-31T05:47:57Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="335">{{IARPAConcept
+|SourceID=18,4
+|Type=source
+|Owner=GOV
+|LUs=сжигать, гореть, жечь, жечься, обжечь, спалить, воспламеняться, гореть, вентилятор пламя, воспламенения, искра, топить, сжечь, опалить, костер, пожар, ад
+}}</text>
+      <sha1>827ayu61c08essa1jyf6tilejddihyf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1499</id>
+      <parentid>1498</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="341">{{IARPASourceConcept
+|SourceID=18,4
+|Type=source
+|Owner=GOV
+|LUs=сжигать, гореть, жечь, жечься, обжечь, спалить, воспламеняться, гореть, вентилятор пламя, воспламенения, искра, топить, сжечь, опалить, костер, пожар, ад
+}}</text>
+      <sha1>dibuv7wbcotpp9e5avszxgghuk0qrgc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>IConcept:FACTORY</title>
+    <ns>570</ns>
+    <id>436</id>
+    <revision>
+      <id>1500</id>
+      <timestamp>2014-05-28T20:13:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>импорт CSV</comment>
+      <text xml:space="preserve" bytes="282">{{IARPAConcept
+|SourceID=53
+|Type=source
+|Status=magenta
+|Owner=ICSI
+|LUs=непродуктивный, продуктивный, производить, производство, рабочий, сборочный, сборочный конвейер, завод, фабрика
+}}</text>
+      <sha1>s5d4jarvh0hkfqyocntjnkkt9id81au</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1501</id>
+      <parentid>1500</parentid>
+      <timestamp>2014-07-25T06:24:04Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="267">{{IARPAConcept
+|SourceID=18.2
+|Type=source
+|Owner=GOV
+|LUs=непродуктивный, продуктивный, производить, производство, рабочий, сборочный, сборочный конвейер, завод, фабрика
+}}</text>
+      <sha1>mrhmnec3k7hmfv78x9pl2m37ge9swzo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1502</id>
+      <parentid>1501</parentid>
+      <timestamp>2014-07-31T05:40:30Z</timestamp>
+      <contributor>
+        <username>PatriciaL</username>
+        <id>46</id>
+      </contributor>
+      <text xml:space="preserve" bytes="267">{{IARPAConcept
+|SourceID=18,2
+|Type=source
+|Owner=GOV
+|LUs=непродуктивный, продуктивный, производить, производство, рабочий, сборочный, сборочный конвейер, завод, фабрика
+}}</text>
+      <sha1>pnfdcp929s5f9umkzw1vlpgx4y7uisg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>1503</id>
+      <parentid>1502</parentid>
+      <timestamp>2014-08-12T20:01:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Замена текста — «IARPAConcept» на «IARPASourceConcept»</comment>
+      <text xml:space="preserve" bytes="273">{{IARPASourceConcept
+|SourceID=18,2
+|Type=source
+|Owner=GOV
+|LUs=непродуктивный, продуктивный, производить, производство, рабочий, сборочный, сборочный конвейер, завод, фабрика
+}}</text>
+      <sha1>m91sffbvqcv6wl0ajuxgkpaqb2zlfgj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

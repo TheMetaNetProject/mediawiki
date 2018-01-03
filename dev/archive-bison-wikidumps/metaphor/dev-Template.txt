@@ -1,0 +1,106 @@
+Template:!
+Template:Advert
+Template:Ambox
+Template:Ambox/category
+Template:Ambox/core
+Template:Ambox/doc
+Template:Ambox/small
+Template:Application
+Template:Article issues
+Template:Blacklist source LUs
+Template:Blacklist source schema families
+Template:Blacklist source schemas
+Template:Blacklist target LUs
+Template:Category handler
+Template:Category handler/blacklist
+Template:Category handler/numbered
+Template:Citation style
+Template:CxnMP
+Template:Definition
+Template:DefinitionLink
+Template:DefinitionListing
+Template:Detailed schema family tree
+Template:Documentation
+Template:Documentation/docspace
+Template:Documentation/end box
+Template:Documentation/end box2
+Template:Documentation/start box
+Template:Documentation/start box2
+Template:Documentation/template page
+Template:Documentation subpage
+Template:Entailment
+Template:Event
+Template:Example
+Template:FULLROOTPAGENAME
+Template:Fmbox
+Template:FrameNetLUs
+Template:GetSchemaRelationsForMetaphor
+Template:GetSchemaRelationsForMetaphorFamily
+Template:GetSchemaRels
+Template:Glossed category item
+Template:Hidden
+Template:High-risk
+Template:IARPAConcept
+Template:IARPASourceConcept
+Template:IARPATargetConcept
+Template:If pagename
+Template:LUs
+Template:Lang
+Template:Main other
+Template:Main other/doc
+Template:MappingTableBody
+Template:MappingTableIntro
+Template:MappingTableOutro
+Template:Mbox
+Template:Mbox/doc
+Template:Mbox templates
+Template:Mbox templates see also
+Template:MetaRC
+Template:Metaphor
+Template:Metaphor Search
+Template:Metaphor family
+Template:Metaphor family tree
+Template:Metaphors in family
+Template:Multiple issues
+Template:Multiple issues/message
+Template:Namespace detect
+Template:Namespace detect see also
+Template:Navbar
+Template:Ns has subpages
+Template:Ombox
+Template:Ombox/core
+Template:OtherData
+Template:OtherRemarks
+Template:POV
+Template:Para
+Template:Pp-meta
+Template:Pp-template
+Template:Provenance
+Template:Purge
+Template:Related metaphor
+Template:Related schema
+Template:Schema
+Template:Schema family
+Template:Schema family tree
+Template:Schemas in family
+Template:SearchFrameNetForLemma
+Template:SearchSchemasForLemma
+Template:Show calendar item
+Template:Sidebar
+Template:Source binding
+Template:Subordinate link
+Template:Superordinate link
+Template:TOC
+Template:Template other
+Template:Template shortcut
+Template:TestResult
+Template:TestSentence
+Template:TestSummary
+Template:Tl
+Template:Tlx
+Template:Transclude
+Template:Unsetpropnns
+Template:Whitelist target LU
+Template:Wikify
+Template:Wikify/tutorial
+Template:Xs in family

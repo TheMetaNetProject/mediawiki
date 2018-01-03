@@ -1,0 +1,14 @@
+2017-08-29T07:00:03Z - Connecting to ambrosia.icsi.berkeley.edu:2080/pub/en/ as Metabot
+2017-08-29T07:00:03Z - Starting new HTTPS connection (1): ambrosia.icsi.berkeley.edu
+2017-08-29T07:00:04Z - processing namespace Glossary_talk
+2017-08-29T07:00:04Z - processing namespace Metaphor_family_talk
+2017-08-29T07:00:04Z - processing namespace Frame_talk
+2017-08-29T07:00:04Z - processing namespace Metaphor_talk
+2017-08-29T07:00:04Z - processing namespace Frame_family_talk
+2017-08-29T07:00:04Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/talkdumps/en/talk-Glossary_talk.txt: no file or zero size
+2017-08-29T07:00:04Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/talkdumps/en/talk-Metaphor_family_talk.txt: no file or zero size
+2017-08-29T07:00:04Z - retrieving page content for /xa/metanet/services/mediawiki/pub/talkdumps/en/talk-Frame_talk.txt
+2017-08-29 14:00:05: enmnwiki_pub (ID 6403) 1 pages (20.2|20.2/sec all|curr), 1 revs (20.2|20.2/sec all|curr), ETA 2017-08-29 14:01:26 [max 1634]
+2017-08-29T07:00:05Z - retrieving page content for /xa/metanet/services/mediawiki/pub/talkdumps/en/talk-Metaphor_talk.txt
+2017-08-29 14:00:05: enmnwiki_pub (ID 6404) 1 pages (19.9|19.9/sec all|curr), 2 revs (39.8|39.8/sec all|curr), ETA 2017-08-29 14:00:46 [max 1634]
+2017-08-29T07:00:05Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/talkdumps/en/talk-Frame_family_talk.txt: no file or zero size

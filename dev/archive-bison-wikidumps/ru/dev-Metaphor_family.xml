@@ -1,0 +1,598 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Russian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="102" case="first-letter">Свойство</namespace>
+      <namespace key="103" case="first-letter">Обсуждение свойства</namespace>
+      <namespace key="106" case="first-letter">Форма</namespace>
+      <namespace key="107" case="first-letter">Обсуждение формы</namespace>
+      <namespace key="108" case="first-letter">Концепция</namespace>
+      <namespace key="109" case="first-letter">Обсуждение концепции</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Метафора структуры события - локация</title>
+    <ns>0</ns>
+    <id>1009</id>
+      <sha1>iqlajjg6paqkag4pselkoe93hoywbx2</sha1>
+    <revision>
+      <id>4282</id>
+      <timestamp>2012-11-22T20:00:38Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Metaphor Structure Event - Location (Location Event Structure) |is subfamily of=Метафора структуры события (…»</comment>
+      <text xml:space="preserve" bytes="190">{{Metaphor family
+|Name gloss=Metaphor Structure Event - Location (Location Event Structure)
+|is subfamily of=Метафора структуры события (Event structure metaphor)
+}}</text>
+    </revision>
+    <revision>
+      <id>4301</id>
+      <timestamp>2012-11-23T08:40:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Метафора структуры события - локация (Location Event Sructure Metaphor)]] в [[Метафора структуры события - локация (Location Even…</comment>
+      <text xml:space="preserve" bytes="190">{{Metaphor family
+|Name gloss=Metaphor Structure Event - Location (Location Event Structure)
+|is subfamily of=Метафора структуры события (Event structure metaphor)
+}}</text>
+    </revision>
+    <revision>
+      <id>4303</id>
+      <timestamp>2012-11-23T08:41:38Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="190">{{Metaphor family
+|Name gloss=Metaphor Structure Event - Location (Location Event Structure)
+|is subfamily of=Метафора структуры события (Event Structure Metaphor)
+}}</text>
+    </revision>
+    <revision>
+      <id>6832</id>
+      <timestamp>2013-09-10T07:20:44Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Метафора структуры события - локация (Location Event Structure Metaphor)]] в [[Метафора структуры события - локация]]</comment>
+      <text xml:space="preserve" bytes="190">{{Metaphor family
+|Name gloss=Metaphor Structure Event - Location (Location Event Structure)
+|is subfamily of=Метафора структуры события (Event Structure Metaphor)
+}}</text>
+    </revision>
+    <revision>
+      <id>6834</id>
+      <timestamp>2013-09-10T07:21:28Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="134">{{Metaphor family
+|Name gloss=Location Event Structure Metaphor
+|is subfamily of=Метафора структуры события
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Thought as Language Metaphors</title>
+    <ns>0</ns>
+    <id>829</id>
+      <sha1>5vpzmvgfxbpe9balabkt1v4qsnslzfn</sha1>
+    <revision>
+      <id>3694</id>
+      <timestamp>2012-08-28T07:51:08Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Mind Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|is subfamily of=Mind Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Object Event Structure Metaphor</title>
+    <ns>0</ns>
+    <id>777</id>
+      <sha1>6rkkkz89mg1b5ksqw2w1nipjspr18ta</sha1>
+    <revision>
+      <id>3456</id>
+      <timestamp>2012-08-02T00:09:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Event Structure Metaphor  }}&quot;</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|is subfamily of=Event Structure Metaphor 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры эмоцией</title>
+    <ns>0</ns>
+    <id>2435</id>
+      <sha1>0w4nawmhzmr1xrn9xkoqrixbrr8un7x</sha1>
+    <revision>
+      <id>5874</id>
+      <timestamp>2013-01-25T20:30:52Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Emotion Metaphors }}»</comment>
+      <text xml:space="preserve" bytes="50">{{Metaphor family
+|Name gloss=Emotion Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Russian primary metaphors</title>
+    <ns>0</ns>
+    <id>3455</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>8148</id>
+      <timestamp>2014-10-03T20:30:53Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family}}»</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Ума</title>
+    <ns>0</ns>
+    <id>778</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3457</id>
+      <timestamp>2012-08-02T00:09:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>6822</id>
+      <timestamp>2013-09-10T07:10:22Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Mind Metaphors]] в [[Метафоры Ума (Mind Metaphors)]]</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>8484</id>
+      <timestamp>2015-04-13T19:56:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong переименовал страницу [[Метафоры Ума (Mind Metaphors)]] в [[Метафоры Ума]] без оставления перенаправления: parens not allowed in names</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Морали</title>
+    <ns>0</ns>
+    <id>3021</id>
+      <sha1>8437pdxdvemwu6tp3q0bhndq2wz2jew</sha1>
+    <revision>
+      <id>6856</id>
+      <timestamp>2013-09-10T09:08:32Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Morality metaphors }}»</comment>
+      <text xml:space="preserve" bytes="51">{{Metaphor family
+|Name gloss=Morality metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Образование</title>
+    <ns>0</ns>
+    <id>3010</id>
+      <sha1>n8txhjvz6z5123nizqrdww6rfzlyzik</sha1>
+    <revision>
+      <id>6821</id>
+      <timestamp>2013-09-10T07:06:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Education Metaphors |is subfamily of=Метафоры экономики }}»</comment>
+      <text xml:space="preserve" bytes="105">{{Metaphor family
+|Name gloss=Education Metaphors
+|is subfamily of=Метафоры экономики
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Благосостояния</title>
+    <ns>0</ns>
+    <id>779</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>3458</id>
+      <timestamp>2012-08-02T00:10:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family}}&quot;</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+    <revision>
+      <id>6824</id>
+      <timestamp>2013-09-10T07:12:53Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Well-being Metaphors]] в [[Метафоры Благосостояния]]</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Conduit Metaphor</title>
+    <ns>0</ns>
+    <id>780</id>
+      <sha1>5vpzmvgfxbpe9balabkt1v4qsnslzfn</sha1>
+    <revision>
+      <id>3459</id>
+      <timestamp>2012-08-02T00:10:35Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{Metaphor family |is subfamily of=Mind Metaphors  }}&quot;</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|is subfamily of=Mind Metaphors 
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафора структуры события</title>
+    <ns>0</ns>
+    <id>1002</id>
+      <sha1>bi919l6i9qqm4y1dcvf4svurtse3x5q</sha1>
+    <revision>
+      <id>4265</id>
+      <timestamp>2012-11-22T18:34:51Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Metaphor structure event }}»</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|Name gloss=Metaphor structure event
+}}</text>
+    </revision>
+    <revision>
+      <id>4299</id>
+      <timestamp>2012-11-23T08:38:42Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Метафора структуры события (Event structure metaphor)]] в [[Метафора структуры события (Event Structure Metaphor)]]</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|Name gloss=Metaphor structure event
+}}</text>
+    </revision>
+    <revision>
+      <id>6829</id>
+      <timestamp>2013-09-10T07:19:18Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Метафора структуры события (Event Structure Metaphor)]] в [[Метафора структуры события]]</comment>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|Name gloss=Metaphor structure event
+}}</text>
+    </revision>
+    <revision>
+      <id>6831</id>
+      <timestamp>2013-09-10T07:19:59Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">{{Metaphor family
+|Name gloss=Event Structure Metaphor
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры правительственных функций</title>
+    <ns>0</ns>
+    <id>3239</id>
+      <sha1>kele7qnh70j2hf36tnv7ylae20y1khf</sha1>
+    <revision>
+      <id>7529</id>
+      <timestamp>2014-02-19T12:02:34Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Function of_Government metaphors |is subfamily of=Метафоры управления }}»</comment>
+      <text xml:space="preserve" bytes="120">{{Metaphor family
+|Name gloss=Function of_Government metaphors
+|is subfamily of=Метафоры управления
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Бедность</title>
+    <ns>0</ns>
+    <id>3005</id>
+      <sha1>5enwwve7dqewer5gze6is9g4r1a1ndw</sha1>
+    <revision>
+      <id>6816</id>
+      <timestamp>2013-09-09T13:47:54Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Poverty Metaphors |is subfamily of=Метафоры экономики }}»</comment>
+      <text xml:space="preserve" bytes="103">{{Metaphor family
+|Name gloss=Poverty Metaphors
+|is subfamily of=Метафоры экономики
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Налогообложение</title>
+    <ns>0</ns>
+    <id>3006</id>
+      <sha1>gv8lb6q40use1g7gui0r3ody5dv8l72</sha1>
+    <revision>
+      <id>6817</id>
+      <timestamp>2013-09-09T13:49:58Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Taxation Metaphors |is subfamily of=Метафоры экономики }}»</comment>
+      <text xml:space="preserve" bytes="104">{{Metaphor family
+|Name gloss=Taxation Metaphors
+|is subfamily of=Метафоры экономики
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Богатство</title>
+    <ns>0</ns>
+    <id>3004</id>
+      <sha1>l9awoblx0pusfcshk28e4u85ctmg4o6</sha1>
+    <revision>
+      <id>6815</id>
+      <timestamp>2013-09-09T13:46:39Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Wealth Metaphors |is subfamily of=Метафоры экономики }}»</comment>
+      <text xml:space="preserve" bytes="102">{{Metaphor family
+|Name gloss=Wealth Metaphors
+|is subfamily of=Метафоры экономики
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры экономики</title>
+    <ns>0</ns>
+    <id>3003</id>
+      <sha1>iizy6drmya7edsl0jg6gh9lim7tfv4r</sha1>
+    <revision>
+      <id>6814</id>
+      <timestamp>2013-09-09T13:45:35Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Economics Metaphors }}»</comment>
+      <text xml:space="preserve" bytes="52">{{Metaphor family
+|Name gloss=Economics Metaphors
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Newly added metaphors</title>
+    <ns>0</ns>
+    <id>3457</id>
+      <sha1>07vu4ovlq92k24ficwr7qow66x8fyix</sha1>
+    <revision>
+      <id>8160</id>
+      <timestamp>2014-10-10T20:18:46Z</timestamp>
+      <contributor>
+        <username>Aleksandra.Sopina</username>
+        <id>57</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family}}»</comment>
+      <text xml:space="preserve" bytes="19">{{Metaphor family}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры Доступ к образованию</title>
+    <ns>0</ns>
+    <id>3002</id>
+      <sha1>n8txhjvz6z5123nizqrdww6rfzlyzik</sha1>
+    <revision>
+      <id>6813</id>
+      <timestamp>2013-09-09T13:44:50Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Education Metaphors |is subfamily of=Метафоры экономики }}»</comment>
+      <text xml:space="preserve" bytes="105">{{Metaphor family
+|Name gloss=Education Metaphors
+|is subfamily of=Метафоры экономики
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Бедность</title>
+    <ns>0</ns>
+    <id>3038</id>
+      <sha1>ev7keeeuh1ish2ljljbw1tjxwdncqu0</sha1>
+    <revision>
+      <id>6916</id>
+      <timestamp>2013-09-28T22:26:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=poverty }}»</comment>
+      <text xml:space="preserve" bytes="40">{{Metaphor family
+|Name gloss=poverty
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад</title>
+    <ns>0</ns>
+    <id>2480</id>
+      <sha1>c1wc47zn152dwzc1d33251wd1s37gwe</sha1>
+    <revision>
+      <id>6049</id>
+      <timestamp>2013-04-10T20:10:17Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=LIFE/LOVE IS A JOURNEY Cascade }}»</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|Name gloss=LIFE/LOVE IS A JOURNEY Cascade
+}}</text>
+    </revision>
+    <revision>
+      <id>6050</id>
+      <timestamp>2013-04-10T20:11:04Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[ЖИЗНЬ / ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад (LIFE/LOVE IS A JOURNEY Cascade)]] в [[ЖИЗНЬ / ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад]]</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|Name gloss=LIFE/LOVE IS A JOURNEY Cascade
+}}</text>
+    </revision>
+    <revision>
+      <id>8483</id>
+      <timestamp>2015-04-13T19:56:06Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong переименовал страницу [[ЖИЗНЬ / ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад]] в [[ЛЮБОВЬ ЭТО ПУТЕШЕСТВИЕ Каскад]] без оставления перенаправления: Slashes …</comment>
+      <text xml:space="preserve" bytes="63">{{Metaphor family
+|Name gloss=LIFE/LOVE IS A JOURNEY Cascade
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Метафоры управления</title>
+    <ns>0</ns>
+    <id>1030</id>
+      <sha1>huvb3g2qvg4xlbv89jhoh8gap6pv94l</sha1>
+    <revision>
+      <id>4331</id>
+      <timestamp>2012-12-01T11:51:18Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <comment>Новая страница: «{{Metaphor family |Name gloss=Metaphors governance }}»</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|Name gloss=Metaphors governance
+}}</text>
+    </revision>
+    <revision>
+      <id>6835</id>
+      <timestamp>2013-09-10T07:24:05Z</timestamp>
+      <contributor>
+        <username>Kristina Despot</username>
+        <id>44</id>
+      </contributor>
+      <minor/>
+      <comment>Kristina Despot переименовал страницу [[Метафоры управления (Governance metaphors)]] в [[Метафоры управления]]</comment>
+      <text xml:space="preserve" bytes="53">{{Metaphor family
+|Name gloss=Metaphors governance
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

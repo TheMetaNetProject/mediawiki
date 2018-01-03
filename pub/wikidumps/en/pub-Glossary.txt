@@ -1,0 +1,40 @@
+Glossary:Binding
+Glossary:Category
+Glossary:Closest FrameNet Frames
+Glossary:Cognitive Primitive
+Glossary:Composed Frame
+Glossary:Composed Metaphor
+Glossary:Conceptual Metaphor
+Glossary:Construct
+Glossary:Cultural Information
+Glossary:Cultural Scope
+Glossary:Entailment
+Glossary:Family
+Glossary:Frame
+Glossary:Frame (definition)
+Glossary:Frame Relation Type
+Glossary:Frame Type
+Glossary:Idealized Cognitive Model
+Glossary:Image Frame
+Glossary:Image Schema
+Glossary:Inference
+Glossary:Lexical Unit
+Glossary:Linguistic Metaphor
+Glossary:Makes use of
+Glossary:Mapping
+Glossary:Metaphor (definition)
+Glossary:Metaphor Relation Type
+Glossary:Name Gloss
+Glossary:Other Aliases
+Glossary:Primary Metaphor
+Glossary:Primary scene
+Glossary:Process (definition)
+Glossary:Process Frame
+Glossary:Prototype
+Glossary:Related Frame
+Glossary:Relation Type
+Glossary:Role
+Glossary:Scenario
+Glossary:Specific Metaphor
+Glossary:Subcase of
+Glossary:Transitivity

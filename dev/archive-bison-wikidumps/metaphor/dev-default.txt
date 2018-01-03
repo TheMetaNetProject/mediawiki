@@ -1,0 +1,174 @@
+2014.01.16 MNStaffAgenda
+2014.02.28 MNStaffAgenda
+2014.03.21 MNStaffAgenda
+2014.04.10 Site Visit Agenda
+2014.04.10 site visit agenda
+2014.04.25 MNStaffAgenda
+2014.05.02 MNStaffAgenda
+2014.05.30 MNStaffAgenda
+2014.06.27 MNStaffAgenda
+2014.08.01 MNStaffAgenda
+2014.08.29 MNStaffAgenda
+2014.09.29 MNStaffAgenda
+2014.11.10 MNStaffAgenda
+2015.2.12 MNStaffAgenda
+99 Problems
+Acknowledgement and Disclaimer
+Agenda
+Agenda-2012/2/16
+Agenda-2012/3/29
+Agenda-2012/3/8
+Agenda-2012/4/12
+Agenda-2012/4/26
+Agenda-2012/5/24
+Agenda-3/29
+Agenda-4/12
+AgendaPI2013.02.07
+America Dreamin
+Analysis Group
+Analysis Group Archive
+Analysis meeting February 7 2014
+Analysis meeting January 23 2014
+Analysis meeting January 24 2014
+Analysis meeting January 31 2014
+Analysis sub-group meeting
+Annotation Task
+Biblio
+Cognitive Linguistics
+Concise monthly update
+Corpora2012.08details
+Crece clase media en Mexico 201308081102
+Democracia no puede afianzarse con alta pobreza 201308081102
+Economic Inequality spreadsheet
+Economic inequality seeds for the LM extractor
+El Pacto por Mexico impulsa reformas profundas 201308081102
+General MetaNet Meeting 06 14
+General MetaNet Meeting 06 21
+Glossary
+Governance
+Governance seeds for LM extractor
+HMB e-mail 5/2
+Here is a page with a "quote" in the name
+Housekeeping
+IARPA Documents
+ICLC 2013 in Edmonton
+ICSIstaffMtg1
+Ideas for improving the Metaphor Wiki
+Igual desigualdad en el sector rural y urbano 201308081102
+Import extracted metaphors into the Wiki
+La movilidad social en Mexico 201308081102
+La otra realidad 201308081102
+La television la gran opcion ante la desigualdad cultural 201308081102
+Linking linguistic metaphors to conceptual metaphors
+List of all Metaphors
+List of all Schemas
+List of primary metaphors
+List of seeding phrases
+MAE annotation converter
+Mas alla de la clase media 201308081102
+Master Outline of Questions, Objectives, Terms, Methodology, and Contextualization within Broader Project
+Meco Training 17
+MeetingNotes
+Meeting Agenda
+Meeting Notes
+Meeting schedule
+Meeting with validation team
+MetaNetAdmin
+MetaNetProj
+MetaNet Schemas to IARPA Concepts Mapping
+MetaNet at ICLC-12 2013
+Meta deep dive English Set 071113 201307111341
+Meta deep dive English Set 071113 201307121709
+Meta deep dive Persian Set 071413 201307161100
+Meta deep dive Russian Set 071213 201307121709
+Meta deep dive Spanish Set 071213 201307121709
+Metaphor
+Metaphor+
+Metaphor+George Meeting 06 05
+Metaphor+George Meeting 06 07
+Metaphor+George Meeting 06 12
+Metaphor+George Meeting 06 14
+Metaphor+Srini meeting 06 18
+Metaphor+ Meeting 05 21
+Metaphor+ Meeting 05 22
+Metaphor+ Meeting 05 29
+Metaphor+ Meeting 06 01
+Metaphor+ Meeting 06 05
+Metaphor+ Meeting 06 12
+Metaphor+ Meeting 06 26
+Metaphor+ Meeting 06 28
+Metaphor+ Meeting 07 06
+Metaphor+ Meeting 07 10
+Metaphor+ Meeting 07 12
+Metaphor+ meeting 07 03
+Metaphor Analysis Group
+Metaphor Extraction
+Metaphor Families
+Metaphor analysis report August 2012
+Metaphor analysis report July 2012
+Metaphor analysis report October 2012
+Metaphor analysis report September 2012
+Metaphor data protocol
+Metaphors listed by status
+Metaphors to work on
+Metaphors with missing fields
+Mexico pais desigual 201308081102
+NLPShared
+New IARPA assignment: economic inequality
+Notes
+OWL2SQL
+Ode to oren ishii
+Old priorities from December
+Ongoing Questions
+Open Questions
+PI Availability & Meeting Attendance
+PImtgAgenda
+Papers
+Past staff meeting/ site visit agendas
+Past staff meeting agendas
+People on the Metaphor Project
+Per1 201306140943
+Per1 201307011154
+PrecisionRecall
+Previous Agendas
+Previous agendas
+ProjDocs
+ProjShared
+Proposed Wiki and Representation Changes
+Protege Setup
+Public Service Annoucement
+Que esta mirando la Fed 201308081102
+RemoteGMRAccess
+Reporte sobre la discriminacion en Mexico 2012 201308081102
+Reports
+Repository Group
+Rising Inequality Even Among College Presidents 201308081102
+Schedules
+Schema Families
+Schema Relation Type
+Schemas with missing fields
+Seeds for the Extractor
+Simple Version Control Using Git
+SiteVisit2Schedule
+SiteVisitMay9Agenda
+Small test set of seeds for LM extractor
+SoftwareDevelopment
+Srini meeting
+Standards
+Stuff to Read
+SystemTests
+System Documentation
+System Test Results
+Target Concepts
+Test page
+The Myth of Gatsbys Suffering Middle Class 201308081102
+The Rise of the Permanent Temp Economy 201308081102
+Thurs. Feb. 16, 2012 14:00-16:00
+Training Data
+Young and Isolated 201308081102
+الگو:Glossed category item
+حسن روحانی در مراسم تحلیف 201308081119
+سونامي فقر، کاخ سفيد را مي بلعد 201308081119
+مدیرکل تعزیرات حکومتی استان بوشهر خبر داد 201308081119
+نتيجه گناه، فقر در زندگي انسان است 201308081119
+پرداخت زكات؛ رسالت امت اسلامی برای فقرزدايی 201308081119

@@ -1,0 +1,60 @@
+2017-08-29T07:00:08Z - Connecting to ambrosia.icsi.berkeley.edu:2080/dev/en/ as Metabot
+2017-08-29T07:00:08Z - Starting new HTTPS connection (1): ambrosia.icsi.berkeley.edu
+2017-08-29T07:00:09Z - processing category Metaphor
+2017-08-29T07:00:10Z - processing category Metaphor_family
+2017-08-29T07:00:10Z - processing category Frame
+2017-08-29T07:00:12Z - processing category Frame_family
+2017-08-29T07:00:12Z - processing category Construct_analysis
+2017-08-29T07:00:12Z - processing category CxnMP
+2017-08-29T07:00:12Z - processing category MetaRC
+2017-08-29T07:00:12Z - processing category IARPASourceConcept
+2017-08-29T07:00:12Z - processing category IARPATargetConcept
+2017-08-29T07:00:12Z - processing category Definition
+2017-08-29T07:00:12Z - processing namespace Category
+2017-08-29T07:00:12Z - processing namespace MediaWiki
+2017-08-29T07:00:12Z - processing namespace default
+2017-08-29T07:00:12Z - processing namespace Form
+2017-08-29T07:00:12Z - processing namespace Template
+2017-08-29T07:00:12Z - processing namespace Cit
+2017-08-29T07:00:12Z - processing namespace Glossary
+2017-08-29T07:00:12Z - processing namespace Property
+2017-08-29T07:00:12Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Category.txt
+2017-08-29 14:00:13: enmnwiki_dev (ID 6434) 10 pages (141.8|141.8/sec all|curr), 10 revs (141.8|141.8/sec all|curr), ETA 2017-08-29 14:00:28 [max 2160]
+2017-08-29T07:00:13Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-MediaWiki.txt
+2017-08-29 14:00:13: enmnwiki_dev (ID 6435) 10 pages (148.4|148.4/sec all|curr), 10 revs (148.4|148.4/sec all|curr), ETA 2017-08-29 14:00:28 [max 2160]
+2017-08-29T07:00:13Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-default.txt
+2017-08-29 14:00:13: enmnwiki_dev (ID 6436) 31 pages (282.5|282.5/sec all|curr), 31 revs (282.5|282.5/sec all|curr), ETA 2017-08-29 14:00:21 [max 2160]
+2017-08-29T07:00:13Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Form.txt
+2017-08-29 14:00:14: enmnwiki_dev (ID 6437) 11 pages (153.1|153.1/sec all|curr), 11 revs (153.1|153.1/sec all|curr), ETA 2017-08-29 14:00:28 [max 2160]
+2017-08-29T07:00:14Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Template.txt
+2017-08-29 14:00:14: enmnwiki_dev (ID 6438) 99 pages (376.6|376.6/sec all|curr), 100 revs (380.4|380.4/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:14: enmnwiki_dev (ID 6438) 112 pages (386.2|4127.2/sec all|curr), 112 revs (386.2|442.2/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29T07:00:14Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Cit.txt: no file or zero size
+2017-08-29T07:00:14Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Glossary.txt
+2017-08-29 14:00:15: enmnwiki_dev (ID 6440) 40 pages (282.9|282.9/sec all|curr), 40 revs (282.9|282.9/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29T07:00:15Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Property.txt
+2017-08-29 14:00:15: enmnwiki_dev (ID 6441) 99 pages (399.7|399.7/sec all|curr), 100 revs (403.7|403.7/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:15: enmnwiki_dev (ID 6441) 146 pages (430.2|1592.6/sec all|curr), 146 revs (430.2|501.8/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29T07:00:15Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Metaphor.txt
+2017-08-29 14:00:16: enmnwiki_dev (ID 6443) 99 pages (424.1|424.1/sec all|curr), 100 revs (428.4|428.4/sec all|curr), ETA 2017-08-29 14:00:21 [max 2160]
+2017-08-29 14:00:16: enmnwiki_dev (ID 6443) 199 pages (450.5|955.4/sec all|curr), 200 revs (452.8|480.1/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:16: enmnwiki_dev (ID 6443) 299 pages (460.9|1444.1/sec all|curr), 300 revs (462.4|483.0/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:16: enmnwiki_dev (ID 6443) 399 pages (466.1|1924.9/sec all|curr), 400 revs (467.3|482.4/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:17: enmnwiki_dev (ID 6443) 499 pages (469.5|2412.8/sec all|curr), 500 revs (470.4|483.5/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:17: enmnwiki_dev (ID 6443) 599 pages (470.4|2844.4/sec all|curr), 600 revs (471.2|474.9/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29 14:00:17: enmnwiki_dev (ID 6443) 686 pages (477.7|4218.3/sec all|curr), 686 revs (477.7|528.8/sec all|curr), ETA 2017-08-29 14:00:20 [max 2160]
+2017-08-29T07:00:17Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Metaphor_family.txt: no file or zero size
+2017-08-29T07:00:17Z - retrieving page content for /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Frame.txt
+2017-08-29 14:00:18: enmnwiki_dev (ID 6444) 99 pages (374.2|374.2/sec all|curr), 100 revs (378.0|378.0/sec all|curr), ETA 2017-08-29 14:00:23 [max 2160]
+2017-08-29 14:00:18: enmnwiki_dev (ID 6444) 199 pages (414.0|920.8/sec all|curr), 200 revs (416.1|462.7/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29 14:00:18: enmnwiki_dev (ID 6444) 299 pages (422.9|1320.6/sec all|curr), 300 revs (424.3|441.7/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29 14:00:18: enmnwiki_dev (ID 6444) 399 pages (434.5|1889.9/sec all|curr), 400 revs (435.6|473.7/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29 14:00:18: enmnwiki_dev (ID 6444) 499 pages (441.2|2344.4/sec all|curr), 500 revs (442.1|469.8/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29 14:00:19: enmnwiki_dev (ID 6444) 576 pages (445.9|3584.2/sec all|curr), 576 revs (445.9|472.9/sec all|curr), ETA 2017-08-29 14:00:22 [max 2160]
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Frame_family.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Construct_analysis.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-CxnMP.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-MetaRC.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-IARPASourceConcept.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-IARPATargetConcept.txt: no file or zero size
+2017-08-29T07:00:19Z - page retrieval: skipping /xa/metanet/services/mediawiki/pub/wikidumps/en/pub-Definition.txt: no file or zero size

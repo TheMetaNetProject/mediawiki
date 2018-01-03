@@ -1,0 +1,22 @@
+Cogs and Frames
+Export Metaphors and Schemas
+List of all Metaphors
+List of all Schemas
+List of primary metaphors
+Map of all metaphors
+MetaNet Metaphor Wiki
+Metaphor Families
+Metaphor Wiki (English)
+Metaphors by Type
+Metaphors indexed by aliases
+Metaphors listed by status
+Metaphors listed by tags
+Metaphors that need fixing
+Metaphors that participate in transitive chains
+Metaphors with missing fields
+Schema Families
+Schemas listed by status
+Schemas that need fixing
+Schemas with LUs
+Schemas with filled fields
+Schemas with missing fields

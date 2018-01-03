@@ -1,0 +1,116 @@
+الگو:!
+الگو:Advert
+الگو:Ambox
+الگو:Ambox/category
+الگو:Ambox/core
+الگو:Ambox/doc
+الگو:Ambox/small
+الگو:Article issues
+الگو:AutoMetaphor
+الگو:AutoSchema
+الگو:Binding
+الگو:Blacklist source LUs
+الگو:Blacklist source schema families
+الگو:Blacklist source schemas
+الگو:Blacklist target LUs
+الگو:CMs with LMs intro
+الگو:CMs with LMs outro
+الگو:CMs with LMs row
+الگو:Category handler
+الگو:Category handler/blacklist
+الگو:Category handler/numbered
+الگو:Citation style
+الگو:CxnMP
+الگو:Definition
+الگو:DefinitionLink
+الگو:DefinitionListing
+الگو:Detailed schema family tree
+الگو:Documentation
+الگو:Documentation/docspace
+الگو:Documentation/end box
+الگو:Documentation/end box2
+الگو:Documentation/start box
+الگو:Documentation/start box2
+الگو:Documentation/template page
+الگو:Documentation subpage
+الگو:Entailment
+الگو:Example
+الگو:ExamplesOfLM
+الگو:ExamplesOfLM as li
+الگو:FULLROOTPAGENAME
+الگو:Fmbox
+الگو:FrameNetLUs
+الگو:GetSchemaRelationsForMetaphor
+الگو:GetSchemaRelationsForMetaphorFamily
+الگو:GetSchemaRels
+الگو:Glossed category item
+الگو:Hidden
+الگو:High-risk
+الگو:IARPASourceConcept
+الگو:IARPATargetConcept
+الگو:If pagename
+الگو:Inference
+الگو:LM Examples
+الگو:LUs
+الگو:Lang
+الگو:LinguisticMetaphorSummary
+الگو:LinguisticMetaphorSummaryIntro
+الگو:LinguisticMetaphorSummaryOutro
+الگو:Linguistic metaphor
+الگو:Linked schema
+الگو:Main other
+الگو:Main other/doc
+الگو:Mapping
+الگو:MappingTableBody
+الگو:MappingTableIntro
+الگو:MappingTableOutro
+الگو:Mbox
+الگو:Mbox/doc
+الگو:Mbox templates
+الگو:Mbox templates see also
+الگو:MetaRC
+الگو:Metaphor
+الگو:Metaphor.Alias
+الگو:Metaphor Search
+الگو:Metaphor family
+الگو:Metaphor family tree
+الگو:Metaphor subfamilies of
+الگو:Metaphors in family
+الگو:Missing relation type
+الگو:Multiple issues
+الگو:Multiple issues/message
+الگو:Namespace detect
+الگو:Namespace detect see also
+الگو:Navbar
+الگو:Ns has subpages
+الگو:Ombox
+الگو:Ombox/core
+الگو:POV
+الگو:Para
+الگو:Pp-meta
+الگو:Pp-template
+الگو:Printgloss
+الگو:Purge
+الگو:Related metaphor
+الگو:Related schema
+الگو:Role
+الگو:Schema
+الگو:Schema family
+الگو:Schema family tree
+الگو:Schema subfamilies of
+الگو:Schemas in family
+الگو:SearchFrameNetForLemma
+الگو:SearchSchemasForLemma
+الگو:Sidebar
+الگو:TOC
+الگو:Template other
+الگو:Template shortcut
+الگو:Tl
+الگو:Tlx
+الگو:Transclude
+الگو:Unsetprop
+الگو:Unsetpropnns
+الگو:Whitelist target LUs
+الگو:Wikify
+الگو:Wikify/tutorial
+الگو:Xs in family

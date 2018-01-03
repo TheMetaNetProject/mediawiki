@@ -1,0 +1,597 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="ru">
+  <siteinfo>
+    <sitename>Russian Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/ru/index.php/Metaphor_Wiki_(Russian)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Russian Metaphor Wiki</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Russian Metaphor Wiki</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="102" case="first-letter">Свойство</namespace>
+      <namespace key="103" case="first-letter">Обсуждение свойства</namespace>
+      <namespace key="106" case="first-letter">Форма</namespace>
+      <namespace key="107" case="first-letter">Обсуждение формы</namespace>
+      <namespace key="108" case="first-letter">Концепция</namespace>
+      <namespace key="109" case="first-letter">Обсуждение концепции</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Schema</namespace>
+      <namespace key="553" case="first-letter">Schema talk</namespace>
+      <namespace key="554" case="first-letter">AutoMetaphor</namespace>
+      <namespace key="555" case="first-letter">AutoMetaphor talk</namespace>
+      <namespace key="556" case="first-letter">AutoSchema</namespace>
+      <namespace key="557" case="first-letter">AutoSchema talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MetaRC:SubcaseOfSameSchema</title>
+    <ns>564</ns>
+    <id>3515</id>
+      <sha1>b2r9o6sz4qvutpl57h9izko0r6vduwt</sha1>
+    <revision>
+      <id>8282</id>
+      <timestamp>2014-11-20T01:03:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="492">{{MetaRC
+|MetaRCGroup=SubcaseOfSameSchema
+|MetaRCDescription=Schema1 and schema2 are subcases of the the same schema, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?schema1 ?schema2 ?otherschema ?othername WHERE {
+    ?otherschema (mo:isSubcaseOfSchema&amp;#124;mo:isSubcaseOfSchema/mo:isSubcaseOfSchema) ?schema1 .
+    ?otherschema (mo:isSubcaseOfSchema&amp;#124;mo:isSubcaseOfSchema/mo:isSubcaseOfSchema) ?schema2 .
+    ?otherschema mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8473</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="504">{{MetaRC
+|MetaRCGroup=SubcaseOfSameSchema
+|MetaRCDescription=Target schema and source schema are subcases of the the same schema, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tschema ?sschema ?otherschema ?othername WHERE {
+    ?otherschema (mo:isSubcaseOfSchema&amp;#124;mo:isSubcaseOfSchema/mo:isSubcaseOfSchema) ?tschema .
+    ?otherschema (mo:isSubcaseOfSchema&amp;#124;mo:isSubcaseOfSchema/mo:isSubcaseOfSchema) ?sschema .
+    ?otherschema mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TSchemaIsRoleInSSchema</title>
+    <ns>564</ns>
+    <id>3551</id>
+      <sha1>637htrvzojviq6z4u5z9edhtdhez5qq</sha1>
+    <revision>
+      <id>8474</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="583">{{MetaRC
+|MetaRCGroup=TSchemaIsRoleInSSchema
+|MetaRCDescription=Target schema is incorporated as a role in source schema, OR target schema us a subcase of a schema that's incorporated into source schema, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tschema ?sschema WHERE {
+    {
+        ?sschema mo:incorporatesSchemaAsRole ?tschema .
+    } UNION {
+        ?sschema mo:isSubcaseOfSchema* ?isschema .
+        ?isschema mo:incorporatesSchemaAsRole ?itschema .
+        ?tschema mo:isSubcaseOfSchema* ?itschema .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasRelatedAtHigherLevelByCM.2</title>
+    <ns>564</ns>
+    <id>3513</id>
+      <sha1>ojcypydhmj7rurf6gdm0n098a93nzik</sha1>
+    <revision>
+      <id>8280</id>
+      <timestamp>2014-11-20T00:59:48Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="774">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=The target schema is a subcase descendent of a schema which is made use of by a schema which is a subcase descendant of the target schema of a CM.  The source schema is a subcase descendant of the source schema of a CM.
+|MetaRCComments=getcmsfromschemasmed
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?iitschema .
+        ?tschema mo:isSubcaseOfSchema* ?iitschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        ?sschema mo:isSubcaseOfSchema* ?isschema
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8477</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="774">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=The target schema is a subcase descendent of a schema which is made use of by a schema which is a subcase descendant of the target schema of a CM.  The source schema is a subcase descendant of the source schema of a CM.
+|MetaRCComments=getcmsfromschemasmed
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?iitschema .
+        ?tschema mo:isSubcaseOfSchema* ?iitschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        ?sschema mo:isSubcaseOfSchema* ?isschema
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasRelatedAtHigherLevelByCM.3</title>
+    <ns>564</ns>
+    <id>3514</id>
+      <sha1>0nx4ntcnrxl83kbbg4wo7t404iatw8n</sha1>
+    <revision>
+      <id>8281</id>
+      <timestamp>2014-11-20T01:00:12Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1055">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=Target schema is a subcase descendant of a schema which is made use of by a schema which is a subcase descdendant of the target schema of a CM.  The source schema is a subcase descendant of the source schema of that CM OR it is the subcase of a schema which is made use of by a schema which is a subcase descendant of the source schema of the CM.
+|MetaRCComments=getcmsfromschemaslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?iitschema .
+        ?tschema mo:isSubcaseOfSchema* ?iitschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        {
+            ?sschema mo:isSubcaseOfSchema* ?isschema
+        } UNION {
+            ?iisschema mo:makesUseOfSchema ?sschema .
+            ?iisschema mo:isSubcaseOfSchema* ?isschema .
+        }
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8478</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="1055">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=Target schema is a subcase descendant of a schema which is made use of by a schema which is a subcase descdendant of the target schema of a CM.  The source schema is a subcase descendant of the source schema of that CM OR it is the subcase of a schema which is made use of by a schema which is a subcase descendant of the source schema of the CM.
+|MetaRCComments=getcmsfromschemaslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?iitschema .
+        ?tschema mo:isSubcaseOfSchema* ?iitschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        {
+            ?sschema mo:isSubcaseOfSchema* ?isschema
+        } UNION {
+            ?iisschema mo:makesUseOfSchema ?sschema .
+            ?iisschema mo:isSubcaseOfSchema* ?isschema .
+        }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TSchemaUsesSSchema.1-2</title>
+    <ns>564</ns>
+    <id>3549</id>
+      <sha1>38nf9bmdoi8jjjmei2dvnk13hz00go4</sha1>
+    <revision>
+      <id>8470</id>
+      <timestamp>2015-03-09T06:22:44Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[MetaRC:Schema1UsesSchema2.1-2]] to [[MetaRC:TSchemaUsesSSchema.1-2]] without leaving a redirect</comment>
+      <text xml:space="preserve" bytes="480">{{MetaRC
+|MetaRCGroup=TSchemaUsesSSchema
+|MetaRCDescription=Target schema is a subcase of or makes use of source schema, where those relations may occur once or twice in succession.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tschema ?sschema WHERE {
+    {
+        ?tschema (mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema) ?sschema .
+    } UNION {
+        ?tschema (mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema) ?sschema .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasMakeUseOfCM</title>
+    <ns>564</ns>
+    <id>3510</id>
+      <sha1>51iuxmsfsmi6f2rn0amnf2rfobm0012</sha1>
+    <revision>
+      <id>8277</id>
+      <timestamp>2014-11-20T00:57:45Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="516">{{MetaRC
+|MetaRCGroup=SchemasMakeUseOfCM
+|MetaRCDescription=Target and source schemas make use of the target and source schemas of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?tschema mo:makesUseOfSchema ?tgschema .
+        ?sschema mo:makesUseOfSchema ?isschema .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8479</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="516">{{MetaRC
+|MetaRCGroup=SchemasMakeUseOfCM
+|MetaRCDescription=Target and source schemas make use of the target and source schemas of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?tschema mo:makesUseOfSchema ?tgschema .
+        ?sschema mo:makesUseOfSchema ?isschema .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasDirectlyRelatedByCM</title>
+    <ns>564</ns>
+    <id>3509</id>
+      <sha1>sce47rhwhtaklqu2zcjvn8y9spkri0m</sha1>
+    <revision>
+      <id>8276</id>
+      <timestamp>2014-11-20T00:58:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="405">{{MetaRC
+|MetaRCGroup=SchemasDirectlyRelatedByCM
+|MetaRCDescription=The target and source schemas are directly related by a CM.
+|MetaRCComments=getdirectcmfromschemas
+|MetaRCScore=0.6
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tschema .
+        ?cm mo:hasSourceSchema ?sschema .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8475</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="405">{{MetaRC
+|MetaRCGroup=SchemasDirectlyRelatedByCM
+|MetaRCDescription=The target and source schemas are directly related by a CM.
+|MetaRCComments=getdirectcmfromschemas
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tschema .
+        ?cm mo:hasSourceSchema ?sschema .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasRelatedAtHigherLevelByCM</title>
+    <ns>564</ns>
+    <id>3512</id>
+      <sha1>7u0ut24zw8s42mljd06mzsgt1xx51oa</sha1>
+    <revision>
+      <id>8279</id>
+      <timestamp>2014-11-20T00:59:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="681">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=The target schema is made use of by a schema that is a subcase descendent of the target schema of a CM.  The source schema is a subcase descendent of the source schema of the CM.
+|MetaRCComments=getcmsfromschemaslocal
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?tschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        ?sschema mo:isSubcaseOfSchema* ?isschema
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8476</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="681">{{MetaRC
+|MetaRCGroup=SchemasRelatedAtHigherLevelByCM
+|MetaRCDescription=The target schema is made use of by a schema that is a subcase descendent of the target schema of a CM.  The source schema is a subcase descendent of the source schema of the CM.
+|MetaRCComments=getcmsfromschemaslocal
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?itschema mo:makesUseOfSchema ?tschema .
+        ?itschema mo:isSubcaseOfSchema* ?tgschema .
+        ?sschema mo:isSubcaseOfSchema* ?isschema
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:TSchemaUsesSSchema.3-4</title>
+    <ns>564</ns>
+    <id>3550</id>
+      <sha1>29mkdve6zjdl4m0v8w0opbf8hmksuux</sha1>
+    <revision>
+      <id>8471</id>
+      <timestamp>2015-03-09T06:23:05Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>Jhong moved page [[MetaRC:Schema1UsesSchema2.3-4]] to [[MetaRC:TSchemaUsesSSchema.3-4]] without leaving a redirect</comment>
+      <text xml:space="preserve" bytes="671">{{MetaRC
+|MetaRCGroup=TSchemaUsesSSchema
+|MetaRCDescription=Target schema is a subcase of or makes use of source schema, with 3 or 4 such relations intervening between the schemas.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tschema ?sschema WHERE {
+    {
+        ?tschema (mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema) ?sschema .
+    } UNION {
+        ?tschema (mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema)/(mo:makesUseOfSchema&amp;#124;mo:isSubcaseOfSchema) ?sschema .
+    }
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SubcaseOfSchemasRelatedByCM</title>
+    <ns>564</ns>
+    <id>3552</id>
+      <sha1>bqvrhbhthtwoinls97dwtwv5rbufn5c</sha1>
+    <revision>
+      <id>8481</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="538">{{MetaRC
+|MetaRCGroup=SubcaseOfSchemasRelatedByCM
+|MetaRCDescription=The target and source schemas are subcases of a CMs target and source schemas, respectively.
+|MetaRCComments=getcmsfromsubcase
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?itschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?tschema mo:isSubCaseOfSchema* ?itschema .
+        ?sschema mo:isSubCaseOfSchema* ?isschema .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:UsedByOtherSchema</title>
+    <ns>564</ns>
+    <id>3516</id>
+      <sha1>qii2jjnu13jvgjl140q0jmmh1h8znun</sha1>
+    <revision>
+      <id>8283</id>
+      <timestamp>2014-11-20T01:05:31Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="354">{{MetaRC
+|MetaRCGroup=UsedByOtherSchema
+|MetaRCDescription=There is a schema that makes use of both schema1 and schema2.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?schema1 ?schema2 ?otherschema ?othername WHERE {
+    ?otherschema mo:makesUseOfSchema ?schema1 .
+    ?otherschema mo:makesUseOfSchema ?schema2 .
+    ?otherschema mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8472</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="370">{{MetaRC
+|MetaRCGroup=UsedByOtherSchema
+|MetaRCDescription=There is a schema that makes use of both the target schema and source schema.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tschema ?sschema ?otherschema ?othername WHERE {
+    ?otherschema mo:makesUseOfSchema ?tschema .
+    ?otherschema mo:makesUseOfSchema ?sschema .
+    ?otherschema mo:hasName ?othername .
+}
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>MetaRC:SchemasMakeUseOfCM.2</title>
+    <ns>564</ns>
+    <id>3511</id>
+      <sha1>7q99i308zwb0mupedtq5x6wjvxlkren</sha1>
+    <revision>
+      <id>8278</id>
+      <timestamp>2014-11-20T01:02:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;{{MetaRC |MetaRCGroup=SchemasMakeUseOfCM |MetaRCDescription=The target and source schemas are subcase descendants of schemas that make use of the target and source schemas of ...&quot;</comment>
+      <text xml:space="preserve" bytes="659">{{MetaRC
+|MetaRCGroup=SchemasMakeUseOfCM
+|MetaRCDescription=The target and source schemas are subcase descendants of schemas that make use of the target and source schemas of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?tschema mo:makesUseOfSchema ?itgschema .
+        ?sschema mo:makesUseOfSchema ?iisschema .
+        ?itgschema mo:isSubcaseOfSchema* ?tgschema .
+        ?iisschema mo:isSubcaseOfSchema* ?isschema .
+}
+}}</text>
+    </revision>
+    <revision>
+      <id>8480</id>
+      <timestamp>2015-03-09T06:21:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="659">{{MetaRC
+|MetaRCGroup=SchemasMakeUseOfCM
+|MetaRCDescription=The target and source schemas are subcase descendants of schemas that make use of the target and source schemas of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tschema rdf:type mo:VettedSchema .
+        ?sschema rdf:type mo:VettedSchema .
+        ?cm mo:hasTargetSchema ?tgschema .
+        ?cm mo:hasSourceSchema ?isschema .
+        ?tschema mo:makesUseOfSchema ?itgschema .
+        ?sschema mo:makesUseOfSchema ?iisschema .
+        ?itgschema mo:isSubcaseOfSchema* ?tgschema .
+        ?iisschema mo:isSubcaseOfSchema* ?isschema .
+}
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

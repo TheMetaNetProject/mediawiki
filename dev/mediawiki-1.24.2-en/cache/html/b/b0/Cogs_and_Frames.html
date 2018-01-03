@@ -1,0 +1,25 @@
+<br />
+<font size='1'><table class='xdebug-error xe-exception' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> ErrorException: Cannot modify header information - headers already sent by (output started at /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/extensions/Lockdown/Lockdown.php:172) in /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/WebResponse.php on line <i>37</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>0.0001</td><td bgcolor='#eeeeec' align='right'>235608</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0570</td><td bgcolor='#eeeeec' align='right'>4220280</td><td bgcolor='#eeeeec'>MediaWiki->run(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>46</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>0.0571</td><td bgcolor='#eeeeec' align='right'>4221368</td><td bgcolor='#eeeeec'>MediaWiki->main(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/MediaWiki.php' bgcolor='#eeeeec'>.../MediaWiki.php<b>:</b>435</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>0.5205</td><td bgcolor='#eeeeec' align='right'>8624432</td><td bgcolor='#eeeeec'>OutputPage->output(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/MediaWiki.php' bgcolor='#eeeeec'>.../MediaWiki.php<b>:</b>594</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>0.5207</td><td bgcolor='#eeeeec' align='right'>8646408</td><td bgcolor='#eeeeec'>WebResponse->header(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/OutputPage.php' bgcolor='#eeeeec'>.../OutputPage.php<b>:</b>2182</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>0.5208</td><td bgcolor='#eeeeec' align='right'>8646552</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.header' target='_new'>header</a>
+(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/WebResponse.php' bgcolor='#eeeeec'>.../WebResponse.php<b>:</b>37</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>0.5208</td><td bgcolor='#eeeeec' align='right'>8647912</td><td bgcolor='#eeeeec'>exceptions_error_handler(  )</td><td title='/xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/WebResponse.php' bgcolor='#eeeeec'>.../WebResponse.php<b>:</b>37</td></tr>
+</table></font>
+Unexpected non-MediaWiki exception encountered, of type &quot;ErrorException&quot;<br />
+[bb9e0c4b] /dev/en/index.php/Cogs_and_Frames   Exception from line 37 of /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/WebResponse.php: Cannot modify header information - headers already sent by (output started at /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/extensions/Lockdown/Lockdown.php:172)<br />
+Backtrace:<br />
+#0 [internal function]: exceptions_error_handler(integer, string, string, integer, array)<br />
+#1 /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/WebResponse.php(37): header(string, boolean, integer)<br />
+#2 /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/OutputPage.php(2182): WebResponse-&gt;header(string)<br />
+#3 /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/MediaWiki.php(594): OutputPage-&gt;output()<br />
+#4 /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/includes/MediaWiki.php(435): MediaWiki-&gt;main()<br />
+#5 /xa/metanet/services/mediawiki/dev/mediawiki-1.24.2-en/index.php(46): MediaWiki-&gt;run()<br />
+#6 {main}<br />
+

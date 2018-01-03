@@ -1,0 +1,317 @@
+Schema:ازدیاد فقیران
+Schema:گیاه
+Schema:مدیریت جهادی
+Schema:بهبودی وضعیت اقتصادی
+Schema:پل
+Schema:بودن در یک مکان مشخص در یک مدت زمان
+Schema:کانون
+Schema:پول
+Schema:راه
+Schema:مشارکت مردم
+Schema:بیرون آمدن از مکانی محدود شده
+Schema:مردم‌سالاری
+Schema:حکم قضایی
+Schema:جنگ
+Schema:پیشرفت و افزایش
+Schema:نمودار کمیتی
+Schema:افزایش تولید ملی
+Schema:وقت
+Schema:احساسات
+Schema:عمل قانونگذاری
+Schema:آزادی بیان
+Schema:محبت
+Schema:رسانه
+Schema:درگیری‌های فیزیکی‌
+Schema:دارو
+Schema:نابرابری
+Schema:پخش شدن یک بیماری مسری
+Schema:توزیع مالیات بر ارزش افزوده
+Schema:قوه قضائیه
+Schema:تیرگی
+Schema:نمایندگی و تصمیم گیری
+Schema:سازمان
+Schema:آب
+Schema:افزایش امکانات تحصیلی
+Schema:نا برابری سیاسی
+Schema:گسترش مشکلات اجتماعی
+Schema:محرومیت های تحصیلی
+Schema:حرکت
+Schema:تغییروضعیت
+Schema:فساد
+Schema:مشروعیت دولت
+Schema:جامعه مدنی
+Schema:بزرگ شدن یک موجود زنده
+Schema:مکان
+Schema:منشاء
+Schema:سندیکا
+Schema:اکسیژن
+Schema:کشور
+Schema:بداقبالی
+Schema:لمس فیزیکی
+Schema:بورس
+Schema:حمل بار
+Schema:مسیر متوالی
+Schema:حرکت بی اختیار به سمت پایین
+Schema:امکانات تحصیلی
+Schema:بدهی
+Schema:نان و معیشت
+Schema:بنده
+Schema:بیکاری
+Schema:سرمایه گذاری
+Schema:دریافت صدمه
+Schema:افزایش دسترسی به تحصیل
+Schema:زالو
+Schema:نهاد های دولتی
+Schema:تنظیم لایحه قانونی
+Schema:عوارض جاده‌ای
+Schema:مسئولیت پرداخت عوارض
+Schema:افزایش مساحت محدوده
+Schema:موجود جاندار
+Schema:آلودگی
+Schema:جسم
+Schema:آزادی
+Schema:مالیات
+Schema:مردم
+Schema:مستقیم
+Schema:پرداخت مالیات
+Schema:مشاهده
+Schema:تغییر ناگهانی به وضعیت بد اقتصادی
+Schema:زمان
+Schema:معضلات
+Schema:پخش
+Schema:هدایت کردن حرکت در مسیر راه
+Schema:کانون اجتماعی
+Schema:درمان بیماری
+Schema:عمل
+Schema:عوارض
+Schema:رابطه اعتماد آمیز
+Schema:رسیدگی به مشکلات فقیران
+Schema:ارائه منابع
+Schema:ارزیابی شهروندان از عملکرد دولت
+Schema:بخش دولتی
+Schema:حق رأی
+Schema:فقیر
+Schema:خلاف های مالیاتی
+Schema:محدودیت مکانی
+Schema:اصلاحات
+Schema:ناتوانی در بهبود وضعیت اقتصادی
+Schema:توزیع مجدد ثروت
+Schema:رشد
+Schema:عملیات نجات
+Schema:انبساط
+Schema:ساختمان
+Schema:مسدود شدن
+Schema:ثروت و طبقه اجتماعی
+Schema:والدین
+Schema:رهبر
+Schema:دسترسی برابر به یک شیء
+Schema:توزیع ثروت
+Schema:دیوان سالاری
+Schema:بودن در یک جا
+Schema:مریضی
+Schema:ارائه دهنده مراقبت از کودکان
+Schema:درآمد
+Schema:داوری
+Schema:بیماری
+Schema:اعتیاد
+Schema:شرایط
+Schema:ساکن ماندن
+Schema:گرما
+Schema:دیدن
+Schema:چوپان
+Schema:طعم
+Schema:جابجایی کالا
+Schema:نهاد قدرت
+Schema:مقیاس
+Schema:صدمه
+Schema:محدودیت تحرک
+Schema:رقابت
+Schema:نهاد های دموکراتیک
+Schema:فاصله فیزیکی
+Schema:بزرگ شدن
+Schema:افزایش
+Schema:بهبودی
+Schema:فعالیت
+Schema:نهاد
+Schema:مسیر مبدا هدف
+Schema:دانستن
+Schema:در
+Schema:فرصت های تحصیلی
+Schema:معضلات اجتماعی
+Schema:محدود شدن
+Schema:تجارت
+Schema:نابرابری اقتصادی
+Schema:برابر کردن
+Schema:هدایت کردن پیشرفت
+Schema:طبقه اجتماعی
+Schema:حکومتداری
+Schema:خط سیر و لندمارک
+Schema:ماشین
+Schema:دولت دموکراتیک
+Schema:دانشکده
+Schema:درد جسمی
+Schema:قرار گرفتن در یک محدوده
+Schema:نقش
+Schema:فاجعه
+Schema:وسیله نقلیه
+Schema:فقیر بودن
+Schema:دیو
+Schema:مهاربا مایعات
+Schema:بیرون آمدن از مکانی محدود
+Schema:قوای سه‌گانه
+Schema:بروکراسی
+Schema:رأی دادن
+Schema:قانون
+Schema:بهداشت و درمان
+Schema:اقتصاد
+Schema:کارخانه
+Schema:حیوان
+Schema:حمل بار سنگین
+Schema:وام خرید مسکن
+Schema:دولت
+Schema:وضعیت اقتصادی
+Schema:استقبال
+Schema:تحرک
+Schema:زندگی
+Schema:عدالت
+Schema:هیولا
+Schema:سفر
+Schema:بخش خصوصی
+Schema:قوطی
+Schema:راننده
+Schema:ادامه دوره های تحصیلی
+Schema:بازار
+Schema:حرکت غیر ارادی رو به پایین
+Schema:برطرف کردن مشکلات اجتماعی
+Schema:تصمیم‌گیری قضایی
+Schema:مزه
+Schema:بلایای طبیعی
+Schema:شورا‌
+Schema:تصمیم‌گیری دولت
+Schema:حکومت
+Schema:تحریم
+Schema:شهروند
+Schema:سیاست
+Schema:خطرناک
+Schema:فعاالیت
+Schema:دوره تحصیلات
+Schema:کالا
+Schema:برابری
+Schema:سانسور
+Schema:گیر کردن
+Schema:مانع
+Schema:نیروی ترسناک
+Schema:پیکار با نیرویی متخاصم
+Schema:نیرو
+Schema:تغییر مکان
+Schema:تفکر
+Schema:شیء
+Schema:ثروتمندان
+Schema:حسن نیت
+Schema:تغییر وضعیت
+Schema:بار فیزیکی
+Schema:حرکت در مسیر راه
+Schema:برابری سیاسی
+Schema:صنعت
+Schema:دسترسی به شی ء
+Schema:قادر نبودن به خارج شدن از محل
+Schema:رقابت اقتصادی
+Schema:آفت
+Schema:موجود
+Schema:مردم‌سالاری دینی
+Schema:تغییر ناخواسته وضعیت اقتصادی
+Schema:توزیع قدرت
+Schema:امکانات
+Schema:برابر کردن امکانات تحصیلی
+Schema:رأی گیری
+Schema:شدید
+Schema:محدوده
+Schema:موجود بی جان
+Schema:فقر
+Schema:ثروت
+Schema:مالیات بخش‌های خصوصی
+Schema:خلاف
+Schema:مالیات بر ارزش افزوده
+Schema:مواجهه با مشکلات تحصیلی
+Schema:تقسیم‌‌‌‌بندی‌های سیاسی
+Schema:حرکت به سمت پایین
+Schema:ارباب و برده
+Schema:پلیس
+Schema:محروم شدن از فرصت های تحصیلی
+Schema:ابتذال
+Schema:مالکیت
+Schema:دیپلماسی
+Schema:گرفتار شدن
+Schema:رقابت سیاسی
+Schema:اشتغال
+Schema:ویژگی های جغرافیایی
+Schema:جرم
+Schema:نابودی
+Schema:رنگ
+Schema:مشکلات اجتماعی
+Schema:اخلاقیات
+Schema:بسط منطقه محدود
+Schema:قوه مقننه
+Schema:وام
+Schema:بسط در سطح افقی
+Schema:قوه مجریه
+Schema:نیروهای تهدید کننده جان
+Schema:غول
+Schema:تنظیم
+Schema:منابع مالی
+Schema:موجود زنده
+Schema:نشر مایع
+Schema:وضعیت اجتماعی
+Schema:نیروهای محرکه
+Schema:قدرت
+Schema:سیستم
+Schema:دادن سهمیه دولت
+Schema:جزء کل
+Schema:امنیت
+Schema:رشد یک موجود زنده
+Schema:کاهش
+Schema:قانونی بودن
+Schema:روشنایی
+Schema:نهاد دولت
+Schema:ملت
+Schema:منطقه پست
+Schema:اعتماد جمعی
+Schema:ناتوانی در حل معضل
+Schema:خوبی
+Schema:خارج شدن از محل
+Schema:اقتصاد مقاومتی
+Schema:جامعه
+Schema:افزودن
+Schema:تورم
+Schema:ایدئولوژی دموکراتیک
+Schema:اطلاعات
+Schema:آب حیات
+Schema:کابوس
+Schema:رهبری
+Schema:علت
+Schema:برداشتن شیء
+Schema:حوادث
+Schema:فراهم کردن امکانات آموزشی
+Schema:یارانه
+Schema:صدمات فیزیکی
+Schema:دستگاه
+Schema:بودن در یک مکان مشخص
+Schema:روابط بین‌الملل
+Schema:فتنه
+Schema:مسابقه
+Schema:نیروی محرکه
+Schema:تحصیل
+Schema:دموکراسی
+Schema:حقوق
+Schema:داشتن وضعیت اقتصادی مطلوب
+Schema:ارتفاع
+Schema:اقتدار
+Schema:مدیریت
+Schema:پرداخت عوارض
+Schema:باتلاق
+Schema:انتخابات
+Schema:میزان توانایی اقتصادی فقیران
+Schema:انسان
+Schema:آدم
+Schema:آموزش
+Schema:حرکت در باتلاق

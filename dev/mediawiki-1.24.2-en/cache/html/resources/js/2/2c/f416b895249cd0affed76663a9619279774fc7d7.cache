@@ -1,0 +1,2 @@
+mw.loader.implement("ext.wikiEditor.toolbar.hideSig",function($,jQuery){jQuery(document).ready(function($){if(!$.wikiEditor||!$.wikiEditor.isSupported($.wikiEditor.modules.toolbar)){return;}if($('body').hasClass('ns-0')){$('#wpTextbox1').wikiEditor('removeFromToolbar',{'section':'main','group':'insert','tool':'signature'});}});},{},{});
+/* cache key: enmnwiki_dev:resourceloader:filter:minify-js:7:faf1a4ea9522f40d6e855320749b744e */

@@ -1,0 +1,1488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.6" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" xml:lang="es">
+  <siteinfo>
+    <sitename>Spanish Metaphor Wiki</sitename>
+    <base>https://metaphor.icsi.berkeley.edu/es/index.php/Metaphor_Wiki_(Spanish)</base>
+    <generator>MediaWiki 1.19.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Medio</namespace>
+      <namespace case="first-letter" key="-1">Especial</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Discusión</namespace>
+      <namespace case="first-letter" key="2">Usuario</namespace>
+      <namespace case="first-letter" key="3">Usuario discusión</namespace>
+      <namespace case="first-letter" key="4">Spanish Metaphor Wiki</namespace>
+      <namespace case="first-letter" key="5">Spanish Metaphor Wiki discusión</namespace>
+      <namespace case="first-letter" key="6">Archivo</namespace>
+      <namespace case="first-letter" key="7">Archivo discusión</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki discusión</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template discusión</namespace>
+      <namespace case="first-letter" key="12">Ayuda</namespace>
+      <namespace case="first-letter" key="13">Ayuda discusión</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category discusión</namespace>
+      <namespace case="first-letter" key="102">Property</namespace>
+      <namespace case="first-letter" key="103">Discusión atributo</namespace>
+      <namespace case="first-letter" key="106">Form</namespace>
+      <namespace case="first-letter" key="107">Discusión formulario</namespace>
+      <namespace case="first-letter" key="108">Concept</namespace>
+      <namespace case="first-letter" key="109">Concept talk</namespace>
+      <namespace case="first-letter" key="274">Widget</namespace>
+      <namespace case="first-letter" key="275">Widget talk</namespace>
+      <namespace case="first-letter" key="500">Event</namespace>
+      <namespace case="first-letter" key="501">Event talk</namespace>
+      <namespace case="first-letter" key="502">Glossary</namespace>
+      <namespace case="first-letter" key="503">Glossary talk</namespace>
+      <namespace case="first-letter" key="550">Metaphor</namespace>
+      <namespace case="first-letter" key="551">Metaphor talk</namespace>
+      <namespace case="first-letter" key="552">Frame</namespace>
+      <namespace case="first-letter" key="553">Frame talk</namespace>
+      <namespace case="first-letter" key="554">AutoMetaphor</namespace>
+      <namespace case="first-letter" key="555">AutoMetaphor talk</namespace>
+      <namespace case="first-letter" key="556">AutoFrame</namespace>
+      <namespace case="first-letter" key="557">AutoFrame talk</namespace>
+      <namespace case="first-letter" key="558">Linguistic metaphor</namespace>
+      <namespace case="first-letter" key="559">Linguistic metaphor talk</namespace>
+      <namespace case="first-letter" key="560">Construct analysis</namespace>
+      <namespace case="first-letter" key="561">Construct analysis talk</namespace>
+      <namespace case="first-letter" key="562">CxnMP</namespace>
+      <namespace case="first-letter" key="563">CxnMP talk</namespace>
+      <namespace case="first-letter" key="564">MetaRC</namespace>
+      <namespace case="first-letter" key="565">MetaRC talk</namespace>
+      <namespace case="first-letter" key="570">IConcept</namespace>
+      <namespace case="first-letter" key="571">IConcept talk</namespace>
+      <namespace case="first-letter" key="800">Cit</namespace>
+      <namespace case="first-letter" key="801">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frame family:Esquemas de regulaciones</title>
+    <ns>556</ns>
+    <id>6768</id>
+      <sha1>q8jzcxm27muu89zaxykgu47y5dyvqc0</sha1>
+    <revision>
+      <id>12099</id>
+      <timestamp>2013-10-10T20:10:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of regulations  |is subfamily of=Esquemas de Gobernación |LinkEnglish=Regulation frames }}»</comment>
+      <text bytes="128" xml:space="preserve">{{Frame family
+|Name gloss=frames of regulations 
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Regulation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>13266</id>
+      <timestamp>2014-01-28T00:07:20Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="128" xml:space="preserve">{{Frame family
+|Name gloss=frames of regulations
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Regulations frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Acción</title>
+    <ns>556</ns>
+    <id>6687</id>
+      <sha1>9ozul7f6qhzs7qzr08bvtmg1zll2nfy</sha1>
+    <revision>
+      <id>11654</id>
+      <timestamp>2013-09-16T03:01:39Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=action frames }}»</comment>
+      <text bytes="45" xml:space="preserve">{{Frame family
+|Name gloss=action frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de ubicación</title>
+    <ns>556</ns>
+    <id>6795</id>
+      <sha1>skabk6pk8b57464b0y082za2gm1m781</sha1>
+    <revision>
+      <id>12259</id>
+      <timestamp>2013-11-11T04:30:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of location |LinkEnglish=Location frames }}»</comment>
+      <text bytes="80" xml:space="preserve">{{Frame family
+|Name gloss=frames of location
+|LinkEnglish=Location frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Democracia</title>
+    <ns>556</ns>
+    <id>6904</id>
+      <sha1>sqa074tc8dnmy6mlxstlgby3li561ow</sha1>
+    <revision>
+      <id>13356</id>
+      <timestamp>2014-03-09T09:16:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of democracy |LinkEnglish=Democracy frames }}»</comment>
+      <text bytes="82" xml:space="preserve">{{Frame family
+|Name gloss=frames of democracy
+|LinkEnglish=Democracy frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de proteger</title>
+    <ns>556</ns>
+    <id>7210</id>
+      <sha1>46x9mdmhd1inzh4wi270qo7zvfsdoe3</sha1>
+    <revision>
+      <id>15105</id>
+      <timestamp>2015-01-01T18:25:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of protecting |LinkEnglish=Protecting frames }} source frame family»</comment>
+      <text bytes="105" xml:space="preserve">{{Frame family
+|Name gloss=frames of protecting
+|LinkEnglish=Protecting frames
+}}
+source frame family</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Deuda</title>
+    <ns>556</ns>
+    <id>6653</id>
+      <sha1>680jkf4f8x6pkptfw95w5q4060wey5h</sha1>
+    <revision>
+      <id>11400</id>
+      <timestamp>2013-09-15T06:08:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of debt |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=frames of debt
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de legislación</title>
+    <ns>556</ns>
+    <id>6765</id>
+      <sha1>rkyjr2e72ec20lyzhc94947j3r6ybrd</sha1>
+    <revision>
+      <id>12090</id>
+      <timestamp>2013-10-10T19:51:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of legislation |is subfamily of=Esquemas de Gobierno |LinkEnglish=Legislation frames }}»</comment>
+      <text bytes="124" xml:space="preserve">{{Frame family
+|Name gloss=frames of legislation
+|is subfamily of=Esquemas de Gobierno
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>12095</id>
+      <timestamp>2013-10-10T19:59:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="128" xml:space="preserve">{{Frame family
+|Name gloss=frames of legislation
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Legislation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de político</title>
+    <ns>556</ns>
+    <id>6770</id>
+      <sha1>d2xiacqf85rkayhzqrqjj9czopv12rc</sha1>
+    <revision>
+      <id>12102</id>
+      <timestamp>2013-10-10T20:18:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of politicans |is subfamily of=Esquemas de Gobernación |LinkEnglish=Politicians frames }}»</comment>
+      <text bytes="127" xml:space="preserve">{{Frame family
+|Name gloss=frames of politicans
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Politicians frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas Camino</title>
+    <ns>556</ns>
+    <id>6685</id>
+      <sha1>obuzvhr4s8mw0g8du26vt0uwein0pfj</sha1>
+    <revision>
+      <id>11628</id>
+      <timestamp>2013-09-16T02:29:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=path frames }}»</comment>
+      <text bytes="43" xml:space="preserve">{{Frame family
+|Name gloss=path frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Emoción</title>
+    <ns>556</ns>
+    <id>6546</id>
+      <sha1>3z0kyuv5v5ev11rapnde6e4k0i7lnxe</sha1>
+    <revision>
+      <id>10763</id>
+      <timestamp>2013-08-04T19:56:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of emotion }}»</comment>
+      <text bytes="49" xml:space="preserve">{{Frame family
+|Name gloss=frames of emotion
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de conflicto físico</title>
+    <ns>556</ns>
+    <id>6852</id>
+      <sha1>781zjsnsggwcgqt1re3c73kzwmxls7x</sha1>
+    <revision>
+      <id>12642</id>
+      <timestamp>2013-11-16T23:55:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of conflict physical |LinkEnglish=Physical conflict frames }}»</comment>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=frames of conflict physical
+|LinkEnglish=Physical conflict frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de burocracia</title>
+    <ns>556</ns>
+    <id>6767</id>
+      <sha1>fuu9ewbkja9zleu7onwp8sze60yve2c</sha1>
+    <revision>
+      <id>12097</id>
+      <timestamp>2013-10-10T20:06:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of bureaucracy |is subfamily of=Esquemas de Gobernación |LinkEnglish=Bureaucracy frames }}»</comment>
+      <text bytes="128" xml:space="preserve">{{Frame family
+|Name gloss=frames of bureaucracy
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Bureaucracy frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Acceso a la educación</title>
+    <ns>556</ns>
+    <id>6618</id>
+      <sha1>92hfi5ufznpull9uk1louax8c18kf3n</sha1>
+    <revision>
+      <id>11128</id>
+      <timestamp>2013-09-13T19:05:16Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=access to education frames }}»</comment>
+      <text bytes="58" xml:space="preserve">{{Frame family
+|Name gloss=access to education frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11392</id>
+      <timestamp>2013-09-15T06:00:09Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="110" xml:space="preserve">{{Frame family
+|Name gloss=access to education frames
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12044</id>
+      <timestamp>2013-10-10T06:33:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="151" xml:space="preserve">{{Frame family
+|Name gloss=access to education frames
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to education frames
+}}</text>
+    </revision>
+    <revision>
+      <id>12045</id>
+      <timestamp>2013-10-10T06:34:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="151" xml:space="preserve">{{Frame family
+|Name gloss=access to education frames
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to Education frames
+}}</text>
+    </revision>
+    <revision>
+      <id>12046</id>
+      <timestamp>2013-10-10T06:34:30Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="158" xml:space="preserve">{{Frame family
+|Name gloss=frames of access to the education
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Access to Education frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de evaluación</title>
+    <ns>556</ns>
+    <id>6529</id>
+      <sha1>p0kss4uw0pbe2dwyfrekz78h1kxq8bo</sha1>
+    <revision>
+      <id>10715</id>
+      <timestamp>2013-08-04T03:56:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=evaluation frames }}»</comment>
+      <text bytes="49" xml:space="preserve">{{Frame family
+|Name gloss=evaluation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas que se relacionan con estados</title>
+    <ns>556</ns>
+    <id>5193</id>
+      <sha1>ry0r696jgr11odfqr1t2ynub880rrd4</sha1>
+    <revision>
+      <id>8892</id>
+      <timestamp>2013-03-21T04:17:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames that relate to states }}»</comment>
+      <text bytes="60" xml:space="preserve">{{Frame family
+|Name gloss=frames that relate to states
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de daño</title>
+    <ns>556</ns>
+    <id>6751</id>
+      <sha1>ekykzbc2mqevw2ruqiosut7ld8us5aq</sha1>
+    <revision>
+      <id>12032</id>
+      <timestamp>2013-10-10T06:12:59Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of harm |LinkEnglish=Harm }}»</comment>
+      <text bytes="64" xml:space="preserve">{{Frame family
+|Name gloss=frames of harm
+|LinkEnglish=Harm
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de los ricos</title>
+    <ns>556</ns>
+    <id>6620</id>
+      <sha1>c7kt5c5tab8sgshnrl8cjyx88832rcb</sha1>
+    <revision>
+      <id>11155</id>
+      <timestamp>2013-09-13T19:23:23Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=the rich frames }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=the rich frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11156</id>
+      <timestamp>2013-09-13T19:24:13Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=the rich frames
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de la Clase Media</title>
+    <ns>556</ns>
+    <id>6656</id>
+      <sha1>tq4c9axrkad6hbkz0e7jf3ga30gw414</sha1>
+    <revision>
+      <id>11406</id>
+      <timestamp>2013-09-15T06:11:40Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of the middle class |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text bytes="110" xml:space="preserve">{{Frame family
+|Name gloss=frames of the middle class
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de líderes</title>
+    <ns>556</ns>
+    <id>6771</id>
+      <sha1>8f363x59bbj7r5flmqrc5h4ctflo50u</sha1>
+    <revision>
+      <id>12104</id>
+      <timestamp>2013-10-10T20:21:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of leaders |is subfamily of=Esquemas de Gobernación |LinkEnglish=Leaders frames }}»</comment>
+      <text bytes="120" xml:space="preserve">{{Frame family
+|Name gloss=frames of leaders
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Leaders frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de la política</title>
+    <ns>556</ns>
+    <id>6769</id>
+      <sha1>djt863wn4u2kvlwl00cbhyqswdpyc1r</sha1>
+    <revision>
+      <id>12101</id>
+      <timestamp>2013-10-10T20:14:51Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of the politics |is subfamily of=Esquemas de Gobernación |LinkEnglish=Politics frames }}»</comment>
+      <text bytes="126" xml:space="preserve">{{Frame family
+|Name gloss=frames of the politics
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Politics frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de entidades</title>
+    <ns>556</ns>
+    <id>5165</id>
+      <sha1>69uodyx0qqpqx1fm3lbyf9hm6ncparn</sha1>
+    <revision>
+      <id>8757</id>
+      <timestamp>2013-03-16T07:12:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Frames of entities }}»</comment>
+      <text bytes="50" xml:space="preserve">{{Frame family
+|Name gloss=Frames of entities
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de visión</title>
+    <ns>556</ns>
+    <id>6800</id>
+      <sha1>jwzuam8gl4ef58htwixx9r91i5kdawj</sha1>
+    <revision>
+      <id>12285</id>
+      <timestamp>2013-11-11T06:09:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of vision |is subfamily of=Esquemas de Percepción }}»</comment>
+      <text bytes="89" xml:space="preserve">{{Frame family
+|Name gloss=frames of vision
+|is subfamily of=Esquemas de Percepción
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas excluidos</title>
+    <ns>556</ns>
+    <id>6871</id>
+      <sha1>6t6sny1tn2w4mvvxc35b45g2qxhp6wf</sha1>
+    <revision>
+      <id>12754</id>
+      <timestamp>2013-11-18T08:06:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames excluded  |LinkEnglish=Excluded frames }}»</comment>
+      <text bytes="78" xml:space="preserve">{{Frame family
+|Name gloss=frames excluded 
+|LinkEnglish=Excluded frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Cognición</title>
+    <ns>556</ns>
+    <id>6550</id>
+      <sha1>9oz06lrspxl55ka5g2z0usgramks896</sha1>
+    <revision>
+      <id>10782</id>
+      <timestamp>2013-08-04T21:59:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=cognition frames }}»</comment>
+      <text bytes="48" xml:space="preserve">{{Frame family
+|Name gloss=cognition frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de la ley</title>
+    <ns>556</ns>
+    <id>6764</id>
+      <sha1>q19motp0svvmsifx8fd384izwmasgi9</sha1>
+    <revision>
+      <id>12088</id>
+      <timestamp>2013-10-10T19:47:42Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of the law |is subfamily of=Esquemas de Gobierno |LinkEnglish=The Law frames }}»</comment>
+      <text bytes="116" xml:space="preserve">{{Frame family
+|Name gloss=frames of the law
+|is subfamily of=Esquemas de Gobierno
+|LinkEnglish=The Law frames
+}}</text>
+    </revision>
+    <revision>
+      <id>12094</id>
+      <timestamp>2013-10-10T19:58:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="120" xml:space="preserve">{{Frame family
+|Name gloss=frames of the law
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=The Law frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Desigualdad Económica</title>
+    <ns>556</ns>
+    <id>6651</id>
+      <sha1>n65iyx3xpa9y0h0cvroxirchn810909</sha1>
+    <revision>
+      <id>11391</id>
+      <timestamp>2013-09-15T05:58:33Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of economic inequality }}»</comment>
+      <text bytes="61" xml:space="preserve">{{Frame family
+|Name gloss=frames of economic inequality
+}}</text>
+    </revision>
+    <revision>
+      <id>12043</id>
+      <timestamp>2013-10-10T06:32:55Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="140" xml:space="preserve">{{Frame family
+|Name gloss=frames of economic inequality
+|is subfamily of=Esquemas económicos
+|LinkEnglish=Economic Inequality Frames
+}}</text>
+    </revision>
+    <revision>
+      <id>13259</id>
+      <timestamp>2013-12-22T19:42:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="140" xml:space="preserve">{{Frame family
+|Name gloss=frames of economic inequality
+|is subfamily of=Esquemas económicos
+|LinkEnglish=Economic Inequality frames
+}}</text>
+    </revision>
+    <revision>
+      <id>13458</id>
+      <timestamp>2014-05-13T01:10:42Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="102" xml:space="preserve">{{Frame family
+|Name gloss=frames of economic inequality
+|LinkEnglish=Economic Inequality frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Riqueza y clase social</title>
+    <ns>556</ns>
+    <id>6619</id>
+      <sha1>qxtmb5dk86vydjt20dg3zyc27dhhwj4</sha1>
+    <revision>
+      <id>11130</id>
+      <timestamp>2013-09-13T19:10:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=wealth and social class frames |is subfamily of=Desigualdad_económica }}»</comment>
+      <text bytes="102" xml:space="preserve">{{Frame family
+|Name gloss=wealth and social class frames
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11377</id>
+      <timestamp>2013-09-15T05:42:38Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="114" xml:space="preserve">{{Frame family
+|Name gloss=wealth and social class frames
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12057</id>
+      <timestamp>2013-10-10T06:50:35Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="162" xml:space="preserve">{{Frame family
+|Name gloss=frames of wealth and class social
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Wealth and Social Class frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Riqueza</title>
+    <ns>556</ns>
+    <id>6616</id>
+      <sha1>kq61bs77moups94y93ahy88ex3l1ptg</sha1>
+    <revision>
+      <id>11126</id>
+      <timestamp>2013-09-13T19:03:49Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Wealth frames }}»</comment>
+      <text bytes="45" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11161</id>
+      <timestamp>2013-09-13T19:29:02Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="85" xml:space="preserve">{{Frame family
+|Name gloss=Wealth frames
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11162</id>
+      <timestamp>2013-09-13T19:29:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="85" xml:space="preserve">{{Frame family
+|Name gloss=wealth frames
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11298</id>
+      <timestamp>2013-09-14T23:43:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="97" xml:space="preserve">{{Frame family
+|Name gloss=wealth frames
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+    <revision>
+      <id>12966</id>
+      <timestamp>2013-11-20T23:40:16Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="125" xml:space="preserve">{{Frame family
+|Name gloss=wealth frames
+|is subfamily of=Esquemas de Riqueza y clase social
+|LinkEnglish=Wealth frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas asociados al cambio</title>
+    <ns>556</ns>
+    <id>7213</id>
+      <sha1>pnm4mqbtwo6etv5vdxmxl2wyqnjtjjv</sha1>
+    <revision>
+      <id>15125</id>
+      <timestamp>2015-01-02T22:10:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames associated with change |LinkEnglish=Change-related frames }}»</comment>
+      <text bytes="97" xml:space="preserve">{{Frame family
+|Name gloss=frames associated with change
+|LinkEnglish=Change-related frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Percepción</title>
+    <ns>556</ns>
+    <id>6635</id>
+      <sha1>di6mr7kx1hom4ed7v8p5f2okh3q7ii6</sha1>
+    <revision>
+      <id>11309</id>
+      <timestamp>2013-09-15T00:18:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of perception }}»</comment>
+      <text bytes="52" xml:space="preserve">{{Frame family
+|Name gloss=frames of perception
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Verticalidad</title>
+    <ns>556</ns>
+    <id>6698</id>
+      <sha1>jip5cixwoye7hk8gk3wkrtoq8it4tu3</sha1>
+    <revision>
+      <id>11785</id>
+      <timestamp>2013-09-16T22:20:11Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=verticality frames }}»</comment>
+      <text bytes="50" xml:space="preserve">{{Frame family
+|Name gloss=verticality frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Educación</title>
+    <ns>556</ns>
+    <id>6532</id>
+      <sha1>577i2nskakt41u6ylexb2g13ws1eo1r</sha1>
+    <revision>
+      <id>10722</id>
+      <timestamp>2013-08-04T05:10:53Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=education frames |is subfamily of=Esquemas Económicos }}»</comment>
+      <text bytes="86" xml:space="preserve">{{Frame family
+|Name gloss=education frames
+|is subfamily of=Esquemas Económicos
+}}</text>
+    </revision>
+    <revision>
+      <id>11375</id>
+      <timestamp>2013-09-15T05:40:52Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="100" xml:space="preserve">{{Frame family
+|Name gloss=education frames
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11394</id>
+      <timestamp>2013-09-15T06:00:57Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="100" xml:space="preserve">{{Frame family
+|Name gloss=education frames
+|is subfamily of=Esquemas de Acceso a la educación
+}}</text>
+    </revision>
+    <revision>
+      <id>12047</id>
+      <timestamp>2013-10-10T06:35:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="134" xml:space="preserve">{{Frame family
+|Name gloss=frames of education
+|is subfamily of=Esquemas de Acceso a la educación
+|LinkEnglish=Education frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de movimiento</title>
+    <ns>556</ns>
+    <id>5842</id>
+      <sha1>hhtlaz40di62y857bu3absbz94jry8l</sha1>
+    <revision>
+      <id>9855</id>
+      <timestamp>2013-04-26T02:11:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of movement }}»</comment>
+      <text bytes="50" xml:space="preserve">{{Frame family
+|Name gloss=frames of movement
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de posesión</title>
+    <ns>556</ns>
+    <id>5219</id>
+      <sha1>dtx5kt0c0vo0xm0rbi2m14z7tb4uuk4</sha1>
+    <revision>
+      <id>9027</id>
+      <timestamp>2013-04-18T01:27:50Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Frames of possession }}»</comment>
+      <text bytes="52" xml:space="preserve">{{Frame family
+|Name gloss=Frames of possession
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de estabilidad</title>
+    <ns>556</ns>
+    <id>7120</id>
+      <sha1>pxu8keeqfg732qbd241nr83rzr4bioi</sha1>
+    <revision>
+      <id>14650</id>
+      <timestamp>2014-08-24T19:55:40Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of stability }}»</comment>
+      <text bytes="51" xml:space="preserve">{{Frame family
+|Name gloss=frames of stability
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Recursos</title>
+    <ns>556</ns>
+    <id>6657</id>
+      <sha1>po5hh7a9d60fgd5otsq3gjjva8wof2s</sha1>
+    <revision>
+      <id>11414</id>
+      <timestamp>2013-09-15T06:19:12Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of resources }}»</comment>
+      <text bytes="51" xml:space="preserve">{{Frame family
+|Name gloss=frames of resources
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Clase Social</title>
+    <ns>556</ns>
+    <id>6654</id>
+      <sha1>pizt40f160vzis95hy64wugkmsht0p0</sha1>
+    <revision>
+      <id>11402</id>
+      <timestamp>2013-09-15T06:09:26Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of social class |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text bytes="106" xml:space="preserve">{{Frame family
+|Name gloss=frames of social class
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de moralidad</title>
+    <ns>556</ns>
+    <id>6804</id>
+      <sha1>8ngba6y0mba69gbuc2b324swzbip5wb</sha1>
+    <revision>
+      <id>12297</id>
+      <timestamp>2013-11-11T06:35:47Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of morality }}»</comment>
+      <text bytes="50" xml:space="preserve">{{Frame family
+|Name gloss=frames of morality
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Votar</title>
+    <ns>556</ns>
+    <id>6910</id>
+      <sha1>pe4mlwbbzvch94tb8i3rwg6ix7wu04b</sha1>
+    <revision>
+      <id>13369</id>
+      <timestamp>2014-03-13T05:50:34Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Election frames }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=Election frames
+}}</text>
+    </revision>
+    <revision>
+      <id>13371</id>
+      <timestamp>2014-03-13T05:56:23Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <text bytes="126" xml:space="preserve">{{Frame family
+|Name gloss=Election frames
+|is subfamily of=Esquemas de Democracia
+}}
+Refers to Election Frames in English.</text>
+    </revision>
+    <revision>
+      <id>13376</id>
+      <timestamp>2014-03-13T16:59:40Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text bytes="156" xml:space="preserve">{{Frame family
+|Name gloss=Election frames
+|is subfamily of=Esquemas de Democracia
+|LinkEnglish=Election frames
+}}
+Refers to Election Frames in English.</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Gobernación</title>
+    <ns>556</ns>
+    <id>6766</id>
+      <sha1>1tbwz9gkdyex92so3ynyj5bif190h0h</sha1>
+    <revision>
+      <id>12092</id>
+      <timestamp>2013-10-10T19:56:41Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of governance |LinkEnglish=Governance frames }}»</comment>
+      <text bytes="84" xml:space="preserve">{{Frame family
+|Name gloss=frames of governance
+|LinkEnglish=Governance frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de escala</title>
+    <ns>556</ns>
+    <id>5157</id>
+      <sha1>05xdrv9aggvo9g15m73klkqwrnha77o</sha1>
+    <revision>
+      <id>8718</id>
+      <timestamp>2013-03-13T22:14:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Frames of scale }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=Frames of scale
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Pobreza</title>
+    <ns>556</ns>
+    <id>6531</id>
+      <sha1>o8nk7clm10lbxr4513urzm6pnq6vkrb</sha1>
+    <revision>
+      <id>10718</id>
+      <timestamp>2013-08-04T05:01:14Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=poverty frames |is subfamily of=Esquemas Económicos }}»</comment>
+      <text bytes="84" xml:space="preserve">{{Frame family
+|Name gloss=poverty frames
+|is subfamily of=Esquemas Económicos
+}}</text>
+    </revision>
+    <revision>
+      <id>11386</id>
+      <timestamp>2013-09-15T05:51:05Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="98" xml:space="preserve">{{Frame family
+|Name gloss=poverty frames
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12048</id>
+      <timestamp>2013-10-10T06:35:46Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="130" xml:space="preserve">{{Frame family
+|Name gloss=frames of poverty
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Poverty frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Comunicación</title>
+    <ns>556</ns>
+    <id>6747</id>
+      <sha1>a6ogl5pljuli1pxsg3kwihfja0sjuo0</sha1>
+    <revision>
+      <id>12017</id>
+      <timestamp>2013-10-10T05:16:25Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=communication frames |LinkEnglish=Communication Frames }}»</comment>
+      <text bytes="87" xml:space="preserve">{{Frame family
+|Name gloss=communication frames
+|LinkEnglish=Communication Frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de los pobres</title>
+    <ns>556</ns>
+    <id>6878</id>
+      <sha1>8l2j0yswm1t07s6pawt46l1v3bvfgh7</sha1>
+    <revision>
+      <id>12984</id>
+      <timestamp>2013-11-21T00:07:15Z</timestamp>
+      <contributor>
+        <username>Oana</username>
+        <id>7</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |is subfamily of=Esquemas de Pobreza |LinkEnglish=The poor frames }}»</comment>
+      <text bytes="85" xml:space="preserve">{{Frame family
+|is subfamily of=Esquemas de Pobreza
+|LinkEnglish=The poor frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Impuestos</title>
+    <ns>556</ns>
+    <id>6617</id>
+      <sha1>nk2gudm1k8wxt22x0kveocn82muzsna</sha1>
+    <revision>
+      <id>11127</id>
+      <timestamp>2013-09-13T19:04:28Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=tax frames }}»</comment>
+      <text bytes="42" xml:space="preserve">{{Frame family
+|Name gloss=tax frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11166</id>
+      <timestamp>2013-09-13T20:54:10Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="84" xml:space="preserve">{{Frame family
+|Name gloss=tax frames
+|is subfamily of=Esquemas de tributación
+}}</text>
+    </revision>
+    <revision>
+      <id>12051</id>
+      <timestamp>2013-10-10T06:41:01Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="116" xml:space="preserve">{{Frame family
+|Name gloss=frames of taxes
+|is subfamily of=Esquemas de tributación
+|LinkEnglish=Taxes frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Dinero</title>
+    <ns>556</ns>
+    <id>6655</id>
+      <sha1>0wqypnki10n5wrcipyn4onuei7vo70p</sha1>
+    <revision>
+      <id>11404</id>
+      <timestamp>2013-09-15T06:10:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of money |is subfamily of=Esquemas de Riqueza y clase social }}»</comment>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=frames of money
+|is subfamily of=Esquemas de Riqueza y clase social
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Luz</title>
+    <ns>556</ns>
+    <id>6808</id>
+      <sha1>jhsnzpw0y8522khokakkm4yzttzf4dh</sha1>
+    <revision>
+      <id>12304</id>
+      <timestamp>2013-11-11T06:51:29Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of light }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=frames of light
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Comida</title>
+    <ns>556</ns>
+    <id>6652</id>
+      <sha1>2tdogifj269ex0ws4vooqg5t4pda9gd</sha1>
+    <revision>
+      <id>11396</id>
+      <timestamp>2013-09-15T06:03:58Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of eating }}»</comment>
+      <text bytes="48" xml:space="preserve">{{Frame family
+|Name gloss=frames of eating
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de función del gobierno</title>
+    <ns>556</ns>
+    <id>6889</id>
+      <sha1>s1or3zm46ea0s7ksgk9xo5r1zqqb7va</sha1>
+    <revision>
+      <id>13303</id>
+      <timestamp>2014-02-14T20:09:54Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=Frames of function of government |is subfamily of=Esquemas de Gobernación |LinkEnglish=Function of Government frames }}»</comment>
+      <text bytes="150" xml:space="preserve">{{Frame family
+|Name gloss=Frames of function of government
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Function of Government frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Tributación</title>
+    <ns>556</ns>
+    <id>6621</id>
+      <sha1>027h7lpaealnse9n6hm3om4nz5god4w</sha1>
+    <revision>
+      <id>11164</id>
+      <timestamp>2013-09-13T19:58:32Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=taxation frames }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11165</id>
+      <timestamp>2013-09-13T19:59:29Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="87" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Gobierno</title>
+    <ns>556</ns>
+    <id>6659</id>
+      <sha1>deqk7v5cojy3isb0ji6zf8o56iv9wvy</sha1>
+    <revision>
+      <id>11428</id>
+      <timestamp>2013-09-15T07:26:56Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=frames of governing }}»</comment>
+      <text bytes="51" xml:space="preserve">{{Frame family
+|Name gloss=frames of governing
+}}</text>
+    </revision>
+    <revision>
+      <id>12093</id>
+      <timestamp>2013-10-10T19:57:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="126" xml:space="preserve">{{Frame family
+|Name gloss=frames of government
+|is subfamily of=Esquemas de Gobernación
+|LinkEnglish=Government frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas que se relacionan con propiedades</title>
+    <ns>556</ns>
+    <id>6556</id>
+      <sha1>2qxh2fyhen25ls9hvp3513jtnz3x46x</sha1>
+    <revision>
+      <id>10832</id>
+      <timestamp>2013-08-06T00:38:19Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=property-related frames }}»</comment>
+      <text bytes="55" xml:space="preserve">{{Frame family
+|Name gloss=property-related frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de tributación</title>
+    <ns>556</ns>
+    <id>6561</id>
+      <sha1>027h7lpaealnse9n6hm3om4nz5god4w</sha1>
+    <revision>
+      <id>10865</id>
+      <timestamp>2013-08-06T07:18:45Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=taxation frames }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+}}</text>
+    </revision>
+    <revision>
+      <id>11167</id>
+      <timestamp>2013-09-13T20:54:34Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="87" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=Desigualdad_económica
+}}</text>
+    </revision>
+    <revision>
+      <id>11379</id>
+      <timestamp>2013-09-15T05:45:45Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="99" xml:space="preserve">{{Frame family
+|Name gloss=taxation frames
+|is subfamily of=Esquemas de Desigualdad Económica
+}}</text>
+    </revision>
+    <revision>
+      <id>12050</id>
+      <timestamp>2013-10-10T06:40:22Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="132" xml:space="preserve">{{Frame family
+|Name gloss=frames of taxation
+|is subfamily of=Esquemas de Desigualdad Económica
+|LinkEnglish=Taxation frames
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas de Imágenes</title>
+    <ns>556</ns>
+    <id>6549</id>
+      <sha1>o0hs1se9seikeuj7hab8g56kvt1hqub</sha1>
+    <revision>
+      <id>10775</id>
+      <timestamp>2013-08-04T20:52:18Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=image schemas }}»</comment>
+      <text bytes="44" xml:space="preserve">{{Frame family
+|Name gloss=image schemas
+}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Frame family:Esquemas económicos</title>
+    <ns>556</ns>
+    <id>6560</id>
+      <sha1>tmuj4mn51qwsbsu8grfnrcjulpr1xai</sha1>
+    <revision>
+      <id>10858</id>
+      <timestamp>2013-08-06T06:46:21Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <comment>Página creada con «{{Frame family |Name gloss=economic frames }}»</comment>
+      <text bytes="47" xml:space="preserve">{{Frame family
+|Name gloss=economic frames
+}}</text>
+    </revision>
+    <revision>
+      <id>12109</id>
+      <timestamp>2013-10-10T21:16:27Z</timestamp>
+      <contributor>
+        <username>Karie.moorman</username>
+        <id>46</id>
+      </contributor>
+      <text bytes="78" xml:space="preserve">{{Frame family
+|Name gloss=frames economics
+|LinkEnglish=Economic frames
+}}</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1071 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.9/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.9/ http://www.mediawiki.org/xml/export-0.9.xsd" version="0.9" xml:lang="en">
+  <siteinfo>
+    <sitename>EN MetaNet Wiki</sitename>
+    <dbname>enmnwiki_dev</dbname>
+    <base>https://ambrosia.icsi.berkeley.edu:2080/dev/en/index.php/Metaphor_Wiki_(English)</base>
+    <generator>MediaWiki 1.24.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Enmnwiki dev</namespace>
+      <namespace key="5" case="first-letter">Enmnwiki dev talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="104" case="first-letter">Type</namespace>
+      <namespace key="105" case="first-letter">Type talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="500" case="first-letter">Event</namespace>
+      <namespace key="501" case="first-letter">Event talk</namespace>
+      <namespace key="502" case="first-letter">Glossary</namespace>
+      <namespace key="503" case="first-letter">Glossary talk</namespace>
+      <namespace key="550" case="first-letter">Metaphor</namespace>
+      <namespace key="551" case="first-letter">Metaphor talk</namespace>
+      <namespace key="552" case="first-letter">Frame</namespace>
+      <namespace key="553" case="first-letter">Frame talk</namespace>
+      <namespace key="554" case="first-letter">Metaphor family</namespace>
+      <namespace key="555" case="first-letter">Metaphor family talk</namespace>
+      <namespace key="556" case="first-letter">Frame family</namespace>
+      <namespace key="557" case="first-letter">Frame family talk</namespace>
+      <namespace key="558" case="first-letter">Linguistic metaphor</namespace>
+      <namespace key="559" case="first-letter">Linguistic metaphor talk</namespace>
+      <namespace key="560" case="first-letter">Construct analysis</namespace>
+      <namespace key="561" case="first-letter">Construct analysis talk</namespace>
+      <namespace key="562" case="first-letter">CxnMP</namespace>
+      <namespace key="563" case="first-letter">CxnMP talk</namespace>
+      <namespace key="564" case="first-letter">MetaRC</namespace>
+      <namespace key="565" case="first-letter">MetaRC talk</namespace>
+      <namespace key="570" case="first-letter">IConcept</namespace>
+      <namespace key="571" case="first-letter">IConcept talk</namespace>
+      <namespace key="800" case="first-letter">Cit</namespace>
+      <namespace key="801" case="first-letter">Cit talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:Construct analysis</title>
+    <ns>14</ns>
+    <id>13</id>
+    <revision>
+      <id>114</id>
+      <timestamp>2014-02-12T19:28:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="69">This category uses the form [[Has default form::Construct analysis]].</text>
+      <sha1>kzdifqugy2diuhiivuvhxn2vp92hmim</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>115</id>
+      <parentid>114</parentid>
+      <timestamp>2014-02-18T18:51:19Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="217">This category uses the form [[Has default form::Construct analysis]].  Create a new construct analysis:
+
+{{#forminput:form=Construct analysis|autocomplete on namespace=Construct analysis|namespace=Construct analysis}}</text>
+      <sha1>61elsfpnz3jlg26i72e2z79hcaggunh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>116</id>
+      <parentid>115</parentid>
+      <timestamp>2014-02-18T18:52:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="216">This category uses the form [[Has default form::Construct analysis]].  Create a new construct analysis:
+
+{{#forminput:form=Construct analysis|autocomplete on category=Construct analysis|namespace=Construct analysis}}</text>
+      <sha1>9zj69bv9ql9g3g201a67rg2ofvvuy4b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>117</id>
+      <parentid>116</parentid>
+      <timestamp>2014-02-18T18:52:43Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="217">This category uses the form [[Has default form::Construct analysis]].  Create a new construct analysis:
+
+{{#forminput:form=Construct analysis|autocomplete on namespace=Construct analysis|namespace=Construct analysis}}</text>
+      <sha1>61elsfpnz3jlg26i72e2z79hcaggunh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:CxnMP</title>
+    <ns>14</ns>
+    <id>14</id>
+    <revision>
+      <id>118</id>
+      <timestamp>2014-11-18T09:18:09Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="56">This category uses the form [[Has default form::CxnMP]].</text>
+      <sha1>tfqza138cxbnp059ia4r2s49atwtdef</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>119</id>
+      <parentid>118</parentid>
+      <timestamp>2014-11-19T02:55:01Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="146">This category uses the form [[Has default form::CxnMP]].
+
+{{#ask: [[Category:CxnMP]]
+?Has CxnMP Type=
+?Has CxnMP Group=
+?Has CxnMP Description=
+}}</text>
+      <sha1>gugtgu8okj1vt7spy65fd91nnoixe66</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>120</id>
+      <parentid>119</parentid>
+      <timestamp>2014-11-19T02:56:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="167">This category uses the form [[Has default form::CxnMP]].
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP Type=
+| ?Has CxnMP Group=
+| ?Has CxnMP Description=
+| format=table
+}}</text>
+      <sha1>aysxths00p7hjmdsuiqqp2ae5q7o6g3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>121</id>
+      <parentid>120</parentid>
+      <timestamp>2014-11-19T03:00:42Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="161">This category uses the form [[Has default form::CxnMP]].
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=
+| ?Has CxnMP group=
+| ?Has description=
+| format=table
+}}</text>
+      <sha1>7xajp10p92smfa1fopncjl1g5thx3z4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>122</id>
+      <parentid>121</parentid>
+      <timestamp>2014-11-19T03:01:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="254">This category uses the form [[Has default form::CxnMP]]:
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=
+| ?Has CxnMP group=
+| ?Has description=
+| format=table
+}}</text>
+      <sha1>jdwodxdqro6090lpuce1ek0ia09bfs3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>123</id>
+      <parentid>122</parentid>
+      <timestamp>2014-11-19T03:01:59Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="307">This category uses the form [[Has default form::CxnMP]]:
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=Type
+| ?Has CxnMP group=Group
+| ?Has description=Description
+| format=table
+| mainlabel=Cxn Matching Pattern
+}}</text>
+      <sha1>na3gc381j6fqy1x4n7jhz1enip9up7h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>124</id>
+      <parentid>123</parentid>
+      <timestamp>2014-11-19T03:03:10Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="332">This category uses the form [[Has default form::CxnMP]]:
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=Type
+| ?Has CxnMP group=Group
+| ?Has description=Description
+| ?Has comments=Comments
+| format=table
+| mainlabel=Cxn Matching Pattern
+}}</text>
+      <sha1>q7gl39ao9j0b28ee5dbf6jxy4gaau0n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Frame</title>
+    <ns>14</ns>
+    <id>21</id>
+    <revision>
+      <id>143</id>
+      <timestamp>2012-05-22T17:38:38Z</timestamp>
+      <contributor>
+        <username>Infinity</username>
+        <id>24</id>
+      </contributor>
+      <text xml:space="preserve" bytes="61">This category uses the form [[Has default form::FrameEntry]].</text>
+      <sha1>gjusl62l3d36o2e2q09b6x35kolal1g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>144</id>
+      <parentid>143</parentid>
+      <timestamp>2012-07-03T01:04:56Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="56">This category uses the form [[Has default form::Frame]].</text>
+      <sha1>ryz87kmty7pt0y8hdkua37qb03ro6bt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>145</id>
+      <parentid>144</parentid>
+      <timestamp>2012-12-01T23:46:54Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Blanked the page</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11860</id>
+      <parentid>145</parentid>
+      <timestamp>2015-05-14T18:52:33Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="84">This is the Frame category. This category uses the form [[Has default form::Frame]].</text>
+      <sha1>jgtx9jdykb317ndoewrarw058qe15s2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11861</id>
+      <parentid>11860</parentid>
+      <timestamp>2015-05-14T18:56:06Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="51">This is the Frame category. {{#default_form:Frame}}</text>
+      <sha1>ppd8ypt5gn0yg1n5l1ol2q7rtv0oerk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11867</id>
+      <parentid>11861</parentid>
+      <timestamp>2015-05-14T19:13:25Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="484">This is the Frame category. {{#default_form:Frame}}
+
+Create or edit a Frame: {{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:Frame:+]] | format=count}}
+{{#ask: [[Category:Frame]] [[:Frame:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[en:{{FULLPAGENAME}}]]
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>t1gq5dlfnotic7s2gygucr7lsukob56</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11900</id>
+      <parentid>11867</parentid>
+      <timestamp>2015-06-09T22:16:05Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <comment>fixing prefix on Name gloss property to Frame, from Metaphor</comment>
+      <text xml:space="preserve" bytes="481">This is the Frame category. {{#default_form:Frame}}
+
+Create or edit a Frame: {{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:Frame:+]] | format=count}}
+{{#ask: [[Category:Frame]] [[:Frame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[en:{{FULLPAGENAME}}]]
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>6y5s23tkbqz31n4jwtpupxkkq0zvib5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Frame family</title>
+    <ns>14</ns>
+    <id>22</id>
+    <revision>
+      <id>146</id>
+      <timestamp>2012-08-02T03:51:58Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;This category should be edited with the form [[Has default form::Frame family]].&quot;</comment>
+      <text xml:space="preserve" bytes="80">This category should be edited with the form [[Has default form::Frame family]].</text>
+      <sha1>f1cjwsha272muqv0ia9rsnjqht0vwx4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Glossary</title>
+    <ns>14</ns>
+    <id>15</id>
+    <revision>
+      <id>125</id>
+      <timestamp>2012-07-25T23:27:07Z</timestamp>
+      <contributor>
+        <username>Elstickles</username>
+        <id>34</id>
+      </contributor>
+      <text xml:space="preserve" bytes="319">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].</text>
+      <sha1>qnakezpxfk9c728ifiimowgyvuik11y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11805</id>
+      <parentid>125</parentid>
+      <timestamp>2015-05-11T06:36:27Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="370">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+{{#ask: [[Category:Glossary]]
+|format=category
+}}</text>
+      <sha1>mq19al3ebq11j94pcu5javwspl3ny3s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11806</id>
+      <parentid>11805</parentid>
+      <timestamp>2015-05-11T06:37:08Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="395">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+= Glossary Definitions =
+{{#ask: [[Category:Glossary]]
+|format=category
+}}</text>
+      <sha1>45r6kio8vlnija4li44orww0j7zgk6l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11807</id>
+      <parentid>11806</parentid>
+      <timestamp>2015-05-11T06:38:15Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="414">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+= Glossary Definitions =
+{{#ask: [[Category:Glossary]]
+|format=category
+}}
+
+__NOEDITSECTION__</text>
+      <sha1>tugrchqcr86hhi8qls4pzm3trs0opiu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11809</id>
+      <parentid>11807</parentid>
+      <timestamp>2015-05-11T06:46:27Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="438">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+= Glossary Definitions =
+{{#ask: [[Category:Glossary]]
+|format=category
+}}
+
+__NOEDITSECTION__
+{{HIDE_CATEGORY_PAGES}}</text>
+      <sha1>buy9fxqy28pbmk2493lke36nvewg5pq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11810</id>
+      <parentid>11809</parentid>
+      <timestamp>2015-05-11T06:47:13Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="438">{{HIDE_CATEGORY_PAGES}}
+The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+= Glossary Definitions =
+{{#ask: [[Category:Glossary]]
+|format=category
+}}
+
+__NOEDITSECTION__</text>
+      <sha1>9n1fc7eeau882scbfa8r63u4bzazmmi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11811</id>
+      <parentid>11810</parentid>
+      <timestamp>2015-05-11T06:47:41Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="438">The glossary provides definitions for terms common to conceptual metaphor theory and/or this wiki.
+
+To make or edit a new entry in the glossary: {{#forminput:form=Glossary|link text= New Entry|button text=Create/Edit Entry|autocomplete on category=Glossary}}
+
+This category uses the form [[Has default form::Glossary]].
+
+= Glossary Definitions =
+{{#ask: [[Category:Glossary]]
+|format=category
+}}
+
+__NOEDITSECTION__
+{{HIDE_CATEGORY_PAGES}}</text>
+      <sha1>buy9fxqy28pbmk2493lke36nvewg5pq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:IARPASourceConcept</title>
+    <ns>14</ns>
+    <id>16</id>
+    <revision>
+      <id>126</id>
+      <timestamp>2014-08-12T18:27:53Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;Create or edit an IARPA Source Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}} ---- [[MappingSummary|Frame to C...&quot;</comment>
+      <text xml:space="preserve" bytes="452">Create or edit an IARPA Source Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}}
+----
+[[MappingSummary|Frame to Concept mapping summary]]
+----
+{{#ask: [[Category:IARPASourceConcept]] [[:IConcept:+]]
+|?HasConceptOwner=Owner
+|?HasConceptDefinition=Definition
+|?HasConceptLUs=LUs
+|format=table
+|sort=HasConceptOwner,
+}}
+----
+This category uses the form [[Has default form::IARPASourceConcept]].</text>
+      <sha1>m2552od83c6fiqq9cllraszee821hla</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:IARPATargetConcept</title>
+    <ns>14</ns>
+    <id>17</id>
+    <revision>
+      <id>127</id>
+      <timestamp>2014-07-29T21:02:00Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="69">This category uses the form [[Has default form::IARPATargetConcept]].</text>
+      <sha1>04nklumdcbozpx6eaocr4pblicmtn0e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>128</id>
+      <parentid>127</parentid>
+      <timestamp>2014-07-29T21:21:29Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="373">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptDefinition=Definition
+|?HasConceptFrames=Frames
+|format=table
+|sort=,Owner
+}}
+----</text>
+      <sha1>apabh0hyk0v8xrl2g5io4qlh2ss3tuo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>129</id>
+      <parentid>128</parentid>
+      <timestamp>2014-07-29T21:23:02Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="403">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?HasConceptFrames=Frames
+|format=table
+|sort=Group,Owner,
+}}
+----</text>
+      <sha1>nl9nxtw8oo2h4rnkvtb1gula132wzcc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>130</id>
+      <parentid>129</parentid>
+      <timestamp>2014-07-29T21:23:15Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="423">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?HasConceptFrames=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+      <sha1>1z1npemhec1cjggbov38wdntazs7xwr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>131</id>
+      <parentid>130</parentid>
+      <timestamp>2014-07-29T21:29:03Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="445">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?HasConceptFrames=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+      <sha1>bx19zuqtadzyl5nlmmln1zow2zsxgpm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>131</parentid>
+      <timestamp>2014-08-01T21:00:28Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="448">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?IsLinkedToFromFrame=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+      <sha1>2ykma9cosflrmgq8a8bueva4qz1pwx6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>133</id>
+      <parentid>132</parentid>
+      <timestamp>2014-08-01T21:00:52Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="452">This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?Is linked to from frame=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----</text>
+      <sha1>szjtzw44pa1w3l2ljbrz2gi1n6tjjxd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:MetaRC</title>
+    <ns>14</ns>
+    <id>18</id>
+    <revision>
+      <id>134</id>
+      <timestamp>2014-11-19T23:49:18Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">This category uses the form [[Has default form::MetaRC]].</text>
+      <sha1>hvwkbr28l87cg9tm3atjqc9z1sg5ox6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>135</id>
+      <parentid>134</parentid>
+      <timestamp>2014-11-20T00:13:38Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="297">This category uses the form [[Has default form::MetaRC]]:
+
+{{#forminput:form=MetaRC|autocomplete on namespace=MetaRC|namespace=MetaRC|class=enformfield}}
+
+{{#ask: [[Category:MetaRC]]
+|?Has MetaRC group=Group
+|?Has MetaRC score=Score
+|?Has description=Description
+|mainlabel=MetaRC
+|format=table
+}}</text>
+      <sha1>k63xsop1xcmdet31smlqbavmtzgj6f5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>136</id>
+      <parentid>135</parentid>
+      <timestamp>2014-11-21T00:16:57Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="321">This category uses the form [[Has default form::MetaRC]]:
+
+{{#forminput:form=MetaRC|autocomplete on namespace=MetaRC|namespace=MetaRC|class=enformfield}}
+
+{{#ask: [[Category:MetaRC]]
+|?Has MetaRC group=Group
+|?Has MetaRC score=Score
+|?Has description=Description
+|?Has comments=Comments
+|mainlabel=MetaRC
+|format=table
+}}</text>
+      <sha1>etjzuun4hhbvl27qd65jw71hv3f1376</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Metaphor</title>
+    <ns>14</ns>
+    <id>19</id>
+    <revision>
+      <id>137</id>
+      <timestamp>2012-03-09T01:57:12Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with &quot;This is the metaphor category.&quot;</comment>
+      <text xml:space="preserve" bytes="30">This is the metaphor category.</text>
+      <sha1>553dea04kymqa5asgmq057xo15k1w03</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>138</id>
+      <parentid>137</parentid>
+      <timestamp>2012-05-29T19:52:26Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="60">This category uses the form [[Has default form::Metaphors]].</text>
+      <sha1>9pdpz6zzo1rr33tufqnu1pnp6e0rmiu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>139</id>
+      <parentid>138</parentid>
+      <timestamp>2012-07-06T23:11:21Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="59">This category uses the form [[Has default form::Metaphor]].</text>
+      <sha1>alvnvv81fntbrcxclx3a9xi0e8r5nzc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>140</id>
+      <parentid>139</parentid>
+      <timestamp>2012-12-01T23:40:41Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="35">This is the Metaphor category page.</text>
+      <sha1>40ll7w872gn0cq6hydojv4amu55p90x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11859</id>
+      <parentid>140</parentid>
+      <timestamp>2015-05-14T18:51:06Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="95">This is the Metaphor category page. This category uses the form [[Has default form::Metaphor]].</text>
+      <sha1>0hxy7udx6ygsu9gnunr3wt54eng7s6f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11862</id>
+      <parentid>11859</parentid>
+      <timestamp>2015-05-14T18:56:43Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="62">This is the Metaphor category page. {{#default_form:Metaphor}}</text>
+      <sha1>b2xxawziq8zq6befsbf8ug7vmuuy899</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11863</id>
+      <parentid>11862</parentid>
+      <timestamp>2015-05-14T19:02:35Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="505">This is the Metaphor category page. {{#default_form:Metaphor}}
+
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[es:{{{FULLPAGENAME}}}]]
+[[fa:{{{FULLPAGENAME}}}]]
+[[ru:{{{FULLPAGENAME}}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>3ozwl8boxntlcfnvuf2wz71sagkyixt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11864</id>
+      <parentid>11863</parentid>
+      <timestamp>2015-05-14T19:06:20Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="504">This is the Metaphor category page. {{#default_form:Metaphor}}
+
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[es:{{{FULLPAGENAME}}}]]
+[[fa:{{{FULLPAGENAME}}}]]
+[[ru:{{{FULLPAGENAME}}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>keyp7yku6ts2r41oih48pxjqqa7f88e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11865</id>
+      <parentid>11864</parentid>
+      <timestamp>2015-05-14T19:10:27Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="498">This is the Metaphor category page. {{#default_form:Metaphor}}
+
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>2nbeembud2nw7zqfj4c7q9bcm8xn4d2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>11866</id>
+      <parentid>11865</parentid>
+      <timestamp>2015-05-14T19:10:53Z</timestamp>
+      <contributor>
+        <username>Mnadmin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="522">This is the Metaphor category page. {{#default_form:Metaphor}}
+
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[en:{{FULLPAGENAME}}]]
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}</text>
+      <sha1>0tiv9cc9e60e1pfl0fv8gfwzwk2cspf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Metaphor family</title>
+    <ns>14</ns>
+    <id>20</id>
+    <revision>
+      <id>141</id>
+      <timestamp>2012-08-01T01:45:39Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <comment>Created page with &quot;This category uses the form [[Has default form::Metaphor family]].&quot;</comment>
+      <text xml:space="preserve" bytes="66">This category uses the form [[Has default form::Metaphor family]].</text>
+      <sha1>gao0s91jpu2316drmpfktg1onsc0jff</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>141</parentid>
+      <timestamp>2012-08-01T01:46:07Z</timestamp>
+      <contributor>
+        <username>Jhong</username>
+        <id>35</id>
+      </contributor>
+      <text xml:space="preserve" bytes="145">This category uses the form [[Has default form::Metaphor family]].  Pages of this type should be edited by [[has default form::Metaphor family]].</text>
+      <sha1>7rionaz0o1fwmu5mgc0axiqf8lx3skp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

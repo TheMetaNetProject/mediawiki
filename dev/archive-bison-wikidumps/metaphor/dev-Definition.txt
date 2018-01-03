@@ -1,0 +1,43 @@
+Category
+Entailment
+Schema (definition)
+Primary Metaphor
+Prime (v.)
+Construct
+Primary scene
+Cognitive Primitive
+Prototype
+Construal
+Makes use of
+Linguistic Metaphor
+Composed Metaphor
+Parameter
+Lexical Unit
+Mapping
+Relation Type
+Process (definition)
+Metaphor Relation Type
+Other Aliases
+Frame Relation Type
+Role
+Specific Metaphor
+Scenario
+Idealized Cognitive Model
+Metaphor (definition)
+Name Gloss
+Related Schema
+Inference
+Transitivity
+Structuring Schema
+Image Schema
+Process Schema
+Family
+Frame
+Binding
+Cultural Information
+Conceptual Metaphor
+Subcase of
+Generic Metaphor
+Closest FrameNet Frames
+Cultural Scope
+Composed Schema

@@ -1,0 +1,19 @@
+CxnMP:S-verb T-dobj
+CxnMP:T-noun cop S-noun.POSseq
+CxnMP:S-noun prep T-noun
+CxnMP:T-noun mod S-noun
+CxnMP:S-verb Prep T-noun-conj
+CxnMP:S-adj mod T-noun
+CxnMP:T-subj-conj S-verb
+CxnMP:T-noun to be S-noun-adj
+CxnMP:T-noun cop S-noun-adj
+CxnMP:T-subj S-verb-conj
+CxnMP:T-noun poss S-noun.POSseq
+CxnMP:T-adj mod S-noun
+CxnMP:S-verb Prep T-noun
+CxnMP:T-noun poss S-noun
+CxnMP:T-subj aspV S-verb
+CxnMP:S-noun of T-noun
+CxnMP:T-subj S-verb
+CxnMP:T-noun cop Prep S-noun
+CxnMP:S-verb T-dobj-conj

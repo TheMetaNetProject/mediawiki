@@ -1,0 +1,139 @@
+Atributo:Binding
+Atributo:Binding.Bound role
+Atributo:Binding.Local role
+Atributo:Candidate source frame
+Atributo:Candidate source schema
+Atributo:Candidate target frame
+Atributo:Candidate target schema
+Atributo:Corresponds to English
+Atributo:Corresponds to Persian
+Atributo:Corresponds to Russian
+Atributo:Corresponds to Spanish
+Atributo:Definition.Alias
+Atributo:Definition.Applies to
+Atributo:Definition.Description
+Atributo:Definition.Entry
+Atributo:Definition.Notation
+Atributo:Definition.Utility
+Atributo:Entailment
+Atributo:Entailment.Entailed metaphors
+Atributo:Entailment.Source inference
+Atributo:Entailment.Target entailment
+Atributo:Entailment.Type
+Atributo:Entered by
+Atributo:Example
+Atributo:Example.Annotation
+Atributo:Example.Comments
+Atributo:Example.English translation
+Atributo:Example.Gloss
+Atributo:Example.Language
+Atributo:Example.Provenance
+Atributo:Example.Text
+Atributo:Example.Transcription
+Atributo:HasConceptDefinition
+Atributo:HasConceptGroup
+Atributo:HasConceptLU
+Atributo:HasConceptLUs
+Atributo:HasConceptOwner
+Atributo:HasConceptStatus
+Atributo:HasConceptType
+Atributo:HasIARPAId
+Atributo:Has CxnMP group
+Atributo:Has CxnMP query
+Atributo:Has CxnMP type
+Atributo:Has English translation
+Atributo:Has MetaRC group
+Atributo:Has MetaRC query
+Atributo:Has MetaRC score
+Atributo:Has annotation
+Atributo:Has blacklist source LU
+Atributo:Has blacklist source schema
+Atributo:Has blacklist source schema family
+Atributo:Has blacklist target LU
+Atributo:Has comments
+Atributo:Has default form
+Atributo:Has description
+Atributo:Has lemma
+Atributo:Has lpos
+Atributo:Has program alias
+Atributo:Has provenance
+Atributo:Has source lemma
+Atributo:Has source schema
+Atributo:Has target lemma
+Atributo:Has target schema
+Atributo:Has text
+Atributo:Has text gloss
+Atributo:Has transcription
+Atributo:Has whitelist target LU
+Atributo:Incorporates as a role
+Atributo:Inference
+Atributo:Inference.Description
+Atributo:Inference.Type
+Atributo:Is a subcase of
+Atributo:Is example of
+Atributo:Is from language
+Atributo:Is instance of CM
+Atributo:Is linked to from schema
+Atributo:LUs
+Atributo:LUs.Language
+Atributo:LUs.Lemmas
+Atributo:LUs.Lempos
+Atributo:Last reviewed by
+Atributo:Lexical unit of
+Atributo:Linguistic metaphor.Comments
+Atributo:Linguistic metaphor.Instance of metaphor
+Atributo:Linguistic metaphor.Name gloss
+Atributo:Linguistic metaphor.Seed metaphor
+Atributo:Linguistic metaphor.Source
+Atributo:Linguistic metaphor.Target
+Atributo:Linguistic metaphor.Type
+Atributo:Mapping
+Atributo:Mapping.Comment
+Atributo:Mapping.Source
+Atributo:Mapping.Target
+Atributo:Metaphor.Alias
+Atributo:Metaphor.Alias.Name
+Atributo:Metaphor.Alias.Provenance
+Atributo:Metaphor.Comments
+Atributo:Metaphor.Experiential basis
+Atributo:Metaphor.Family
+Atributo:Metaphor.Investigated for
+Atributo:Metaphor.Level
+Atributo:Metaphor.Name gloss
+Atributo:Metaphor.Name transcription
+Atributo:Metaphor.Source schema
+Atributo:Metaphor.Target schema
+Atributo:Metaphor.Type
+Atributo:Metaphor family.Description
+Atributo:Metaphor family.Name gloss
+Atributo:Metaphor family.Type
+Atributo:Metaphor subfamily of
+Atributo:Related metaphor
+Atributo:Related metaphor.Description
+Atributo:Related metaphor.Name
+Atributo:Related metaphor.Relation type
+Atributo:Related schema
+Atributo:Related schema.Description
+Atributo:Related schema.Name
+Atributo:Related schema.Relation type
+Atributo:Role
+Atributo:Role.Definition
+Atributo:Role.FrameNet role
+Atributo:Role.Name
+Atributo:Role.Name gloss
+Atributo:Role.Type
+Atributo:Schema.Alias
+Atributo:Schema.Applicability
+Atributo:Schema.Comments
+Atributo:Schema.Cultural information
+Atributo:Schema.Family
+Atributo:Schema.FrameNet frame
+Atributo:Schema.Name gloss
+Atributo:Schema.Name transcription
+Atributo:Schema.Type
+Atributo:Schema family.Name gloss
+Atributo:Schema subfamily of
+Atributo:Status
+Atributo:Tag
+Atributo:Verification status
+Atributo:Was found using seed

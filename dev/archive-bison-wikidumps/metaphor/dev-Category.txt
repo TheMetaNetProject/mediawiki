@@ -1,0 +1,10 @@
+Category:CxnMP
+Category:Definition
+Category:Event
+Category:Extraction Test
+Category:IARPAConcept
+Category:IARPASourceConcept
+Category:IARPATargetConcept
+Category:MetaRC
+Category:Metaphor
+Category:Schema

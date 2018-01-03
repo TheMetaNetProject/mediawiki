@@ -1,0 +1,12 @@
+MetaRC:TFrameUsesSFrame.3-4
+MetaRC:FramesMakeUseOfCM
+MetaRC:FramesRelatedAtHigherLevelByCM.3
+MetaRC:FramesRelatedAtHigherLevelByCM.2
+MetaRC:TFrameIsRoleInSFrame
+MetaRC:FramesMakeUseOfCM.2
+MetaRC:FramesRelatedAtHigherLevelByCM
+MetaRC:TFrameUsesSFrame.1-2
+MetaRC:UsedByOtherFrame
+MetaRC:SubcaseOfFramesRelatedByCM
+MetaRC:FramesDirectlyRelatedByCM
+MetaRC:SubcaseOfSameFrame

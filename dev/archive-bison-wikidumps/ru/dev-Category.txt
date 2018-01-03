@@ -1,0 +1,14 @@
+Категория:AutoMetaphor
+Категория:AutoSchema
+Категория:CxnMP
+Категория:Definition
+Категория:IARPASourceConcept
+Категория:IARPATargetConcept
+Категория:Linguistic metaphor
+Категория:MetaRC
+Категория:Metaphor
+Категория:Metaphor family
+Категория:Schema
+Категория:Schema family
+Категория:VettedMetaphor
+Категория:VettedSchema

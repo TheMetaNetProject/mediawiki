@@ -1,0 +1,15 @@
+MetaRC:Schema1UsesSchema2.3-4
+MetaRC:SubcaseOfSameSchema
+MetaRC:TSchemaIsRoleInSSchema
+MetaRC:SchemasRelatedAtHigherLevelByCM.2
+MetaRC:SchemasMakeUseOfCM
+MetaRC:TSchemaUsesSSchema.1-2
+MetaRC:SchemasRelatedAtHigherLevelByCM.3
+MetaRC:SchemasDirectlyRelatedByCM
+MetaRC:SchemasRelatedAtHigherLevelByCM
+MetaRC:TSchemaUsesSSchema.3-4
+MetaRC:SubcaseOfSchemasRelatedByCM
+MetaRC:Schema1IsRoleInSchema2
+MetaRC:UsedByOtherSchema
+MetaRC:Schema1UsesSchema2.1-2
+MetaRC:SchemasMakeUseOfCM.2
